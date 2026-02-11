@@ -48,10 +48,10 @@ Verwende diese dreistufige Kombination:
 ## Phasen der Buchentwicklung
 
 ### Phase 1: Konzept & Fundament
-- [ ] **Kernidee definieren** – Worum geht es in einem Satz? (Logline)
-- [ ] **Thema festlegen** – Welche Frage beantwortet das Buch?
-- [ ] **Genre & Zielgruppe** – Erwartungen und Konventionen kennen
-- [ ] **Protagonist(en)** – Wer ist die Hauptfigur? Was will sie? Was fehlt ihr?
+- [x] **Kernidee definieren** – Logline erstellt
+- [x] **Thema festlegen** – "Was gibt dem Leben Sinn ohne Ende?"
+- [x] **Genre & Zielgruppe** – XianXia, Progression Fantasy, RoyalRoad
+- [x] **Protagonist(en)** – MC (unsterblich) + Wei (Bauernjunge)
 - [ ] **Antagonist/Konflikt** – Was steht dem Protagonisten im Weg?
 
 **Artefakte:**
