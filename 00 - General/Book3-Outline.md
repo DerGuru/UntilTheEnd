@@ -35,6 +35,8 @@
 
 ## Siedlungs-Anker (3 wiederkehrende NPCs)
 
+> ⚠ Namensregel: Neue Charaktere erhalten Spitznamen nach Merkmalen (Yuns Perspektive). Originalname nur in direkter Rede. Z.B. Shen Liang → Spitzname basierend auf Auftreten/Merkmal.
+
 Damit die Siedlung nicht "Kulisse" bleibt und der Verlust in Part 6/7 emotional real wird, braucht sie drei feste Gesichter:
 
 ### Lao Chen — der Schwertpfleger
@@ -76,6 +78,8 @@ Die Sekte als äußere Bedrohung ist bewusst austauschbar — aber die Trägerfi
 - **Funktion:** Kein Monster. Kein Sadist. Ein Pragmatiker, der ein Ressource-Problem löst. Das macht ihn schlimmer.
 - **Methode im Angriff (Part 6):** Koordinierter Angriff mit Ködern: 3× Drei-Klopf-Trigger, JEDER auf einem anderen Register. (1) **Umwelt:** Brand am Westrand → Wei rennt hin. (2) **Moralisch:** Zivilisten in der Flanke → Wei muss sich teilen. (3) **Psychologisch:** Ein "verletzter" Späher — inszeniert, humpelnd, hilfeschreiend — Weis Helferreflex triggert. Er rennt hin. Allein. **Reveal (NACH dem Moment):** Wei erreicht den Späher — saubere Stiefel. Kein Blutgeruch. Und der Mann greift unter seinem Mantel nach einem Signal-Amulett. Wei WEISS: Falle. Aber da ist er bereits isoliert. Genau das war Guos Ziel. So fühlt sich Guo wie ein Spieler an, nicht wie ein Plot-Mechanismus. (→ Wei läuft nicht "dumm" rein — er erkennt es, aber zu spät. Das ist schlimmer.)
 
+> ⚠ VORPRÄGUNG PFLICHT: In Part 3 oder Part 4 eine Szene zeigen, in der Wei zu einem Verletzten rennt und RECHT hat (echte Gefahr, echte Hilfe). Das etabliert das Muster. In Part 6 wiederholt er dasselbe — aber sieht die Details (saubere Stiefel) 5 Sekunden zu spät. Nicht dumm — sondern ein trainierter Reflex, den der Feind genutzt hat.
+
 ---
 
 ## Yuns Zögern-Kette (3 Beats)
@@ -84,8 +88,13 @@ Damit Yuns Abwesenheit im Todesmoment nicht wie "Plot-Convenience" wirkt, muss i
 
 1. **Prinzip (Part 1, beiläufig):** In einem SoL-Moment (Kochen, Gartenarbeit) sagt Yun beiläufig — nicht als Lektion, als Gedanke: *"Wenn ich alles löse, lernt er nie."* Kurzer innerer Nachsatz: *Und wenn er nie lernt, stirbt er beim ersten Mal, wenn ich nicht da bin.* — Klingt wie Fürsorge. Ist Vermeidung.
 2. **Beweis (Pinch 1 + Midpoint):** Wei gewinnt den Luchs-Kampf allein (Part 3). Wei stabilisiert die Qi-Quelle allein (Part 4). Yuns Prinzip FUNKTIONIERT. Der Leser ist überzeugt: sie hat Recht. — Das macht den Preis teurer.
+
+> ⚠ KOSTEN-BEWEIS nötig: In Part 3 (Luchs-Kampf) oder Part 4 einen Beat zeigen, in dem Yuns Restraint SIE etwas kostet (physische Anspannung, graues Haar, Blut auf der Zunge). Sonst wirkt Beat 3 wie Wiederholung statt Eskalation.
+
 3. **Preis (Part 5, kurz vor dem Tod):** Yun sieht die eskalierende Doppelbedrohung (Sekte + Kern-Flackern). Ihr Instinkt sagt: eingreifen. Aber eingreifen heißt: anerkennen, dass sie an ihm hängt. Dass er WICHTIG ist. Und Bindung = "alles was ich liebe, stirbt" = die Überzeugung, die (in B6) die Welt formt. Sie hält am Prinzip fest — nicht aus Kälte, sondern weil die Alternative TERRIFYING ist. **Regel 37: Agency.** Ihr Zögern ist eine Entscheidung, kein Versehen.
 4. **Pseudo-Eingreifen (Part 5, ca. 5-08/5-09):** Yun greift ein — aber **nicht bei Wei.** Sie verstärkt still die Siedlungsbarriere. Legt Qi-Schutzzeichen an die Mauern. Räumt Fluchtwege für Zivilisten. Präzise, kompetent, leise. Der Leser SIEHT: sie handelt. Sie tut alles — **außer das Eine.** Sie schützt die Siedlung, aber nicht IHN. Genau das macht's tragisch. (→ Verhindert "passive Yun"-Eindruck. Sie ist nicht untätig — sie ist selektiv. Und die Selektion ist der Fehler.)
+
+> ⚠ Pacing: In Sub-7PS Part 5 auf 2–3 Szenen begrenzen. Restliche Logik (Zögern-Kette, Tod-Logik) in Notizen lassen, nicht als Beats.
 
 ---
 
@@ -196,6 +205,10 @@ Damit Yuns Abwesenheit im Todesmoment nicht wie "Plot-Convenience" wirkt, muss i
 | PT2 | **Plot Turn 2** | Yun sagt nichts. Wei strahlt. Die Kluft zwischen dem, was ER sieht (Triumph) und dem, was SIE sieht (Zeitbombe) — das ist die Tragödie. | 3-09 |
 | R | **Resolution** | Abends: Wei schläft. Yun legt die Hand auf seine Brust. Im Mondlicht spürt sie seinen Kern — wie ein kleiner Stern. Drei Zuckungen pro Minute. Mehr als gestern. Sie zieht die Hand zurück, wickelt seine Decke enger. Geht nach draußen. | 3-10 |
 
+> ⚠ NEUER BEAT: Wei hilft einem echten Verletzten (Muster-Etablierung für Part 6 Helferreflex-Falle).
+
+> ⚠ NEUER BEAT: 1 kurze Frau-Huang-Begegnung in Part 3 oder Part 4 einfügen (Verstärkung der Bindung vor Part 7 Payoff).
+
 ---
 
 ### 4. MIDPOINT — FALSE VICTORY
@@ -232,7 +245,13 @@ Damit Yuns Abwesenheit im Todesmoment nicht wie "Plot-Convenience" wirkt, muss i
 - Die Sekte von Plot Turn 1 kommt zurück. Diesmal nicht als Recruiter — als Jäger. Wei hat ihr Angebot abgelehnt; jetzt wollen sie ihn mit Gewalt.
 - Gleichzeitig: Weis Qi-Instabilität eskaliert. Sein Kern flackert jetzt SICHTBAR. Andere Kultivatoren können es spüren.
 - **Symptom Part 5:** EIN echter Aussetzer in einer ruhigen Szene. Wei sitzt beim Abendessen. Greift nach der Schüssel. **Seine Hand fährt DURCH die Schüssel** — nicht physisch, aber sein Griff versagt, als wäre sein Körper kurz "nicht da". Die Schüssel fällt. Reis auf dem Boden. Stille. "Bin nur müde." (→ Eskalation abgeschlossen: Wärme → Zittern → Aussetzer. Der Leser kennt es jetzt KÖRPERLICH.)
+
+> ⚠ Beat-Verankerung Qi-Uhr: „Stimme-fremd" → Part 5 P1 oder M verankern. „Kurz-Aussetzer" → Part 5 PT2 verankern. (Stufen 1–2 bereits in Part 3/4 platziert.)
+
 - **Point of no Return (Part 5, Resolution — 5-10):** Abends auf der Veranda. Wei atmet ruhig, tut NICHTS. Dann: **Lichtbruch am Brustbein** — sichtbar durch den Stoff, kurzes Flackern wie eine Kerze hinter Papier. Nicht im Kampf. Nicht unter Belastung. Einfach so. Beide sehen es. Beide schweigen. Ab JETZT ist es nicht mehr reparierbar. (→ Part 6 fühlt sich wie "absehbare Tragödie" an, nicht wie "Schicksalskeule".)
+
+> ⚠ Draft: Pro Part in Sub-7PS-Beats einen „Symptom"-Tag ergänzen (z.B. [Qi-Uhr: Stufe 3 — Stimme]).
+
 - **Doppelte Bedrohung:** Außen die Sekte, innen sein eigener Körper.
 - Wei versteht jetzt, dass etwas nicht stimmt. Er fragt Yun — direkt, ohne Umwege.
 - Yun erzählt ihm die Wahrheit. Teilweise. "Dein Qi ist zu schnell gewachsen. Dein Kern ist instabil."
@@ -249,7 +268,7 @@ Damit Yuns Abwesenheit im Todesmoment nicht wie "Plot-Convenience" wirkt, muss i
 | PT1 | **Plot Turn 1** | Wei spürt die Bedrohung. Sein Qi reagiert — und flackert SICHTBAR. Zum ersten Mal vor Zeugen. Ein Siedler weicht zurück: "Dein Qi— was IST das?" **Shen Liang taucht auf** — als wandernder Kräuterhändler. Hilft Siedlern. Bringt Wei Heilsalbe (Luchs-Wunde). Beiläufig: *"Du musst dich entscheiden, Junge. Bald wird keine Mauer reichen."* Kein Lächeln. Zum ersten Mal. | 5-02, 5-03 |
 | P1 | **Pinch 1** | **Heiler Mao** kommt zu Yun. Allein. *"Der Junge — ich kann nicht sagen, was es ist. Aber es wird schneller."* Er sieht sie an. Sie antwortet nicht. Er geht. — Dann: Wei konfrontiert Yun: "Etwas stimmt nicht. Sei ehrlich." — Sie sagt die halbe Wahrheit: "Dein Kern ist instabil. Du bist zu schnell gewachsen." Nicht: "Es ist meine Schuld." | 5-04, 5-05 |
 | M | **Midpoint** | Wei: "Dann trainiere ich langsamer." Stur. Unbeeindruckt. Als wäre der Tod eine Unannehmlichkeit. Yun: Stille. Weil es nicht so einfach ist. | 5-06 |
-| P2 | **Pinch 2** | Ein Immortal+ bewegt sich in die Region. Yun spürt ihn am Horizont — ein leises Beben in der Wahrnehmung. Zum ersten Mal seit Jahrhunderten: etwas, das ihre Aufmerksamkeit VERLANGT. | 5-07, 5-08 |
+| P2 | **Pinch 2** | Ein Immortal+ bewegt sich in die Region. Yun spürt ihn am Horizont — ein leises Beben in der Wahrnehmung. Zum ersten Mal seit Jahrhunderten: etwas, das ihre Aufmerksamkeit VERLANGT. ⚠ Vorzeichen: In Part 5 P2 oder PT2 ein „fernes Beben" / sensorische Vorwarnung für den Immortal+ einfügen (1 Satz). | 5-07, 5-08 |
 | PT2 | **Plot Turn 2** | Die Sekte rückt an. Wei schärft sein Schwert. Yun sieht ihn an — 14, entschlossen, mit einem Kern, der jederzeit brechen kann. **Yun handelt: verstärkt Siedlungsbarrieren, legt Qi-Schutzzeichen, räumt Fluchtwege.** Präzise. Kompetent. Alles — außer bei Wei eingreifen. Alles verdichtet sich. | 5-09 |
 | R | **Resolution** | Stille vor dem Sturm. Abends. Wei sitzt auf der Veranda. Atmet ruhig. Tut NICHTS. Dann: **ein kurzer Lichtbruch an seinem Brustbein** — sichtbar durch den Stoff, ein Flackern wie eine Kerze hinter Papier. Nicht im Kampf. Nicht unter Belastung. Einfach so. Wei sieht runter. Sagt nichts. Yun sieht es. Sagt nichts. **Point of no Return.** Beide wissen: das ist nicht mehr reparierbar. — Wei: "Diesmal kämpfe ich." Yun: "Ich weiß." — Sie sagt nicht: *Und ich habe Angst.* | 5-10 |
 
@@ -278,15 +297,21 @@ Damit Yuns Abwesenheit im Todesmoment nicht wie "Plot-Convenience" wirkt, muss i
 |---|------|-------|--------|
 | H | **Hook** | Die Sekte greift an. Koordiniert, überlegen. Qi-Blitze am Horizont. Alarm in der Siedlung. Chaos. Wei rennt nach draußen. | 6-01 |
 | PT1 | **Plot Turn 1** | Wei kämpft — an vorderster Front. Nicht Heldenmut, sondern Kompetenz. Er ist der Stärkste. Die Siedler formieren sich hinter ihm. | 6-02, 6-03 |
-| P1 | **Pinch 1** | **Der Immortal+ manifestiert sich.** Der Einsiedler-Kultivator aus B2 — Hügel westlich, 200 Schritt entfernt. Kein Kampf — pur Präsenz. Sein Qi übersteuert Yuns Wahrnehmung wie ein Reflex. Sie dreht sich instinktiv. **20–40 Sekunden:** Blickkontakt, Qi-Abtasten, Kopfneigen — dann hebt er **zwei Finger zum Gruß. Genau wie in B2.** Für eine Sekunde ist Yun nicht hier — sie ist auf dem Berggipfel, als er dasselbe tat. Sie muss sich aus einer ERINNERUNG lösen, nicht nur aus einem Qi-Signal. Keine Bedrohung. Sie dreht sich zurück. **Selbsthass-Haken:** Im Zurückdrehen, als sie Weis Kern-Flare spürt — EIN Gedanke, schneidend, ohne Erklärung: *Natürlich. Genau jetzt.* Kein Pathos. Nur Stille und Schärfe. | 6-04 |
-| M | **Midpoint** | **DER MOMENT.** Yun ist 200 Schritt entfernt, Blick nach Westen. Wei ist allein an der Front. **Frau Huangs Sohn** — Weis Gartenfreund, der nie hört — rennt herbei (15 Schritt vor ihm, in der Schusslinie). Wollte warnen, gerät zwischen die Angreifer. Wei schiebt das Kind weg — Reflex, instinktiv. Sein Kern flackert — BRICHT. Zersplittert. Langsam. **Er spürt es — nicht in Worten, im Körper:** *Wenn ich jetzt alles rauslasse, ist danach nichts mehr.* Und er tut's trotzdem. Sein gesamtes Qi nach außen — **hässlich, nicht schön:** heiß, ungleichmäßig, Muskeln verkrampfen, Haut reißt an den Händen. Dann: **Ton bricht ab.** Mitten im Geräusch. Stille. Kein Knall — ein Abschneiden. **Yun dreht sich zurück. 2–3 Sekunden zu spät. Nicht weil sie zu langsam war — weil er schneller entschieden hat.** | 6-05, 6-06 |
+| P1 | **Pinch 1** | **Der Immortal+ manifestiert sich.** Der Einsiedler-Kultivator aus B2 — Hügel westlich, 200 Schritt entfernt. Kein Kampf — pur Präsenz. Sein Qi übersteuert Yuns Wahrnehmung wie ein Reflex. Sie dreht sich instinktiv. **20–40 Sekunden:** Blickkontakt, Qi-Abtasten, Kopfneigen — dann hebt er **zwei Finger zum Gruß. Genau wie in B2.** Für eine Sekunde ist Yun nicht hier — sie ist auf dem Berggipfel, als er dasselbe tat. Sie muss sich aus einer ERINNERUNG lösen, nicht nur aus einem Qi-Signal. Keine Bedrohung. Sie dreht sich zurück. **Selbsthass-Haken:** Im Zurückdrehen, als sie Weis Kern-Flare spürt — EIN Gedanke, schneidend, ohne Erklärung: *Natürlich. Genau jetzt.* Kein Pathos. Nur Stille und Schärfe. ⚠ ABHÄNGIGKEIT: Dieser Beat setzt voraus, dass der Immortal+ Zwei-Finger-Gruß in B2 on-page existiert (→ neuer Beat in B2 Part 6/7). ERST B2-Beat sicherstellen, DANN diese Szene schreiben. Trigger muss exakt auf B2-Detail verweisen (gleiche Geste, gleicher Blickwinkel → Erinnerungs-Sog). Rule 9. | 6-04 |
+| M | **Midpoint** | **DER MOMENT.** Yun ist 200 Schritt entfernt, Blick nach Westen. Wei ist allein an der Front. **Frau Huangs Sohn** — Weis Gartenfreund, der nie hört — rennt herbei (15 Schritt vor ihm, in der Schusslinie). Wollte warnen, gerät zwischen die Angreifer. Wei schiebt das Kind weg — Reflex, instinktiv. Sein Kern flackert — BRICHT. Zersplittert. Langsam. **Er spürt es — nicht in Worten, im Körper:** *Wenn ich jetzt alles rauslasse, ist danach nichts mehr.* Und er tut's trotzdem. ⚠ Draft: 1 klarer innerer Impuls (kein Monolog, nur Körperreaktion) + Blick aufs Kind — gegen „dumm"-Eindruck absichern. Sein gesamtes Qi nach außen — **hässlich, nicht schön:** heiß, ungleichmäßig, Muskeln verkrampfen, Haut reißt an den Händen. Dann: **Ton bricht ab.** Mitten im Geräusch. Stille. Kein Knall — ein Abschneiden. **Yun dreht sich zurück. 2–3 Sekunden zu spät. Nicht weil sie zu langsam war — weil er schneller entschieden hat.** | 6-05, 6-06 |
 | P2 | **Pinch 2** | Yun dreht sich zurück. Zu spät. Er liegt am Boden. Kern dunkel. Augen offen. Die Angreifer sind zurückgeschleudert. Die Siedler leben. Wei nicht. **B4-Foreshadow:** Während Yun neben Wei kniet, schließt sich ein Kratzer an ihrem Arm — automatisch, unbewusst. Ihre Wunde heilt. Seine nicht. SIE wird gerettet. ER nicht. Kein Gedanke — nur die Feststellung. *Bei mir — immer.* | 6-07 |
-| PT2 | **Plot Turn 2** | Stille. Yun kniet neben ihm. Berührt sein Gesicht nicht. **Gedanken-Echo:** Ein Gedanke, der nicht aus Trauer kommt — kalt, uralt, distanziert: *Er hatte keine Chance.* Als hätte ein Teil von ihr das Ergebnis immer schon gekannt. Nicht Analyse — Resignation einer tieferen Schicht. **⚠ Format-Marker:** Dieser Satz muss formal ANDERS klingen als alles drum herum. Kürzer. Kälter. Absolut. Normaler Yun-Text = Wahrnehmung (lang, sensorisch, gebrochen). Echo = EIN Satz, abgeschnitten, wie ein Stein der fällt. Der Leser muss SOFORT spüren: das ist nicht normale Trauer. Das ist etwas Älteres. **⚠ Stimm-Zuordnung (intern, nicht für den Leser):** Das Echo ist **Yuns innerer Automatismus** — Trauma-Logik, keine Meta-/Dao-Stimme. Es klingt "uralt", weil sie diesen Verlust hundertfach durchlebt hat. Das Muster ist so tief eingeschliffen, dass es AUTOMATISCH feuert, bevor Trauer überhaupt einsetzt. Wie ein Muskel, der sich vor dem Schmerz zusammenzieht. In B6 (Twist) kann der Leser RE-LESEN und fragen: war das vielleicht doch etwas Bewusstes — etwas von AUSSEN? Aber beim Schreiben: es ist TRAUMA. Konsistente Tonlage = erschöpfte Gewissheit, nicht Distanz eines externen Beobachters. | 6-08 |
+| PT2 | **Plot Turn 2** | Stille. Yun kniet neben ihm. Berührt sein Gesicht nicht. **Gedanken-Echo:** Ein Gedanke, der nicht aus Trauer kommt — kalt, uralt, distanziert: *Er hatte keine Chance.* Als hätte ein Teil von ihr das Ergebnis immer schon gekannt. Nicht Analyse — Resignation einer tieferen Schicht. **⚠ Format-Marker:** Dieser Satz muss formal ANDERS klingen als alles drum herum. Kürzer. Kälter. Absolut. Normaler Yun-Text = Wahrnehmung (lang, sensorisch, gebrochen). Echo = EIN Satz, abgeschnitten, wie ein Stein der fällt. Der Leser muss SOFORT spüren: das ist nicht normale Trauer. Das ist etwas Älteres. **⚠ Stimm-Zuordnung (intern, nicht für den Leser):** Das Echo ist **Yuns innerer Automatismus** — Trauma-Logik, keine Meta-/Dao-Stimme. Es klingt "uralt", weil sie diesen Verlust hundertfach durchlebt hat. Das Muster ist so tief eingeschliffen, dass es AUTOMATISCH feuert, bevor Trauer überhaupt einsetzt. Wie ein Muskel, der sich vor dem Schmerz zusammenzieht. In B6 (Twist) kann der Leser RE-LESEN und fragen: war das vielleicht doch etwas Bewusstes — etwas von AUSSEN? Aber beim Schreiben: es ist TRAUMA. Konsistente Tonlage = erschöpfte Gewissheit, nicht Distanz eines externen Beobachters. ⚠ Draft-Note: Marker im Outline belassen, aber im Draft KEINE erklärenden Sätze in der Szene. | 6-08 |
 | R | **Resolution** | Sie steht auf. Kein Schrei. Keine Tränen. Die Welt um sie wird still. Gras verdorrt. Blätter braun. **Ihre Aura ist unkontrolliert und unpräzise:** Pflanzen sterben, Insekten fallen. Aber Menschen sterben nicht sofort — Übelkeit, Blutgeschmack, Orientierung weg. Ein Siedler würgt, hält sich an der Wand fest. Horror, kein "Ich-gewinne-alles"-Knopf. **Guo klopft dreimal: Rückzug.** Lässt zwei Leute zurück (zu nah an Yun). Kalte Effizienz. **Der Immortal+ weicht instinktiv zurück** — spürt Yuns Aura kippen, Überlebensinstinkt. Einfach weg. | 6-09, 6-10 |
 
 **Eiserne Regel ab Part 6:** Ab Kapitel 6-01 KEINE Rückblicke, keine Erinnerungen, keine Erklärungen, keine großen Gedanken. Nur Wahrnehmung + Handlung. Stille im Kopf = Stille auf der Seite. (→ Macht die Stille am Ende messerscharf.)
 
+> ⚠ Draft-Regel: „Gedanken-Echo" ab Part 6 klar als Echo (kein Rückblick) markieren. Falls es wie Erinnerung wirkt → streichen.
+
+> ⚠ Draft: Maximal 1 komprimierter Draft-Hinweis pro Szene — nicht mehrere ⚠-Marker stapeln.
+
 ### Blickachsen-Plan Part 6 (räumliche Orientierung für den Draft)
+
+> ⚠ Draft: Im Draft 1–2 Orientierungssätze pro Beat — keine vollständige Karten-Erklärung. Klarheit > Vollständigkeit.
 
 **Siedlungs-Layout:**
 - **Ost-Tor:** Hauptzugang. Hier beginnt Guos Angriff. Wei kämpft VOR dem Tor, auf der Straße.
@@ -368,6 +393,8 @@ Damit Yuns Abwesenheit im Todesmoment nicht wie "Plot-Convenience" wirkt, muss i
 
 5-6 Momente. Die Meta-Ebene wird hier vom Tod überlagert.
 
+> ⚠ Budget: Pro Part max 2 Meta-Signale, pro Szene max 1. Signaltypen rotieren.
+
 **Fix vs. Optional (Sicherheitsleine fürs Schreiben):**
 - **FIX (müssen sitzen, nicht verhandelbar):**
   1. *Gedanken-Echo:* "Er hatte keine Chance" — kalt, uralt, im Moment von Weis Tod (Plot Turn 2). DAS ist der Moment, in dem der Leser spürt: ein Teil von Yun wusste es immer. Payofft als ihr verdrängtes Wissen. **Intern:** Stimme = Trauma-Automatismus (kein externes Wesen, kein Dao). Klingt uralt, weil hundertfach durchlebt. Re-Lesbarkeit in B6 ("war das doch etwas Bewusstes?") bleibt offen — aber beim Schreiben: Trauma.
@@ -426,6 +453,8 @@ Damit Yuns Abwesenheit im Todesmoment nicht wie "Plot-Convenience" wirkt, muss i
 
 ## Szene-Anker pro Part (3 Pflicht-Szenen als Schreib-Kompass)
 
+> ⚠ Agency-Check pro Part: 2–3 Nicht-Macht-Handlungen + 1 Kosten-Entscheidung in Beat-Tabellen markieren.
+
 | Part | Pflicht-SoL (arbeitet) | Pflicht-Konflikt | Pflicht-Konsequenz |
 |---|---|---|---|
 | **Part 1 (Hook)** | Morgenroutine: Garten, Kochen, Wei kocht eigenständig. **Lao Chen** (Schwertpflege). **Frau Huang** ruft Sohn nach Hause. Er braucht sie weniger. | Qi-Kern leuchtet nachts (PT2) — Yun sieht es, sagt nichts. | Zögern-Beat #1: *"Wenn ich alles löse, lernt er nie."* (beiläufig beim Kochen) |
@@ -435,6 +464,16 @@ Damit Yuns Abwesenheit im Todesmoment nicht wie "Plot-Convenience" wirkt, muss i
 | **Part 5 (Pinch 2)** | Letzte Normalität. Wei schärft sein Schwert. *"Diesmal kämpfe ich."* **Yun handelt: Barrieren, Schutzzeichen, Fluchtwege** — alles außer bei Wei. | Doppelbedrohung: **Guo** (Drei-Klopf-Trigger) + **Shen Liang** Payoff (*"Du musst dich entscheiden."* — kein Lächeln) + Kern flackert sichtbar. **Qi-Uhr:** Hand fährt durch Schüssel beim Essen. Aussetzer. **Point of no Return (5-10):** Lichtbruch am Brustbein, ruhig atmend. Nicht reparierbar. | Zögern-Beat #3: Yun sieht die Bombe. Hält am Prinzip fest — weil Bindung anerkennen = terrifying. Pseudo-Eingreifen = tragische Selektion. |
 | **Part 6 (PT2)** | **KEINE.** Ab 6-01: NUR Wahrnehmung + Handlung. Keine Rückblicke, keine Erklärungen. | Guo spielt Wei: 3× Drei-Klopf (Umwelt: Brand → Moralisch: Zivilisten → Psychologisch: verletzter Späher + Reveal: saubere Stiefel, Signal-Amulett). Immortal+ (20-40 Sek., Zwei-Finger-Gruß → Erinnerungs-Reflex → *Natürlich. Genau jetzt.*). **Frau Huangs Sohn**, 15 Schritt. **Wei stirbt** (hässlich+still: Ton bricht ab). B4-Foreshadow: Yuns Kratzer heilt, Weis Körper nicht. Guo lässt 2 Leute zurück. Immortal+ weicht instinktiv. | Stille. Verdorren. Gedanken-Echo (⚠ Fremdkörper-Format, Stimme = Trauma-Automatismus): *"Er hatte keine Chance."* |
 | **Part 7 (Resolution)** | **Abwesenheit** von SoL = der Schmerz. Weis Garten steht noch. **Lao Chens** Werkstatt leer. **Frau Huang** bringt Essen. Keine Rückblicke. | „Warum nicht ihn?"-Frage: *"Was auch immer mich beschützt — warum nicht IHN?"* (vorbereitet durch Kratzer-Heilung in Part 6 → *Bei mir — immer.*) | Funke + **Mini-Handlung:** Kräutertopf (mit Widerstand: taube Finger, Erde rieselt, schwerer als erwartet). Stopp-Marker #2: sie wartet auf Erinnerung. Keine kommt. |
+
+---
+
+## Cross-Beat-Referenzen
+
+> ⚠ CROSS-BEAT: Weis Helferreflex-Vorlage (Part 3/4: echte Hilfe) → Part 6 Falle (gleiche Situation, Feind nutzt Muster). Muss als Paar funktionieren.
+
+> ⚠ CROSS-BEAT → B4/B5: Die 3 Sekte-Fraktionen in B3 fusionieren off-page zu Lian Zhuos Übermacht. Mindestens 1 Übergangs-Beat als Gerücht/Bericht in B4 oder B5 nötig.
+
+> ⚠ CROSS-BEAT: B2 „Weis Hände zittern in Ruhe" → B3 Part 4/5 „Stimmfremd/Hand fährt durch Schüssel" = klare Eskalationskette.
 
 ---
 

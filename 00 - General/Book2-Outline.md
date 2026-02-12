@@ -22,6 +22,9 @@
 ---
 
 ## Ausgangslage
+
+⚠ Namensregel: Neue Charaktere erhalten Spitznamen nach Merkmalen (Yuns Perspektive). Originalname nur in direkter Rede, wenn Yun sich die Mühe macht. Beispiel: „Mr. Muscle", „Skinny", „Bär".
+
 - Yun hat sich offenbart — Sekten, Mächte, Suchende wissen: etwas Unvorstellbares existiert
 - Wei lebt (Zustand aus Buch 1 aufgelöst — aber wie genau?)
 - Wei ist 13 (war 12 bei B1-Start)
@@ -44,6 +47,7 @@
 - Er trainiert bewusst, aber die Beschleunigung kommt von IHR
 - Sie sieht Symptome (Tempo, Instabilität) — versteht die Quelle aber NICHT bis zum Midpoint. Erst dort: "Oh. Das bin ich."
 - **Wiederkehrender Marker:** Weis Hände zittern, wenn er still wird. Je stärker sein Qi, desto stärker das Zittern in der Ruhe. Im Kampf: perfekte Kontrolle. Danach: seine Finger beben. Er versteckt es — schnitzt, kocht, irgendetwas tut. Yun sieht es. Sagt nichts.
+  - ⚠ Draft: Pro Part 1 kurze Szene für „Zittern in Ruhe"-Marker verankern.
 - **Enabling Mess-Check (sichtbares Eskalations-Muster):**
   - **Test:** Wei macht eine Standard-Übung (Qi-Zirkulation, Atemübung, Meditationshaltung).
   - **Sichtbarer Effekt:** Etwas in der Umgebung reagiert — Luft flimmert, Holz reißt, Tiere weichen zurück, Wasser kräuselt sich, Gras versengt.
@@ -53,30 +57,41 @@
     - *Zweite Hälfte (P5–7):* Effekt = groß (Holz platzt, Boden vibriert, Tiere fliehen). Preis = bedrohlich (Nasenbluten, Bewusstseins-Aussetzer, Kern vibriert hörbar).
   - **Trigger-Logik (intern, nicht erklärt):** Die Ausschläge werden durch **Stress + Nähe zu Yun** ausgelöst. Je ängstlicher/wütender Wei ist UND je näher er physisch bei Yun steht, desto heftiger die Reaktion. Routine-Übungen allein = mild. Aber: Übung unter Druck (Kampf, Angst, Streit) + Yun in Sichtweite = Explosion. Das erklärt intern, warum Part 5 (Kampf + sie steht direkt daneben) den schlimmsten Ausbruch produziert.
   - **Regel:** Kein Vortrag über die Mechanik nötig. Der Leser sieht: Test → Reaktion → Preis. Jedes Mal schlimmer. Das reicht.
+  - ⚠ Draft: In Sub-7PS Part 1–3 jeweils 1 konkreten Test→Reaktion→Preis-Beat verankern (nicht nur als Muster beschreiben).
 - **Weis messbare Ziele (nicht nur „stärker"):**
   1. Geld/Kräuter nach Hause schicken — genug für drei Monate (emotionaler Anker: Familie/Wurzeln)
   2. „Drei Tage ohne Ausbruch" — seine selbstgesetzte Stabilitäts-Regel. Er zählt. Tag 1, Tag 2, Tag 3… Rückfall. Wieder Tag 1.
+     ⚠ Beat-Verankerung: (1) Part 3 M (nach Qi-Ausbruch) = Zähler-Reset als 1 Satz. (2) Part 5/6 = bisher längster Streak (z.B. Tag 5) zeigen, bevor er nach dem Ältesten-Kampf resettet.
   3. In einer Stadt normal wirken — nicht als „Monster" auffallen (Sozialziel → SoL-Spannung)- **Weis nicht-Training-Entscheidungen (mindestens 1 pro Part):**
   - Part 1: Geld/Kräuter nach Hause schicken — statt Vorräte für sich behalten
   - Part 3: Ein wandernder Kultivator braucht Hilfe — Wei WILL helfen, aber er hat Yuns Logik verinnerlicht: unsichtbar bleiben. Er geht vorbei. Sagt nichts. **Egoistisch — nicht böse, aber feige.** Abends am Feuer starrt er ins Nichts. Kosten: Schuldgefühl. Yun sieht es. Sagt nichts. (Zeigt: ihre Überlebens-Logik färbt auf ihn ab — nicht immer positiv.)
   - Part 4: Wei findet ein verlassenes Kind am Fluss. Will es mitnehmen. Yun: Nein. Er lässt es bei einem Bauern und gibt ihm seine letzte Münze. — Moralisch, nicht stärke-bezogen
   - Part 6: Wei dämpft sein Qi in der Herberge, um Xu Ran nicht zu provozieren — bewusste Zurückhaltung, kein Training
+  - ⚠ Draft: Je Part einen konkreten Beat markieren (Kapitel + kurzer Anker) für Weis Nicht-Training-Entscheidungen.
 ### C: Xu Ran kehrt zurück
+
+⚠ Dialog-Modus B2: Xu Ran = neugierig/unbequem. Plus 1 Szene, in der ER schweigt und SIE ihn fragt (Inversion).
+
 - Taucht gegen Ende von Buch 2 wieder auf — gebrochen, suchend
 - Seine gescheiterte Tribulation hat ihn verändert
 - Kommt als Bittsteller? Als Feind? Als Warnung?
 - Fluid/Komplex: wechselt zwischen Eigeninteresse und Annäherung
 - **Sein Arc beginnt hier:** blind-ehrgeizig → gebrochen → suchend
+- ⚠ Payoff-Notiz: Xu-Ran-Vorboten-Faden muss in Part 6/7 konkreten Payoff-Anker in der Tabelle haben.
 
 ### D: Breadcrumbs (Hinweise)
 - Subtile Hinweise verdichten sich leicht — 1-2 Momente mehr als in Buch 1
 - Yun registriert sie, aber schiebt sie beiseite
 
 ### E: Yuns Agency-Prinzip (Buch 2)
+
+⚠ Draft: Pro Part 1–2 Regeln markieren und anwenden, Rest als globale Notiz belassen — keine Regelflut im Text.
+
 - **Aktiv = Isolation in Handlung.** Sie agiert, um Kontakt zu verhindern: Routen ändern, Spuren verwischen, Situationen abbrechen bevor Gespräche entstehen.
 - **Interaktion nur als Werkzeug.** Wenn sie reden muss: kurz, schneidend, effizient. Keine Warmherzigkeit, kein Smalltalk.
 - **Kosten sind innerlich.** Nicht „ich verliere Kraft", sondern: Stress, Kontrollverlust, Schuld, ein Moment zu lang Blickkontakt — sie hasst sich dafür.
 - **Pro Part: 2 Nicht-Macht-Handlungen + 1 Entscheidung mit Kosten** (Regel 37).
+- ⚠ Agency-Check pro Part: 2–3 Nicht-Macht-Handlungen + 1 Kosten-Entscheidung in Beat-Tabellen markieren.
 - **Warnsignal:** Wenn „aktiv" sich „sozial offen" anfühlt → Personality-Shift. Lösung: Sie handelt mehr, öffnet sich nicht mehr.- **Varianz-Regel (3 Agency-Typen, nicht nur "ausweichen"):**
   1. **Taktisch/physisch:** Route ändern, Qi-Spuren verwischen, Terrain nutzen, Barrieren setzen (Parts 1-3, 5)
   2. **Sozial/ökonomisch:** Gezielt Informationen kaufen, Händler aushorchen, in Herbergen Gerüchte sammeln (Parts 2, 6)
@@ -172,7 +187,7 @@
 | P1 | **Pinch 1** | Unterwegs treffen sie einen wandernden Kultivator. Er spürt Weis Qi und erstarrt. "Wer hat diesen Jungen trainiert? Das ist unmöglich." Yun schickt ihn weg. Aber: er hat Wei GESEHEN. **Wei-Entscheidung (egoistisch):** Der Kultivator hat Fieber, braucht Wasser. Wei will helfen — zögert — geht vorbei. Yuns Logik hat gewonnen: unsichtbar bleiben. Abends starrt er ins Feuer. Kosten: Schuldgefühl, das er nicht loswird. | 3-04, 3-05 |
 | M | **Midpoint** | Wei trainiert nachts allein. Ein Qi-Ausbruch — unkontrolliert. Energiestöße zerreißen den Boden. Er stürzt. Steht auf. Grinst. "Passiert jedem." *(Tag 1. Wieder Tag 1. Seine Stabilitäts-Zählung reset.)* Seine Hände zittern — er schnitzt sofort an einem Stock, um es zu verbergen. **Erinnerung:** "Sein Kern leuchtete drei Tage lang..." | 3-06, 3-07 |
 | P2 | **Pinch 2** | Yun heilt die kleinen Verletzungen schweigend. **Handelt:** Ändert sein Training — subtil, ohne Erklärung. Stabilisierungs-Übungen statt Durchbruch-Training. Kosten: Wei ist frustriert, will schneller. „Warum Grundlagen?" — „Weil du blutest." Sie SIEHT die Instabilität in seinem Kern — ein Flackern, das nicht da sein sollte. Aber die Quelle ansprechen hieße: erklären, woher es kommt. | 3-08 |
-| PT2 | **Plot Turn 2** | Gedanken-Echo: Yun beobachtet Weis Kern und weiß — mit einer Gewissheit, die nicht aus Erfahrung kommt — dass er in genau dieser Konfiguration zerbrechen wird. Sie kennt den Zeitpunkt. Woher? Sie schüttelt den Kopf. Schiebt es weg. *(Ihr verdrängtes Wissen drängt an die Oberfläche.)* | 3-09 |
+| PT2 | **Plot Turn 2** | Gedanken-Echo: Yun beobachtet Weis Kern und weiß — mit einer Gewissheit, die nicht aus Erfahrung kommt — dass er in genau dieser Konfiguration zerbrechen wird. Sie kennt den Zeitpunkt. Woher? Sie schüttelt den Kopf. Schiebt es weg. *(Ihr verdrängtes Wissen drängt an die Oberfläche.)* ⚠ Draft: 1 sichtbare politische Konsequenz (Gerüchte, Sekten-Scouts) für Weis Kern-Instabilität. | 3-09 |
 | R | **Resolution** | Wei schläft. Sein Kern vibriert leise. Yun legt die Hand auf seine Stirn — spürt den Puls seines Qi. Schön. Tödlich. Sie zieht die Hand zurück, steht auf, löscht das Feuer. Er braucht keinen Schutz vor der Kälte. Vor sich selbst kann sie ihn nicht schützen. | 3-10 |
 
 ---
@@ -198,7 +213,7 @@
 | P1 | **Pinch 1** | Die Erkenntnis setzt sich: SIE enabled ihn. Ihre Nähe, ihr Qi, ihre Existenz. Ohne es zu wollen. **Erinnerung:** "Ich dachte, Stärke sei ein Geschenk..." Längste Erinnerung des Buches. | 4-04, 4-05 |
 | M | **Midpoint** | **Konfrontation mit sich selbst.** Aufhören? Abstand halten? Wei sagen? — Sie versucht es: hält ihr Qi zurück, bewusst, kontrolliert. Fünf Atemzüge. Dann bricht es durch — stärker. **Es geht nicht.** Er grinst. Stur. Lebendig. Sie rationalisiert: Es ist sein Weg. | 4-06 |
 | P2 | **Pinch 2** | Wei spürt, dass etwas anders ist. Nicht was — nur dass. Er trainiert und hält inne: "Yun?" — "Was?" — "Nichts." Er vertraut ihr. Das macht es schlimmer. **Wei-Entscheidung:** Wei findet ein verlassenes Kind am Fluss. Will es mitnehmen. Yun: Nein. Er lässt es bei einem Bauern, gibt seine letzte Münze. | 4-07, 4-08 |
-| PT2 | **Plot Turn 2** | Sie versucht, ihr Qi bewusst zurückzuhalten. Es funktioniert — kurz. Dann: der Strom bricht durch. Stärker als vorher. Als wäre er **autonom.** | 4-09 |
+| PT2 | **Plot Turn 2** | Sie versucht, ihr Qi bewusst zurückzuhalten. Es funktioniert — kurz. Dann: der Strom bricht durch. Stärker als vorher. Als wäre er **autonom.** ⚠ Draft: „autonom" → sensorische Empfindung („es drückt", „es zieht"). | 4-09 |
 | R | **Resolution** | Yun akzeptiert, was sie nicht kontrollieren kann. Oder: redet es sich ein. **Aber sie handelt (Typ 3 — legendenhaft):** In einem Gasthaus lässt sie beiläufig eine falsche Geschichte fallen — eine "unsterbliche Frau", die nach Süden zog. Kosten: Es ekelt sie an, über sich selbst zu reden, selbst als Lüge. Zusätzlich ändert sie die Route weg von bewohnten Gebieten. Einsamkeit drückt auf Wei, der gerade eine Stadt genossen hat. Abends am Feuer: Wei schnitzt einen Stock (seine Hände zittern — er schnitzt, um es zu verbergen). Sie beobachtet seine Hände. Tut es trotzdem. Weil die Alternative — ihn verlassen — undenkbar ist. **Xu-Ran-Vorbote #3:** Am Wegesrand: eine beschädigte Qi-Spur im Fels — aufgerissen, instabil, wie ein Kern, der sich nicht entscheiden konnte. Yun erkennt das Muster: gescheiterter Aufstieg. Jemand hat hier gelitten. Sie geht weiter. | 4-10 |
 
 ---
@@ -230,8 +245,8 @@
 | H | **Hook** | Gebirgspass. Yun spürt etwas: Qi-Signatur. Stärker als die Kundschafter. Viel stärker. Jemand hat sie nicht gebeten — jemand hat sie GEJAGT. **Xu-Ran-Vorbote #4:** Wei hört in einer Raststätte Reisende reden: "Der Wanderer mit dem zerbrochenen Kern — er fragt in jeder Stadt nach einer Frau." Wei horcht auf. Yun tut, als höre sie nicht. | 5-01 |
 | PT1 | **Plot Turn 1** | Der Älteste erscheint. Dao-Seeking-Stufe — Immortal-nah. Arrogant. Höflich im Ton, bedrohlich im Qi. "Komm freiwillig. Oder..." — Er richtet einen Qi-Druck auf Wei. Demonstration. Yun spürt ein kurzes Ziehen hinter den Augen — und der Druck ist weg. Einfach weg. Der Älteste runzelt die Stirn. Yun: Müdigkeit. Bitterkeit. Sie hat davon nichts getan. *(Zweiter Hänger — kurz, keine Erklärung. Der Leser merkt: etwas hat reagiert.)* | 5-02, 5-03 |
 | P1 | **Pinch 1** | Wei spürt die Bedrohung. Sein Qi flackert — Instabilität unter Stress. Der Älteste sieht es. Lächelt. "Interessant. Instabil. Aber STARK. Woher—" | 5-04 |
-| M | **Midpoint** | **Wei kämpft.** Bevor Yun reagiert — sein Qi explodiert in einem wilden Schlag. TRIFFT den Ältesten. Überraschung. Dann: Konter. Brutal. Wei geht zu Boden. Blut. Sein Kern flackert, fast zerbrechend. **DANN: Yun.** Kalt. Ein Hauch. Der Älteste kniet. **Glasgeräusch.** Wei liegt da, grinst: "Ich hab ihn getroffen." | 5-05, 5-06 |
-| P2 | **Pinch 2** | Yun heilt Wei. Sein Blut an ihren Händen. Er fragt: "Warum bin ich so stark und gleichzeitig so instabil?" **Sie weiß die Antwort. Sagt sie nicht.** Weil die Wahrheit = Bindung = Verantwortung = „ich verliere ihn später." Sie lügt: *"Du drückst zu viel Qi durch Kanäle, die noch nicht fertig sind. Langsamer trainieren."* Sachlich. Ruhig. Falsch. **Erste Lüge.** Sein Blut klebt noch. Im Moment der Lüge: ein inneres Einrasten — eine Schwelle, die nachgibt, weil die Bindung zu tief sitzt. Nicht Zustimmung — eher ein Riegel, der fällt. Sie drückt es weg. | 5-07, 5-08 |
+| M | **Midpoint** | **Wei kämpft.** Bevor Yun reagiert — sein Qi explodiert in einem wilden Schlag. TRIFFT den Ältesten. Überraschung. Dann: Konter. Brutal. Wei geht zu Boden. Blut. Sein Kern flackert, fast zerbrechend. **DANN: Yun.** Kalt. Ein Hauch. Der Älteste kniet. **Glasgeräusch.** Wei liegt da, grinst: "Ich hab ihn getroffen." ⚠ Draft: 1 Nachwirkung des Ältesten-Kampfs (Dorfbewohner-Reaktion oder Sekten-Kommunikation). | 5-05, 5-06 |
+| P2 | **Pinch 2** | Yun heilt Wei. Sein Blut an ihren Händen. Er fragt: "Warum bin ich so stark und gleichzeitig so instabil?" **Sie weiß die Antwort. Sagt sie nicht.** Weil die Wahrheit = Bindung = Verantwortung = „ich verliere ihn später." Sie lügt: *"Du drückst zu viel Qi durch Kanäle, die noch nicht fertig sind. Langsamer trainieren."* Sachlich. Ruhig. Falsch. **Erste Lüge.** ⚠ Draft: Mini-konkrete Veränderung in Weis Verhalten nach der Lüge als stärkeres Stichwort/Reminder. Sein Blut klebt noch. Im Moment der Lüge: ein inneres Einrasten — eine Schwelle, die nachgibt, weil die Bindung zu tief sitzt. Nicht Zustimmung — eher ein Riegel, der fällt. Sie drückt es weg. | 5-07, 5-08 |
 | PT2 | **Plot Turn 2** | Wei glaubt ihr — oder tut so. Stille zwischen ihnen. Zum ersten Mal: eine Distanz, die nicht physisch ist. Die Lüge ist ein Riss. **Nachwirkung (1-2 Kapitel später):** Wei trainiert nachts allein. Ohne sie zu wecken, ohne zu fragen. Früher hätte er gefragt: "Zeigst du mir das?" Jetzt nicht. Yun bemerkt es. Sagt nichts. Der Riss ist leise, aber messbar. | 5-09 |
 | R | **Resolution** | Der Älteste flieht. **Yun handelt sofort:** Ändert Richtung, verwischt Qi-Spuren für drei Tagesreisen, zwingt Wei zum Marschieren trotz Verletzung. Kosten: er blutet durch die Verbände, sagt nichts, aber sein Blick ist vorwurfsvoll. Yuns Macht ist jetzt Fakt — nicht Gerücht. Die nächsten kommen stärker. Und sie wissen von Wei. | 5-10 |
 
@@ -263,6 +278,8 @@
 | PT2 | **Plot Turn 2** | Xu Ran geht. Nicht für immer — sein Faden ist gelegt. Letzte Worte: "Ich werde dich wiederfinden." Yun: "Das haben viele gesagt." — "Ich bin keiner von ihnen." | 6-10 |
 | R | **Resolution** | Yun sieht ihm nach. Dann zu Wei: "Schlaf." — "Wer war das?" — "Niemand." — Aber sie weiß: das stimmt nicht. Xu Ran ist jemand. Das macht ihr Angst. | 6-11 |
 
+⚠ NEUER BEAT (SZENE-PFLICHT): Yun spürt den Immortal+ / Einsiedler-Meister aus der Ferne. Er hebt zwei Finger zum Gruß — lächelt — verschwindet. 30 Sekunden. Xu Ran sieht es nicht. Yun sagt nichts. Aber sie erinnert sich. → Dieser Moment ist der Trigger für B3 P6 (Todszene-Ablenkung).
+
 ---
 
 ### 7. RESOLUTION
@@ -277,6 +294,7 @@
     - **Signature-Szene (Part 5, 5-02):** Der Älteste erscheint nicht allein — er hat einen Dorfbewohner mitgebracht, den er als Druckmittel benutzt. "Komm freiwillig. Oder er bezahlt." Yun sieht den zitternden Mann. Das ist ihr Fingerabdruck: immer ein Proxy, nie direkt.
   - **Der neugierige Einsiedler-Meister (= Immortal+ aus B3):** *Fingerabdruck = Sprache.* Präzise Fragen, kein Drohen, kein Kniefall. Eher Forscher als Krieger. Sätze wie: "Wie lange schon?" oder "In welcher Form manifestiert es sich?" — klinisch, respektvoll, beunruhigend. Wird hier ge-setup-t, erscheint physisch erst in B3.
     - **Signature-Szene (Part 7, 7-04 — nur Gerücht):** Der Sekten-Bote, den Yun mit der Falschspur füttert, erzählt im Gegenzug: "Ein Einsiedler-Meister hat drei Monate in einer Höhle gesessen und nur Fragen an die Wand geschrieben. Alle über dich." Yun: Stille. DAS ist ein anderes Kaliber.
+    - ⚠ PFLICHT: Der Einsiedler-Meister MUSS on-page in B2 auftreten (Rule 9). Siehe neuen Beat in Part 6/7.
   - **Die Dritte (Himmelsordnungs-Sekte):** *Fingerabdruck = Motiv.* "Ordnung bewahren." Nicht Gier, nicht Neugier — Angst vor dem, was Yun für das Gleichgewicht bedeutet. Ihr Argument: "Eine Existenz wie deine destabilisiert die Welt." Das macht sie gefährlicher, weil sie sich für moralisch halten. Setup für B3.
     - **Signature-Szene (Part 7, 7-04):** In der Herberge erreicht ein versiegelter Brief Yun — höflich, kalligraphisch, kühl: "Wir fordern nichts. Wir bitten: geh. Du störst das Gleichgewicht." Kein Absender. Wei: "Was steht drin?" — Yun verbrennt ihn. Aber ihre Hand zittert nicht — ihr Kiefer spannt.
 - **Ending-Ton:** Nicht düster, nicht hell. Melancholisch-beunruhigend. Etwas baut sich auf. Wei strahlt. Yun sieht seinen Schatten und denkt: *Er wirft keinen.* (Metaphorisch — sein Qi ist so dicht, dass er kein Licht durchlässt. Für sie: ein Warnsignal.)
@@ -320,7 +338,11 @@
 
 ## Meta-Momente in Buch 2
 
+⚠ Budget: Pro Part max 2 Meta-Signale, pro Szene max 1. Signaltypen rotieren (Warping/Bruch/Echo/Hänger).
+
 6-7 Momente. Davon 4 überlesbar, 2-3 leicht beunruhigend.
+
+⚠ Budget-Regel: Pro Szene max 1 Meta-Signal. In Pinch 2 (Glasgeräusch, Nicht-Sterben-Detail, Riegel) auf 1 Signal pro Szene reduzieren, Rest als Nachwirkung.
 
 **Fix vs. Optional (Sicherheitsleine fürs Schreiben):**
 - **FIX (müssen sitzen, nicht verhandelbar):**
@@ -371,3 +393,5 @@
 - [x] Wo gehen Yun und Wei hin? → **Flucht — Wanderschaft beginnt.** Das Dorf ist nicht mehr sicher. Yun und Wei verlassen es, keine feste Destination. Die Wanderschaft definiert B2-B3.
 - [x] Wie manifestiert sich Weis "Enabling" konkret? → **Alles zusammen:** Sein Qi-Wachstum ist zu schnell (unnatürlich für sein Talent), zu auffällig (zieht Aufmerksamkeit), und instabil (sein Kern hält es langfristig nicht). Dreifach-Problem.
 - [x] 7-Point Structure Detail ausarbeiten → **Detailliert mit Erinnerungs-Arc + Meta-Momenten**
+
+⚠ CROSS-BEAT PFLICHT: Der Immortal+ Zwei-Finger-Gruß-Beat in diesem Buch ist VORAUSSETZUNG für B3 P6 Todszene. Ohne diesen Beat bricht die Kausallogik (Rule 9).

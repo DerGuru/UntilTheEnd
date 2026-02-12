@@ -23,6 +23,11 @@
 - Aber: Jahrtausende der "Ich bin unsterblich"-Überzeugung stecken in jeder Faser ihres Wesens
 - Reality Warping ist aktiv — unkontrolliert, gefährlich
 
+⚠ Namensregel: Neue Charaktere erhalten Spitznamen nach Merkmalen (Yuns Perspektive). Originalname nur in direkter Rede.
+⚠ Draft-Regel: Kein „System"-Wortlaut im Draft. Nur Umschreibungen (Rule 41).
+⚠ Agency-Check pro Part: 2–3 Nicht-Macht-Handlungen + 1 Kosten-Entscheidung.
+⚠ Event:Reflexion-Ratio 1:2 — pro philosophischem Kernbeat 1 physische Parallelhandlung. In B7 P5–7: SoL-Dichte des Dorflebens konkret vorplanen (min. 3 spezifische Alltagsszenen).
+
 ---
 
 ## Der zentrale Struggle
@@ -95,7 +100,7 @@ Das ist kein externer Kampf. Es ist:
 
 | # | Beat | Event | Kapitel |
 |---|------|-------|--------|
-| H | **Hook** | Training. Yun beginnt klein. Ein Stein. Sie WILL ihn bewegen. Nichts. Sie GLAUBT, er ist dort. Er ist dort. Xu Ran: "Das macht keinen Sinn." — "Genau." | 2-01 |
+| H | **Hook** | Training. Yun beginnt klein. Ein Stein. Sie WILL ihn bewegen. Nichts. Sie GLAUBT, er ist dort. Er ist dort. Xu Ran: "Das macht keinen Sinn." — "Genau." ⚠ DUPLIKATION-FIX: Dieser Test darf NICHT den Stein-Test aus B6 P3 wiederholen. Anderes Medium verwenden (Wasser umlenken, Pflanze wachsen lassen, Licht biegen). Fokus auf INNERE Anwendung. Xu Rans „Unfair" nur in B6. | 2-01 |
 | PT1 | **Plot Turn 1** | Erste bewusste Erfolge: eine Pflanze, die blüht. Ein Tropfen Wasser, der nach oben fließt. Spielerisch — fast. Xu Ran: "Mach das nochmal." — "Warum?" — "Weil es das Schönste ist, das ich je gesehen habe." Stille. | 2-02, 2-03 |
 | P1 | **Pinch 1** | **Erinnerung:** "Du bist uralt, oder?" — "Sei still." Weis Stimme. Xu Ran sieht ihren Gesichtsausdruck: "Wei?" — "Sei still." — Gleicher Satz. Anderen Gründen. | 2-04 |
 | M | **Midpoint** | Die Erkenntnis vertieft sich: Nicht WILLE, sondern GLAUBE formt die Realität. Xu Ran: "Also has du dein ganzes Leben lang geglaubt, du KANNST nicht sterben? Und deshalb—" — "Ja." — "Dann glaub einfach was anderes." — "So funktioniert das nicht." — "Warum nicht?" — Stille. Gute Frage. | 2-05, 2-06 |

@@ -15,12 +15,12 @@
 7. **Resolution (Part 7):** „Yun hat sich der Welt offenbart. Nichts ist mehr wie vorher. Wei — offen.“
 
 ---
-
+⚠ Namensregel: Neue Charaktere erhalten Spitznamen nach hervorstechenden Merkmalen aus Yuns Perspektive (z.B. „Mr. Muscle", „Skinny", „Bär"). Originalname nur in direkter Rede, wenn Yun sich die Mühe macht.
 ## Perspektive & Struktur
 - **POV:** Erste Person, Yun
 - **Erzählrahmen:** Yun erzählt Xu Ran in Buch 7 (Part 1-4) — rückblickend, retrospektive Ich-Perspektive. Er wird zum Chronisten ihrer Geschichte. Der Leser hört zu. Deshalb: persönlich, direkt, mit Kommentaren und Sidenotes. Keine vierte Wand — der Leser IST die Wand.
 - **Ton:** Intim, gelegentlich sarkastisch, manchmal bitter-zärtlich. Sie weiß, wie alles ausgeht. Das färbt jede Zeile.
-- **Erinnerungen:** Trigger-basiert — Gegenwartsere ignisse lösen Erinnerungsfragmente aus. Keine "Flashbacks" — sie ERINNERT sich. Das ist persönlicher, weicher, schmerzhafter.
+- **Erinnerungen:** Trigger-basiert — Gegenwartsereignisse lösen Erinnerungsfragmente aus. Keine "Flashbacks" — sie ERINNERT sich. Das ist persönlicher, weicher, schmerzhafter.
 - **Umfang:** ~100k+ Wörter
 - **Ending:** Cliffhanger — Weis Schicksal offen, Yun hat sich offenbart
 
@@ -31,6 +31,7 @@
 - **SoL als Kontrast:** Das Dorf lebt — Markt, Ernte, Nachbarn, kranker Vater, spielende Kinder. Weis Welt ist konkret, warm, greifbar. Yuns Melancholie wirkt stärker VOR diesem Hintergrund.
 - **Training als SoL:** Weis Lernfortschritte sind physisch — Kräuter sammeln, Qi-Atemübungen am Fluss, Fehler beim Kochen eines Kräutersuds. Nicht abstrakt.
 - **Kleine Begegnungen:** Dorfbewohner, die Wei kennen. Ein Fischer, der Yun misstraut. Eine alte Frau, die ihr Tee anbietet. Kinder, die Yun anstarren.
+  - ⚠ Draft-Regel: Mindestens 1 SoL-Szene pro Part mit kleiner Reibung (Missverständnis, Preisverhandlung, Gegenfrage) — Rule 1/2.
 - **Wetter & Landschaft als Rhythmus:** Regen, der Weis Training unterbricht. Morgennebel, in dem Yun verschwindet (Wei sucht sie). Hitze, die das Dorf lähmt.
 
 ---
@@ -55,6 +56,10 @@
 2. Emotionale Tiefe: Ihr Monolog zeigt Müdigkeit, Zynismus, Einsamkeit
 3. Charme: Die Dynamik Wei ↔ Yun unterhält
 
+⚠ Draft-Check: Für jede Promise mindestens 1 konkrete Szene im Sub-7PS verankern.
+
+⚠ Agency-Check pro Part: 2–3 Nicht-Macht-Handlungen + 1 Kosten-Entscheidung in Beat-Tabellen markieren.
+
 #### Sub-7PS Part 1: HOOK
 
 | # | Beat | Event | Kapitel |
@@ -62,12 +67,16 @@
 | H | **Hook** | Yun allein im Wald. Innerer Monolog: Müdigkeit, Routine, "wieder ein Tag". Die Welt ist schön — sie sieht es nicht mehr. | 1-01 |
 | PT1 | **Plot Turn 1** | Spirit Beast (Wildschwein) taucht auf. Ein Junge (Wei) steht im Weg. Sie bemerkt beides gleichzeitig. | 1-02 |
 | P1 | **Pinch 1** | Wei in Lebensgefahr. Das Beast ist zu schnell. Er schreit. Panik. Bittet sie direkt um Hilfe. Sie... gähnt nicht, aber fast. | 1-03 |
-| M | **Midpoint** | Sie tötet es beiläufig. Ein Finger. Das Beast zerfällt. **Power-Reveal.** Wei starrt. Stille. | 1-04 |
+| M | **Midpoint** | Sie tötet es beiläufig. Ein Finger. Das Beast zerfällt. **Power-Reveal.** Wei starrt. Stille. ⚠ Draft: 1 Reaktions-Beat als Nachhall (Staub, Geruch, Wei-Reaktion) — nicht nur „Power-Porno". | 1-04 |
 | P2 | **Pinch 2** | Wei rennt nicht. Bleibt. Redet. Fragt. Sie will ihn loswerden — er lässt sich nicht abschütteln. **Sein Grund:** Das Dorf hat keine Kräuter mehr, sein Vater hustet Blut, der Winter kommt. Die Frau, die ein Spirit Beast mit einem Finger tötet, ist seine einzige Chance. Lästig — aber nicht grundlos. **⚠ SZENE-PFLICHT:** Weis Not muss als konkrete Szene gezeigt werden — NICHT nur behauptet. Minimum: Vateranfall (Hustenkrampf, Blut an den Lippen), leere Vorratskiste, gescheiterter Kräutersud. Der Leser muss SEHEN, warum er bleibt. | 1-05, 1-06 |
 | PT2 | **Plot Turn 2** | Seine Stimme triggert Erinnerung — jemand, der ähnlich klang. Fragment. Kurz. Schmerzhaft. Sie hält inne. | 1-06 oder 1-07 |
 | R | **Resolution** | Sie geht. Er folgt. Sie stoppt ihn nicht. **Etwas hat sich verschoben.** | 1-07 |
 
+⚠ Weitere SZENE-PFLICHT-Marker: (1) Dorfarmut-Szene (Part 2), (2) Weis erstes echtes Training (Part 3), (3) Yuns Entscheidung zu bleiben (Part 4 M).
+
 **Meta-Moment:** Nicht-Sterben-Können — als beiläufige Nebenbemerkung. "Ich erinnere mich an das Feuer. Es hat nicht wehgetan. Nichts tut mehr weh." Bitter, überlesbar.
+
+⚠ Draft: 1 sichtbare Folge (Natur-Reaktion, kleiner Preis) als Nachwirkung — Rule 19–21.
 
 **Erinnerung:** Fragment — eine Stimme, die ähnlich klang. Kein Kontext. Nur ein Bild. Und dann: "Er war weg." (3-4 Sätze max)
 
@@ -96,13 +105,15 @@
 |---|------|-------|---------|
 | H | **Hook** | Wei kommt zurück. Nächster Tag. Und der nächste. Routine: Er redet, sie schweigt. Er bringt Kräuter, die falsch sind. | 2-01, 2-02 |
 | PT1 | **Plot Turn 1** | Er fragt ihren Namen. Pause. "Yun." — Erster persönlicher Austausch. Sie gibt etwas preis. | 2-03 |
-| P1 | **Pinch 1** | Sie sieht sein Dorf: Armut, kranker Vater, hungrige Familie. Versteht seine Motivation. Er sammelt nicht aus Neugier — aus Not. | 2-04, 2-05 |
+| P1 | **Pinch 1** | Sie sieht sein Dorf: Armut, kranker Vater, hungrige Familie. Versteht seine Motivation. Er sammelt nicht aus Neugier — aus Not. ⚠ Draft: Konkrete Mini-Szene statt Zusammenfassung (z.B. leere Vorratskiste + Hustenanfall statt „Armut"). | 2-04, 2-05 |
 | M | **Midpoint** | Sie korrigiert seinen Kräuterfehler. "Das ist Gift." Erste Lehre. Erster Riss in der Mauer. **Shift: Sie duldet ihn nicht nur — sie hilft.** | 2-06, 2-07 |
 | P2 | **Pinch 2** | Er bittet um Kultivierung. Sie weigert sich. Spannung. "Du hast kein Talent." — Er: "Dann zeig mir was anderes." Stur. | 2-08, 2-09 |
 | PT2 | **Plot Turn 2** | Sie zeigt ihm die Basics — trotz sich selbst. **Erinnerung:** Sie hat mal jemandem das Gleiche beigebracht. Damals endete es... | 2-10, 2-11 |
 | R | **Resolution** | Wei trainiert (schwach, stur). **Wei handelt eigenmächtig:** Er bringt Yun eine Schale Reis vom Dorf — ungefragt. Stellt sie neben sie. Geht. Sie rührt sie nicht an. (Später: die Schale ist leer.) Sie erkennt: er erinnert sie an etwas, das sie vergessen wollte. Lehrstufe 2 beginnt. | 2-12, 2-13 |
 
 **Meta-Moment:** Gedanken-Echo — Yun denkt einen Satz, der nicht zu ihrem bewussten Denken passt. Kalt, distanziert, als hätte jemand in ihrem Kopf mitgedacht. Sie stockt kurz. Vergisst es.
+
+⚠ Draft: Kein Label-Wort „Gedanken-Echo" im Prosa-Text — Empfindung beschreiben, nicht benennen.
 
 **Erinnerung:** Jemand anderem Kräuterkunde beigebracht. Länger als die erste (8-12 Sätze). Wärme. Dann: abruptes Ende. "Und irgendwann waren die Kräuter verwelkt und er war fort."
 
@@ -137,7 +148,7 @@
 | P1 | **Pinch 1** | Das Dorf leidet: Ernteausfall, kranke Tiere, Unruhe. Weis Familie ist direkt betroffen. Sein Vater wird kränker. **Wei handelt eigenmächtig:** Er geht in den tiefen Wald, um bessere Kräuter zu finden — ohne Yun zu fragen. Kommt mit zerrissener Kleidung und einem Spirit-Beast-Zahn zurück. Stolz. **Konsequenz:** Der Zahn ist Qi-gesättigt — er zieht in der Nacht ein kleineres Raubtier ans Dorf. Es reißt zwei Hühner und verletzt Nachbar Chens Bein. Das Dorf gibt Wei die Schuld: "Der Junge bringt den Wald ins Dorf." Weis Mutter schlägt ihm den Zahn aus der Hand. Yun sagt nichts — aber sie hat ihn aus der Ferne bewacht, ohne dass er es wusste. Und sie hätte ihn warnen KÖNNEN. Hat sie nicht. | 3-04, 3-05 |
 | M | **Midpoint** | Erste Sichtung von Xu Ran — in der Ferne, Qi-Wirbel um ihn. Jung, brillant, blind. Yun beobachtet. **Yun handelt:** Sie hinterlässt eine Qi-Spur, die das nächste Spirit Beast vom Dorfrand weglockt. Beiläufig. Wei bemerkt, dass die Tiere plötzlich in die andere Richtung fliehen. **Erinnerung:** Eine Stadt, die bei einem Durchbruch starb. Sie hat zugesehen. | 3-06, 3-07 |
 | P2 | **Pinch 2** | Weis Training fühlt sich plötzlich nutzlos an. Die Bedrohung ist zu groß für seine Stufe. Frustration. Er will mehr. | 3-08, 3-09 |
-| PT2 | **Plot Turn 2** | Wei fragt direkt: "Kannst du das aufhalten?" Sie antwortet nicht. Stille. Der Leser spürt: sie KÖNNTE. **Yun handelt:** Sie spricht mit dem Dorfältesten — als Kräutersammlerin. "Lagert Getreide. Der Winter wird lang." Der Älteste hört — nicht weil er ihr glaubt, sondern weil sie ruhig ist, wo alle paniken. | 3-10 |
+| PT2 | **Plot Turn 2** | Wei fragt direkt: "Kannst du das aufhalten?" Sie antwortet nicht. Stille. Der Leser spürt: sie KÖNNTE. **Yun handelt:** Sie spricht mit dem Dorfältesten — als Kräutersammlerin. "Lagert Getreide. Der Winter wird lang." Der Älteste hört — nicht weil er ihr glaubt, sondern weil sie ruhig ist, wo alle paniken. ⚠ Draft: Yuns Nicht-Antworten pro Part variieren (Gesten, Handlungen statt immer Stille/Hm). | 3-10 |
 | R | **Resolution** | "Nicht mein Problem." Aber Wei sieht sie an. Sie steht auf, dreht ihm den Rücken zu — und deckt ihn zu, bevor sie geht. Die Geste widerspricht jedem Wort. **Etwas in ihr verschiebt sich — noch nicht genug.** | 3-11 |
 
 **Erinnerung:** Die zerstörte Stadt. Länger (12-16 Sätze). Detaillierter als die vorherigen. Sie stand auf einem Hügel und sah zu. Rauch. Schreie. Ein Kultivator stieg auf. Die Stadt brannte. Sie ging weiter. "Ich erinnere mich an den Rauch. Nicht an die Gesichter."
@@ -323,6 +334,7 @@ Erinnerungen sind keine eigenen Kapitel, sondern organisch in die Gegenwartshand
 - Manchmal kommentiert sie: Sidenotes, bittere Bemerkungen, trockener Humor
 - Aufbau: Frühe Erinnerungen = Fragmente. Spätere = länger, klarer
 - Keine chronologische Ordnung — assoziativ
+- ⚠ Draft-Regel: Jede Erinnerung startet mit 1 Sinnesreiz (Geruch/Temperatur/Textur) + 1 Gegenwartsdetail, dann Brückensatz, dann Erinnerung.
 
 ---
 

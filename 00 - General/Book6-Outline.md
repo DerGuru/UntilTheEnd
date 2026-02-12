@@ -13,7 +13,7 @@
 5. **Pinch 2 (Part 5):** „Wissen ≠ Können. Sie kann sich nicht ändern — noch nicht.“
 6. **Plot Turn 2 (Part 6):** „Nicht sterblich WERDEN, sondern aufhören sich unsterblich zu HALTEN. Der Weg wird klar.“
 7. **Resolution (Part 7):** „Yun weiß, was sie tun muss. Der Reis ist angebrannt, der Rucksack gepackt. Richtung: die Höhle.“
-
+⚠ Namensregel: Neue Charaktere erhalten Spitznamen nach Merkmalen (Yuns Perspektive). Originalname nur in direkter Rede.
 ---
 
 ## Ausgangslage
@@ -28,6 +28,13 @@
 - **Event:Reflexion-Ratio: 1:2.** Die philosophisch dichteste Phase braucht das stärkste physische Gegengewicht.
 - **Testing als Spiel:** Die Überzeugung-vs-Wille-Tests sind physisch — Steine, Wasser, Feuer. Xu Ran macht mit. Manchmal komisch (er versucht es auch, scheitert). "Das Universum interessiert sich nicht für MEINE Meinung."
 - **Xu Ran als Erdung:** Er kocht, beschwert sich übers Wetter, fragt nach praktischen Dingen mitten in philosophischen Momenten. "Das ist alles sehr tiefgründig, aber das Feuer geht aus."
+
+⚠ Dialog-Modus B6: Xu Ran = emotional/provokativ. Plus 1 Szene, in der ER schweigt und SIE ihn fragt (Inversion).
+
+⚠ Agency-Check pro Part: 2–3 Nicht-Macht-Handlungen + 1 Kosten-Entscheidung.
+
+⚠ Event:Reflexion-Ratio 1:2 — pro philosophischem Kernbeat 1 physische Parallelhandlung. Xu Rans Anwesenheit als Ratio-Werkzeug nutzen.
+
 - **Physische Reaktionen:** Der Twist ist STILL — aber die Welt reagiert physisch. Steine vibrieren, das Wasser kräuselt sich, Xu Ran spürt es in seinen Knochen.
 - **Wei-Callbacks als SoL:** Erinnerungen an Wei sind nicht abstraktes Trauern — sie erinnert sich an KONKRETE Momente. Wie er kochte. Wie er Kräuter verwechselte. Sein Grinsen beim Essen.
 
@@ -48,6 +55,8 @@
 | # | Beat | Event | Kapitel |
 |---|------|-------|--------|
 | H | **Hook** | Morgen. Yun wacht auf — neben einem erloschenen Feuer. Xu Ran schläft noch. Sie kann sich nicht an den Fast-Durchbruch erinnern. Aber etwas hat sich verändert. Ein Summen in ihr. Sie steht auf, wäscht sich im Fluss, beobachtet den Sonnenaufgang. Routine. Aber ANDERS. | 1-01 |
+⚠ Draft: Neues Sinnesdetail für Summen-Motiv (Vibration in Zähnen, Metallgeschmack) — nicht B4/B5 wiederholen.
+
 | PT1 | **Plot Turn 1** | Beim Wandern: vage Bilder. SIE, die etwas ERSCHAFFT. Kein Kontext. Traum? Erinnerung? Xu Ran: "Du bist stehengeblieben." — "Hab ich?" Sie schiebt es weg. Es kommt zurück. | 1-02 |
 | P1 | **Pinch 1** | Reality Warping: häufiger. Unkontrolliert. Ein Baum wächst in Sekunden neben ihrem Lager. Xu Ran springt auf. Yun: "Der stand gestern nicht da." Er: "OFFENSICHTLICH." Die Realität "korrigiert" sich — für alle anderen war er immer da. | 1-03, 1-04 |
 | M | **Midpoint** | Externe Bedrohung drückt. Die Sekte hat sich formiert: durch **Fusion der Überlebenden + Anomalie-Boost** (aus B5) stärker als je zuvor. Kein Warten mehr. | 1-05 |

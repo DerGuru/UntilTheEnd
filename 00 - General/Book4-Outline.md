@@ -21,6 +21,14 @@
 
 **⚠️ Produktionsregel Schockwelle (alle Qi-Eruptionen in B4):** Radius max ~20-30m sichtbarer Schaden (Bäume geknickt, Boden aufgerissen). Darüber hinaus: nur Staub/Wind. Menschen außerhalb = umgeworfen, nicht zerrissen. *Kein Krater, keine Pilzwolke.* Es ist Qi-Druck, lokal und brutal — keine Explosion.
 
+⚠ Namensregel: Neue Charaktere erhalten Spitznamen nach Merkmalen (Yuns Perspektive). Originalname nur in direkter Rede.
+
+⚠ Agency-Check pro Part: 2–3 Nicht-Macht-Handlungen + 1 Kosten-Entscheidung.
+
+⚠ Namensregel: Neue Charaktere erhalten Spitznamen nach Merkmalen (Yuns Perspektive). Originalname nur in direkter Rede.
+
+⚠ Agency-Check pro Part: 2–3 Nicht-Macht-Handlungen + 1 Kosten-Entscheidung.
+
 ---
 
 ## Ausgangslage
@@ -61,6 +69,9 @@
 
 **Scharmützel-Regel:** Jeder Kampf markiert einen neuen inneren Schritt, der danach nie wieder „neu“ ist. Kein Kampf wiederholt die Facette des vorherigen. Nicht „stärkerer Gegner“ — sondern „anderer innerer Zustand.“
 
+
+⚠ Draft: Pro Scharmützel den „inneren Schritt" in 1 Satz im Sub-7PS verankern — keine Wiederholung des gleichen inneren Schritts.
+
 **Grenz-Moment (Part 5, nach dem Sekte-Kampf):** Yun erkennt die Spirale. Nicht als Gedanke — als Körper: Ekel. Würgen. Ihre Hand fährt zum Mundwinkel, als könnte sie das Lächeln abwischen. *Wenn ich so weitermache, werde ich wieder die, die auf Schlachtfeldern lacht.* Sie spricht es nicht aus. Aber sie HÖRT AUF. Ab hier: kein Scharmützel mehr. Der Kampf geht nach innen (PT2).
 
 ---
@@ -70,20 +81,26 @@
 **B4 ist ein Wanderschafts-Buch.** Zwischen den großen Beats: LEBEN. Nicht das große, sondern das kleine.
 
 **2 Running Gags (Setup → Variation → Payoff):**
-1. **Kochen:** Yun kann nach Jahrtausenden nicht kochen. Wei konnte es (schlecht). Xu Ran kann es (überraschend gut). Laufender Gag: Yun isst nicht, beobachtet aber kritisch.
+⚠ Draft: 1 kurzer zusätzlicher Beat in Part 3 oder 4 für Running-Gag-Payoff (Mikro-Szene).
    - *Setup (Part 2):* Xu Ran kocht. Yun starrt. „Du starrst.“ — „Ich bewerte.“
    - *Variation (Part 3-5):* Sie versucht es einmal. Scheitert. Sagt nichts. Er sagt nichts. Beide wissen es.
    - *Payoff (Part 7):* Sie isst von selbst. Ohne Kommentar. Er bemerkt es. Sagt nichts. FAST ein Lächeln. *(Payoff OHNE Kommentar spielen — weder Yun noch Xu Ran benennen es. Nur Handlung.)* **Detail:** Sie schiebt die Schale einen Fingerbreit näher zu sich. Kein Blick. Kein Wort. Nur diese Bewegung.
 2. **Laute Meditation:** Xu Ran meditiert LAUT — summt, murmelt Mantras, atmet theatralisch. Nervt Yun.
    - *Setup (Part 2):* „Kannst du das leiser machen?“ — „Nein.“
    - *Variation (Part 4-5):* Sie ertappt sich dabei, den Rhythmus zu kennen. Einmal fehlt er — sie merkt es.
+⚠ Event:Reflexion-Ratio 1:2 — pro philosophischem Kernbeat mindestens 1 physische Parallelhandlung (Kochen, Wandern, Wetter). Xu Rans Anwesenheit als Ratio-Werkzeug nutzen (unterbricht, kocht, handelt).
+
    - *Payoff (Part 7):* Er meditiert. Sie sitzt daneben. Still. Nicht genervt. Nicht beruhigt. Einfach: da. *(Payoff OHNE Kommentar — sie denkt nicht „ich habe mich daran gewöhnt“. Sie SITZT einfach.)*
+
+⚠ Draft: 1 kurzer zusätzlicher Beat in Part 3 oder 4 für Running-Gag-Payoff (Mikro-Szene).
 
 **Farbe (Atmosphäre, kein wiederholter Gag):**
 - **Rasten:** Herbergen, Höhlen, unter Bäumen. Kleine Routinen, die sich entwickeln.
 - **Begegnungen:** Wandernde Händler, Bauern, ein alter Fischer, der sie für ein Paar hält. Yun: "..." Xu Ran: "Wir sind—" Yun: "Geh weiter."
 - **Wetter:** Regen, der sie nicht stört (aber Xu Ran durchnässt). Schnee, in dem sie Spuren hinterlässt, obwohl sie fast schwerelos ist. Details, die ZEIGEN statt ERZÄHLEN.
 - **Event:Reflexion-Ratio: Ziel 1:2.** Für jede Seite inneren Monolog: eine halbe Seite externe Aktion/Dialog/Setting.
+
+⚠ Event:Reflexion-Ratio 1:2 — pro philosophischem Kernbeat mindestens 1 physische Parallelhandlung (Kochen, Wandern, Wetter). Xu Rans Anwesenheit als Ratio-Werkzeug nutzen (unterbricht, kocht, handelt).
 
 ---
 
@@ -132,13 +149,15 @@
 **Event:** Die 4 Trigger zusammen ziehen Yun zurück: Xu Ran + Reality-Glitch + externe Bedrohung + unerträgliche Isolation.
 
 - **Xu Ran findet sie.** Nicht zufällig — er hat monatelang gesucht. Er ist der eine Mensch, der persistent genug ist, um eine Unsterbliche zu stalken.
+  - ⚠ ERKLÄRUNG PFLICHT: Wie findet ein Sterblicher (Xu Ran) eine isolierte Immortal+? 1 Satz in Part 1 oder 2: er hat ihr Qi gespürt / folgte Gerüchten / fand die Schockwelle-Spur des Gift-Experiments. Oder: kurze Erklärung im Dialog (keine Rückblende). Rule 9.
   - Er steht vor ihr. Sie reagiert nicht. Er setzt sich hin. Wartet. Tage.
   - Er redet. Sie nicht. Er erzählt von Wei — was er gesehen hat, aus der Ferne. Das bricht etwas auf.
   - **Er erinnert sie NICHT an Wei.** Er ist anders: ehrgeizig, berechnend, suchend. Aber er BLEIBT.
-- **Reality-Glitch (Atmosphäre, kein Kernglitch):** Ein Baum in ihrer Nähe wirkt verändert — Äste, die gestern nach links zeigten, scheinen nach rechts zu zeigen. Xu Ran bemerkt es. Yun: „Du siehst Dinge.“ *(Nur Stimmung — der ECHTE Glitch ist der retroaktive Pfad in Pinch 1.)*
-- **Externe Bedrohung:** Sekten suchen sie weiterhin. Kurz: Ein Trupp kommt zu nahe. Xu Ran warnt sie.
+- **Reality-Glitch (Atmosphäre, kein Kernglitch):** Ein Baum in ihrer Nähe wirkt verändert — Äste, die gestern nach links zeigten, scheinen nach rechts zu zeigen. Xu Ran bemerkt es. Yun: „Du siehst Dinge.“ *(Nur Stimmung — der ECHTE Glitch ist der retroaktive Pfad in Pinch 1.)*  - ⚠ Draft: Reality-Glitch als reine Wahrnehmungsunsicherheit markieren, nicht als Glitch-Effekt. Atmosphäre, nicht Mechanik.- **Externe Bedrohung:** Sekten suchen sie weiterhin. Kurz: Ein Trupp kommt zu nahe. Xu Ran warnt sie.
 - **Isolation:** Sie merkt, dass die Stille sie nicht heilt. Sie zerfrisst. Wei hätte gesagt: "Hör auf, im Wald zu sitzen."
 - **Zusammen:** Kein einzelner dieser Trigger reicht. Aber ALLE VIER gleichzeitig — genug, um sie zum Aufstehen zu bewegen.
+
+⚠ Beat-Verankerung PFLICHT für 3 fehlende Trigger: (1) Reality-Glitch → Part 1 Sub-7PS: konkreter retroaktiver-Pfad-Moment. (2) Sekte-Aufmerksamkeit → Part 2 Sub-7PS: externe Bedrohung als Beat. (3) Isolations-Kipp-Moment → Part 1 Sub-7PS: Yun spricht mit sich selbst und erschrickt darüber. Nur Xu Ran hat bereits Beats.
 
 #### Sub-7PS Part 2: PLOT TURN 1 (~15k Wörter, ~10-14 Kapitel)
 
@@ -148,6 +167,9 @@
 | PT1 | **Plot Turn 1** | Er erzählt von Wei. Was er gesehen hat, aus der Ferne. Weis letzten Kampf. Das Licht. Etwas bricht in Yun auf — nicht Heilung, sondern Riss. | 2-03 |
 | P1 | **Pinch 1** | **Atmosphäre:** Ein Baum wirkt verändert — Äste in anderer Richtung. Xu Ran: „War der schon so?“ Yun: „Du siehst Dinge.“ *(Kein Kern-Glitch — nur Unruhe-Seed für später.)* | 2-04 |
 | M | **Midpoint** | **Sekten-Trupp** kommt zu nahe. Xu Ran warnt. Yun reagiert — GEHT direkt auf sie zu. Nicht Flucht — Konfrontation. Drei Kultivatoren. Yun braucht zwei Atemzüge. Sie BRICHT sie — Handgelenke knicken (Sehnen reißen hörbar), Qi-Knotenpunkt am Dantian blockiert (1 Fingerdruck, sie kennt die Stelle). Lässt sie liegen. Lebendig. Nicht aus Gnade — aus Gleichgültigkeit. Töten wäre ein Verb zu viel. *(Dauer: Tage. Knochen heilen in ~3 Tagen, Qi-Blockade löst sich nach ~5. Kein permanenter Schaden. Es ist ihr EGAL, ob es heilt. 2 Standard-Bilder: 1) das KNACKEN — kurz, trocken, wie ein Ast. 2) der QI-RISS — ein leises Zischen, als entweicht Luft aus etwas Versiegeltem.)* Xu Ran: "Was tust du?" — "Mich aufwärmen." Er versteht: das war keine Verteidigung. Das war ein FIX. *(Kontrast zu Part 5: dort GENIESST sie es. Hier ist es noch mechanisch.)* | 2-05, 2-06 |
+
+⚠ Draft: 1 kurzer Nachhall nach dem Kampf, der Leere bestätigt (kein Genuss, nur Lärm) — nicht „cool" wirken lassen.
+
 | P2 | **Pinch 2** | **SoL-Beat:** Xu Ran kocht. Überraschend gut. Yun isst nicht, sitzt aber da und beobachtet. "Du starrst." — "Ich bewerte." — "Und?" — Stille. Fast ein Lächeln. FAST. Die Isolation bricht — für Sekunden. | 2-07 |
 | PT2 | **Plot Turn 2** | Alle vier Trigger gleichzeitig. Xu Ran, der bleibt. Der Glitch, der sich wiederholt. Die Sekte, die nicht aufgibt. Die Stille, die unerträglich wird. | 2-08, 2-09 |
 | R | **Resolution** | Yun steht auf. Nicht dramatisch — praktisch. "Wenn du mitkommen willst, halt mit." Xu Ran: "Wohin?" — Sie geht. Er folgt. | 2-10 |
@@ -231,7 +253,11 @@
 
   **Notizbuch-Regeln (Requisite, Draft):**
   1. Er schreibt **immer sofort** nach einem Meta-Moment/Glitch/Bruch. Keine Ausnahme. Yun sieht es, kommentiert es nie.
+⚠ Pacing: Symptome alternieren, nicht stapeln. Pro Szene max 1 Symptom. Alternieren-Regel in Beat-Tabelle markieren.
+
   2. Yun liest es **nie freiwillig** — außer einmal, in Part 7 (Kapitel 7-02), und DAS ist ein kleiner Wendepunkt: Sie greift von sich aus zum Buch. Der Moment, in dem die Suche IHRE Suche wird, nicht seine.
+⚠ CROSS-BEAT → B5: In Part 5 (Sekte-Angriff) 1 spezifisches Detail einstreuen: ein Resonanz-Talisman als Beutegegenstand, den Xu Ran findet. Oder: Angreifer erwähnen „den Neuen" / tragen identische Marken. Dies ist Foreshadowing für Lian Zhuo in B5 P3.
+
 - Äußere Bedrohung: Eine Sekte hat ihre Spur aufgenommen. Diesmal nicht beiläufig — Yun geht ihnen ENTGEGEN. Genießt es. Zum ersten Mal Emotion im Kampf — und es ist FREUDE. Das erschreckt sie mehr als die Gegner. Xu Ran sieht es an ihrem Gesicht und wird still.
 
 #### Sub-7PS Part 5: PINCH 2 (~12k Wörter, ~8-12 Kapitel)
@@ -245,6 +271,8 @@
 | P2 | **Pinch 2** | **Sekte-Angriff.** Organisiert. Acht Kultivatoren, einer auf höherem Immortal-Level. Yun spürt sie kommen — und LÄCHELT. Xu Ran: "Yun—" Zu spät. Sie geht. Der Kampf dauert Sekunden. Sie genießt es. FREUDE am Zerstören. Das erschreckt sie — danach. Xu Ran hat ihr Gesicht gesehen. Sagt nichts. Aber seine Hand zittert, als er ins Notizbuch schreibt. **Erinnerung (während des Kampfs):** Ein früherer Krieg. Hunderte Jahre her. Sie stand auf einem Schlachtfeld und LACHTE. "Ich dachte, ich hätte das hinter mir." | 5-07, 5-08 |
 | PT2 | **Plot Turn 2** | Xu Ran zeigt sein Notizbuch. Alles, was sie vergessen hat, steht drin. Daten. Orte. Beobachtungen. Yun liest. Erkennt Muster. Für einen Moment — bevor der Schmerz kommt. | 5-09 |
 | R | **Resolution** | Sie reißt eine Seite aus Xu Rans Notizbuch. Schreibt ein Wort. Streicht es durch. Schreibt ein anderes. Streicht es durch. Die Erkenntnis hält nicht. Aber die RICHTUNG hält — etwas in ihr will nicht, dass sie versteht. Das IST ein Hinweis. | 5-10 |
+
+⚠ CROSS-BEAT → B5: In Part 5 (Sekte-Angriff) 1 spezifisches Detail einstreuen: ein Resonanz-Talisman als Beutegegenstand, den Xu Ran findet. Oder: Angreifer erwähnen „den Neuen“ / tragen identische Marken. Dies ist Foreshadowing für Lian Zhuo in B5 P3.
 
 ---
 
@@ -285,6 +313,8 @@
   So bleibt das Echo ein Signal — kein zweiter Erzähler. In B5/B6 darf das Repertoire wachsen. **Keine vierte Phrase im Draft, egal wie verlockend.**
 - Das Format bleibt identisch in B5 und B6 — bis die Stimme in B6 als Yuns eigene erkannt wird.
 
+⚠ Organisation: Draft-Regeln in kurze Checkliste am Ende des Buchs bündeln, nicht als Fließtext in Parts.
+
 #### Sub-7PS Part 6: PLOT TURN 2 (~15k Wörter, ~10-14 Kapitel)
 
 | # | Beat | Event | Kapitel |
@@ -324,6 +354,9 @@
 | # | Beat | Event | Kapitel |
 |---|------|-------|--------|
 | H | **Hook** | Der Morgen nach dem Gift. Asche vom Lagerfeuer. Yun sitzt auf einem Stein, das Hemd zerrissen von der Schockwelle. Xu Ran liegt unter einer Decke, Verband um den Kopf. Still. Die Erkenntnis hängt in der Luft wie kalter Rauch. | 7-01 |
+
+⚠ Nachhall: 1 körperlicher Nachhall des Gift-Experiments in Part 7 PT1/Hook (Husten, langsameres Tempo) — Rule 19–21.
+
 | PT1 | **Plot Turn 1** | Sie nimmt sein Notizbuch. Liest. Blättert. Drei Erkenntnisse stehen da — in seiner Handschrift, weil sie es selbst nicht halten konnte: 1) Es kommt von INNEN. 2) Etwas will nicht, dass sie versteht. 3) Reality-Glitches und Nicht-Sterben hängen zusammen. Sie legt das Buch zurück. | 7-02 |
 | P1 | **Pinch 1** | Xu Ran wacht auf. Hustet. Setzt sich hoch. Sieht sie an. Packt seinen Beutel — nicht um zu gehen. Um Reisnudeln rauszuholen. "Frühstück." Er bleibt. Nicht aus Loyalität — aus Neugier. Und vielleicht etwas, das keiner benennt. | 7-03, 7-04 |
 | M | **Midpoint** | Beim Essen. Schweigend. Die Trauer ist nicht weg. Aber sie hat einen Behälter bekommen: die Suche. Yun kaut langsam. Xu Ran beobachtet sie. "Du isst." — "Du auch." Fast ein Gespräch. | 7-05 |
@@ -339,6 +372,8 @@
 
 ## Erinnerungs-Arc (Buch 4)
 
+⚠ Andock-Regel: Pro Erinnerung 1 Sinnesreiz-Start ergänzen (Geruch/Temperatur/Textur + Gegenwartsdetail). Keine „freischwebenden" Rückblicke.
+
 | Part | Trigger | Erinnerung | Thema | Länge |
 |---|---|---|---|---|
 | **Hook** | Spirit-Beast-Kampf, Leere danach | **Wei.** "Er hat mich Lügnerin genannt." + Ein früheres Monster, das sie tötete. "Es war das letzte seiner Art. Ich wusste es. Tötete es trotzdem. Aus Langeweile." | Gewalt als Betäubung | 8-12 Sätze |
@@ -350,7 +385,11 @@
 | **Resolution** | "Wir gehen." | **Wei.** Ein letztes Fragment. "Er sagte einmal: 'Wenn du nicht weißt wohin, geh einfach.' Also ging ich. Er hatte Recht. Wie immer." | Richtung | 4-6 Sätze |
 
 **Stop-Marker (nach PT2):** Der Cut der Erinnerungen ist nicht nur strukturell — Yun MERKT die Lücke:
+⚠ Budget: Pro Part max 2 Meta-Signale, pro Szene max 1. Signaltypen rotieren.
+
 1. **Part 7, ~Kapitel 7-02/7-03:** Eine Situation, die normalerweise eine Erinnerung auslösen würde (z.B. Xu Ran kocht → sie müsste an die Frau denken, die sie beherbergte). Aber: nichts. Stille. Kein Bild. Sie runzelt die Stirn. Geht weiter. *Überlesbar.* *(Draft-Regel: MAX 2 Sätze. Kein Erklärabsatz. Stirnrunzeln + weiter.)*
+⚠ Beat-Verankerung: 2 konkrete Stop-Marker-Beats im Sub-7PS Part 7 verankern (nicht nur global beschreiben).
+
 2. **Part 7, ~Kapitel 7-05:** Sie greift bewusst nach einer Wei-Erinnerung — und findet nur Statik. Wie ein Raum, in dem jemand das Licht ausgemacht hat. Die Erinnerung SOLLTE da sein, ist es aber nicht. *Beunruhigend.* *(Draft-Regel: MAX 3 Sätze. Keine Analyse, keine Schlussfolgerung. Nur das Gefühl.)*
 
 ### Erinnerungs-Entwicklung B3 → B4
@@ -365,6 +404,8 @@
 ---
 
 ## Meta-Momente in Buch 4
+
+⚠ Budget: Pro Part max 2 Meta-Signale, pro Szene max 1. Signaltypen rotieren.
 
 7-8 Momente. Deutlicher als in B1-B3. Die Maske beginnt zu rutschen.
 
@@ -398,7 +439,9 @@
 | Art | Beispiel | Part | Stufe |
 |---|---|---|---|
 | Reality-Glitch (**Kernform**) | Retroaktiver Pfad — Weg erscheint, der vorher nicht da war | **Pinch 1** | überlesbar — könnte Orientierungsfehler sein |
-| Selbst-Ertappen | Yun ertappt sich beim Impuls, die Realität formen zu WOLLEN | **Pinch 1** | überlesbar — könnte Wunschdenken sein |
+| Selbst-Ertappen | Yun ertappt sich beim Impuls, die Realität formen zu WOLLEN | **Pinch 1**
+
+⚠ Dialog-Modus B4: Xu Ran = persistent/unbequem. Plus 1 Szene, in der ER schweigt und SIE ihn fragt (Inversion). | überlesbar — könnte Wunschdenken sein |
 
 **Glitch-Regel (B4):** Es gibt genau EINE Kernform des Reality-Glitches: **Retroaktiver Pfad** (Weg/Pfad erscheint, als wäre er immer dagewesen). Alles andere (Baum, Wetter, Tiere) ist **nur Atmosphäre** — nie ein zweiter Glitch-Typ. Wiederholbar, subtil, kumulativ.
 
@@ -418,6 +461,9 @@
 - Erinnert sie NICHT an Wei. Er hat eigene Motive: will Antworten, will Macht.
 - Seine Funktion: Er bleibt bei ihr, bis sie ihm Antworten gibt. Er ist der eine Mensch, der sie nicht in Ruhe lässt.
 - **Vom Suchenden zum unfreiwilligen Reisegefährten.**
+
+
+⚠ Dialog-Modus B4: Xu Ran = persistent/unbequem. Plus 1 Szene, in der ER schweigt und SIE ihn fragt (Inversion).
 - Schützt sie nicht mit Kultivation — sondern indem er sie nicht verrät. DAS ist sein Schutz.
 
 ### Motivsatz + Grenze (Draft-Regel)
@@ -428,6 +474,7 @@
 - **Grundmuster:** Er stellt Fragen — sie antwortet kurz (1-3 Worte) oder gar nicht. Er redet in ganzen Sätzen, sie in Fragmenten. Kein Dialog auf Augenhöhe — er ARBEITET an ihr, sie LÄSST es geschehen.
 - **Entwicklung ab Part 4:** Ein Wort mehr. Nicht plötzlich — schleichend. Part 2-3: Stille oder 1 Wort. Part 4: manchmal 2. Part 5-6: ein ganzer Satz, wenn es sie überrascht. Part 7: *„Wir gehen."* — zwei Worte, aber SIE initiiert. Das ist der gesamte Bogen.
 - **Verboten:** Nie gleichlange Dialoge. Nie Yun, die erklärt. Nie Xu Ran, der Monologe hält.
+- ⚠ Draft: In Part 4–7 je 1 Beat mit „+1 Wort"-Marker im Sub-7PS verankern.
 
 ### Xu Rans Wunde (1 Haken, kein Essay)
 - **Er kann Stille nicht ertragen.** Deshalb meditiert er laut, deshalb redet er, deshalb schreibt er alles auf. Stille = Vergessen. Sein Notizbuch ist kein Tool — es ist Zwang. Wenn nichts aufgeschrieben ist, ist es nicht passiert. *(Nie aussprechen. Zeigen: er schreibt SOFORT, auch bei Regen, auch verletzt, auch wenn Yun zuschaut.)*
@@ -435,11 +482,20 @@
 ### Risk Moment (~Part 5)
 - **Szene:** Ein Sekten-Späher erkennt Xu Ran allein (Yun ist beim Krater/Suche). Bietet: Information über Yun gegen Yuns Position. Oder: geht. Lebend.
 - **Xu Rans Entscheidung:** Er lehnt ab. Nicht heroisch — pragmatisch. *"Ich will Antworten. Nicht Kopf ab."* Der Späher geht. Xu Ran erwähnt es Yun nie — sie erfährt es nicht. Aber der LESER weiß: Er hatte die Wahl. Und hat seine Grenze bewiesen.
+- ⚠ Akzeptabel NUR wenn das Crossover-Buch (Judgement's Gale) existiert und der Moment als Fan-Service für Doppelleser funktioniert. Wenn nicht → streichen statt Frustration (Rule 36).
 - **Platzierung:** Teil des Part-5-Stoffs, ~Kapitel 5-03/5-04, bevor der Sekte-Angriff kommt (so stehen Ablehnung und Angriff in kausalem Spannungsverhältnis).
 - **Mini-Konsequenz (kein Dialog):** Er ist danach für 2-3 Kapitel (~5-04 bis 5-06) paranoid — schaut öfter zurück, legt das Notizbuch nicht mehr offen hin, seine Handschrift wird zittriger. Kein Wort darüber. Yun bemerkt es nicht (oder ignoriert es). Nur der Leser sieht: etwas hat sich verschoben.
 
 ## Neue Figuren
 
+
+---
+
+## CROSS-BEAT Notizen
+
+⚠ CROSS-BEAT → B5: B4-Vergessen = schleichend, überlesbar (Yun bemerkt es kaum). B5-Vergessen = akut, dreist, vor Zeugen. Eskalation muss sichtbar sein: von „vielleicht Trauma" → „etwas NIMMT es aktiv weg." Xu Rans Reaktion (irritiert → wütend → entsetzt) als Differenzierungshebel.
+
+⚠ CROSS-BEAT → B7: Kochen-Gag-Echo: erster Hunger + erster angebrannter Reis als Spiegel zu Wei (in B7 SoL-Montage).
 **Entscheidung: Keine.** Nur Xu Ran + Einsamkeit. Die Isolation ist der Punkt.
 - ~~Jemand, der ebenfalls etwas Seltsames erlebt (Reality-Glitch?)~~ → Gestrichen
 - ~~Weis Hinterlassenschaft: jemand, den er beeinflusst hat~~ → Gestrichen
@@ -452,6 +508,7 @@
 - **Ort:** Passstraße nahe dem alten Krater (~Kap 5-02/5-03). Yun und Xu Ran auf dem Weg zum Krater. Kleiner Marktplatz am Straßenrand, Durchgangsverkehr. Huang Ming („Judgement's Gale") geht in der Gegenrichtung vorbei — zu Fuß, allein, gewöhnliche Kleidung.
 - Yun sieht ihn aus der Ferne. Erkennt ihn. Geht weiter. Kein Dialog, kein Gedanke, keine Exposition. Nur: Blick, Wiedererkennung, Abwenden.
 - Für aufmerksame Leser. Kein Plot-Impact. Keinen Satz mehr, sonst wirkt es wie Setup ohne Payoff.
+- ⚠ Akzeptabel NUR wenn das Crossover-Buch (Judgement's Gale) existiert und der Moment als Fan-Service für Doppelleser funktioniert. Wenn nicht → streichen statt Frustration (Rule 36).
 
 ---
 
@@ -470,3 +527,12 @@
 - [x] Wo spielt Buch 4? → **Isolation → ziellose Wanderschaft → Xu Ran schließt sich an.**
 - [x] Neue Figuren? → **Keine. Nur Xu Ran + Einsamkeit.** Kein neuer Wei-Ersatz.
 - [x] 7-Point Structure Detail ausarbeiten → **Detailliert mit Erinnerungs-Arc + Meta-Momenten**
+
+
+---
+
+## CROSS-BEAT Notizen
+
+⚠ CROSS-BEAT → B5: B4-Vergessen = schleichend, überlesbar (Yun bemerkt es kaum). B5-Vergessen = akut, dreist, vor Zeugen. Eskalation muss sichtbar sein: von „vielleicht Trauma“ → „etwas NIMMT es aktiv weg.“ Xu Rans Reaktion (irritiert → wütend → entsetzt) als Differenzierungshebel.
+
+⚠ CROSS-BEAT → B7: Kochen-Gag-Echo: erster Hunger + erster angebrannter Reis als Spiegel zu Wei (in B7 SoL-Montage).
