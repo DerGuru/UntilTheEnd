@@ -77,6 +77,10 @@
 #### Sub-7PS Part 2: PLOT TURN 1 (~12k Wörter, ~8-12 Kapitel)
 
 | # | Beat | Event | Kapitel |
+⚠ Draft: 1 sofortige Folge des bewussten Warpings (Zeugenreaktion, Ortsverzerrung, Preis) — kein „Gott-Button" ohne Konsequenz.
+
+⚠ Draft: 1 Gegenhandlung/Interrupt pro Konfrontation — keine reine Monologlast.
+
 |---|------|-------|--------|
 | H | **Hook** | Jemand in Gefahr. Dorf am Rand der Anomalie-Zone. Die Sekte greift an — nicht Yun, sondern die Menschen. Als Hebel. | 2-01 |
 | PT1 | **Plot Turn 1** | Yun reagiert. Will helfen. Und WARPT — bewusst. Zum ersten Mal. Sie WILL, dass die Angreifer weg sind. Und sie SIND weg. Verschoben. Nicht getötet — VERSCHOBEN. | 2-02, 2-03 |
@@ -96,6 +100,12 @@
 - Wenn sie Dinge verändern kann — warum konnte sie Wei nicht retten?
 - Die Antwort ist furchtbar: Weil ihr tiefster Glaube war, dass ALLES, was sie liebt, stirbt. Und das hat sich manifestiert.
 - **Schuldgefühl eskaliert.** Hat SIE Wei getötet?
+⚠ DUPLIKATION-FIX: Dieser Stein-Test darf NUR HIER existieren (B6 = Entdeckung, Staunen). B7 P2 MUSS ein anderes Medium verwenden (Wasser/Schatten/Licht) + Fokus auf INNERE Anwendung. Xu Rans Kommentar „Unfair" darf nur in EINEM Buch stehen — hier.
+
+⚠ Draft: „Mechanik sichtbar" → Bild statt Technik-Sprache (Stein liegt „schon immer" dort, nicht „Überzeugung = Realitäts-Parameter").
+
+⚠ Draft: Ambiguität sichern — Gegenbeispiel/Restzweifel einbauen (z.B. physische Instabilität als alternative Erklärung). Nicht zu klar formulieren.
+
 
 #### Sub-7PS Part 3: PINCH 1 (~12k Wörter, ~8-12 Kapitel)
 
@@ -108,6 +118,8 @@
 | P2 | **Pinch 2** | Schuld frisst. Schmerz. Sie hat die Macht, die Welt zu formen — und ihr tiefster Glaube hat den einen Menschen getötet, den sie liebte. | 3-08 |
 | PT2 | **Plot Turn 2** | Xu Ran: "Wenn du es getan hast — hast du es GEWUSST?" — Stille. "Nein." — "Dann war es kein Mord. Es war ein Muster." Kalt. Wahr. | 3-09 |
 | R | **Resolution** | Xu Ran fragt. Sie antwortet nicht. Er fragt nochmal. Sie schüttelt den Kopf — nicht "nein", sondern: ich weiß es nicht. Sie lässt die Frage offen. BEWUSST offen. Die Ambiguität ist stärker als jede Antwort. | 3-10 |
+⚠ Draft: Twist-Erklärung in 2–3 konkrete Bilder übersetzen (Handlung statt Liste). Nicht didaktisch. Der Leser soll Yuns SCHMERZ fühlen, nicht eine Erklärung lesen.
+
 
 ---
 
@@ -118,7 +130,11 @@
 - Sie versteht ALLES:
   - Ihre Unsterblichkeit war nie ein Fluch — sie war Selbstschutz
   - Jede Regeneration, jeder "Zufall" — war sie selbst
-  - Die Vorstellung, dass „etwas" sie schützt, war eine Erzählung, die sie sich gab, um die Verantwortung abzugeben
+⚠ TWIST-DELIVERY: Der Leser soll hier BESTÄTIGT werden, nicht überrascht. Bis B5 Ende (Spiegelbild lächelt) sollte der Leser den Twist stark ahnen (Rule 23/24: intelligent reader). Reframe-Tabelle (Vorher/Jetzt) sagt dem LESER nichts Neues — nur YUN. Emotionaler Impact = ihr Schmerz, nicht Informations-Schock.
+
+---
+
+⚠ PLATEAU-RISIKO: Nach dem Twist (Part 4) folgen ~30 Kapitel „Wissen ≠ Können". Ohne Eskalation droht Wiederholung (versuchen → scheitern → SoL → nachdenken). FIX Eskalationsstufen: Part 5 = Macht nach außen (spektakulär) + Scheitern nach innen. Part 6 = Erkenntnis Loslassen ≠ Wille (philosophisch). Part 7 = Praktische Vorbereitung + Abschied (emotional). Jeder Part = NEUER Aspekt des Konflikts. Die Vorstellung, dass „etwas" sie schützt, war eine Erzählung, die sie sich gab, um die Verantwortung abzugeben
   - Über Jahrtausende hat sie die Überzeugung "Ich bin unsterblich" so tief verinnerlicht, dass die Realität gehorchte
   - **Überzeugung = Realität.** Immer. Bei allem.
 - Sie sieht es rückwirkend: Jeder Meta-Moment aus Buch 1-5 wird klar
@@ -137,6 +153,12 @@
 | M | **Midpoint** | **DER TWIST.** Still. Wie eine Welle, die sich zurückzieht. Am Fluss — sie ist irgendwann aufgestanden, hingegangen. Steht im Wasser, knöcheltief. "Ich bin es. Ich war es immer." Leise. Das Wasser kräuselt sich von ihren Füßen weg — ohne Wind. | 4-06, 4-07 |
 | P2 | **Pinch 2** | Die längste Erinnerung der Serie. Ihre Knie geben nach — sie kniet im Flusswasser. Xu Ran steht am Ufer, traut sich nicht näher. Ihr Atem geht flach. Die Erschaffung. Das Warum. Die Jahrtausende. Alles in einem Moment. | 4-08 |
 | PT2 | **Plot Turn 2** | Sie öffnet die Augen. Nass bis zur Hüfte. Der Nebel hat sich gelichtet. Xu Ran sitzt am Ufer, sein Notizbuch aufgeklappt — er hat alles aufgeschrieben, was sie gesagt hat. Die Welt sieht gleich aus. Nichts hat sich geändert. Alles hat sich geändert. | 4-09 |
+⚠ GEWICHT PFLICHT: Die Sekte wurde über B2–B5 (4 Bücher!) aufgebaut. Auslöschung in 1 Satz riskiert, dass dieser Aufbau wertlos wirkt. FIX: Entweder (a) 2–3 Beats für Sekten-Untergang (Entscheidung → Ausführung → Stille danach → Konsequenz), oder (b) Sekte nicht vollständig auslöschen, sondern „zerstreuen" — Überlebende, die fliehen und in B7 als Gerücht nachhallen. Option (a) ist stärker.
+
+⚠ Pacing: Erinnerung in Part 5 kürzen oder in 2 Beats teilen. 30+ Sätze Erinnerung neben Sekte-Auslöschung ist zu viel für einen Beat. Rule 30/32.
+
+⚠ Draft: 1 Beat mit Zeugen / sektenpolitischer Folge / Machtvakuum nach Sekte-Ende.
+
 | R | **Resolution** | Sie steht auf. Geht zum Ufer. Xu Ran reicht ihr ein trockenes Hemd. Sie nimmt es, zieht es an. Kein Schrei. Keine Tränen. Nur: Wissen. Er: "Soll ich Reis machen?" — Sie nickt. Du warst es immer. | 4-10 |
 
 ---

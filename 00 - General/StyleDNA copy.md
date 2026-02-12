@@ -105,7 +105,7 @@ Erste Person retrospektiv einer jahrtausendealten, zynisch-müden Erzählerin, d
 
 ### Metaphern & Vergleiche
 - Aus Yuns Erfahrungshorizont: Naturphänomene (Erosion, Gezeiten, Jahreszeiten), vergangene Zivilisationen, geologische Zeiträume.
-- Nie aus modernen Kontexten (keine Maschinen-Metaphern, keine Tech-Vergleiche) — AUSSER als seltener Gedanken-Echo-Moment (verdrängtes Wissen bricht durch, max. 1–2 pro Buch).
+- Nie aus modernen Kontexten (keine Maschinen-Metaphern, keine Tech-Vergleiche).
 - Vergleiche sind konkret, nie generisch: Nicht „schnell wie der Wind" — sondern ein spezifisches Bild, das nur Yun sehen könnte.
 
 ---

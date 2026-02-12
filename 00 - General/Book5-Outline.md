@@ -153,7 +153,7 @@ Der Kampf ist jetzt klar **gegen sich selbst** — aber Yun weiß es noch nicht 
 | # | Beat | Event | Kapitel |
 |---|------|-------|--------|
 | H | **Hook** | Lagerfeuer. Xu Ran hat die Notizen ausgebreitet — Rollen, Steine, Karten. Yun starrt ins Feuer. Sie hat alles: genug Daten für eine Antwort. Er schiebt ihr eine Schale Reis rüber. Sie isst mechanisch. | 4-01 |
-| PT1 | **Plot Turn 1** | Xu Ran als Katalysator. Er legt ihr die Beweise physisch vor — breitet Schriftrollen nebeneinander, zeichnet Verbindungen in den Sand. "Du veränderst die Realität. Die Anomalien korrelieren mit deiner Präsenz." Klar. Logisch. | 4-02, 4-03 |
+| PT1 | **Plot Turn 1** | Xu Ran als Katalysator. Er legt ihr die Beweise physisch vor — breitet Schriftrollen nebeneinander, zeichnet Verbindungen in den Sand. "Du veränderst die Realität. Die Anomalien korrelieren mit deiner Präsenz." Klar. Logisch. | 4-02, 4-03 |⚠ Differenzierung zu B4: B4-Vergessen = schleichend, überlesbar (Yun bemerkt es kaum). B5-Vergessen = akut, dreist, vor Zeugen. ESKALATION muss sichtbar sein: von „vielleicht Trauma" → „etwas NIMMT es aktiv weg." Xu Rans Reaktion (irritiert → wütend → entsetzt) als Differenzierungshebel. Rule 14 (don't repeat). 
 | P1 | **Pinch 1** | **1. Vergessen:** Yun hört zu. Versteht. Nickt. 2–3 Minuten später kippt der Inhalt weg wie ein Traum beim Aufwachen. "Wovon hast du geredet?" Xu Ran starrt sie an. Reagiert: **irritiert.** Wischt die Sandzeichnungen weg. Fängt von vorn an. | 4-04 |
 | M | **Midpoint** | **2. Vergessen:** Xu Ran erklärt DASSELBE — langsamer, geduldiger. Sie nickt. 2 Minuten: weg. Diesmal Xu Rans Reaktion: **wütend.** Er wirft den Stab hin. "Etwas in dir will nicht, dass du das weißt." — Sie: "Was?" Er reibt sich das Gesicht. **3. Vergessen:** Er sagt es ein drittes Mal. Kürzer. Schärfer. Sie hört zu — und als es kippt, sieht er es IN IHREN AUGEN: etwas NIMMT es ihr weg. Sie ist nicht schuld. Sie ist Opfer ihres eigenen Schutzes. **Realitäts-Zittern** — Blätter bewegen sich ohne Wind. Eskalation Richtung Part-5-Explosion. | 4-05, 4-06 |
 | P2 | **Pinch 2** | **Erinnerung: Fragmentiert.** Fetzen ohne Sinn. Bilder ohne Kontext. Selbstschutz zerstört ihre Erinnerungen. 3-4 Sätze, zerbrochen. | 4-07 |
@@ -171,6 +171,7 @@ Der Kampf ist jetzt klar **gegen sich selbst** — aber Yun weiß es noch nicht 
   - Trauer: Regen fällt lokal — nur um sie herum. Der Rest der Welt ist trocken.
   - Frustration: Der Boden zittert. Nicht Erdbeben — sie. SIE ist das Erdbeben.
 - Xu Ran muss Abstand halten. Physisch. Zum ersten Mal hat er Angst vor ihr. Nicht die ehrfürchtige Angst von Sekten — echte, instinktive Angst.
+  - ⚠ HARMONISIERUNG PFLICHT: Outline sagt „kein neues Prinzip" — Worldbuilding.md definiert Feld-Regel als „eigenständige Mechanik." LÖSUNG: Einheitlich machen. Entweder Worldbuilding anpassen (Feld = Overload-Variante) ODER Outline anpassen (Feld = eigenes Phänomen, durch Overload versehentlich ausgelöst).
 - **Die Sekte wittert Beute:** Die Anomalien um Yun sind jetzt so stark, dass die Sekte sie lokalisieren kann. Sie kommen. Stärker als je zuvor, aufgeladen mit gestohlener Anomalie-Energie.
 - **Feld-Regel (einmalig):** Im Moment der Eskalation öffnet Yun unbewusst ein Kontinuitätsfeld — Finalität wird für alle im Umkreis verboten. Xu Ran und Unbeteiligte können nicht sterben. Die Sekte auch nicht. Die Schlacht *endet nicht*. Horror. **⚠️ Das Feld ist KEIN neuer Effekt — es ist eine Fehlkalibrierung ihres eigenen Schutzes, der nach außen „leckt", weil sie emotional kollabiert. Overload, kein neues Prinzip.**
 - Dann: Yun WÜTET — bewusst. Das Feld kollabiert. **Die fehlende Bergflanke wird erst DANACH entdeckt** — nicht als Live-Spektakel, sondern als stille Nachwirkung. Der Leser (und Yun) sehen die Lücke am nächsten Morgen. Kein Krater, kein Donnern — nur Abwesenheit. Die Kosten sind verheerend: Zufälle kippen gegen sie (Wege werden gefährlicher, Tiere meiden sie, kleine Unfälle häufen sich), Realitäts-Destabilisierung — direkte Quelle der Welt-Instabilität, die B5-B6 definiert.
@@ -181,7 +182,7 @@ Der Kampf ist jetzt klar **gegen sich selbst** — aber Yun weiß es noch nicht 
 | # | Beat | Event | Kapitel |
 |---|------|-------|--------|
 | H | **Hook** | Frustration. Yun WEIß, dass sie vergisst — Xu Ran sagt es ihr. Aber sie kann es nicht HALTEN. Wie gegen eine Wand laufen, die man nicht sieht. | 5-01 |
-| PT1 | **Plot Turn 1** | Reality Warping explodiert. Wut: Bäume splittern ohne Berührung. Trauer: lokaler Regen, nur um sie herum. Rest der Welt trocken. | 5-02, 5-03 |
+| PT1 | **Plot Turn 1** | Reality Warping explodiert. Wut: Bäume splittern ohne Berührung. Trauer: lokaler Regen, nur um sie herum. Rest der Welt trocken. | 5-02, 5-03 |⚠ Nachwirkung: 1–2 zivile Nachwirkungen der Feld-Regel (Atemnot, Erschöpfung, Verletzte) in PT2 zeigen. Dann: Yun WÜTET — bewusst. Das Feld kollabiert. **Kosten:** Zufälle kippen gegen sie (Wege gefährlicher, Tiere meiden sie, kleine Unfälle). ⚠ Draft: Keine Benennung „Luck Debt" im Text — nur Beispiele zeigen (Zufälle kippen). Autoren-Kürzel darf nicht leaken
 | P1 | **Pinch 1** | Frustration: Der Boden zittert. Nicht Erdbeben — SIE. Sie IST das Erdbeben. Xu Ran muss physisch Abstand halten. Zum ersten Mal: echte Angst. | 5-04 |
 | M | **Midpoint** | Die Sekte lokalisiert sie. Anomalien so stark, sie LEUCHTEN. Sie kommen. Stärker als je zuvor, aufgeladen mit gestohlener Anomalie-Energie. Xu Ran und Unbeteiligte sind im Kampfgebiet. | 5-05, 5-06 |
 | P2 | **Pinch 2** | **Feld-Regel (einmalig, = Overload/Fehlkalibrierung).** Im Moment der Eskalation öffnet Yun unbewusst ein Kontinuitätsfeld — Finalität wird für ALLE im Umkreis verboten. Kurz. Klaustrophobisch. Die Sekte kann nicht sterben, Xu Ran kann nicht sterben. Die Schlacht endet nicht — 8 Minuten. Horror. Dann: Yun WÜTET — bewusst. Das Feld kollabiert. **Kosten:** Zufälle kippen gegen sie (Wege gefährlicher, Tiere meiden sie, kleine Unfälle). Realitäts-Destabilisierung — direkte Quelle der Welt-Instabilität. | 5-07, 5-08 |
@@ -203,6 +204,8 @@ Der Kampf ist jetzt klar **gegen sich selbst** — aber Yun weiß es noch nicht 
 - **Dann: Blackout.** Der Selbstschutz greift mit voller Wucht. Sie kollabiert. Bewusstlosigkeit.
 - Als sie aufwacht: "Was ist passiert?" — Xu Ran: "Du hast es gesehen." — Sie: "Was gesehen?"
 - **Aber:** Diesmal ist es anders. Sie erinnert sich nicht an den INHALT — aber sie erinnert sich ans GEFÜHL. Etwas Großes. Etwas Wichtiges. Etwas, das sie fast hatte. Und etwas, das es ihr weggenommen hat.
+
+⚠ Pacing: Gedanken-Echo-Anzahl auf 2–3 reduzieren oder auf P1/PT2 verteilen. Durchbruch + 4–5 Echos + Blackout in einem Cluster = zu viel.
 - **DAS bleibt.** Das Gefühl. Und das ist genug für Buch 6.
 
 **Meta-Moment:** Gedanken-Echos häufen sich: 4-5 in diesem Beat. Yun weiß Dinge über den Zusammenhang — ihr eigenes Qi, die Kanten, die Schmerzpunkte, wo es bricht — die sie nie gelernt hat. Wissen, das aus einer tieferen Schicht kommt. Sie versteht es FAST. Fast.
@@ -225,6 +228,7 @@ Der Kampf ist jetzt klar **gegen sich selbst** — aber Yun weiß es noch nicht 
 **Event:** Am Rand des Verstehens. Der Leser ahnt den Twist. Yun auch — aber ein letzter Block hält.
 
 - Yun hat das Gefühl. Nicht das Wissen. Aber genug, um zu wissen: Sie ist NAH.
+  - ⚠ Foreshadowing: 1 Mini-Seed in Part 2/3 (Spiegel, Wasserreflex, Reflexionsmoment) als Vorahnung des Spiegelbild-Endes.
 - Der Selbstschutz hat gewonnen — vorerst. Aber er hat zum ersten Mal VERLOREN, auch wenn nur für eine Sekunde. Die Mauer hat einen Riss.
 - **Xu Rans Zustand:** Erschüttert. Er hat gesehen, was ihre Macht der Welt antut. Er hat gehört, was sie im Moment des Durchbruchs GESAGT hat (sie erinnert sich nicht — er schon). Er hat Angst. Aber er geht nicht.
 - **Die Sekte:** Dezimiert, aber nicht tot. Ihre Anführer haben verstanden: Yun IST die Quelle. Nicht der Feind — die Quelle von allem. Das macht sie wertvoller als alles.

@@ -104,7 +104,7 @@ Das ist kein externer Kampf. Es ist:
 | PT1 | **Plot Turn 1** | Erste bewusste Erfolge: eine Pflanze, die blüht. Ein Tropfen Wasser, der nach oben fließt. Spielerisch — fast. Xu Ran: "Mach das nochmal." — "Warum?" — "Weil es das Schönste ist, das ich je gesehen habe." Stille. | 2-02, 2-03 |
 | P1 | **Pinch 1** | **Erinnerung:** "Du bist uralt, oder?" — "Sei still." Weis Stimme. Xu Ran sieht ihren Gesichtsausdruck: "Wei?" — "Sei still." — Gleicher Satz. Anderen Gründen. | 2-04 |
 | M | **Midpoint** | Die Erkenntnis vertieft sich: Nicht WILLE, sondern GLAUBE formt die Realität. Xu Ran: "Also has du dein ganzes Leben lang geglaubt, du KANNST nicht sterben? Und deshalb—" — "Ja." — "Dann glaub einfach was anderes." — "So funktioniert das nicht." — "Warum nicht?" — Stille. Gute Frage. | 2-05, 2-06 |
-| P2 | **Pinch 2** | Xu Ran beobachtet. Fasziniert. Verstört. "Du formst die Welt wie Ton." — Sie: "Nein. Die Welt WAR schon immer Ton. Ich hab's nur nicht gewusst." **SoL:** Er versucht selbst, einen Stein zu bewegen. Nichts passiert. "Unfair." | 2-07 |
+| P2 | **Pinch 2** | Xu Ran beobachtet. Fasziniert. Verstört. "Du formst die Welt wie Ton." — Sie: "Nein. Die Welt WAR schon immer Ton. Ich hab's nur nicht gewusst." **SoL:** Er versucht selbst, einen Stein zu bewegen. Nichts passiert. ⚠ Draft: „Unfair"-Kommentar STREICHEN — steht in B6. Variieren. | 2-07 |
 | PT2 | **Plot Turn 2** | Sie kann kleine Änderungen. Kontrolliert. Bewusst. Aber: das große Ziel — SICH SELBST ändern — bleibt unerreichbar. Xu Ran: "Vielleicht bist du zu nah dran." | 2-08 |
 | R | **Resolution** | Sie kann alles ändern — außer sich. Xu Ran kocht. Redet. Nervt. Sie nimmt ihm den Löffel aus der Hand. Rührt selbst. **Das ist Fortschritt.** | 2-09 |
 
@@ -123,7 +123,7 @@ Das ist kein externer Kampf. Es ist:
 | # | Beat | Event | Kapitel |
 |---|------|-------|--------|
 | H | **Hook** | Ein Moment der Trauer. Weis Geburtstag? Todestag? Das Datum verschwimmt. Xu Ran: "Woran denkst du?" — "An jemanden, der besser war als ich." — "Das sind die meisten." — Fast ein Lächeln. | 3-01 |
-| PT1 | **Plot Turn 1** | Unkontrollierter Ausbruch. Massive Welle. Bäume im Umkreis von hundert Schritten zerfallen. Gras verdorrt. Xu Ran duckt sich. "WARNUNG wäre nett gewesen—" | 3-02 |
+| PT1 | **Plot Turn 1** | Unkontrollierter Ausbruch. Massive Welle. Bäume im Umkreis von hundert Schritten zerfallen. Gras verdorrt. Xu Ran duckt sich. "WARNUNG wäre nett gewesen—" ⚠ Draft: 1 Zeuge oder Konsequenz (verletztes Tier, zerfallene Hütte) — nicht nur Naturzerstörung. | 3-02 |
 | P1 | **Pinch 1** | Realisierung: Emotionen = Realität. Xu Ran: "Als du traurig wurdest, sind die Bäume gestorben." — "Korrelation ist nicht Kausalität." — "Das ist EXAKT Kausalität. Ich hab's gesehen." | 3-03, 3-04 |
 | M | **Midpoint** | **Erinnerung:** Alle, die sie verloren hat. Nicht einzeln — als Welle. Sie erzählt Xu Ran. Schnell. Atemlos. Tausende Gesichter. Er schreibt. Kann nicht mithalten. | 3-05 |
 | P2 | **Pinch 2** | **Callback B3:** Als Wei starb, verstummte die Welt. JETZT versteht sie: das war SIE. Xu Ran: "Du hast die Welt um ihn herum getötet?" — "Nicht absichtlich." — "Aber du hast es getan." — Stille. | 3-06, 3-07 |
@@ -150,12 +150,15 @@ Das ist kein externer Kampf. Es ist:
 | M | **Midpoint** | **Erinnerung:** Der Moment, in dem sie "Ich bin unsterblich" WURDE. Sie erzählt es Xu Ran. Zum ersten Mal spricht sie es aus. Er hört auf zu schreiben. Legt den Pinsel hin. "Angst." — "Ja." | 4-05, 4-06 |
 | P2 | **Pinch 2** | Das Paradox. Xu Ran: "Du musst machtlos werden, um die mächtigste Macht einzusetzen. Ist dir klar, wie absurd das klingt?" — "Ja." — "Und trotzdem ist es wahr?" — "Ja." — **SoL:** Er kocht ein letztes Mal. Sorgfältig. Beide wissen: der Abschied kommt. | 4-07 |
 | PT2 | **Plot Turn 2** | Sie versteht es intellektuell. Wieder. Xu Ran: "Wenn Verständnis reichen würde, wärst du schon tot." — Brutal. Wahr. | 4-08, 4-09 |
-| R | **Resolution** | **Abschied von Xu Ran.** Langes Gespräch. Nicht emotional — sachlich. Er hat alles aufgeschrieben. "Es ist vollständig." — "Nichts ist vollständig." — "Nah genug." Er geht. Sie sieht ihm nach. Lässt ihn los. **Dies ist der letzte Moment in Ich-Perspektive Präteritum.** | 4-10 |
+| R | **Resolution** | **Abschied von Xu Ran.** Langes Gespräch. Nicht emotional — sachlich. Er hat alles aufgeschrieben. "Es ist vollständig." — "Nichts ist vollständig." — "Nah genug." Das Notizbuch unter seinem Arm — vollgeschrieben, fleckig, unersetzlich. Er geht. Sie sieht ihm nach. Lässt ihn los. **Dies ist der letzte Moment in Ich-Perspektive Präteritum.** ⚠ POV-TRANSITION PFLICHT (4-Punkte-Plan): (1) Den LETZTEN Ich-Satz bewusst als Abschied gestalten (stiller Endpunkt der Erzählung an Xu Ran, nicht beiläufig). (2) Part 5 Hook SOFORT neue Stimme etablieren: physisches Detail, sensorische Dichte, KEINE retrospektiven Kommentare. (3) Idealerweise 1 Übergangsabsatz — letzter Präteritum-Satz geht nahtlos in ersten Präsens-Satz. (4) Ab Part 5 KEIN „ich erinnere mich" / „ich wusste" / „damals." ⚠ Notizbuch: Physisch verabschieden — „vollgeschrieben, fleckig, unersetzlich." Verbleib muss thematisiert werden (→ Echo in Part 7 R). | 4-10 |
 
 ---
 
 ### 5. PINCH 2
 **POV ab hier: Enge 3. Person Präsens.** Die Ich-Erzählerin verschwindet. Der Leser wird stiller Zeuge.
+
+⚠ SOLO-RISIKO Parts 5–7 (~40k Wörter): Yun allein, keine Xu Ran, kein Wei, kein Antagonist. Rule 1 (never bore) ist das größte Risiko der Serie in diesen Kapiteln. FIX: (a) Mindestens 1 neue Bindung mit Gesicht, Name, Eigenheit und Mini-Arc — so konkret wie Lao Chen/Frau Huang in B3. (b) 1 externe Komplikation (kein Feind, aber Problem: Dürre, Kranker, Nachbarstreit), das Yun zwingt zu HANDELN statt nur zu reflektieren. (c) 2–3 konkrete Alltagsszenen als vollwertige Sub-7PS-Beats (erster Hunger, erster Regen, erstes Frieren).
+⚠ Lautstärke: B7 beginnt „laut" (unkontrolliertes Warping), wird LEISER. Warps staffeln — Anfang lauter, dann merklich leiser.
 
 **Event:** Fast-Durchbruch und Rückfall.
 
@@ -197,7 +200,7 @@ Das ist kein externer Kampf. Es ist:
 | PT1 | **Plot Turn 1** | Abends. Kerze. Sie sitzt am Tisch, der nach altem Holz riecht. Die Angst ist da — aber sie bekämpft sie nicht. Lässt sie sitzen wie einen ungebetenen Gast. Die Kerze flackert. Sie rührt sich nicht. Nicht besiegen — akzeptieren. | 6-02, 6-03 |
 | P1 | **Pinch 1** | Morgen. Sie steht im Garten — ein kleines Stück Erde hinter dem Haus. Samen. Schaufel. Erde unter den Nägeln. Sie muss nicht sterblich WERDEN. Sie muss aufhören, sich unsterblich zu HALTEN. Der Unterschied: wie die Samen. Nicht drücken. Einsetzen. Warten. | 6-04 |
 | M | **Midpoint** | Unter dem Pflaumenbaum im Garten. Sie sitzt. Atmet. Lässt die Angst da sein. Richtig da sein. Blütenblätter fallen. Eines landet auf ihrer Hand. Die Angst schreit. Sie hört zu, wie man dem Regen zuhört. Und: sie wird leiser. Nicht weg — leiser. | 6-05, 6-06 |
-| P2 | **Pinch 2** | **Finale-Dilemma:** Auf dem Dach des kleinen Hauses. Sterne. Sie sieht zwei Wege. Das Dao auflösen → sie stirbt, niemand ist mehr geschützt. Das Dao voll ausweiten → die Welt erstickt. **Es gibt keinen Mittelweg.** **Wei-Callback:** Sein bewusstes Opfer. Akzeptanz des Endes ist Befreiung. Eine Sternschnuppe. Wei hätte gesagt: "Wünsch dir was." | 6-07 |
+| P2 | **Pinch 2** | **Finale-Dilemma:** Auf dem Dach des kleinen Hauses. Sterne. Sie sieht zwei Wege. Das Dao auflösen → sie stirbt, niemand ist mehr geschützt. Das Dao voll ausweiten → die Welt erstickt. **Es gibt keinen Mittelweg.** **Wei-Callback:** ⚠ Erinnerungs-Beat zeigt spezifisch Weis RUHE im Sterbe-Moment (nicht Heroismus). Er hatte keine Angst. DESHALB konnte er loslassen. Parallele = Angst/Akzeptanz, nicht Heroismus. Akzeptanz des Endes ist Befreiung. Eine Sternschnuppe. Wei hätte gesagt: "Wünsch dir was." | 6-07 |
 | PT2 | **Plot Turn 2** | Sie liegt auf dem Dach. Die Überzeugung lockert sich. Nicht bricht — lockert. Wie ein Knoten, den niemand gelöst hat, weil er von innen gehalten wurde. Ihre Hände öffnen sich neben dem Körper. Handflächen zum Himmel. | 6-08 |
 | R | **Resolution** | Sie klettert vom Dach. Barfuß auf dem Gras. Stilles, tiefes Ausatmen. Etwas löst sich. Nicht alles. Aber genug. Drinnen: das Bett. Sie legt sich hin. Schläft. Zum ersten Mal seit sie sich erinnern kann — traumlos. Der Anfang vom Ende. | 6-09 |
 
