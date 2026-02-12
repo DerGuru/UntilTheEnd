@@ -15,13 +15,12 @@ Eine unsterbliche Frau, geboren in der Steinzeit und zur mächtigsten Existenz k
 - **Zielgruppe:** RoyalRoad, Progression Fantasy Leser, Anime/Manga Fans
 
 ## Pitch (Elevator)
-Sie ist älter als die Zivilisation. Mächtiger als Götter. Und sie will nur sterben. Aber das System – oder der Autor – lässt sie nicht. Als ein 12-jähriger Bauernjunge ihr folgt und nicht mehr weicht, findet sie zum ersten Mal seit Jahrtausenden einen Grund zu leben. Doch alles, was sie liebt, stirbt. Immer.
+Sie ist älter als die Zivilisation. Mächtiger als Götter. Und sie will nur sterben. Aber - etwas – lässt sie nicht. Als ein 12-jähriger Bauernjunge ihr folgt und nicht mehr weicht, findet sie zum ersten Mal seit Jahrtausenden einen Grund zu leben. Doch alles, was sie liebt, stirbt. Immer.
 
 ## USP (Unique Selling Points)
 1. **Weiblicher OP-MC** – unterrepräsentiert im Genre
-2. **Meta-Ebene** – Das "System" ist der Autor, 4. Wand wird durchbrochen
-3. **Emotionale Tiefe** – Nicht nur Power Fantasy, sondern existenzielle Fragen
-4. **XianXia aus Götter-Perspektive** – Sie hat das System durchgespielt
+2. **Emotionale Tiefe** – Nicht nur Power Fantasy, sondern existenzielle Fragen
+3. **XianXia aus Götter-Perspektive** – Sie hat die Kultivation durchgespielt
 
 ## Promise to the Reader (Genre-Vertrag)
 
