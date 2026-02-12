@@ -1,4 +1,4 @@
-# Schreibplan
+﻿# Schreibplan
 
 ## Rollen
 
@@ -35,11 +35,13 @@ Du hast sowohl diese internen als auch die externen Rollen innerhalb des Projekt
 
 ## Story-Struktur (für Planung & Analyse)
 
-Verwende diese dreistufige Kombination:
+Verwende diese 4-5 stufige Kombination:
 
 | Ebene | Struktur | Zweck |
 |-------|----------|-------|
-| **Gesamt** | 7-Point Structure | Definiert die 7 Schlüsselmomente (Hook, Plot Turn 1, Pinch 1, Midpoint, Pinch 2, Plot Turn 2, Resolution) |
+| **Gesamt** | 7-Point Structure (je einer pro Buch) | Definiert die 7 Schlüsselmomente (Hook, Plot Turn 1, Pinch 1, Midpoint, Pinch 2, Plot Turn 2, Resolution) |
+| **Buch** | 7-Point Structure (je einer pro Part| Definiert die Schlüsselmomente innerhalb jedes Buches |
+| **Part** | 7-Point Structure (je einer pro Kapitel) | Definiert die Schlüsselmomente innerhalb jedes Parts (Kapitel 1-3, 4-6, etc.) max 3 Kapitel pro Point der 7-Point Structure |
 | **Kapitel** | Scene-Sequel | Jede Szene: Goal → Conflict → Disaster; jedes Sequel: Reaction → Dilemma → Decision |
 | **Ergänzend** | Save the Cat! Beats | Füllt Lücken zwischen den 7 Points (Catalyst, Debate, Fun & Games, All Is Lost, etc.) |
 
@@ -51,22 +53,30 @@ Verwende diese dreistufige Kombination:
 - [x] **Kernidee definieren** – Logline erstellt
 - [x] **Thema festlegen** – "Was gibt dem Leben Sinn ohne Ende?"
 - [x] **Genre & Zielgruppe** – XianXia, Progression Fantasy, RoyalRoad
-- [x] **Protagonist(en)** – MC (unsterblich) + Wei (Bauernjunge)
-- [ ] **Antagonist/Konflikt** – Was steht dem Protagonisten im Weg?
+- [x] **Protagonist(en)** – Yun (unsterblich, Ich-Perspektive) + Wei (Bauernjunge)
+- [x] **Antagonist/Konflikt** – Aufsteigender Kultivator als Naturgewalt/Spiegel; kein klassischer Bösewicht
+- [x] **Narrative Perspektive** – Erste Person (Yun), retrospektiv erzählt an Xu Ran (B7 Part 1-4). Nach Xu Rans Abschied: **Wechsel zu enger 3. Person Präsens** bis zum Tod. Trigger-basierte Erinnerungen.
+- [x] **Scope Buch 1** – ~100k+ Wörter, episch, Cliffhanger-Ending
 
 **Artefakte:**
 - `Concept.md` – Logline, Thema, Genre, Pitch
 - `Characters.md` – Protagonisten, Antagonisten, Nebenfiguren (Steckbriefe)
 
 ### Phase 2: Struktur & Planung
-- [ ] **7-Point Structure** für jeden Handlungsstrang erstellen
+- [x] **7-Point Structure (Serie)** – Serien-Arc über 7 Bücher definiert
+- [x] **7-Point Structure (Buch 1)** – Detailliert ausgearbeitet
+- [x] **7-Point Structures (Bücher 2-7)** — Detailliert ausgearbeitet mit Erinnerungs-Arcs + Meta-Momenten + Sub-7PS (Part-Level) mit Kapitelzuordnungen.
+- [x] **Offene Fragen (Runde 2)** — 24 neue Fragen aus Sub-7PS-Arbeit identifiziert und interaktiv gelöst. Alle Entscheidungen in relevante Dateien eingearbeitet.
 - [ ] **Charakterbögen** – Wie verändert sich jede Hauptfigur?
 - [ ] **Kapitelübersicht** – Grobe Zuordnung: welches Kapitel deckt welchen Beat?
 - [ ] **Timeline-Synchronisation** (bei dualer Timeline) – Wo korrespondieren die Stränge?
 - [ ] **Recherche** – Weltenbau, historische Details, Fachthemen
 
 **Artefakte:**
-- `Outline.md` – 7-Point Structure über das ganze Buch nud dann noch mal pro 7-Point-Structure-Element (Hook, Pinch, Turn, Resolution) + Beat-Zuordnung. Das ergibt 7 "Parts" die aber im Buch selbst nicht als solche benannt werden müssen, sondern nur der internen Referenz dienen. Es erlaubt ausserdem, die Struktur zu visualisieren und sicherzustellen, dass alle notwendigen Beats abgedeckt sind.
+- `Outline.md` – **Index-Datei** mit Verweisen auf die einzelnen Outlines
+- `Meta-Outline.md` – Serien-Arc, 7-Point Structure über alle 7 Bücher, thematische Fäden
+- `Book1-Outline.md` – Buch 1 Detail (7-Point, Erinnerungen, Sterblichkeit)
+- `Book2-Outline.md` bis `Book7-Outline.md` – Je ein Outline pro Buch
 - `Character Arcs.md` – Entwicklungsbögen der Hauptfiguren
 - `Worldbuilding.md` – Setting, Regeln, historische Details
 - `Research/` – Ordner für Recherche-Notizen
@@ -86,8 +96,13 @@ Verwende diese dreistufige Kombination:
 - [ ] **Stil-DNA** beachten, aber nicht obsessiv – Konsistenz kommt später
 
 **Artefakte:**
-- `01 - Chapters/` – Kapitel-Dateien nach Schema `<Part-Nr:[1-7]>-<Element-Nr:[1-7]]>-<KapitelImElement:2>-Titel.md`
-  z.B. `1-1-01-Hook1.md`, `1-1-02-Hook2.md` für den ersten Hook, `1-2-01-Pinch1.md`  für den ersten Pinch, etc. bis `7-7-??-ResolutionX.md` für die finale Auflösung. Das erlaubt eine klare Zuordnung der Kapitel zu den strukturellen Elementen und erleichtert die Navigation während der Überarbeitung.
+- `01 - Chapters/` – Kapitel-Dateien nach Schema `<Part:[1-7]>-<Kapitel:zweistellig>-Titel.md`
+  - **Struktur:** 7 Parts × 7-Point-Structure pro Part × 1-3 Kapitel pro Sub-Punkt
+  - Ergibt ca. 70-90 Kapitel bei ~1000-1500 Wörtern pro Kapitel (~100k+ gesamt)
+  - Part 1 = Hook, Part 2 = Plot Turn 1, Part 3 = Pinch 1, Part 4 = Midpoint, Part 5 = Pinch 2, Part 6 = Plot Turn 2, Part 7 = Resolution
+  - z.B. `1-01-ForestEncounter.md`, `2-03-HerName.md`, `7-02-Revelation.md`
+  - Alle Kapitel aus Yuns Ich-Perspektive
+  - Erinnerungen sind in die Gegenwartskapitel eingewoben (trigger-basiert), keine separaten Kapitel
 - `Draft_Notes.md` – Notizen während des Schreibens (Ideen, Probleme, Inspirationen)
 
 ### Phase 5: Revision

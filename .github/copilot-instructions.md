@@ -31,11 +31,10 @@ Beachte die Stil-Vorgaben aus diesen Dateien:
 
 ## Formatierung
 - Verwende Markdown-Formatierung
-- Kapitel-Header folgen dem Schema: `## XX-Y-ZZ-Titel`
-  - XX = Reihenfolge, Y = Timeline (1=Ming, 2=Hao, 3=Part3), ZZ = Kapitelnummer
 
 ## Allgemein
 - Sei direkt und prägnant
 - Schlage Verbesserungen vor, aber ändere nicht ohne Nachfrage
 - Bei Unsicherheit: Frag nach statt zu raten
 - Der Meta-Twist (System = Autor) ist zentral – behalte ihn im Hinterkopf
+- Erstelle Dateien mit UTF-8 BOM Kodierung, damit sie in allen Editoren korrekt angezeigt werden

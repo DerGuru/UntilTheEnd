@@ -1,60 +1,32 @@
-# Until The End – Outline
+﻿# Until The End – Outline (Index)
 
-## Serien-Übersicht
+> **Diese Datei dient als Übersicht.** Die Details befinden sich in den einzelnen Outline-Dateien.
 
-### Langzeit-Arc
+---
+
+## Dateien
+
+| Datei | Inhalt |
+|-------|--------|
+| **Meta-Outline.md** | Serien-Arc, 7-Point Structure über alle 7 Bücher, thematische Fäden, emotionale Arc |
+| **Book1-Outline.md** | HOOK — Depression → Hoffnung. Yun trifft Wei. Detaillierte 7-Point Structure. |
+| **Book2-Outline.md** | PLOT TURN 1 — Die Welt reagiert. Wei wächst. |
+| **Book3-Outline.md** | PINCH 1 — **WEI STIRBT.** |
+| **Book4-Outline.md** | MIDPOINT — Weiterleben. Shift. Hinterfragen, was sie am Leben hält. |
+| **Book5-Outline.md** | PINCH 2 — Maximum Druck. Ihr Unbewusstes wehrt sich. |
+| **Book6-Outline.md** | PLOT TURN 2 — **META-TWIST.** SIE ist es selbst. Erkenntnis am Midpoint. |
+| **Book7-Outline.md** | RESOLUTION — Reality Warping → Sterblichkeit → Friedlicher Tod. |
+
+---
+
+## Quick Reference: Serien-Beats
+
 ```
-Depression → Hoffnung (Junge) → Verlust → Weiterleben → System-Geheimnis → Akzeptanz → Sterblichkeit → Friedlicher Tod (~1000 Jahre später)
+B1: Depression → Hoffnung (Wei)
+B2: Wachstum & Gefahr (Welt kommt zu ihnen)
+B3: WEI STIRBT → Verlust
+B4: Weiterleben → Richtung finden → herausfinden, was sie am Leben hält
+B5: Maximum Druck → ihr Unbewusstes wehrt sich (= SIE wehrt sich gegen Erkenntnis)
+B6: META-TWIST: SIE ist es selbst → Alles wird reframed
+B7: Reality Warping lernen → Sterblichkeit verinnerlichen → ~1000 Jahre → Friedlicher Tod
 ```
-
----
-
-## Buch 1: [Titel TBD]
-
-### 7-Point Structure
-
-| Beat | Event | Kapitel |
-|------|-------|---------|
-| **Hook** | Sie streift durch den Wald, in Gedanken, Abwärtsspirale. Rettet den Jungen nebenbei. | 1 |
-| **Plot Turn 1** | Der Junge weicht ihr nicht. Sie lässt ihn gewähren. Er beginnt, sie aus der Spirale zu holen. | 2-4 |
-| **Pinch 1** | Erste Gefahr für den Jungen? Oder: Flashback zu ihrer Vergangenheit? | ? |
-| **Midpoint** | Sie akzeptiert ihn. Hat wieder etwas zu verlieren. | ? |
-| **Pinch 2** | Größere Bedrohung. Sie kann ihn nicht ewig beschützen. | ? |
-| **Plot Turn 2** | Er muss selbst handeln. Sie "enabled" ihn nur. | ? |
-| **Resolution** | Er überlebt (Buch 1). Sie hat wieder einen Grund. Aber: Ticking Clock. | Ende |
-
-### Parallel-Arc: Ihre Vergangenheit
-- Flashbacks zu Schlüsselmomenten
-- Steinzeit-Ursprung
-- Warum sie aufgegeben hat
-- Die Legenden, die über sie erzählt werden
-
----
-
-## Buch 2+ (Skizze)
-
-### Mögliche Arcs
-- Der Junge wächst, kommt in größere Schwierigkeiten
-- Ihre Identität wird bekannt → Sekten/Mächte wollen sie
-- System-Geheimnis vertieft
-- Konfrontation mit anderen Unsterblichen?
-
----
-
-## Finales Buch
-
-### Resolution
-1. Sie versteht das System (den Autor)
-2. Sie akzeptiert das Leben
-3. Sie wird sterblich
-4. Lebt noch ~1000 Jahre
-5. Stirbt friedlich, körperlich gealtert
-
----
-
-## Offene Struktur-Fragen
-
-- [ ] Wie genau beginnt Kapitel 1? (Ihre Perspektive oder Weis?)
-- [ ] Wie werden Flashbacks integriert? (Eigene Kapitel? Eingestreut?)
-- [ ] Wie viele Bücher in der Serie?
-- [ ] Wann stirbt der Junge? (Buch 1 Ende? Später?)
