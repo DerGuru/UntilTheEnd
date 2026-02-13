@@ -189,6 +189,20 @@ Die Serie selbst folgt der 7-Point Structure. Jedes Buch = ein strukturelles Ele
 | 6 | Until The End: **Mirrors** |
 | 7 | Until The End: **Clouds** |
 
+### Veröffentlichungs-Struktur: 4 Bände
+
+Die 7 Bücher werden in 4 Bände konsolidiert (~108-114k Wörter / ~12h Audiobook pro Band):
+
+| Band | Titel | Bücher | Wörter (ca.) | Inhalt |
+|------|-------|--------|-------------|--------|
+| I | **Kindle** | Embers + Roots | ~108k | Yun trifft Wei, wird aus ihrer Melancholie gerissen. Weis Qi wächst unkontrolliert. |
+| II | **Silence** | Silence | ~114k | Wei stirbt. Maximum Impact. Yun stürzt zurück. |
+| III | **Rift** | Echoes + Fractures | ~114k | Yun allein. Leere → Suche → Selbstsabotage → Fast-Erkenntnis. Realität bricht auf. |
+| IV | **Arrival** | Mirrors + Clouds | ~113k | Meta-Twist: System = SIE. Akzeptanz. Sterblichkeit. Ankunft. |
+
+**Titelkette:** *Kindle — Silence — Rift — Arrival*
+Etwas wird entfacht. Es verstummt. Es reißt auf. Sie kommt an.
+
 ### Serien-Motor (Bücher 2-6)
 Kombination aus zwei Strängen, die sich gegenseitig verstärken:
 - **Weis Wachstum** (B2-3): Sein Aufstieg (unabsichtlich durch Yun enabled) zieht Aufmerksamkeit

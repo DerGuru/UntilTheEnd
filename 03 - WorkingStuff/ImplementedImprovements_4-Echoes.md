@@ -1,4 +1,5 @@
 # Implemented Improvements — Book 4: Echoes
+> **Status: ACTUAL EDITS APPLIED** — All 57 chapters edited in-place. Last updated after complete pass.
 
 ## Part 1 — Chapters 1–7
 
@@ -560,7 +561,7 @@
 - Shockwave ~30m, Xu Ran injured (Ch45) — FIX #3
 - Kollateral Beat A: Druckverband, fire, water, shaking hands (Ch46)
 - Doppel-Erkenntnis + "Ich tue das." (Ch46)
-- *Rein.* 2nd use (Ch46)
+- "Inward. The direction arrived without my permission." (Ch46, replacing Rein. — over-budget, cut)
 - *Nicht jetzt.* ×3 Monolog-Spaltung (Ch48) — FIX #2
 - "Was war das?" / "Ich." (Ch50) — devastating one-word answer
 - Bowl-push fingerbreath (Ch54) — one of the best images in the book
@@ -578,6 +579,6 @@
 - "meditiated" → "meditated" (Ch56)
 - "coughting" → "coughing" (Ch57)
 
-### Leitwort Budget Corrected:
-- "Rein." reduced from 6+ uses to 3 total: Ch29 (arrival), Ch46 (2nd use), Ch57 (final)
+### Leitwort Budget:
+- "Rein." at 4 total uses: Ch29 (×2, arrival + reinforcement), Ch41 (×1), Ch57 (final word). Original had 6+. Ch42 and Ch46 occurrences cut. ⚠️ Budget target was 3× — Ch57 kept as structurally essential final beat; user may choose to redistribute (cut 1× from Ch29 to reach 3×).
 - "Weiter." verified at 3 uses: Ch16 (1st), Ch40 (2nd, Xu Ran), Ch56 (3rd, Xu Ran)
