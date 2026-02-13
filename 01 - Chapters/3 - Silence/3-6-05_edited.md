@@ -1,0 +1,123 @@
+# Chapter 48
+
+The third knock came.
+
+I heard it from the wall. Felt it. The vibration — precise, small, the quiet efficiency of a commander who understood that commands were most effective when they were small.
+
+Three knocks. Three phases. The third phase was the trap.
+
+---
+
+South-west. Smoke.
+
+A building — Lao Chen's forge, maybe, or the storage shed beside it — burning. Not qi-fire but physical fire, set deliberately.
+
+Wei saw the smoke. His head turned. The reflex I'd watched for months — the boy who could not see a problem without running toward it.
+
+Wei looked at the settlers. The men at the wall. He pointed south. "Go."
+
+They went. Four of them. Toward the fire. With buckets, with tools.
+
+First knock. First response. Wei had split his force.
+
+---
+
+North. Screaming.
+
+Not combat screaming — civilian. High-pitched, panicked, the sound humans produced when they believed they were about to die.
+
+The north flank. Two of Guo's people had pushed around the barrier's edge — the gap where the northern wall met the hillside, where I had not extended the signs because the hillside itself was the defense.
+
+They had found the gap.
+
+Civilians in the north quarter. Two families.
+
+Wei heard it.
+
+He looked east — the remaining attackers, still pressing. He looked north — the screaming.
+
+He ran north.
+
+Alone. The settlers at the east gate: not enough to hold without him but enough to stand.
+
+Second knock. Second response. Wei was now separated from the east gate.
+
+He reached the north quarter. Engaged. Two sect-cultivators against a fourteen-year-old on depleted reserves. He was faster than they expected. Always faster. He disabled one in seven seconds, drove the other back beyond the barrier line.
+
+The civilians: safe. Shaking, crying, alive.
+
+Wei turned back toward the east gate.
+
+And then—
+
+---
+
+East. Beyond the gate. Fifty paces into the open ground.
+
+Moaning.
+
+A figure. In the undergrowth. Hunched, clutching their side. The posture of a wounded person who had crawled to safety.
+
+Wei stopped.
+
+The distance — fifty paces from the gate, eighty from his position. Open ground. Beyond the barriers.
+
+The sound: a person in pain. And a person in pain was a problem. And problems were things Wei solved by arriving.
+
+Wei ran.
+
+Out through the gate. Into the open. Toward the figure. Alone — completely alone, separated from the settlers, from the walls, from every defensive position.
+
+I moved. Along the wall. Fast. Trying to see what I already knew — three knocks was the trap.
+
+Wei reached the figure. Knelt. Hands reaching — the gesture of aid, the instinct Guo had identified and had placed a body to trigger.
+
+He looked down.
+
+Clean boots.
+
+On a "scout" who had been crawling through dirt. Clean boots, polished almost. Real scouts had dirt-covered boots, bark, blood. These boots had touched the ground minutes ago and the minutes had not included crawling.
+
+*Trap.*
+
+Wei's hand went to his sword. But the false scout was already reaching under his coat. Not for a weapon. For a signal amulet. A pulse of qi: bright, directed — *here, now, he's isolated.*
+
+Four signatures converging. From the treeline. From positions held patient and hidden, waiting for the third knock, the beacon, the boy alone in open ground.
+
+Wei stood. Sword up. Core pulsing dim-bright-dim. Reserves that were not reserves but remnants.
+
+Four cultivators. Four angles. The containment was now a kill-box.
+
+And then — from behind Wei, from the gate, from the settlement — a small figure running.
+
+Shen.
+
+Frau Huang's son. Twelve. Who had been pushed toward the escape route by his mother's hands. Who had not stayed. Who had followed Wei through the gate because following Wei was what he did.
+
+Fifteen paces in front of Wei. In the open ground. Between Wei and the converging signatures.
+
+In the crossfire.
+
+*Man dreht sich um und sie sind weg.*
+
+Frau Huang's words. At the erdrutsch. You turn around and they're gone.
+
+The boy stood there. Small. Confused. Looking at Wei with the expression of someone who had followed a hero into a place where following was dying.
+
+Wei saw the child. Saw the attackers. Both.
+
+Four signatures: closing. Ten seconds.
+
+The boy: standing. Frozen.
+
+Wei's core: flickering. The light at his sternum — visible, bright, the countdown now counting in heartbeats.
+
+<!-- Edit Notes:
+EISERNE REGEL ENFORCED:
+1. [CRITICAL] Deleted "Part 3, Chapter 26: a man pinned under a tree" meta-reference → replaced with general "the sound: a person in pain."
+2. [CRITICAL] Deleted "Frau Huang's words. Part 4. At the erdrutsch" → "Frau Huang's words. At the erdrutsch." (removed "Part 4")
+3. [HIGH] E:R improved ~35:65 → ~70:30: stripped all analytical cascades (commander cascade, acceleration cascade, reflex cascade, barrier cascade, moaning cascade, Wei-isolated cascade, boot cascade, convergence cascade)
+4. [HIGH] Deleted 10× "specific" tics (vibration, accelerant, frequency, velocity, force, posture, surface, pattern, configuration, knowing)
+5. [MED] Broke 12+ "whose" chains
+6. PRESERVED: Three-knock structure (CRITICAL), fire/smoke, Wei splits force, north screaming + engagement, false scout CLEAN BOOTS trap (CRITICAL), signal amulet, 4 converge from treeline, Shen follows Wei (CRITICAL — Frau Huang's son in crossfire), "Man dreht sich um und sie sind weg" callback (CRITICAL), all dialog ("Go"), ending cliffhanger
+-->

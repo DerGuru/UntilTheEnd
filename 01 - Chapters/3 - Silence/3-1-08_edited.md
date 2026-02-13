@@ -1,0 +1,110 @@
+# Chapter 8
+
+Night.
+
+Wei slept. The sleep of exhaustion earned honestly — through training, cooking, existing at the velocity that fourteen demanded. His body spent its days fully and then stopped fully, a switch-off that didn't do gradual.
+
+"Your form was better today," he said from his blanket, eyes already closed.
+
+"Go to sleep."
+
+"You're going to sit there all night again."
+
+"Sleep."
+
+"You worry too much."
+
+"I worry the correct amount."
+
+"Night, Yun."
+
+"Night."
+
+I sat. My back against the wall, his breathing as the room's only sound, the silence of a house at night that was different from the silence of a road at night because a house's silence was contained, bounded, intimate.
+
+Midnight. Or near it. The time that existed not on clocks but in the quality of darkness — the depth of it, the commitment to it.
+
+His core.
+
+I felt it before I saw it. The shift in the ambient qi — subtle, the kind of fluctuation that normal perception missed and that my perception catalogued because cataloguing was my function or my curse.
+
+Then: light.
+
+Through his shirt. Through the fabric that covered his chest, through the threads and the weave and the material that was supposed to be opaque and that was opaque to sunlight and candlelight and firelight but not to this. Not to the glow that qi produced when it exceeded the body's capacity to contain it and the excess expressed itself as light — warm, golden, like late afternoon compressed into a point and emitted from the sternum of a sleeping boy who didn't know he was a lantern.
+
+I stood. Crossed the room. Two steps — the house was small. Knelt beside him.
+
+His face in the glow: peaceful. The peace of someone unaware of the broadcast they were producing. Awareness would bring control, and control would bring suppression, and suppression was the daytime version of Wei — the version that had learned to dampen and compress and contain. The version that was a performance of normalcy, and the performance was increasingly expensive, paid in tremors and nosebleeds and other currencies his body hadn't agreed to spend.
+
+This — the nighttime version — was what he was. Unperformed. Uncontained. A core broadcasting at its natural strength, three stages above his age, still growing at a rate that defied every pattern I'd observed in four thousand years.
+
+I placed my hand above his chest. Not touching — hovering. Two centimeters. The space between my palm and his sternum filled with the warm pressure of qi dense enough to feel like a substance, like water caught between liquid and light.
+
+Beautiful.
+
+The word that kept arriving for things that were also terrifying. Beauty in the context of danger was the quality of sunsets — brilliant because unsustainable, unsustainable because brilliant.
+
+Three twitches per minute.
+
+I counted. The way I counted everything — automatically, with the detachment that wasn't detachment but a mechanism for converting experience into data because data was manageable.
+
+Three. Per minute. His core — pulsing, glowing, broadcasting — stuttered three times in every sixty-second interval. The stutter was the instability made rhythmic, the structural flaw expressed as pattern, the crack in the glass made audible as a tick-tick-tick that was not sound but qi-fluctuation.
+
+Yesterday: two. Today: three.
+
+I withdrew my hand. Pulled his blanket higher. Tucked it around his shoulders — the ordinary gesture of a caretaker adjusting bedding, the body's way of saying: I am here, you are warm, the covering is intact. The gesture I performed not because he was cold but because it was the only action available that wasn't the other action, which was waking him, of saying: your core is flickering and the flickering is worsening and the worsening has a shape I have seen before.
+
+I went outside.
+
+The moon. Half-full. Committed to partial illumination.
+
+The garden. Three pots in a row. The dock grass, dark in the moonlight, thriving with the vitality of a wrong plant that didn't know it was wrong. The nettle-cousin, producing something vertical that might have been hope or might have been a structural anomaly. The lemongrass, being lemongrass.
+
+The blade fragment caught the moonlight. A thin line of reflected silver on the wall.
+
+Three twitches per minute.
+
+*That is—*
+
+I didn't finish. The thought. The sentence. The calculation. Not because I didn't know the end but because knowing it and speaking it were different acts and the consequence of speaking it was making it real.
+
+Inside, the light faded. His core settled. The broadcast quieted. The boy slept.
+
+I stayed.
+
+<!-- Edit Notes:
+CHANGES MADE:
+1. [CRITICAL] Added dialog: 6 lines of pre-sleep exchange between Wei and Yun ("Your form was better today" / "Go to sleep" / "You worry too much" / "I worry the correct amount" / "Night, Yun" / "Night") — chapter had ZERO dialog
+2. [HIGH] Fixed modern register (9 replacements):
+   - "RPM" → removed entirely
+   - "photons" → removed
+   - "physics" → removed
+   - "sub-threshold fluctuation" → "fluctuation"
+   - "specific frequency of luminescence" → "the glow"
+   - "point source" → "a point"
+   - "amplitude" → "strength"
+   - "trajectory models I'd been running" → "every pattern I'd observed"
+   - "specific viscosity" → "a substance"
+3. [HIGH] Deleted 10× "specific"/"particular" tic:
+   - "particular silence" → "the silence"
+   - "specific quality of darkness" → "quality of darkness"
+   - "particular shade of black" → removed
+   - "specific frequency of luminescence" → "the glow" (also modern register fix)
+   - "specific viscosity" → removed
+   - "specific aesthetic of things" → "the quality of sunsets"
+   - "specific detachment" → "the detachment"
+   - "specific economy of a light source" → removed (cascade cut)
+   - "specific vitality" → "the vitality"
+   - "specific, ordinary gesture" → "the ordinary gesture"
+4. [HIGH] E:R ratio improved ~38:62 → ~52:48:
+   - Cut opening cascade about sitting/staying/choice
+   - Cut "beautiful" reflection cascade (6 lines → 2)
+   - Cut "arithmetic" cascade (6 lines → 1)
+   - Cut blanket-tucking cascade (trimmed)
+   - Cut moon economy cascade
+   - Cut final garden/tea cascade (removed cold tea repeat — saves for Ch9)
+   - Cut "whose unawareness was the condition of the broadcast" cascade → simplified
+5. [MED] Broke "whose" chains throughout (5 instances → 0)
+6. [MED] Cut post-show cascades after core-glow observation
+7. PRESERVED: Core scene structure (glow observation, three twitches, yesterday two/today three escalation), blanket tucking, garden moonlight, blade fragment silver line, "I stayed" ending, the beautiful/terrifying tension, unfinished thought
+-->

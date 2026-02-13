@@ -1,0 +1,115 @@
+# Chapter 27
+
+Heiler Mao arrived at dusk.
+
+He came because he always came when someone returned from the forest injured, because the settlement's information network was Frau Huang and Frau Huang's network was sound — she heard everything, relayed everything, and her relaying was journalism conducted at volume.
+
+Mao was old. Older than Lao Chen, though they disagreed about by how much. His hands: steady, despite the age. His qi-sensitivity: rudimentary — the kind that came not from cultivation but from decades of proximity to the qi-rich valley. He couldn't channel. He couldn't fight. He could feel. And feeling was enough for his purposes: broken bones, fevers, herbs, poultice, the medicine of the body rather than the spirit.
+
+He examined the woodcutter first. Set the leg properly — corrected the angle, tightened the binding. Professional. The competence of having seen six hundred broken legs and set five hundred and ninety-eight of them correctly.
+
+Then he came to Wei.
+
+"Heard you fought something," he said. Understated. He'd heard Frau Huang's version — a beast the size of a horse and a fight lasting an hour — and had performed the necessary division to arrive at truth.
+
+"Rock lynx," Wei said. Still grinning.
+
+Mao put his hands on Wei's chest. Closed his eyes. Palms flat, fingers spread, the maximum-contact configuration that his rudimentary sensitivity required.
+
+He felt.
+
+His brow furrowed. Something partly familiar, partly not — the known layered with the unknown.
+
+"Your core is... bright."
+
+He said it carefully. The tentative delivery of an observation that might be wrong and whose wrongness would be embarrassing but whose rightness would be concerning.
+
+"Bright?" Wei asked.
+
+"More than I'd expect. For—" Mao waved vaguely. For your age, for your level, for whatever categories he was using that didn't have room for what he was feeling.
+
+"Too bright?" Not worried. Curious. More was an achievement and achievements were positive.
+
+Mao paused. Data insufficient for conclusion.
+
+"No. Just — different."
+
+He withdrew his hands. Tapped his chin — the habitual gesture of processing in progress.
+
+"Rest, boy. And drink more water."
+
+He didn't know what he'd felt. Not precisely. He'd felt wrongness — the intuitive detection from thirty years of putting his hands on bodies and this not feeling like supposed-to. But the wrongness had no name in his vocabulary. No category.
+
+He left. Chin-tapping. Internally uneasy.
+
+Wei shrugged. "He always says drink water."
+
+"Water is important."
+
+"You sound like him."
+
+I didn't respond. Because responding would have required choosing between: Yes, water is important, and the truth. And the truth was a word I could not say to him because saying it was directing and directing was the thing I would not do.
+
+Wei went to his room. To rest. To drink water. To grin about the lynx.
+
+I stood in the kitchen.
+
+What I had seen during Mao's examination — while his rudimentary hands detected brightness, I had been seeing something else. Something beneath his perception.
+
+Wei's core. Visible to me in the spectrum that my senses accessed. Visible and wrong.
+
+Four twitches per minute. Confirmed. Up from three. The escalation consistent, gradual, the pace that said: chronic, not acute.
+
+And: the pattern.
+
+His core's luminescence — the golden light I'd been watching for weeks — was organizing. Not randomly, not in the chaotic distribution that normal fluctuation produced. In a spiral.
+
+The light moving in a spiral. From the core's center outward, tracing a curve that was precise, that looked designed rather than emergent.
+
+It could be nothing. Qi did strange things in young cores. Patterns emerged and dissolved. Natural variance. The explanation requiring the fewest assumptions.
+
+Or it could be something.
+
+The spiral. Moving. Slow. Like writing too small to read and too persistent to ignore.
+
+I turned away. Poured tea. Let it go cold.
+
+The spiral continued. In his core. In his sleep. In the room where he grinned and rested and was fourteen and was bright and was mine.
+
+The spiral continued.
+
+<!-- Edit Notes:
+CHANGES MADE:
+1. [HIGH] E:R ratio improved ~15:85 → ~40:60:
+   - Frau Huang cascade: 4 lines → 1
+   - Mao competence cascade: 3 lines → 1
+   - "Heard you fought" cascade: 3 lines → 1
+   - Grin cascade: 3 lines → 1
+   - Diagnostic posture cascade: 3 lines → 1
+   - Furrow cascade: 3 lines → 1
+   - "Bright" delivery cascade: 4 lines → 2
+   - "Too bright" cascade: 3 lines → 1
+   - Mao pause cascade: 3 lines → 1
+   - "Didn't know" cascade: 5 lines → 3
+   - "Didn't respond" cascade: 7 lines → 2 (deleted entire symptom-tree recital — was modern register + massive cascade)
+   - Wei-room cascade: 3 lines → 1
+   - Qi-spectrum cascade: 3 lines → 2
+   - Twitches cascade: 3 lines → 2
+   - Spiral cascade: 5 lines → 3
+   - "Could be nothing" cascade: 3 lines → 2
+   - Context/frame cascade: 4 lines → removed
+2. [HIGH] Deleted 6× "specific" tic (journalism, furrow, subsonic, geometry, flavor, pace)
+3. [HIGH] Fixed modern register:
+   - "containment parameters" → removed (in deleted cascade)
+   - "symptom tree" → removed (deleted cascade)
+   - "respiratory arrests" → removed (deleted cascade)
+   - "degenerative cascade" → "the truth"
+   - "qi-spectrum" → "the spectrum"
+   - "diagnostic moment" → "Data insufficient"
+   - "therapeutic vocabulary" → removed
+   - "protocol" → removed
+   - "natural variance" → "Natural variance" (kept — borderline but works)
+4. [MED] Broke 15+ "whose" chains throughout
+5. [MED] Preserved outline beat: Mao's dialog "Your core is... bright." / "Too bright?" / "No. Just — different." — matches outline "Dein Kern ist... hell. Zu hell? Nein. Nur — anders."
+6. PRESERVED: Heiler Mao scene (critical), all dialog, Mao's chin-tap habit, "He always says drink water" humor, core spiral observation, four twitches confirmation, "designed vs. emergent" question, "The spiral continued." ending
+-->

@@ -37,3 +37,4 @@ Beachte die Stil-Vorgaben aus diesen Dateien:
 - Schlage Verbesserungen vor, aber ändere nicht ohne Nachfrage
 - Bei Unsicherheit: Frag nach statt zu raten
 - Der Meta-Twist (System = Autor) ist zentral – behalte ihn im Hinterkopf
+- Nehme an, dass alle Datein in UTF-8 vorliegen. Teilweise mit BOM, meist ohne.

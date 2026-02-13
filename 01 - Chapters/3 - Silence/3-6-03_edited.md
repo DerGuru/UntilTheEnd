@@ -1,0 +1,100 @@
+# Chapter 46
+
+The fourth attacker came from the south.
+
+Not through the east gate — around. The flanking position I'd tracked: two signatures circling. One held position. The other broke toward Wei's right, using the wall's curve as cover.
+
+Wei felt it. Turned. One hand on sword, one projecting a qi-pulse that caught the flanker mid-approach and slammed him into the wall. Stone cracked. The attacker slid down. Did not get up immediately.
+
+Wei turned back east. The specialist had regrouped. Two more behind him — fresh, unhurt. Reserves.
+
+They came together. Two at Wei's front, one working left. Coordinated — complementary timing designed to force split attention.
+
+Wei met them.
+
+His movement changed. The transition from individual combat to multiple-opponent awareness — wider stance, peripheral vision, the sword working arcs instead of lines. Each cut served two purposes: offensive and defensive, the economy of motion that was the only viable strategy when outnumbered.
+
+He caught one. Blade across the forearm — deep, debilitating. The attacker dropped his weapon. Retreated.
+
+The second pressed. Hard. Forcing Wei backward, step by step, toward the gate. The third circled.
+
+Wei's core flared.
+
+Brighter. Pulsing. The qi-clock ticking. Each burst of full-power combat accelerating what was already accelerating. He was burning his core and the burning was the fighting and the fighting was the burning.
+
+He broke the press. A surge — raw, unrefined. Cost more than it achieved. But it worked. The attacker stumbled. Wei followed. Cut. The attacker fell.
+
+The third: arrived. Engaged. Wei blocked. Countered. Missed.
+
+The attacker hit him. Side. Below the ribs. Qi-enhanced impact. Wei staggered. One knee.
+
+He got up.
+
+Blood at the corner of his mouth. He got up and the getting up was what defined him. He would always get up. Until he couldn't.
+
+He killed this one.
+
+Not by choice. The angle — the attacker lunging as Wei rose, trajectories converging, Wei's sword up in defense that became offense as momentum carried the attacker forward into the edge. Through the qi-guard. Through.
+
+The attacker's eyes: surprised.
+
+Wei's face. Looking at the man sliding off his blade. The moment when a boy who had been fighting with controlled precision crossed the line between those two categories. A crossing that was permanent.
+
+He pulled the blade free. Turned. More coming.
+
+From the east, from the positions Guo had arranged: more. Fresh bodies rotating into contact. The attrition that relied on one fact — Wei was one, and one had limits.
+
+---
+
+The sound reached me from the edge.
+
+Not the combat — behind it. A rhythm. Barely audible. Tapping.
+
+*Knock.*
+
+One. Against wood or bone.
+
+*Knock.*
+
+Two.
+
+I waited for the third.
+
+It did not come. Not yet.
+
+Two knocks. Two phases. The frontal assault. The flanking. Both active. Both achieving their purpose — not victory but expenditure. Making Wei burn his reserves. Spending the finite resource that was accelerating toward empty.
+
+Guo was at the edge. Invisible. Patient. Counting.
+
+Not Wei's kills. Not his own losses.
+
+Wei's flares.
+
+Each core-burst: counted. Each discharge: noted. A commander who understood that the target was not the boy's skill but the boy's fuel. And the fuel was running out. And running out was the strategy.
+
+I could feel Wei's core from the west wall. The oscillation — bright, dim, bright, dim — each peak lower than the last, each trough deeper. The curve I'd tracked for weeks, compressed now into minutes.
+
+He was winning every fight and losing the war.
+
+And the war was inside him.
+
+And inside him was the place I had chosen not to go.
+
+<!-- Edit Notes:
+EISERNE REGEL ENFORCED — No flashbacks, memories, or explanations.
+1. [HIGH] E:R ratio improved ~45:55 → ~70:30:
+   - Flanking cascade: 3 lines → 2
+   - Multiple-opponent cascade: 4 lines → 2
+   - Core-flare cascade: 4 lines → 2
+   - Getting-up cascade: 3 lines → 2
+   - First-kill cascade: 4 lines → 2
+   - Face cascade: 4 lines → 2
+   - More-coming cascade: 3 lines → 1
+   - Knock cascade: kept (suspenseful)
+   - Strategy cascade: 4 lines → 2
+   - Counting cascade: 4 lines → 2
+   - Oscillation cascade: 3 lines → 2
+2. [HIGH] Deleted 7× "specific" tic (transition, intensity, geometry, moment, attrition, surface, accounting)
+3. [MED] Broke 10+ "whose" chains
+4. PRESERVED: 4th attacker (south flanking), multiple-opponent stance shift, first kill "Not by choice" (CRITICAL — accidental), Guo counting flares (attrition strategy), knock pattern (2 of 3), oscillation curve, "winning every fight and losing the war" (CRITICAL), "inside him was the place I had chosen not to go" ending (CRITICAL)
+-->

@@ -1,0 +1,81 @@
+# Chapter 52
+
+I stood up.
+
+Slowly. The way someone stood when the thing they were lifting was not their body but the weight of everything their body contained. Slowly, because slowly was the only available speed.
+
+I stood.
+
+The silence held. The world without sound — persistent, total. Not the world being quiet but my perception refusing the world's noise.
+
+I stood.
+
+Under my feet: the grass. Green. Late-summer settlement grass that had been walked on by settlers and animals and children for years. Alive because grass was alive.
+
+It died.
+
+Not metaphorically. Under my left foot: brown. Spreading outward from the sole like a stain. Under my right foot: the same. Brown, dry — plant tissue exposed to qi that was not radiation but grief expressed as energy expressed as destruction.
+
+The circle widened. Five paces. Ten. Fifteen. Dying in a radius — outward from where I stood. The qi leaving my body the way heat left a furnace: through every surface, in every direction, without intention.
+
+Twenty paces. The flowers at the edge of the communal garden: wilting. Stems bowing. Petals falling. The small herbs along the path: curling inward, browning.
+
+Twenty-five. Thirty.
+
+Not the entire settlement. Not the world. A radius. Limited by limits I possessed — the only thing between the dying and everything dying.
+
+The settlers felt it.
+
+The man by the well — one who had stood at the wall with farming tools — staggered. His hand: on the well's edge. His face: pale, then green. He bent, doubled over. Nausea. The response of a human body exposed to qi-emission at a frequency human systems rejected because rejecting was surviving.
+
+Another. A woman by the north wall. Blood in her mouth — not from injury but from the capillary response that qi-saturation produced in untrained bodies. She spat. Red. Looked at it. Looked at me.
+
+The expression on her face.
+
+Not anger. Not understanding. A person seeing something they could not categorize — a woman standing in a circle of dead grass whose standing was the cause of the dead grass.
+
+Another man: on his knees. Not praying — failure of orientation. Balance disrupted at high frequencies. He couldn't tell up from down. His hands: on the ground. Searching.
+
+The air: heavy. Metallic. Blood and ozone and something older, something predating this century — hanging in the atmosphere like a fact.
+
+I was not doing this. I was. Both. The distinction between intention and expression being the distinction between murder and weather and the weather was: this.
+
+I stood.
+
+The dead grass: spreading. The nausea: spreading. The blood-taste: spreading. Each one a symptom of the same cause and the cause was me. Standing in the middle of a dying circle in a grey morning beside a dead boy with torn hands.
+
+The settlers who were close enough: moved away. Not running — staggering, crawling. They moved away from me the way animals moved away from fire — not because fire was hostile but because fire was fire and fire's nature included burning.
+
+No one approached the body. No one approached me. The circle: isolating. The dead grass: a border. The border: mine.
+
+I existed in the circle.
+
+The silence. The dead grass. The spreading radius.
+
+Shen — the boy, Frau Huang's son — was outside the circle. Fifteen paces beyond the edge. Sitting on the ground. Crying — soundless, in my perception. His mouth: open. His hands: over his ears. Whether the sound was too much for him or the silence was too much for him was a distinction I could not make.
+
+I stood in the dead grass.
+
+Holding nothing. Touching nothing. Looking at the body I had not touched because touching was the thing I denied and the denial still held because denial was the only structure remaining. I will not collapse into this. I will not become the version that collapses. I will stand. In dead grass. In silence.
+
+Standing.
+
+<!-- Edit Notes:
+EISERNE REGEL ENFORCED — Verdorren (qi-circle/grief radiation) chapter:
+1. [HIGH] Deleted 10× "specific": green, cellular death, geometry, death-curl, physical response, expression, apparatus, taste, retreat, duration (+ "neurological output" from biomechanical passage)
+2. [HIGH] E:R maintained ~65:35 (mostly event/perception — appropriate for EISERNE REGEL):
+   - Standing cascade: cut "the biomechanical fact of upright bipedal movement"
+   - Silence cascade: trimmed to 2 lines
+   - Dying cascade: kept core visual, cut "specific cellular death of plant tissue exposed to qi-radiation"
+   - Circle cascade: cut "the specific geometry of a sphere of influence that I was not projecting but leaking. Uncontrolled. Unconscious." → "The qi leaving my body"
+   - Herbs cascade: cut "specific death-curl of plants responding to environmental hostility"
+   - Nausea cascade: cut "specific physical response" + "because rejecting was surviving" kept
+   - Expression cascade: trimmed "whose cause was the thing that could not be named because naming required a framework"
+   - Balance cascade: cut "the inner ear, the vestibular system, the specific apparatus of balance" → "Balance disrupted"
+   - Taste cascade: cut "the specific taste" → just the description
+   - Retreat cascade: cut "the specific retreat that legs produced when legs were uncertain"
+   - Shen cascade: cut "whose witnessing was the thing"
+3. [HIGH] Cut all "whose" chains
+4. PRESERVED: Dead grass circle (CRITICAL visual — verdorren), settlers' reactions (nausea, blood, disorientation), Shen outside circle, "Holding nothing. Touching nothing." (CRITICAL), "I will not collapse into this" (CRITICAL), "murder and weather" distinction, fire metaphor, border metaphor, "Standing." one-word ending
+5. EISERNE REGEL note: Pure perception — Yun SEES the grass dying, SEES the settlers reacting. No flashbacks, no memories. Compliant.
+-->

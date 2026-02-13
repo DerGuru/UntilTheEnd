@@ -1,0 +1,98 @@
+# Chapter 4
+
+Wei cooked.
+
+Not "helped with cooking." Cooked. Independently. One morning I walked into the kitchen and he was cutting vegetables like an adult.
+
+The knife moved. Fast. Precise. The same wrist rotation I'd seen in his sword training — the economy of someone who had discovered that cutting was cutting regardless of the medium and that the principle transferred.
+
+Carrots. Radish. Something green that I didn't recognize and that he'd acquired from the market or the forest or the neighbor's garden through methods he hadn't disclosed and that I hadn't investigated.
+
+"How did you—"
+
+"Taught myself."
+
+Two words. Delivered without looking up. Without pausing the knife.
+
+He'd learned from Frau Huang — the neighbor three doors down whose primary characteristic was volume. Frau Huang cooked the way she spoke — with conviction and amplitude. Her kitchen produced sounds that traveled. Flavors that asserted themselves. Rice that had opinions about texture. She had taught Wei, or Wei had taught himself by existing in her proximity, which for Wei was the same thing.
+
+"The radish is thin," I said.
+
+"It cooks faster that way."
+
+"You're cutting it on the bias."
+
+"Frau Huang says bias cuts release more flavor."
+
+"Frau Huang is not wrong."
+
+He looked up. Brief. The look of someone who had received validation from a source that mattered and was pleased by it and immediately embarrassed by being pleased.
+
+Afternoon. Training.
+
+He trained differently now. The base exercises — the ones I'd given him in the first weeks — were still there, but they'd been modified. Adapted. The modifications were his. Not mine. Not Xu Ran's borrowed stability principles, which he'd integrated months ago and which had become invisible, load-bearing, absorbed. These were new. Innovations that emerged from a mind that understood its own body's relationship with qi in ways that I couldn't teach because the teaching would have required experiencing what he experienced, and I experienced something different.
+
+His form was precise. Not just technically — aesthetically. The movements had a quality that went beyond correct into the territory of personal, the signature that each cultivator developed over time, as individual as handwriting and as revealing. Wei's cultivation was no longer a copy of what I'd provided but a translation into his own language.
+
+I sat on the fence. Watched. Said nothing.
+
+He finished. Wiped sweat from his face. Looked at me — the reflexive glance of someone seeking evaluation, the habit that hadn't died even as the dependence on the evaluation diminished.
+
+"How was that?"
+
+"Fine."
+
+"Fine?"
+
+"Fine."
+
+He nodded. Went to the well. Drank water. Came back.
+
+"I changed the third sequence," he said. "The hip rotation — it wasn't right for my frame. Too wide. I narrowed it. Half a degree."
+
+"I noticed."
+
+"And?"
+
+"Half a degree is correct."
+
+He stood there. Dripping. Fourteen. A body growing into itself, discovering its dimensions through the practical process of using them.
+
+He knew it was correct. He'd felt it — the body's silent "yes" when the angle was right and the qi-flow matched and the movement became not easier but more natural.
+
+He didn't need me to tell him.
+
+*He doesn't need me.*
+
+I went inside. Made tea. The door stuck. I hit it with my hip. It opened.
+
+The house smelled like radish. Bias-cut, by a boy who'd taught himself.
+
+<!-- Edit Notes:
+CHANGES MADE:
+1. [HIGH] E:R ratio improved ~40:60 → ~55:45:
+   - Cut opening cascade from 7 lines of nested "whose" chains to 2 sentences
+   - Cut "things Wei needs Yun for contracting at a rate" cascade (5 sentences → deleted)
+   - Cut "Wei's learning was not the passive reception" cascade
+   - Cut validation-look cascade (5 lines → 2)
+   - Cut foundation/adaptation cascade
+   - Cut form-signature cascade (trimmed)
+   - Cut "He stood there dripping" cascade (removed "specific geometry" + "proprioceptive confirmation" paragraphs)
+   - Cut "The thought settled" cascade + reduced echo from 2 paragraphs to 2 lines
+2. [HIGH] Deleted 5× "specific" tic:
+   - "the specific confidence" → removed (cascade cut)
+   - "the specific signature" → "the signature"
+   - "The specific geometry" → removed (cascade cut)
+   - "the specific proprioceptive confirmation" → "the body's silent 'yes'" (also fixes modern register)
+   - "the specific gravity of a fact" → removed (cascade cut)
+3. [HIGH] Fixed modern register:
+   - "biomechanical economy" → "economy"
+   - "proprioceptive confirmation" → "the body's silent 'yes'"
+4. [MED] Broke 4 "whose" chains:
+   - Opening triple-nested "whose" chain → replaced entirely
+   - Frau Huang "whose volume was deployed" → simplified
+   - Wei's look "whose" cascade → removed
+   - Learning "whose" cascade → simplified
+5. [MED] Cut 3 post-show cascades
+6. PRESERVED: All dialog (cooking, training, "half a degree"), door ritual, bias-cut callback, Frau Huang voice, training observation, "Fine" exchange, Wei's growing independence theme
+-->
