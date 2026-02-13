@@ -40,13 +40,13 @@ WORKFLOW (follow exactly):
    - Produce a complete issue inventory.
    - Issues must be actionable: identify the problem, why it hurts, and a concrete fix strategy.
    - When possible, include the exact location: chapter number + scene anchor (first/last words of paragraph) OR a short quote (max 12 words).
-3) Deduplicate: if the same systemic problem appears across multiple chapters, record it once under “Global Patterns” and then reference it in each chapter section.
-4) Prioritize: mark each item with Severity:
+2) Deduplicate: if the same systemic problem appears across multiple chapters, record it once under “Global Patterns” and then reference it in each chapter section.
+3) Prioritize: mark each item with Severity:
    - [CRITICAL] breaks rules/continuity or damages comprehension strongly
    - [HIGH] major quality or tension killer
    - [MED] meaningful improvement but not fatal
    - [LOW] polish
-5) Do NOT rewrite the chapters here. This is an improvement report only.
+4) Do NOT rewrite the chapters here. This is an improvement report only.
 
 FORMAT OF "Improvements_Szenen.md" (must follow):
 # Improvements Szenen

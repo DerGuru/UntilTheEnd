@@ -1,19 +1,29 @@
-You are a ruthless bestselling novelist + senior editor. Your task is to FIND ALL improvement opportunities in chapters 33–41 and save them into a single file named "Improvements.md".
+Variables:
+   {{BookNr}} = [2|3|4|5|6|7]
+   {{BookName}} = [Roots|Silence\Echoes|Fractures|Mirrors|Clouds]
+   {{ImprovementsFile}} = Improvements_{{BookNr}}-{{BookName}}.md
+You are a ruthless bestselling novelist + senior editor. Your task is to FIND ALL improvement opportunities in the Book and save them into a single file named "{{ImprovementsFile}}".
 
 READ THESE FILES FROM DISK (do not ask me to paste them):
-- Writing Rules.md (highest authority; all issues must be evaluated against it)
-- Outline.md (plot/beat authority; use it to spot continuity/beat problems)
-- chapters 01 ... 30 (REFERENCE quality + voice baseline)
-  - 01–26 = non-action voice baseline
-  - 27–30 = action baseline (dynamic, brutal, efficient, with in-fight micro-thoughts)
-- chapters 33 ... 41 (TARGET chapters to review)
+- Meta-Outline.md
+- Characters.md
+- Concept.md
+- Worldbuilding.md
+- Writing Rules.md
+- StyleDNA.md
+- Book{{BookNr}}-Outline.md
+- 7 Szenen-Outlines unter "00 - General/Szenenoutlines/{{BookNr}}-[1-7]-Szenen.md" 
+- Die ausgeschriebenen Kapitel in "/01 - Chapters/{{BookNr}} - {{BookName}}"
+
+Assume a file encoding of either UTF-8 or UTF-8 with BOM.
 
 OUTPUT:
-- Write a file named "Improvements.md" to disk in "WorkingStuff" 
-- if the file exists: Update on disk (edit in place). Do NOT create a second file.
+Fore Each Book: 
+   - Write a file named {{ImprovementsFile}} to disk in "WorkingStuff" 
+   - if the file exists: Update on disk (edit in place). Do NOT create a second file.
 
 DEDUPLICATION RULE (strict):
-- Do NOT add an issue if it already exists in Improvements.md, even if phrased differently.
+- Do NOT add an issue if it already exists in {{ImprovementsFile}}, even if phrased differently.
 - Consider an issue “already exists” if the same underlying problem is present (same cause + same fix intent), even with different examples.
 - If you find a better example/anchor for an existing issue, UPDATE the existing entry by adding the stronger anchor/evidence instead of creating a duplicate.
 
@@ -31,27 +41,51 @@ Capture EVERY meaningful improvement opportunity you can find, including but not
 - Prose problems (redundancy, vague verbs, filler, overexplaining, unclear pronouns, sensory thinness)
 - Logistics/realism “second glance” issues (evidence, witnesses, consequences, organizational response)
 - Setup/payoff gaps and missed opportunities (foreshadowing, emotional callbacks, thematic echoes)
+- Foreknowledge - Assume, that nobody may know anything until told by someone or deduction. So Yuns knowledge of Weis Name or his fathers illness, will be foreknowledge.
+
+MANDATORY: FOREKNOWLEDGE / KNOWLEDGE-GATING AUDIT (strict)
+- Treat any statement that asserts *specific* off-page facts as a potential continuity error unless it is:
+   (a) shown on-page earlier, (b) directly stated by a character earlier, or (c) logically deducible from present sensory evidence.
+- This includes (non-exhaustive):
+   - family relations and their state ("his father is dying")
+   - hidden motivations ("to save his father")
+   - names before introduction ("Wei")
+   - medical facts, village politics, prior events, secret knowledge, or plans.
+- Severity default:
+   - If it reveals plot information early or breaks the reader contract → [HIGH] or [CRITICAL].
+   - If it’s a small ambiguity but still unjustified → [MED].
+
+Operational method you MUST follow (do not skip):
+FOR EACH BOOK:
+1) Maintain an internal "Revelation Ledger" while reading:
+    - For each reveal (Name / motive / relationship / illness / ability / location truth), record: (first chapter where it becomes known) + (how it became known: dialogue, observation, deduction).
+2) After each chapter’s inventory, run a quick "knowledge gate" pass over that chapter:
+    - Highlight any sentence that contains "to save", "because", "I knew", "his father", "her mother", "the reason", or similar causal/backstory assertions.
+    - Verify each assertion against the Revelation Ledger. If not justified yet → flag as Foreknowledge leak with anchor quote.
+3) After finishing all chapters, do a final cross-book audit:
+    - Re-scan early chapters for any later-reveal terms that appear prematurely (e.g., father illness before it is introduced).
+    - Add missed leaks into the relevant chapter sections and, if recurring, add a Global Pattern entry.
+
+Fail-safe rule (important):
+- If you are unsure whether a piece of information is legitimately known yet, DO NOT assume it is. Flag it as a Foreknowledge/Continuity issue with an anchor quote and propose a safe rewrite that removes specificity.
+- If the sentence reveals future plot information or collapses a later reveal: severity = [HIGH] or [CRITICAL].
 
 WORKFLOW (follow exactly):
-1) Build a “Reference DNA” internally from chapters 01–30:
-   - Non-action DNA from 01–26
-   - Action DNA from 27–30
-   Use it to identify drift and missing strengths in 33–41.
-   If you won't read all reference chapters, prefer XX-2-XX Chapters and later ones.
-2) For EACH target chapter (33–41):
+1) For EACH chapter:
    - Produce a complete issue inventory.
    - Issues must be actionable: identify the problem, why it hurts, and a concrete fix strategy.
    - When possible, include the exact location: chapter number + scene anchor (first/last words of paragraph) OR a short quote (max 12 words).
-3) Deduplicate: if the same systemic problem appears across multiple chapters, record it once under “Global Patterns” and then reference it in each chapter section.
-4) Prioritize: mark each item with Severity:
+   - THEN run the mandatory Knowledge-Gating Audit for that chapter (see above) and add any Foreknowledge/Continuity findings.
+2) Deduplicate: if the same systemic problem appears across multiple chapters, record it once under “Global Patterns” and then reference it in each chapter section.
+3) Prioritize: mark each item with Severity:
    - [CRITICAL] breaks rules/continuity or damages comprehension strongly
    - [HIGH] major quality or tension killer
    - [MED] meaningful improvement but not fatal
    - [LOW] polish
-5) Do NOT rewrite the chapters here. This is an improvement report only.
+4) Do NOT rewrite the chapters here. This is an improvement report only.
 
-FORMAT OF "Improvements.md" (must follow):
-# Improvements (Chapters 33–41)
+FORMAT OF {{ImprovementsFile}} (must follow):
+# Improvements {{BookNr}} - {{BookName}}
 
 ## Global Patterns (Recurring Issues)
 For each pattern:
@@ -61,7 +95,7 @@ For each pattern:
 
 ## Chapter-by-Chapter Findings
 
-### Chapter 33
+### Chapter X
 #### Rule Compliance Issues
 - [SEVERITY] Issue — Evidence/Anchor — Fix
 #### Voice / Tone Drift
@@ -70,7 +104,7 @@ For each pattern:
 - ...
 #### Action (if present)
 - ...
-#### Continuity & “Second Glance”
+#### Foreknowledge / Continuity & “Second Glance”
 - ...
 #### Dialogue & Character
 - ...
@@ -81,7 +115,7 @@ For each pattern:
 #### Quick Wins 
 - ...
 
-(Repeat the same substructure for Chapters 34–41)
+(Repeat the same substructure for every chapter)
 
 ## Cross-Chapter Opportunities (Setups/Payoffs)
 - List concrete setups in early chapters that can pay off later (or missing payoffs), consistent with Outline.md.
@@ -90,4 +124,4 @@ For each pattern:
 - A complete checklist derived from the findings.
 
 BEGIN NOW.
-After writing "Improvements.md", stop.
+After writing {{ImprovementsFile}}, stop.
