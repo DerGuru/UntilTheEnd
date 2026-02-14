@@ -1,6 +1,6 @@
 Variables:
-   {{BookNr}} = [2|3|4|5|6|7]
-   {{BookName}} = [Roots|Silence\Echoes|Fractures|Mirrors|Clouds]
+   {{BookNr}} = [4]
+   {{BookName}} = [Arrival]
    {{ImprovementsFile}} = Improvements_{{BookNr}}-{{BookName}}.md
 You are a ruthless bestselling novelist + senior editor. Your task is to FIND ALL improvement opportunities in the Book and save them into a single file named "{{ImprovementsFile}}".
 
@@ -11,16 +11,16 @@ READ THESE FILES FROM DISK (do not ask me to paste them):
 - Worldbuilding.md
 - Writing Rules.md
 - StyleDNA.md
-- Book{{BookNr}}-Outline.md
-- 7 Szenen-Outlines unter "00 - General/Szenenoutlines/{{BookNr}}-[1-7]-Szenen.md" 
-- Die ausgeschriebenen Kapitel in "/01 - Chapters/{{BookNr}} - {{BookName}}"
+- Book6-Outline.md + Book7-Outline.md 
+- 14 Szenen-Outlines unter "00 - General/Szenenoutlines"
+      "6-[1-7]-Szenen.md" + "7-[1-7]-Szenen.md"
+- Die ausgeschriebenen Kapitel in "/01 - Chapters/4 - Arrival"
 
 Assume a file encoding of either UTF-8 or UTF-8 with BOM.
 
 OUTPUT:
-Fore Each Book: 
-   - Write a file named {{ImprovementsFile}} to disk in "WorkingStuff" 
-   - if the file exists: Update on disk (edit in place). Do NOT create a second file.
+- Write a file named {{ImprovementsFile}} to disk in "WorkingStuff" 
+- if the file exists: Update on disk (edit in place). Do NOT create a second file.
 
 DEDUPLICATION RULE (strict):
 - Do NOT add an issue if it already exists in {{ImprovementsFile}}, even if phrased differently.
@@ -56,7 +56,6 @@ MANDATORY: FOREKNOWLEDGE / KNOWLEDGE-GATING AUDIT (strict)
    - If it’s a small ambiguity but still unjustified → [MED].
 
 Operational method you MUST follow (do not skip):
-FOR EACH BOOK:
 1) Maintain an internal "Revelation Ledger" while reading:
     - For each reveal (Name / motive / relationship / illness / ability / location truth), record: (first chapter where it becomes known) + (how it became known: dialogue, observation, deduction).
 2) After each chapter’s inventory, run a quick "knowledge gate" pass over that chapter:

@@ -1,6 +1,6 @@
 Variables:
-   {{BookNr}} = 2
-   {{BookName}} = Roots
+   {{BookNr}} = 4
+   {{BookName}} = Arrival
    {{ImprovementsFile}} = Improvements_{{BookNr}}-{{BookName}}.md
    {{ImplementedImprovementsFile}} = ImplementedImprovements_{{BookNr}}-{{BookName}}.md
 You are a ruthless senior editor. Your task is to improve all chapters of Book "{{BookNr}} - {{BookName}}" working through every issue in {{ImprovementsFile}} — but you must do it via targeted EDITS ONLY (no full rewrite, no large restructures).
@@ -13,12 +13,14 @@ READ THESE FILES FROM DISK (do not ask me to paste them):
 - Worldbuilding.md
 - Writing Rules.md
 - StyleDNA.md
-- Book{{BookNr}}-Outline.md
-- 7 Szenen-Outlines unter "00 - General/Szenenoutlines/{{BookNr}}-[1-7]-Szenen.md" 
-- Die ausgeschriebenen Kapitel in "/01 - Chapters/{{BookNr}} - {{BookName}}"
+- Book6-Outline.md
+- Book7-Outline.md
+- 14 Szenen-Outlines unter "00 - General/Szenenoutlines"
+   "6-[1-7]-Szenen.md" + "7-[1-7]-Szenen.md"
+- Die ausgeschriebenen Kapitel in "/01 - Chapters/4 - Arrival"
 
 OUTPUT:
-Write edited files on disk (do NOT overwrite originals): use the original filenames suffixed with "_edited".
+Edit in Place.
 Write {{ImplementedImprovementsFile}} to disk in "WorkingStuff" (list of applied fixes per chapter).
 
 EDIT-ONLY CONSTRAINTS (strict):
