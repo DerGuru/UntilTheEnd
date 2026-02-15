@@ -129,13 +129,63 @@ Midpoint is at 6-4-04. All chapters before that must NOT state the belief→real
 - Final grep for `\bB[1-7]\b`: **0 matches** ✅
 - Final grep for `\bBook [1-7]\b`: **0 matches** ✅
 - Final grep for `\bPart [1-7]\b`: **0 matches** ✅
+- Final grep for `\bbook\b|\bbooks\b` non-meta: **0 remaining** ✅ (6 intentional meta-awareness kept)
 - Remaining "system" uses: all biological/contextually appropriate ✅
 
 ---
 
-## Not Addressed (MED/LOW items for future pass)
-- MED GP-03: ~19 chapters with unsourced certainty at MED level (mostly post-midpoint, lower risk)
-- MED GP-04: Meta-analysis voice drift in ~15 chapters
-- MED GP-05: Repetitive explanation blocks in ~10 chapters
+## 6. Additional "books" / Misc Meta-Reference Sweep (Session 2)
+
+### "earlier books" / "this book" references:
+| Chapter | Original | Replacement |
+|---|---|---|
+| 6-7-07 | "in earlier books" | "before" |
+| 6-6-07 | "earlier books" | "earlier times" |
+| 6-6-06 | "currency of earlier books" | "currency of earlier days" |
+| 6-4-01 | "since the first morning of this book" | "since the first morning on this ridge" |
+| 6-6-03 | "each book's worth of experience" | "each era's worth of experience" |
+| 6-4-03 | "of every book, every experience" | "of every age, every experience" |
+| 6-4-03 | "The healings in the first book" | "The early healings" |
+| 6-4-03 | "The coincidences in the second" | "The coincidences that followed" |
+| 6-7-06 | "seven-books-of-accumulated-meaning" | "millennia-of-accumulated-meaning" |
+| 6-6-04 | "across multiple books" | "for years" |
+
+### "Book Six/Seven" structural labels:
+| Chapter | Original | Replacement |
+|---|---|---|
+| 6-7-07 | "The last image of Book Six" | "The last image" |
+| 6-7-07 | "Book Seven was the path." | "What came next was the path." |
+| 6-7-06 | "the shape of Book Seven" | "the shape of what remained" |
+| 6-7-06 | "The doing would be Book Seven." | "The doing would be what remained." |
+| 6-7-04 | "His last book as a seeker." | "His last stretch as a seeker." |
+| 6-6-09 | "This was Book Seven's question." | "This was the mountain's question." |
+| 6-6-09 | "until the last book" | "until the end" |
+
+### Intentional meta-awareness references KEPT:
+- 6-4-04 line 55: "book after book, part after part, chapter after chapter" (midpoint revelation)
+- 7-1-07 line 59: "a book I was inside of without knowing its title" (sensing narrative frame)
+- 7-7-01 line 53: "first sentence of the first chapter of the first book" (finale)
+- 7-7-02 line 55: "The way a book is complete" (simile)
+- 7-7-10 line 45: "first sentence of the first book" (finale)
+
+---
+
+## 7. MED GP-03 Certainty Fixes (Session 2)
+
+| Chapter | Original | Replacement | Rationale |
+|---|---|---|---|
+| 6-1-02 | "Absolutely certain about what was being made" | "What looked like absolute certainty about what was being made" | Vision-MC certainty → observation distance |
+| 6-1-07 | "I didn't think. I knew. The calm knew. The images knew... all of it knew. This was convergence." | "I didn't think. I felt it. The calm felt it. The images pressed toward it... all of it pointed the same direction. This felt like convergence." | Epistemic claim → phenomenological (pre-midpoint) |
+| 6-2-03 | "the believing was all I had done" | "the believing was — as far as I could tell — all I had done" | Certainty hedge for pre-midpoint observation |
+| 6-3-02 | "It was everything. My beliefs shaped reality. All of it. Always... all of it was operative. All of it was shaping. All of it had been shaping" | "It was starting to look like everything. Like my beliefs shaped reality... all of it might be operative. All of it might be shaping. All of it might have been shaping" | Most critical pre-midpoint fix — declarative fact → emerging hypothesis |
+
+---
+
+## Not Addressed (for future pass)
+- MED GP-04: "the specific X of Y" pattern — 4-22 instances per chapter, pervasive stylistic tic
+  - Worst chapters: 7-6-03(22), 7-7-11(22), 7-7-07(21), 7-6-04(21), 7-7-06(20), 7-4-05(20)
+  - Estimated ~200 individual replacements needed
+- MED GP-05: Repetitive explanation blocks in ~5 chapters
+- MED GP-03: ~15 post-midpoint chapters with unsourced certainty — assessed, most already self-hedging
 - LOW items: Prose tightening, sensory anchors, dialogue expansion
 - Cross-chapter: Rice competence arc, notebook echo, child-counter arc, mirror/water motif staffing
