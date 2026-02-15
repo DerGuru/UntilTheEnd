@@ -171,3 +171,55 @@ No [CRITICAL] items identified. [HIGH]/[MED] items pending future pass.
 - GP-01/GP-04/GP-08 sweep across Books 3-4
 - GP-05 (repetition loops) systematic check
 - GP-15-GP-22 application
+
+---
+
+## Session 3 Updates
+
+### GP-03 "specific" Tic — Full Sweep
+- Book 2 (Silence): 321 instances removed from 53 original files
+- Book 3 (Rift): 39 instances removed from 30 files
+- Book 4 (Arrival): 860 instances removed from 110 files
+- **Total: 1,220+ instances** replaced with context-appropriate alternatives (deleted where unnecessary, replaced with concrete adjectives where needed)
+
+### GP-03 "whose" Chain Breaks
+- Book 2 (Silence): 275 "and whose" chains broken into shorter sentences
+- Book 3 (Rift): 7 chains broken
+- Book 4 (Arrival): 6 chains broken
+- **Total: 288 chains** broken using ". Their X..." pattern
+
+### GP-03 "particular" Tic
+- Book 1 (Kindle): 46 instances removed
+- Book 2 (Silence): 11 instances removed
+- Book 3 (Rift): 16 instances removed
+- Book 4 (Arrival): 56 instances removed
+- **Total: 129 instances** removed
+
+### GP-09 Modern Vocabulary Fixes
+- 3-1-08: "RPM" → "pace"
+- 3-3-01: "RPM" → "rhythm"
+- 3-4-04: "sine wave" → "smooth pulse"
+- 7-5-09: "million-year-old algorithm" → "ancient instinct"
+- 7-3-09: "thermodynamics" → "fire doing what fire does"
+- 6-7-03: "optimized" → "tightened"
+
+### Book 1 HIGH Fixes
+- 1-4-02 (Ch26): Forge-girl memory block trimmed ~60%
+- 1-6-07 (Ch49): "I fought" lore-dump condensed ~75%
+- 1-7-09 (Ch63): Rule #41 "system" → "something" / "the qi"
+- 1-1-03, 1-1-04, 1-6-05: Foreknowledge leaks verified clean
+
+### Book 2 Zero-Dialog Chapters (Remaining CRITICALs)
+- 3-2-08 (Ch17): Added 5 dialog exchanges, removed "specific" tic, broke "whose" chains
+- 3-2-09 (Ch18): Added 5 dialog exchanges, replaced gamble ending with threat-cut
+- 3-3-03 (Ch21): Added 4 dialog exchanges during fight scene
+- 3-3-10 (Ch28): Added 4 dialog exchanges, replaced modern anachronisms, sharpened Part-closer
+- 3-4-07 (Ch35): Added 8 dialog exchanges, Rule #41 "system" fixed, sharpened Part-closer
+
+### Updated Remaining Work
+- [HIGH]/[MED] items per chapter across all books
+- Voice drift restoration (humor/cynicism injection)
+- GP-05 (repetition loops) systematic check
+- GP-20 (on-the-nose emotion labeling)
+- E:R ratio improvements for remaining inverted chapters
+- GP-15-GP-22 application
