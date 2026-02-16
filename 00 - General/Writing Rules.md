@@ -46,31 +46,32 @@
 
 ## Structure
 29. Use the 7 Point Structure.
+30. Avoid Apophasis or Via Negativa (e.g. I said nothing. Not as a strategy. Not as a refusal. The silence was the sound of a door that I had kept locked for so long that I'd forgotten which side the keyhole was on.)
 
 ## Pacing & Tonalität
-30. **Event:Reflexion-Ratio = 1:2.** Auf jede Seite innere Reflexion kommen mindestens zwei Seiten äußeres Geschehen (Dialog, Handlung, SoL-Beats).
-31. **Slice-of-Life als Fundament.** Die Serie lebt von alltäglichen Momenten zwischen den großen Beats: Kochen, Reisen, kleine Begegnungen, Wetter, Routinen. Vergleichbar mit *Beware of Chicken* oder *Heretical Fishing* — das Gewöhnliche macht das Außergewöhnliche bedeutsam.
-32. **Dialog bricht Introspektion.** Lange Passagen innerer Reflexion werden durch Dialog unterbrochen — Rückfragen, Widerspruch, Kommentar. Kein Monolog über eine halbe Seite ohne externe Reaktion.
-33. **Action als Rhythmus-Element.** Kampfszenen dienen nicht nur der Ploteskalation, sondern auch als Pacing-Werkzeug: Spannung aufbauen, Tempo wechseln, Atempausen kontrastieren.
-34. **Erinnerungen spiegeln die Gegenwart.** Jede Erinnerung muss thematisch oder emotional die aktuelle Situation spiegeln. Keine "freischwebenden" Rückblicke ohne Bezug zum Jetzt.
+31. **Event:Reflexion-Ratio = 1:2.** Auf jede Seite innere Reflexion kommen mindestens zwei Seiten äußeres Geschehen (Dialog, Handlung, SoL-Beats).
+32. **Slice-of-Life als Fundament.** Die Serie lebt von alltäglichen Momenten zwischen den großen Beats: Kochen, Reisen, kleine Begegnungen, Wetter, Routinen. Vergleichbar mit *Beware of Chicken* oder *Heretical Fishing* — das Gewöhnliche macht das Außergewöhnliche bedeutsam.
+33. **Dialog bricht Introspektion.** Lange Passagen innerer Reflexion werden durch Dialog unterbrochen — Rückfragen, Widerspruch, Kommentar. Kein Monolog über eine halbe Seite ohne externe Reaktion.
+34. **Action als Rhythmus-Element.** Kampfszenen dienen nicht nur der Ploteskalation, sondern auch als Pacing-Werkzeug: Spannung aufbauen, Tempo wechseln, Atempausen kontrastieren.
+35. **Erinnerungen spiegeln die Gegenwart.** Jede Erinnerung muss thematisch oder emotional die aktuelle Situation spiegeln. Keine "freischwebenden" Rückblicke ohne Bezug zum Jetzt.
 
 ## Meta-Momente
-35. **Meta-Momente sind unfreiwillige Leaks.** Meta-Momente dürfen NUR aus Yuns unbewusstem Durchsickern kommen (Wortfetzen, Denkmuster, Realitäts-Zuckungen). Nie als Gag, nie als bewusster Kommentar. Sie sind Symptome, keine Stilmittel.
-36. **Jeder Meta-Moment muss payoffen.** Kein Meta-Moment ohne spätere Auflösung — Monolog-Brüche payoffen in B5-6 (SIE war es), Gedanken-Echos payoffen als IHR verdrängtes Wissen, Realitäts-Zuckungen payoffen als Reality Warping, Hänger payoffen als Anker-Regel. Wenn ein Meta-Moment nicht payofft, streichen.
+36. **Meta-Momente sind unfreiwillige Leaks.** Meta-Momente dürfen NUR aus Yuns unbewusstem Durchsickern kommen (Wortfetzen, Denkmuster, Realitäts-Zuckungen). Nie als Gag, nie als bewusster Kommentar. Sie sind Symptome, keine Stilmittel.
+37. **Jeder Meta-Moment muss payoffen.** Kein Meta-Moment ohne spätere Auflösung — Monolog-Brüche payoffen in B5-6 (SIE war es), Gedanken-Echos payoffen als IHR verdrängtes Wissen, Realitäts-Zuckungen payoffen als Reality Warping, Hänger payoffen als Anker-Regel. Wenn ein Meta-Moment nicht payofft, streichen.
 
 ## Protagonist-Agency
-37. **Yun handelt aktiv — auch ohne Macht.** Yuns Zögern darf nie als Passivität wirken. Pro Part mindestens 2-3 aktive Nicht-Macht-Handlungen: soziale Manipulation (Infos streuen, Routen ändern), physische Grenzen setzen (Tiere fernhalten, Spuren löschen, Barrieren bauen), Entscheidungen mit Kosten (Hilfe = Risiko der Enttarnung). Zögern ist kontrollierte Strategie, nicht Warten auf den nächsten Beat.
-38. **SoL-Szenen müssen arbeiten.** Jede Slice-of-Life-Szene muss mindestens EINS tun: (a) Wei bindet sich (Beziehungen, Verantwortungen), (b) Yun wird getriggert (Erinnerungsfragmente), (c) spätere Stakes werden aufgebaut (warum Weggehen nicht geht). Kein SoL als Füllmaterial.
+38. **Yun handelt aktiv — auch ohne Macht.** Yuns Zögern darf nie als Passivität wirken. Pro Part mindestens 2-3 aktive Nicht-Macht-Handlungen: soziale Manipulation (Infos streuen, Routen ändern), physische Grenzen setzen (Tiere fernhalten, Spuren löschen, Barrieren bauen), Entscheidungen mit Kosten (Hilfe = Risiko der Enttarnung). Zögern ist kontrollierte Strategie, nicht Warten auf den nächsten Beat.
+39. **SoL-Szenen müssen arbeiten.** Jede Slice-of-Life-Szene muss mindestens EINS tun: (a) Wei bindet sich (Beziehungen, Verantwortungen), (b) Yun wird getriggert (Erinnerungsfragmente), (c) spätere Stakes werden aufgebaut (warum Weggehen nicht geht). Kein SoL als Füllmaterial.
 
 ## Retrospektiv & Meta
-39. **Retrospektiv + physisches Detail.** Bei jedem retrospektiven Kommentar von Yun muss ein physisches Detail mitkommen — Wetter, Geruch, Oberfläche, Körperhaltung. Kein Rückblick ohne sensorischen Anker in der Gegenwart. Sonst driftet die Erzählung ins Abstrakte.
-40. **Meta-Momente: lieber streichen als erklären.** Wenn ein Meta-Moment beim Schreiben mystery-boxy oder kryptisch wirkt: streichen statt erklären. Ein Meta-Moment darf NIE die Szene retten oder ein Problem lösen — das ist Autor-Gott. Er darf nur *Unbehagen* erzeugen.
-41. **Kein „System" im Text.** Es gibt kein „System". Der Begriff existiert nicht in Yuns Welt. Was sie am Leben hält, hat keinen Namen — sie umschreibt es: *„es"*, *„etwas"*, *„was auch immer mich nicht sterben lässt"*. In Outline-Dokumenten darf „System" als Autoren-Kürzel in Anführungszeichen stehen, ist aber NIE ein In-World-Begriff. In B6 (Twist): *„Ich bin es. Ich war es immer."* — nicht *„Ich bin das System."*
+40. **Retrospektiv + physisches Detail.** Bei jedem retrospektiven Kommentar von Yun muss ein physisches Detail mitkommen — Wetter, Geruch, Oberfläche, Körperhaltung. Kein Rückblick ohne sensorischen Anker in der Gegenwart. Sonst driftet die Erzählung ins Abstrakte.
+41. **Meta-Momente: lieber streichen als erklären.** Wenn ein Meta-Moment beim Schreiben mystery-boxy oder kryptisch wirkt: streichen statt erklären. Ein Meta-Moment darf NIE die Szene retten oder ein Problem lösen — das ist Autor-Gott. Er darf nur *Unbehagen* erzeugen.
+42. **Kein „System" im Text.** Es gibt kein „System". Der Begriff existiert nicht in Yuns Welt. Was sie am Leben hält, hat keinen Namen — sie umschreibt es: *„es"*, *„etwas"*, *„was auch immer mich nicht sterben lässt"*. In Outline-Dokumenten darf „System" als Autoren-Kürzel in Anführungszeichen stehen, ist aber NIE ein In-World-Begriff. In B6 (Twist): *„Ich bin es. Ich war es immer."* — nicht *„Ich bin das System."*
 
 ## Ton-Canon (Reiseabschnitte)
-42. **Serien-Grundstimmung ist warm-bittere Retrospektive.** Über alle Bücher gilt: persönliche, bitter-süße Melancholie mit Wärme; die Erzählerin spricht aus einem Zustand innerer Annahme, nicht aus permanenter Selbstzerstörung.
-43. **Apathie ist Textur, nicht Dauerzustand des Lesetempos.** Apathie darf in Stimme und Haltung präsent sein, muss aber regelmäßig durch Cozy/SoL, Dialog-Reibung oder konkrete Mikro-Entscheidungen aufgebrochen werden.
-44. **Reiseabschnitt-Ton ist verbindlich:**
+43. **Serien-Grundstimmung ist warm-bittere Retrospektive.** Über alle Bücher gilt: persönliche, bitter-süße Melancholie mit Wärme; die Erzählerin spricht aus einem Zustand innerer Annahme, nicht aus permanenter Selbstzerstörung.
+44. **Apathie ist Textur, nicht Dauerzustand des Lesetempos.** Apathie darf in Stimme und Haltung präsent sein, muss aber regelmäßig durch Cozy/SoL, Dialog-Reibung oder konkrete Mikro-Entscheidungen aufgebrochen werden.
+45. **Reiseabschnitt-Ton ist verbindlich:**
 	- 1 = Apathie + Cozy/SoL
 	- 2 = Druck, gehetzt, Dread-Anflüge
 	- 3 = Mehr Schmerz, weniger Zynismus
@@ -78,4 +79,4 @@
 	- 5 = Ursachensuche, Panik/Angst vor Konsequenzen
 	- 6 = Akzeptanz + Zukunftsangst
 	- 7 = Akzeptanz + Hoffnung
-45. **Warm statt melodramatisch.** Schmerz wird konkret und persönlich gezeigt (Körper, Handlung, Untertext), nie überhöht oder pathetisch deklariert.
+46. **Warm statt melodramatisch.** Schmerz wird konkret und persönlich gezeigt (Körper, Handlung, Untertext), nie überhöht oder pathetisch deklariert.

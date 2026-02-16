@@ -7,7 +7,7 @@ Hard layout guides:
 
 Typography must be part of the image, consistent across the entire series:
 1) Series title: "UNTIL THE END" centered, baseline at ~10% image height, classic Roman serif small caps (Trajan-like), generous tracking, off-white, subtle shadow/outline.
-2) Book title: "{BOOK_TITLE}" centered, baseline at ~22% image height, large premium serif, embossed/foil-stamped gold leaf texture, warm ember-gold with subtle patina, very readable, minimal premium shadow/outline.
+2) Book title: "Clouds" centered, baseline at ~22% image height, large premium serif, embossed/foil-stamped gold leaf texture, warm ember-gold with subtle patina, very readable, minimal premium shadow/outline.
 3) Author: "Andreas "TuesdayPhysics" Jakof" centered, baseline at ~93% image height, same style as series title, off-white, subtle shadow/outline.
 
 No subtitle, no series number, no badges, no logos. Keep typography placement identical on every book.
@@ -16,3 +16,10 @@ NEGATIVE PROMPT
 logo, watermark, frame, low-res, blurry, noisy, overexposed, neon, cyberpunk, sci-fi, guns, modern clothing, sexualized pose, cleavage, bikini armor, chibi, cartoonish, excessive magic effects, lightning storm, gore, horror monster focus, crowded scene, multiple main characters.
 
 Scene: 
+Ein Höhleneingang hoch in den Bergen, weich beleuchtet von einem hellen, wolkenreichen Himmel. Drinnen sitzt Yun auf kaltem Stein, älter – Haare mit grauen Strähnen, feine Falten, nichts Dramatisches daran. Ihre Hände liegen offen auf den Knien, als hätten sie endlich aufgehört, etwas festzuhalten.
+
+Draußen ziehen Wolken langsam über die Gipfel. Ein paar Vögel kreisen, klein und selbstverständlich. Die Luft wirkt klar; die Stille ist nicht leer, sondern ruhig. Keine Macht, kein Effekt – nur Endlichkeit, die akzeptiert wird.
+
+Kein Wasser. Keine Pflanzen. Kein Leben, das sich bewegt. Nur die Höhle, die Berge, der Himmel – und Yun, die darin sitzt.
+
+Komposition: oben viel ruhiger Himmel (Typografie), die dunkle Höhle rahmt die Figur unten wie ein natürlicher Rahmen; draußen hell, drinnen gedämpft. Stimmung: Frieden statt Sieg, Abschluss ohne Pathos – ein letzter Atemzug, der nicht zurückgeholt wird.
