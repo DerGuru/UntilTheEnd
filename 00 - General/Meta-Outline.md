@@ -31,6 +31,19 @@ B7: Reality Warping lernen → Sterblichkeit verinnerlichen → Friedlicher Tod
 
 ---
 
+## Kanonischer Band-/Beat-Crosswalk (für Planung & Prompts)
+
+| Veröffentlichungsband | Enthält Bücher | Serien-Beats (kombiniert) | Kurzform |
+|---|---|---|---|
+| **Book 1: Kindle** | Embers + Roots | Hook + Plot Turn 1 | **H + PT1** |
+| **Book 2: Silence** | Silence | Pinch 1 | **P1** |
+| **Book 3: Rift** | Echoes + Fractures | Midpoint + Pinch 2 | **M + P2** |
+| **Book 4: Arrival** | Mirrors + Clouds | Plot Turn 2 + Resolution | **PT2 + R** |
+
+**Alias-Hinweis:** `PP2` = `P2` (Pinch 2). Kanonisch verwenden wir **P2**.
+
+---
+
 ## Serien-Motor
 
 Kombination aus zwei Strängen, die sich gegenseitig verstärken:

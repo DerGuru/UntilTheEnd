@@ -203,6 +203,19 @@ Die 7 Bücher werden in 4 Bände konsolidiert (~108-114k Wörter / ~12h Audioboo
 **Titelkette:** *Kindle — Silence — Rift — Arrival*
 Etwas wird entfacht. Es verstummt. Es reißt auf. Sie kommt an.
 
+### Kanonischer Crosswalk (Single Source of Truth)
+
+Zur eindeutigen Zuordnung von 7-Book-Struktur, 4-Band-Veröffentlichung und Beat-Kürzeln:
+
+| Veröffentlichungsband | Enthält Bücher | Serien-Beats (kombiniert) | Kurzform |
+|---|---|---|---|
+| **Book 1: Kindle** | Embers + Roots | Hook + Plot Turn 1 | **H + PT1** |
+| **Book 2: Silence** | Silence | Pinch 1 | **P1** |
+| **Book 3: Rift** | Echoes + Fractures | Midpoint + Pinch 2 | **M + P2** |
+| **Book 4: Arrival** | Mirrors + Clouds | Plot Turn 2 + Resolution | **PT2 + R** |
+
+**Kürzel-Hinweis:** `PP2` wird in älteren Notizen teils als Alias für `P2` verwendet. Kanonisch ist **P2 (Pinch 2)**.
+
 ### Serien-Motor (Bücher 2-6)
 Kombination aus zwei Strängen, die sich gegenseitig verstärken:
 - **Weis Wachstum** (B2-3): Sein Aufstieg (unabsichtlich durch Yun enabled) zieht Aufmerksamkeit
