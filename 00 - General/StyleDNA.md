@@ -6,7 +6,7 @@
 
 ## 1) Kurzprofil (1 Absatz)
 
-Erste Person retrospektiv einer jahrtausendealten, zynisch-müden Erzählerin, die rückblickend einem Zuhörer (Xu Ran) ihr Leben schildert. Der Ton bewegt sich zwischen melancholischer Distanz (60 %), trockenem Charakter-Humor (25 %) und philosophisch-dunklen Untertönen (15 %). Die Prosa ist beschreibend, ein wenig sentimental, beobachtend — mit einer leisen Zärtlichkeit, die sich nie eingesteht, eine zu sein. Die Sätze denken mit: Jeder Absatz trägt Subtext, weil die Erzählerin mehr weiß, als sie sagt. Humor entsteht nie aus Slapstick, sondern aus Charakter-Ironie: Selbstbetrug, Kontrast (Allmacht vs. Alltag), respektlose Gegenrede (Wei). Die Sprache vermeidet Melodrama und Übererklärung radikal — der Leser muss mitdenken, und die Erzählerin traut ihm das zu.
+Erste Person retrospektiv einer jahrtausendealten Erzählerin, die rückblickend einem Zuhörer (Xu Ran) ihr Leben schildert — nicht mehr als offene Wunde, sondern als Erinnerung aus einem Zustand innerer Annahme. Die Grundfarbe ist **bitter-süße Melancholie mit Wärme**: persönlich, nah, leicht schmerzhaft, aber nicht verzweifelt. Apathie bleibt als Schutzmechanismus sichtbar, jedoch nicht kalt-abweisend; sie wird über Cozy/Slice-of-Life kontrastiert, damit die Prosa trägt statt zu schleppen. Humor entsteht weiterhin aus Charakter-Ironie (Selbstbetrug, OP-vs-Alltag, Weis Gegenrede), nie aus Slapstick. Die Sprache bleibt präzise, anti-melodramatisch und vertraut dem Leser — Subtext vor Erklärung.
 
 ---
 
@@ -40,9 +40,28 @@ Erste Person retrospektiv einer jahrtausendealten, zynisch-müden Erzählerin, d
 ### Tonverteilung
 | Anteil | Ton | Mechanik |
 |--------|-----|----------|
-| **55 %** | Melancholisch | Stille Trauer, die nie laut wird. Keine Tränen, kein Pathos — Müdigkeit im Blick, Leere im Rhythmus. |
-| **35 %** | Komödiantisch | Charakter-getrieben: Yuns Selbstbetrug, Weis Respektlosigkeit, OP-vs-Alltag-Kontrast. Nie Slapstick. |
-| **10 %** | Philosophisch/Dark | Existenzielle Fragen, bitter-ehrliche Reflexion, Momente, in denen die Wahrheit wehtut. |
+| **50 %** | Warm-melancholisch | Persönliche, bittere Süße aus der Retrospektive einer Erzählerin, die mit sich im Reinen ist. Schmerz bleibt, aber ohne Selbstzerstörung. |
+| **30 %** | Cozy / Slice of Life | Konkrete Alltagsmomente (Kochen, Gehen, Wetter, Routinen) als Wärmequelle und Rhythmusgeber gegen Schwere. |
+| **12 %** | Trocken-komödiantisch | Charakter-getrieben: Yuns Selbstbetrug, Weis Respektlosigkeit, OP-vs-Alltag-Kontrast. Nie Slapstick. |
+| **8 %** | Philosophisch/Dark | Existenzielle Fragen, Dread-Spitzen und Wahrheiten, die nachhallen statt zu schreien. |
+
+### Serien-Grundstimmung (kanonisch)
+- **Leitgefühl über alle Bücher:** bitter-süße Melancholie, gefärbt durch die Wärme einer rückblickenden Erzählerin, die Frieden mit sich geschlossen hat.
+- **Konsequenz für den Stil:** weniger kalte Distanz als Primärmodus, mehr persönliche Färbung und sinnliche Verankerung.
+- **Apathie bleibt**, aber als Textur (Abwehr, Müdigkeit, Gewohnheit), nicht als monotone Wand.
+- **Schmerz bleibt**, aber in warmem Licht der Retrospektive: „es tat weh" statt „es zerstört alles".
+
+### Reiseabschnitt-Tonleiter (1–7)
+
+| Reiseabschnitt | Dominanter Ton | Schreibwirkung |
+|---|---|---|
+| **1 (Hook)** | Apathie + Cozy/SoL | Ruhiger, weicher Einstieg: viel Alltag, kleine Wärmeinseln, trockene Müdigkeit statt Schwereblock. |
+| **2 (Plot Turn 1)** | Druck, gehetzt, Dread-Anflüge | Kürzere Reaktionssätze, mehr Vorwärtszug; bei Yuns Beobachtung von Wei: feine Unruhe unter der Oberfläche. |
+| **3 (Pinch 1)** | Mehr Schmerz, weniger Zynismus | Der Verlust wirkt körperlich und persönlich; Zynismus wird reduziert, Verletzlichkeit erhöht. |
+| **4 (Midpoint)** | Weniger Schmerz, wieder mehr Apathie | Nachbeben statt Peak: funktionale, abgeklemmte Alltagsbewegung mit Restwärme. |
+| **5 (Pinch 2)** | Ursachensuche, Panik/Angst vor Konsequenzen | Suchende, angespannte Denkbewegung; Konsequenzdruck in jeder Entscheidung spürbar. |
+| **6 (Plot Turn 2)** | Akzeptanz + Zukunftsangst | Klarerer Blick, weniger Verdrängung; gleichzeitig Nervosität vor dem, was danach kommt. |
+| **7 (Resolution)** | Akzeptanz + Hoffnung | Ruhigere, offene Sprache mit leichtem Aufwärtszug; Schmerz nicht negiert, aber integriert. |
 
 ### Spannungsmodell
 - **Slow Burn** — Spannung entsteht aus Beziehungsdynamik und dem, was NICHT gesagt wird.
@@ -81,6 +100,7 @@ Erste Person retrospektiv einer jahrtausendealten, zynisch-müden Erzählerin, d
 - **Slice of Life / Alltag:** Langsam, detailreich, sinnlich. Der Leser soll ankommen.
 - **Eskalation:** Tempo steigt durch kürzere Sätze, weniger Beschreibung, mehr Handlung.
 - **Climax / Offenbarung:** Einzelner Satz — dann Silence. Der Text atmet aus.
+- **Anti-Drag-Regel:** Auch in ruhigen Kapiteln alle 2–4 Absätze ein Mikro-Impuls (Friktion, Beobachtung mit Konsequenz, kleine Entscheidung, Dialog-Reibung), damit „weich/cozy" nicht statisch wird.
 
 ---
 
@@ -335,6 +355,8 @@ Meta-Momente sind unfreiwillige Leaks aus Yuns unbewusstem Einfluss auf die Real
 - [ ] Monolog < halbe Seite ohne Dialog-Unterbrechung?
 - [ ] Kein „System" im Text? (Nur Umschreibungen: *es*, *etwas*, *was auch immer…*)
 - [ ] Kapitelende: Hook oder emotionaler Nachhall? (Kein flaches Auslaufen)
+- [ ] Ist der Reiseabschnitt-Ton getroffen? (1=apathisch/cozy … 7=Akzeptanz/Hoffnung)
+- [ ] Grundstimmung spürbar? (bitter-süß, warm, persönlich; Schmerz ohne Melodrama)
 
 ---
 

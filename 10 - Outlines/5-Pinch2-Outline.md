@@ -5,6 +5,12 @@
 **Thema:** Maximum Druck. Ihr Unbewusstes wehrt sich.
 **Funktion:** Größte Bedrohung + Yuns unbewusster Selbstschutz eskaliert. Je näher sie der Wahrheit kommt, desto stärker wehrt sich der Teil von ihr, der nicht loslassen will.
 
+## Reiseabschnitt-Tonprofil (kanonisch)
+
+- **Reiseabschnitt 5:** Ursachensuche, Panik/Angst vor Konsequenzen.
+- **Stimmregel:** Suchbewegung + Kontrollverlust parallel führen; rationale Analyse kippt wiederholt in Angst.
+- **Pacing-Hinweis:** Konsequenzdruck in jeder Entscheidung sichtbar machen (Preis unmittelbar oder kurz verzögert).
+
 **Szene-Absicht pro Part („Was soll der Leser am Ende anders fühlen?“):**
 1. **Hook (Part 1):** „Yun sucht methodisch. Die Welt fühlt sich ‚falsch‘ an — und der Leser spürt: sie ist näher als je zuvor.“
 2. **Plot Turn 1 (Part 2):** „Andere hatten denselben Schutz. Nur SIE hat überlebt. Was macht sie anders?"

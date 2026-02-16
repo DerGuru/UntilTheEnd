@@ -66,3 +66,16 @@
 39. **Retrospektiv + physisches Detail.** Bei jedem retrospektiven Kommentar von Yun muss ein physisches Detail mitkommen — Wetter, Geruch, Oberfläche, Körperhaltung. Kein Rückblick ohne sensorischen Anker in der Gegenwart. Sonst driftet die Erzählung ins Abstrakte.
 40. **Meta-Momente: lieber streichen als erklären.** Wenn ein Meta-Moment beim Schreiben mystery-boxy oder kryptisch wirkt: streichen statt erklären. Ein Meta-Moment darf NIE die Szene retten oder ein Problem lösen — das ist Autor-Gott. Er darf nur *Unbehagen* erzeugen.
 41. **Kein „System" im Text.** Es gibt kein „System". Der Begriff existiert nicht in Yuns Welt. Was sie am Leben hält, hat keinen Namen — sie umschreibt es: *„es"*, *„etwas"*, *„was auch immer mich nicht sterben lässt"*. In Outline-Dokumenten darf „System" als Autoren-Kürzel in Anführungszeichen stehen, ist aber NIE ein In-World-Begriff. In B6 (Twist): *„Ich bin es. Ich war es immer."* — nicht *„Ich bin das System."*
+
+## Ton-Canon (Reiseabschnitte)
+42. **Serien-Grundstimmung ist warm-bittere Retrospektive.** Über alle Bücher gilt: persönliche, bitter-süße Melancholie mit Wärme; die Erzählerin spricht aus einem Zustand innerer Annahme, nicht aus permanenter Selbstzerstörung.
+43. **Apathie ist Textur, nicht Dauerzustand des Lesetempos.** Apathie darf in Stimme und Haltung präsent sein, muss aber regelmäßig durch Cozy/SoL, Dialog-Reibung oder konkrete Mikro-Entscheidungen aufgebrochen werden.
+44. **Reiseabschnitt-Ton ist verbindlich:**
+	- 1 = Apathie + Cozy/SoL
+	- 2 = Druck, gehetzt, Dread-Anflüge
+	- 3 = Mehr Schmerz, weniger Zynismus
+	- 4 = Weniger Schmerz, wieder mehr Apathie
+	- 5 = Ursachensuche, Panik/Angst vor Konsequenzen
+	- 6 = Akzeptanz + Zukunftsangst
+	- 7 = Akzeptanz + Hoffnung
+45. **Warm statt melodramatisch.** Schmerz wird konkret und persönlich gezeigt (Körper, Handlung, Untertext), nie überhöht oder pathetisch deklariert.

@@ -16,6 +16,18 @@ READ THESE FILES FROM DISK (do not ask me to paste them):
       "6-[1-7]-Szenen.md" + "7-[1-7]-Szenen.md"
 - Die ausgeschriebenen Kapitel in "/20 - Chapters/4 - Arrival"
 
+NON-NEGOTIABLE TONE CANON (apply in all findings):
+- Baseline mood: warm, bittersweet, personal retrospection (not cold detachment, not melodrama).
+- Apathy is texture, not reading drag: require regular breaks via Cozy/SoL beats, dialogue friction, or concrete micro-decisions.
+- Reiseabschnitt tone ladder (must be respected when auditing drift):
+   - 1 = Apathy + Cozy/SoL
+   - 2 = Pressure, rushed, dread hints
+   - 3 = More pain, less cynicism
+   - 4 = Less pain, more apathy again
+   - 5 = Root-cause search, panic/fear of consequences
+   - 6 = Acceptance + fear of the future
+   - 7 = Acceptance + hope
+
 Assume a file encoding of either UTF-8 or UTF-8 with BOM.
 
 OUTPUT:
@@ -46,6 +58,7 @@ Capture EVERY meaningful improvement opportunity you can find, including but not
 - Logistics/realism “second glance” issues (evidence, witnesses, consequences, organizational response)
 - Setup/payoff gaps and missed opportunities (foreshadowing, emotional callbacks, thematic echoes)
 - Foreknowledge - Assume, that nobody may know anything until told by someone or deduction. So Yuns knowledge of Weis Name or his fathers illness, will be foreknowledge.
+- Tone-canon violations (too cold/distant, too bleak without warmth, missing Cozy/SoL counterweight, wrong Reiseabschnitt mood)
 
 MANDATORY: FOREKNOWLEDGE / KNOWLEDGE-GATING AUDIT (strict)
 - Treat any statement that asserts *specific* off-page facts as a potential continuity error unless it is:

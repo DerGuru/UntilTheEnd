@@ -383,7 +383,8 @@ Jeder der 7 Parts hat seine eigene interne 7-Point-Structure. Pro Sub-Punkt 1-3 
 Realistisch: ~70-90 Kapitel bei ~1000-1500 Wörtern pro Kapitel
 ```
 
-**Kapitel-Identifier-Schema:** `<7PS-Overall:[1-7]>-<7PS-im-Abschnitt:[1-7]>-<Kapitelnummer:zweistellig>.md`
+**Kapitel-Identifier-Schema:** `<Reiseabschnitt:[1-7]>-<Streckenabschnitt:[1-7]>-<Kapitel im Streckenabschnitt:zweistellig>.md`
+Alias: `Reiseabschnitt=7PS-Overall`, `Streckenabschnitt=7PS-im-Abschnitt`, `Kapitel im Streckenabschnitt=Kapitelnummer`
 z.B. `1-1-01.md`, `4-3-05.md` (siehe auch `20 - Chapters/readme.md`)
 
 ---

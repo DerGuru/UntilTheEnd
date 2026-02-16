@@ -27,8 +27,12 @@ Die Ordnerstruktur ist **kanonisch** und sollte in Prompts/Dokumenten genau so r
 - Kapitelband-Ordner folgen der numerischen Sortierung (`20 - Chapters/1 - Kindle`, …)
 - 7PS-Outlines sind numerisch + Beat benannt (`1-Hook-Outline.md`, …, `7-Resolution-Outline.md`)
 - Kapiteldateien nutzen als **kanonischen Identifier** das Schema:
-	- `[7PS-Overall-Position]-[7PS-Position im Abschnitt]-[Kapitelnummer]`
+	- `[Reiseabschnitt]-[Streckenabschnitt]-[Kapitel im Streckenabschnitt]`
 	- also: `X-Y-ZZ.md`
 	- Beispiel: `2-1-01.md`
-	- Mapping Overall-Position: `1=Hook, 2=Plot Turn 1, 3=Pinch 1, 4=Midpoint, 5=Pinch 2, 6=Plot Turn 2, 7=Resolution`
+	- Begriffs-Mapping (Alias):
+		- `Reiseabschnitt = 7PS-Overall-Position`
+		- `Streckenabschnitt = 7PS-Position im Abschnitt`
+		- `Kapitel im Streckenabschnitt = Kapitelnummer`
+	- Mapping Reiseabschnitt: `1=Hook, 2=Plot Turn 1, 3=Pinch 1, 4=Midpoint, 5=Pinch 2, 6=Plot Turn 2, 7=Resolution`
 - Neue Pfadangaben in Dokumenten immer auf die 00/10/20/30/40/50/60-Struktur beziehen.

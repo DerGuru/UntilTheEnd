@@ -5,6 +5,12 @@
 **Thema:** Verlust. WEI STIRBT.
 **Funktion:** Der härteste Schlag der Serie. Alles, was Buch 1-2 aufgebaut hat, wird zerstört. Yun stürzt zurück — aber anders als vorher.
 
+## Reiseabschnitt-Tonprofil (kanonisch)
+
+- **Reiseabschnitt 3:** Mehr Schmerz, weniger Zynismus.
+- **Stimmregel:** Verlust körperlich und persönlich zeigen; Zynismus nur noch als dünne Schutzhaut.
+- **Pacing-Hinweis:** Schmerz konkretisieren (Handlung, Körper, Detail), nie melodramatisieren.
+
 **Szene-Absicht pro Part („Was soll der Leser am Ende anders fühlen?“):**
 1. **Hook (Part 1):** „Alles ist gut. ZU gut. Der Leser spürt: das hält nicht.“
 2. **Plot Turn 1 (Part 2):** „Die Gefahr richtet sich nicht mehr gegen Yun — sie richtet sich gegen WEI. Das ändert alles.“

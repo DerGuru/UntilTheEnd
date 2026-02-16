@@ -5,6 +5,12 @@
 **Thema:** META-TWIST. SIE ist es selbst. Immer gewesen.
 **Funktion:** Die Offenbarung, die ALLES reframed. Yun erkennt, dass SIE es ist — sie war es immer. Überzeugung = Realität. Die Erkenntnis kommt am MIDPOINT von Buch 6.
 
+## Reiseabschnitt-Tonprofil (kanonisch)
+
+- **Reiseabschnitt 6:** Akzeptanz, aber Angst vor der Zukunft.
+- **Stimmregel:** Klarheit und Furcht gleichzeitig halten; weniger Verdrängung, mehr nüchterne Selbstbeobachtung.
+- **Pacing-Hinweis:** Erkenntnis-Beats durch konkrete, physische Gegenhandlungen erden.
+
 **Szene-Absicht pro Part („Was soll der Leser am Ende anders fühlen?“):**
 1. **Hook (Part 1):** „Sie erinnert sich nicht — aber etwas hat sich verändert. Das Summen ist lauter.“
 2. **Plot Turn 1 (Part 2):** „Sie kann die Realität BEWUSST formen. Das ändert die Spielregeln komplett.“

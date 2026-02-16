@@ -86,7 +86,8 @@ F) Mini-Style-Linter vor dem Speichern (intern durchführen):
 
 G) Dateinamen (Default Naming Pattern):
    - {{DATEINAME}} = "{{OVERALL_7PS}}-{{SECTION_7PS}}-{{CHAPTER_INDEX}}.md"
-   - Format: `[7PS-Overall]-[7PS-im-Abschnitt]-[Kapitelnummer]`
+   - Format: `[Reiseabschnitt]-[Streckenabschnitt]-[Kapitel im Streckenabschnitt]`
+   - Alias: `Reiseabschnitt=7PS-Overall`, `Streckenabschnitt=7PS-im-Abschnitt`, `Kapitel im Streckenabschnitt=Kapitelnummer`
    - Overall-Mapping: `1=H, 2=PT1, 3=P1, 4=M, 5=P2, 6=PT2, 7=R`
    - CHAPTER_INDEX = laufende Nummer innerhalb des Slots (01, 02, 03, …)
 

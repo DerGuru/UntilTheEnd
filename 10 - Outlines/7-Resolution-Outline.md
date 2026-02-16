@@ -5,6 +5,12 @@
 **Thema:** Reality Warping meistern → Sterblichkeit verinnerlichen → Friedlicher Tod.
 **Funktion:** Der intimste, schwerste Kampf der Serie. Kein externer Feind — nur Yun gegen Yun.
 
+## Reiseabschnitt-Tonprofil (kanonisch)
+
+- **Reiseabschnitt 7:** Akzeptanz, aber Hoffnung auf die Zukunft.
+- **Stimmregel:** Ruhiger Aufwärtszug; Schmerz bleibt integriert, nicht dominierend.
+- **Pacing-Hinweis:** Leiser werden über den Abschnitt hinweg, ohne in Stillstand zu kippen.
+
 **Szene-Absicht pro Part („Was soll der Leser am Ende anders fühlen?“):**
 1. **Hook (Part 1):** „Wissen allein reicht nicht. Ihr Körper, ihr Qi, ihre Knochen kämpfen gegen sie.“
 2. **Plot Turn 1 (Part 2):** „Nicht Wille, sondern GLAUBE formt Realität. Kleine Siege nach außen — nach innen: Mauer.“

@@ -5,30 +5,42 @@
 ### Verbindliche Quellen
 
 1. **Writing Rules.md** = oberstes Gesetz (immer befolgen).
-2. **Outline.md** = Plot/Beats sind heilig.
-3. **Referenzkapitel** = Ziel-Stil und Qualitätsmaßstab.
+2. **StyleDNA.md** = Ton, Stimme, Rhythmus sind bindend.
+3. **Outline.md** = Plot/Beats sind heilig.
+
 
 ---
 
 ## Input (von mir)
 
 * **Writing Rules.md**
-* (Optional) **Outline.md**
-* **Referenztext (A-Qualität):** Die Kapitel 01-30, die als Stil- und Qualitätsvorbild dienen
-* **Zieltext (zu trimmen):** Kapitel 33-41
+* **Outline.md** inkl. Verlinkte Reiseabschnits- und Szenen-Outlines
+* **Zieltext (zu trimmen):** Kapitel 1-x-yy.md
 
 ---
 
 ## Ziel
 
-Bringe die Kapitel 33-41 auf das Level der Referenzkapitel, indem du:
+Bringe die Kapitel auf das Level der Referenzkapitel, indem du:
 
 * Stil, Ton, Rhythmus und sprachliche Signatur angleicht
+* den **Ton-Canon** strikt einhält (warm-bittere, persönliche Retrospektive)
 * Regeln aus Writing Rules.md konsequent umsetzt
-* pacing straffst, Klarheit erhöhst, Längen killst
 * „show, don’t tell“ erzwingst (Erklärung → Szene/Handlung)
 * Widersprüche/Logiklücken/„2nd glance“-Folgen reparierst
 * Plot/Beats **nicht** änderst (nur Darstellung + Ausführung)
+
+**Nicht verhandelbarer Ton-Canon (zusätzlich zu Referenz-DNA):**
+- Grundstimmung: bitter-süße Melancholie, warm und persönlich, aus retrospektiver Annahme statt Selbstzerstörung.
+- Apathie als Textur, nicht als Lesebremse: regelmäßig durch Cozy/SoL, Dialog-Reibung oder konkrete Mikro-Entscheidungen aufbrechen.
+- Reiseabschnitt-Tonleiter (verbindlich):
+	- 1 = Apathie + Cozy/SoL
+	- 2 = Druck, gehetzt, Dread-Anflüge
+	- 3 = Mehr Schmerz, weniger Zynismus
+	- 4 = Weniger Schmerz, wieder mehr Apathie
+	- 5 = Ursachensuche, Panik/Angst vor Konsequenzen
+	- 6 = Akzeptanz + Zukunftsangst
+	- 7 = Akzeptanz + Hoffnung
 
 **Wenn Action vorkommt:** Action soll **absichtlich brutal und effizient** sein:
 
@@ -40,28 +52,7 @@ Bringe die Kapitel 33-41 auf das Level der Referenzkapitel, indem du:
 
 ## Vorgehen (du hältst dich exakt daran)
 
-### Schritt 1 — Referenz-DNA extrahieren
-
-Extrahiere aus dem Referenztext zwei Profile:
-
-**A) Stil-DNA (max. 12 Punkte)** Unterscheide dabei nach Action Szenen und Nicht-Action-Szenen (27-30 sind Action Kapitel, während die anderen eher nicht sind).
-
-* Satzlänge/Rhythmus
-* Perspektivnähe & Gedankenhandling
-* Dialogstil
-* Bildsprache (trocken/poetisch/klinisch)
-* Härtegrad/Humor
-* typische Muster (Setup → Cut → Konsequenz)
-
-**B) Qualitäts-DNA nach Writing Rules (max. 12 Punkte)**
-
-* was die Kapitel richtig gut macht: Klarheit, Szene-Logik, Konsequenzen, Tempo, etc.
-
-Output: `### Referenz-DNA`
-
----
-
-### Schritt 2 — Diagnose Zieltext
+### Schritt 1 — Diagnose Zieltext
 
 Nenne pro Zielkapitel:
 
@@ -73,14 +64,14 @@ Output: `### Diagnose`
 
 ---
 
-### Schritt 3 — Mastering Rewrite
+### Schritt 2 — Mastering Rewrite
 
-Überarbeite die Kapitel 33-41 vollständig, sodass sie:
+Überarbeite die Kapitel vollständig, sodass sie:
 
 * Writing Rules erfüllen (keine Regelbrüche)
-* Stil-DNA triffen (fühlt sich wie gleicher Autor/gleiche Reihe an)
+* Stil-DNA triffen (keine Abweichungen)
+* Ton-Canon einhalten (keine Abweichungen)
 * Plot/Beats identisch lassen (nur bessere Ausführung)
-* Szenen nach dem Schema bauen: **Ziel → Widerstand → Entscheidung → Konsequenz**
 * Action (falls vorhanden) brutal-effizient machen
 * Alle Schwächen aus der Diagnose behoben sind
 Output: `### Getrimmte Version`

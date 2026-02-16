@@ -5,6 +5,12 @@
 **Thema:** Weiterleben trotz Verlust. Shift.
 **Funktion:** Yun lebt weiter — und das ist die eigentliche Leistung. Nicht kämpfen, nicht siegen: weitermachen. Die Suche nach dem "Warum" beginnt.
 
+## Reiseabschnitt-Tonprofil (kanonisch)
+
+- **Reiseabschnitt 4:** Weniger Schmerz, wieder mehr Apathie.
+- **Stimmregel:** Apathie als „abgeklemmt" spielen (nicht „taub"), mit Restwärme in SoL-Momenten.
+- **Pacing-Hinweis:** Nachbeben statt Peak; ruhige Funktionalität mit klaren Mikro-Handlungen.
+
 **Szene-Absicht pro Part („Was soll der Leser am Ende anders fühlen?“):**
 1. **Hook (Part 1):** „Yun ist nicht gebrochen wie in B1 — sie ist ABGEKLEMMT. Das ist schlimmer.“
 2. **Plot Turn 1 (Part 2):** „Die Welt lässt sie nicht in Ruhe. Xu Ran ist ein Anker, den sie nicht will.“

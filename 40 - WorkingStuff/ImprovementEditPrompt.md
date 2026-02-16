@@ -19,6 +19,19 @@ READ THESE FILES FROM DISK (do not ask me to paste them):
    "6-[1-7]-Szenen.md" + "7-[1-7]-Szenen.md"
 - Die ausgeschriebenen Kapitel in "/20 - Chapters/4 - Arrival"
 
+NON-NEGOTIABLE TONE CANON (must survive every edit):
+- Baseline mood: warm, bittersweet, personal retrospection.
+- Keep pain personal and concrete, but avoid melodrama and rhetorical overstatement.
+- Apathy is texture, not pace-killer: preserve regular Cozy/SoL or interactional counterbeats.
+- Reiseabschnitt tone ladder (enforce in chapter tone):
+   - 1 = Apathy + Cozy/SoL
+   - 2 = Pressure, rushed, dread hints
+   - 3 = More pain, less cynicism
+   - 4 = Less pain, more apathy again
+   - 5 = Root-cause search, panic/fear of consequences
+   - 6 = Acceptance + fear of the future
+   - 7 = Acceptance + hope
+
 OUTPUT:
 Edit in Place.
 Write {{ImplementedImprovementsFile}} to disk in "40 - WorkingStuff" (list of applied fixes per chapter).
@@ -35,7 +48,7 @@ PRIORITIES (in this exact order):
 1) Writing Rules.md compliance (non-negotiable)
 2) Outlines continuity + required beats (non-negotiable)
 3) Apply {{ImprovementsFile}} ([CRITICAL]/[HIGH] mandatory; [MED] as possible; [LOW] only if safe)
-4) Voice alignment to StyleDNA.md
+4) Voice alignment to StyleDNA.md + Tone Canon
 5) Polish: clarity, pace, tension, hooks
 
 HOW TO USE {{ImprovementsFile}} (mandatory):

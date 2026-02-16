@@ -5,6 +5,12 @@
 **Thema:** Die Welt reagiert. Wei wächst.
 **Funktion:** Konsequenzen der Offenbarung. Yun und Wei auf der Flucht / in Bewegung. Weis beschleunigtes Wachstum als ticking bomb.
 
+## Reiseabschnitt-Tonprofil (kanonisch)
+
+- **Reiseabschnitt 2:** Druck, gehetzt; bei Yuns Beobachtung von Wei spürbare Dread-Anflüge.
+- **Stimmregel:** Vorwärtszug und Anspannung erhöhen, ohne die warm-persönliche Retrospektive zu verlieren.
+- **Pacing-Hinweis:** In ruhigen Passagen alle 2–4 Absätze ein Mikro-Impuls (Friktion, Entscheidung, Konsequenz).
+
 **Spiral-Progress (3 Drittel):**
 1. **Parts 1–3 (Flucht kostet Komfort):** Kundschafter finden sie, aber Ausweichen reicht. Preis: schlechtere Routen, Kälte, Isolation.
 2. **Parts 4–5 (Flucht reicht nicht mehr):** Wei fällt auf + Instabilität. Der Älteste zwingt Machteinsatz. Preis: Blut, Lüge, zerbrochenes Vertrauen.
