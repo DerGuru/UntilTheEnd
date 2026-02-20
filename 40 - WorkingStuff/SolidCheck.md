@@ -1,0 +1,1 @@
+Benutze die Solid-Checklist FÜR JEDES KAPITEL in Buch 1, um das Buch als gesamtes danach zu bewerten. Fasse das Ergebnis zusammen.
