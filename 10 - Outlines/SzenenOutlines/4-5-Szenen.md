@@ -19,9 +19,9 @@
 
 **Risk Moment (~Part 5):** Xu Ran wird von Sekten-Späher angesprochen → lehnt ab → erwähnt es Yun nie. 2-3 Kapitel Paranoia danach.
 
-**Huang Ming Easter Egg:** Exakt Part 5. Exakt 1 Absatz (3-4 Sätze). Keine Erklärung. Crossover-Buch existiert!
+**Lu Sen Easter Egg:** Exakt Part 5. Exakt 1 Absatz (3-4 Sätze). Keine Erklärung. Crossover-Buch existiert!
 
-**⚠ CROSSOVER=ON** — Alle Easter-Egg-Beats (Huang Ming / Judgement's Gale) sind aktiv, weil Crossover-Buch ("Unintended Cultivator") veröffentlicht ist.
+**⚠ CROSSOVER=ON** — Alle Easter-Egg-Beats (Lu Sen / Judgement's Gale) sind aktiv, weil Crossover-Buch ("Unintended Cultivator") veröffentlicht ist.
 
 ---
 
@@ -42,7 +42,7 @@ Zielgerichtet. Ruhig. Ein neuer Rhythmus — nicht mehr Wandern, sondern Suchen.
 - **Dialogentwicklung:** Part 5 = manchmal 2 Worte. „Spuren." ist mehr als früher. Schleichend.
 - **Atmosphäre:** Die Wanderschaft hat einen anderen Rhythmus. Nicht Driften — Ziehen. Yun geht schneller. Xu Ran muss mithalten.
 - **Show-Indikator-Update:** #3 (Richtung) verändert sich. Sie wählt jetzt LINKS oder RECHTS. Nicht immer — manchmal. Aber der Unterschied zu Part 1-4 ist da.
-- **Huang Ming Easter Egg (optional, ~hier oder Kap 5-02):** Passstraße nahe dem alten Krater. Kleiner Marktplatz. Huang Ming geht in der Gegenrichtung vorbei — zu Fuß, allein, gewöhnliche Kleidung. Yun sieht ihn aus der Ferne. Erkennt ihn. Geht weiter. Kein Dialog, kein Gedanke, keine Exposition. 1 Absatz (3-4 Sätze).
+- **Lu Sen Easter Egg (optional, ~hier oder Kap 5-02):** Passstraße nahe dem alten Krater. Kleiner Marktplatz. Lu Sen geht in der Gegenrichtung vorbei — zu Fuß, allein, gewöhnliche Kleidung. Yun sieht ihn aus der Ferne. Erkennt ihn. Geht weiter. Kein Dialog, kein Gedanke, keine Exposition. 1 Absatz (3-4 Sätze).
 
 ### Sonstiges/Wichtiges
 - Der Shift zeigt sich in HaltunG, nicht in Worten

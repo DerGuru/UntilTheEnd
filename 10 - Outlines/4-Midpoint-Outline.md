@@ -509,9 +509,9 @@
 ### Immortal+ (Verbleib-Logik)
 - **In B4 keine aktive Figur.** Nach den Ereignissen in B3 hat er sich zurückgezogen — vorsichtiger, verletzt, abwartend. Falls seine Spur gestreift wird: 1 Satz genügt. *„Sie spürte etwas. Weit. Im Osten. Alt und müde. Dann nichts mehr.“* Kein Plot-Impact.
 
-### Huang Ming Easter Egg
+### Lu Sen Easter Egg
 - **Exakt Part 5. Exakt 1 Absatz (3-4 Sätze). Keine Erklärung.**
-- **Ort:** Passstraße nahe dem alten Krater (~Kap 5-02/5-03). Yun und Xu Ran auf dem Weg zum Krater. Kleiner Marktplatz am Straßenrand, Durchgangsverkehr. Huang Ming („Judgement's Gale") geht in der Gegenrichtung vorbei — zu Fuß, allein, gewöhnliche Kleidung.
+- **Ort:** Passstraße nahe dem alten Krater (~Kap 5-02/5-03). Yun und Xu Ran auf dem Weg zum Krater. Kleiner Marktplatz am Straßenrand, Durchgangsverkehr. Lu Sen („Judgement's Gale") geht in der Gegenrichtung vorbei — zu Fuß, allein, gewöhnliche Kleidung.
 - Yun sieht ihn aus der Ferne. Erkennt ihn. Geht weiter. Kein Dialog, kein Gedanke, keine Exposition. Nur: Blick, Wiedererkennung, Abwenden.
 - Für aufmerksame Leser. Kein Plot-Impact. Keinen Satz mehr, sonst wirkt es wie Setup ohne Payoff.
 - ⚠ Akzeptabel NUR wenn das Crossover-Buch (Judgement's Gale) existiert und der Moment als Fan-Service für Doppelleser funktioniert. Wenn nicht → streichen statt Frustration (Rule 36).

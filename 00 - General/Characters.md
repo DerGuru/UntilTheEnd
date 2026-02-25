@@ -65,7 +65,7 @@ Sie will sterben nicht, weil sie „edgy" ist, sondern weil:
 - Ihre Legenden verteilen sich über Jahrtausende (verschiedene Namen)
 - Taucht alle paar Jahrhunderte unter, um vergessen zu werden
 - Beobachtet aufsteigende Mächtige – greift ein, wenn nötig
-- Kennt "Judgement's Gale" (Huang Ming) – hat ihn beobachtet, in Ruhe gelassen
+- Kennt "Judgement's Gale" (Lu Sen) – hat ihn beobachtet, in Ruhe gelassen
 
 ### Gewohnheiten
 - Korrigiert Legenden über sich selbst (Details!)
@@ -274,7 +274,7 @@ Er ist ein Spiegel FÜR Yun: Was passiert, wenn man seinen Sinn verliert (gesche
 
 ## Crossover-Potenzial
 
-### Huang Ming ("Judgement's Gale")
+### Lu Sen ("Judgement's Gale")
 - Sie kennt ihn, hat ihn beobachtet
 - Entschied, ihn in Ruhe zu lassen
 - **Easter Egg in Buch 4:** Yun sieht/beobachtet ihn kurz, keine Interaktion. Ein stiller Moment der Wiedererkennung.

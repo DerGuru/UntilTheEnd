@@ -289,7 +289,7 @@ Subtil, fast unsichtbar. Breadcrumbs, keine Erklärung.
 
 ## Bekannte Mächtige
 
-### Judgement's Gale (Huang Ming)
+### Judgement's Gale (Lu Sen)
 - Aus Centerline-Universum
 - Sie hat ihn beobachtet
 - Entschied, ihn in Ruhe zu lassen
