@@ -83,3 +83,5 @@
 
 ## Analogien & Vergleiche
 47. **Analogien müssen sich ihren Platz verdienen.** Ein Vergleich muss etwas enthüllen, das die wörtliche Beschreibung nicht kann. Wenn der Leser das Beschriebene auch ohne Analogie versteht, ist sie Dekoration. Yun erklärt, was komplex ist — sie illustriert nicht, was offensichtlich ist. Test: Analogie entfernen. Wenn der Satz noch funktioniert, war sie ornamental. Solche Analogien sehr sparsam einsetzen - nur dann wenn es Impact hat.
+
+48. **Keine Antropomorphismen.** Tiere, Natur, unbelebte Objekte haben keine menschlichen Eigenschaften oder Absichten. Sie sind nicht „böse", „freundlich", „neugierig". Sie haben insbesondere keine Meinngen. Sie existieren, handeln nach ihren eigenen Regeln, und beeinflussen die Geschichte durch ihre bloße Existenz und Interaktion mit den Charakteren, nicht durch menschliche Motivationen.
