@@ -47,7 +47,7 @@
   **Fix playbook:** (1) Global 1st-person correction for all unintentional "she"â†’"I" in P6â€“P7. OR (2) Frame as deliberate dissociative symptom: in P5, introduce a single moment where Yun catches herself thinking "she" instead of "I" â€” the self-distancing as psychological defense. Then let it grow through P6â€“P7 as controlled escalation. The reader must understand the grammar before it expands.
 
 - **Pattern:** Meta-structural language in prose â€” explicit references to narrative structure that violate the fictional contract: "show-indicator" (P2 Ch9 L63), "Part 1," "Andock-Regel engaging," "memory slot for this position in the narrative," "The title of this book was: echoes," "the first humor in the book." Also: "In Book One," "two books," "Part 6 would prove," "Into Book 4," "Part 3, Chapter 26."
-  **Why it hurts:** Yun doesn't know she's in a book. The meta-twist (System = Autor) is the novel's central conceit â€” and it depends on Yun's ignorance. When the prose uses craft terminology ("show-indicator," "Part 1"), it breaks character, breaks world, and burns the meta-budget for zero payoff. These are author-notes that leaked into prose.
+  **Why it hurts:** Yun doesn't know she's in a book. The meta-twist (System = Autor) is the novel's central conceit â€” and it depends on Yun's ignorance. When the prose uses craft terminology ("show-indicator," "Part 1"), it breaks character, breaks world and burns the meta-budget for zero payoff. These are author-notes that leaked into prose.
   **Fix playbook:** (1) Delete ALL explicit "Book X" / "Part X" / "Chapter X" / "show-indicator" / "Andock-Regel" references in prose. No exceptions. (2) Where a residual meta-feeling is needed, express it as sensory wrongness (glitch, dÃ©jÃ -vu, spatial distortion) with zero interpretation. (3) "The title of this book was: echoes" â†’ delete. If the title-concept needs presence, show echoes as physical phenomenon, not label.
 
 - **Pattern:** Forbidden words â€” "numbing" in P1 Ch4 L67 ("Violence as numbing"), "numbness" in P3 Ch3, "numbed" in P3 Ch4. Per Kern-Definition: "taub/numb" must NEVER come from Yun's narration â€” only Xu Ran may use it as a false diagnosis. Yun's word is "abgeklemmt" (disconnected), not "taub" (numb). The distinction is the novel's central psychological thesis.
@@ -68,7 +68,7 @@
 
 - **Pattern:** Template sentence dominance â€” "The specific [NOUN] that [CLAUSE] produced/occurred/indicated" appears in virtually every paragraph. Secondary templates: "Not X â€” not the Y of Z, but the [elaborated version]," "The [noun] was the [redefinition] and the [redefinition] was [further redefinition]." These templates compound with the "specific" tic and the recursive chains to create prose that sounds machine-generated in its uniformity.
   **Why it hurts:** When every sentence follows the same template, the prose loses texture. The reader's eye learns to skip the frame and scan for the payload word at the end. Sentence variety â€” short declaratives, dialog, questions, fragments, active verbs â€” is what creates rhythm and emphasis. Currently there is one rhythm: medium-long analytical definition.
-  **Fix playbook:** (1) Vary syntax deliberately: alternate between short declaratives (3â€“6 words), medium compound, and occasional long. (2) After any template sentence, the next sentence must be syntactically different. (3) Use dialog to break analytical runs. (4) Active verbs over copulas: "She walked" not "The movement was: forward."
+  **Fix playbook:** (1) Vary syntax deliberately: alternate between short declaratives (3â€“6 words), medium compound and occasional long. (2) After any template sentence, the next sentence must be syntactically different. (3) Use dialog to break analytical runs. (4) Active verbs over copulas: "She walked" not "The movement was: forward."
 
 ---
 
@@ -276,7 +276,7 @@
 - [HIGH] "specific" count: ~10.
 - [HIGH] "the specific discharge of emotional energy" (L49) â€” textbook. â†’ "My qi jolted. Outward."
 - [HIGH] "the small correction that the system performed when the system overrode the emotion" (L57) â€” double "system" in one sentence.
-- [MED] "bypassed the disconnection, went straight to the functional emotional system, and produced: pain. Real pain." (L65) â€” "Real pain" is a label. Show the pain: body response, breath.
+- [MED] "bypassed the disconnection, went straight to the functional emotional system and produced: pain. Real pain." (L65) â€” "Real pain" is a label. Show the pain: body response, breath.
 
 #### Structure & Pacing
 - [LOW] Strongest chapter in the Part. Three-act structure: beetle death â†’ THE QUESTION â†’ qi-pulse â†’ aftermath. Emotional climax properly placed (Ch5 of 7). âœ“
@@ -431,7 +431,7 @@
 
 #### Rule Compliance Issues
 - [CRITICAL] E:R ratio ~20:80 (inverted â€” 80% internal exposition/processing, 20% external event). Target 33% expo max. Heavily over-introspective.
-- [HIGH] Rule #32 (dialog breaks introspection): zero dialog from Yun, and Xu Ran's sparse lines don't break the monolithic introspection blocks.
+- [HIGH] Rule #32 (dialog breaks introspection): zero dialog from Yun and Xu Ran's sparse lines don't break the monolithic introspection blocks.
 - [HIGH] Rule #12: much is labeled rather than shown â€” reader gets told rather than shown.
 - [MED] Rule #37 (non-power agency): no active decisions.
 
@@ -463,7 +463,7 @@
 - [MED] "whose" chains: 0 â€” clean for this metric. âœ“
 
 #### Hooks & Payoffs
-- [MED] Grass-gradient image (brown/yellow/green under Xu Ran) is brilliant but introduced statically. Could be discovered dynamically â€” Yun notices the color shift, and the noticing is subconscious.
+- [MED] Grass-gradient image (brown/yellow/green under Xu Ran) is brilliant but introduced statically. Could be discovered dynamically â€” Yun notices the color shift and the noticing is subconscious.
 
 #### Quick Wins
 - [CRITICAL] Cut ~16 of 18 "specific" instances.
@@ -1218,7 +1218,7 @@
 
 #### Prose / Clarity
 - [CRITICAL] L31: `"organisms that experienced lifetimes in the standard configuration"` â†’ `"people who got forty years and called it a lifetime."`
-- [HIGH] L5: `"the trigger connected to the system and the system produced: Memory."` â†’ `"the trigger pulled, and the memory followed. The way memories do â€” not when you ask, but when the taste is right."`
+- [HIGH] L5: `"the trigger connected to the system and the system produced: Memory."` â†’ `"the trigger pulled and the memory followed. The way memories do â€” not when you ask, but when the taste is right."`
 - [HIGH] L25: `"Pain as contact. The substitute for touch."` â†’ DELETE. The blind warrior parallel already establishes this without stating it.
 - [HIGH] L51: `"the data exceeded the emotional capacity of the data-collector"` â†’ `"what he'd seen outweighed what he could document neutrally."`
 
@@ -2637,7 +2637,7 @@
   â†’ *"the way the body moved"*
 
 #### Hooks & Payoffs
-- **[MED]** The intake should create anticipatory dread for Ch03 (the shockwave). Final lines need to point forward: the poison is in, the clock is running, and something is *wrong* â€” or wrong in a way Yun didn't predict. Strengthen the cliff edge.
+- **[MED]** The intake should create anticipatory dread for Ch03 (the shockwave). Final lines need to point forward: the poison is in, the clock is running and something is *wrong* â€” or wrong in a way Yun didn't predict. Strengthen the cliff edge.
 
 #### Quick Wins
 - **[CRITICAL]** Delete "the specific" from 9 of 11 instances. Mechanical find-and-cut.
@@ -2728,7 +2728,7 @@
 - **[MED]** "Ich tue das." â€” German fossil language âœ“. Consistent with established pattern. The weight is correct: she is claiming the act, not explaining it.
 
 #### Dialogue & Character
-- **[HIGH]** "Ich tue das." â€” the only line, and it's the right one. But its impact is diluted if surrounded by over-explained prose. Clear the space around it. The line should sit in silence â€” physical silence *and* prose silence. No analysis before or after for at least 2-3 sentences.
+- **[HIGH]** "Ich tue das." â€” the only line and it's the right one. But its impact is diluted if surrounded by over-explained prose. Clear the space around it. The line should sit in silence â€” physical silence *and* prose silence. No analysis before or after for at least 2-3 sentences.
 
 #### Prose / Clarity
 - **[CRITICAL]** "The specific involuntary tremor that indicated a neurological event beyond conscious control"
@@ -2866,7 +2866,7 @@
   â†’ *"living things"*
 
 #### Hooks & Payoffs
-- **[HIGH]** The Monolog-Spaltung is both payoff (Rein. was planted in Ch04) and hook (the split will deepen through Ch07). Currently the chapter treats the split as *finished* by the end. It should feel ongoing â€” unresolved â€” as if the voice that said *Nicht jetzt.* might say it again at any moment, and Yun is now *listening for it*.
+- **[HIGH]** The Monolog-Spaltung is both payoff (Rein. was planted in Ch04) and hook (the split will deepen through Ch07). Currently the chapter treats the split as *finished* by the end. It should feel ongoing â€” unresolved â€” as if the voice that said *Nicht jetzt.* might say it again at any moment and Yun is now *listening for it*.
 - **[MED]** Three *Nicht jetzt.* occurrences risk making the pattern feel *resolved* rather than *threatening*. If reduced to 2Ã—, the reader waits for the third â€” and that waiting is the hook.
 
 #### Quick Wins
@@ -3020,7 +3020,7 @@
 
 3. **Modern/clinical register (34 terms):** "Aerodynamic interaction," "hemoglobin," "cognitive bandwidth," "pharmacological timeline," "neurological event," "data point," "particulate matter," "tensile capacity" â€” none of these belong in a XianXia 1st-person narrative. Each must be replaced with experiential, in-world language.
 
-4. **E:R ratio (~0.5:1, target 2:1):** Part 6 is 4Ã— too introspective. Ch05-07 are essentially unbroken essays. The fix is structural: add physical events, dialog, and sensory detail; cut analytical cascades and post-show explanations.
+4. **E:R ratio (~0.5:1, target 2:1):** Part 6 is 4Ã— too introspective. Ch05-07 are essentially unbroken essays. The fix is structural: add physical events, dialog and sensory detail; cut analytical cascades and post-show explanations.
 
 5. **Dialog dead zone (Ch05-07, zero lines across 3 chapters):** R32 requires dialog to interrupt introspection. Three consecutive chapters without a single spoken word is the longest dead zone in the manuscript. Minimum fix: 2-3 lines per chapter.
 

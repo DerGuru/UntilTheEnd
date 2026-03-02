@@ -9,7 +9,7 @@
 
 ## 0. Executive Summary
 
-Book 6 "Mirrors" is the structural Plot Turn 2 of the seven-book series — the book where the meta-twist is revealed: **Yun IS the System.** The reveal is handled with extraordinary discipline. It arrives at the exact midpoint (Part 4, Ch26) through a three-layered convergence (creation memory + physical trigger + accumulation), avoids info-dump territory entirely, and the post-twist sections (Parts 5–7) successfully dodge the plateau trap through distinct escalation stages. The prose quality is consistently high — perhaps the strongest in the series to date.
+Book 6 "Mirrors" is the structural Plot Turn 2 of the seven-book series — the book where the meta-twist is revealed: **Yun IS the System.** The reveal is handled with extraordinary discipline. It arrives at the exact midpoint (Part 4, Ch26) through a three-layered convergence (creation memory + physical trigger + accumulation), avoids info-dump territory entirely and the post-twist sections (Parts 5–7) successfully dodge the plateau trap through distinct escalation stages. The prose quality is consistently high — perhaps the strongest in the series to date.
 
 **Critical issues found: 2**  
 **High-severity issues: 3**  
@@ -17,7 +17,7 @@ Book 6 "Mirrors" is the structural Plot Turn 2 of the seven-book series — the 
 **Low-severity issues: 4**  
 **Observations / Narrative choices: 7**
 
-The two critical issues are (1) multiple POV breaks from first-person to third-person narration, escalating through Parts 6–7, and (2) Wei's age at first meeting ("eight, maybe nine" in Ch12) potentially conflicting with B1–B2 where Wei is established as 12 at the series start. The high-severity issues involve the complete absence of formal cultivation terminology (the hierarchy is never referenced, meaning the twist fails to explicitly recontextualize cultivation itself), a possible over-reliance on the "she/her" pronoun shift that may confuse readers about intentionality, and the outline calling for 60–75 chapters vs. the delivered 50.
+The two critical issues are (1) multiple POV breaks from first-person to third-person narration, escalating through Parts 6–7 and (2) Wei's age at first meeting ("eight, maybe nine" in Ch12) potentially conflicting with B1–B2 where Wei is established as 12 at the series start. The high-severity issues involve the complete absence of formal cultivation terminology (the hierarchy is never referenced, meaning the twist fails to explicitly recontextualize cultivation itself), a possible over-reliance on the "she/her" pronoun shift that may confuse readers about intentionality and the outline calling for 60–75 chapters vs. the delivered 50.
 
 ---
 
@@ -100,7 +100,7 @@ First-person retrospective, consistent with B1–B5. Yun narrates past events in
 
 **Two possible interpretations:**
 1. **Intentional transition:** B7 is known to shift to close third-person present tense in Parts 5–7. B6's escalating drift could be a deliberate, gradual transition — the POV loosening as Yun's self-awareness expands, preparing the reader for B7's full shift.
-2. **Unintentional drift:** The prose style's philosophical abstraction naturally gravitates toward third-person generalization, and the "she" references are errors.
+2. **Unintentional drift:** The prose style's philosophical abstraction naturally gravitates toward third-person generalization and the "she" references are errors.
 
 **Recommendation:** If intentional, add a **single, clear moment** where the first-person narrator acknowledges the shift (e.g., seeing herself from outside). If unintentional, fix all instances in Ch38, 41, 43, 47, 48. Ch50's ending could be preserved if (1) is the intent, as it creates a powerful bridge to B7.
 
@@ -290,7 +290,7 @@ None found. ✅
 
 **Issue #2: Escalating POV Breaks (First → Third Person)**
 **Location:** Ch37, 38, 41, 43, 47, 48, 50
-**Description:** At least 12 instances of "she/her" used for Yun in narration that is otherwise first-person. The drift escalates: isolated in Part 6, sustained passages in Ch43, and the final chapter (Ch50) ends in pure third person: *"She walked. He followed."*
+**Description:** At least 12 instances of "she/her" used for Yun in narration that is otherwise first-person. The drift escalates: isolated in Part 6, sustained passages in Ch43 and the final chapter (Ch50) ends in pure third person: *"She walked. He followed."*
 **Impact:** If unintentional, this is a significant craft error in a book that has been otherwise impeccable in POV. If intentional (bridging to B7's third-person shift), it needs a single anchor moment where the narrator acknowledges the distance — the shift feels unconscious rather than purposeful.
 **Recommendation:** Decision required:
 - **If intentional (bridge to B7):** Keep Ch50's ending. Add a brief narratorial self-awareness moment in Ch43 or 44: Yun noticing she's thinking of herself in third person. Fix the isolated slips in Ch38, 47, 48 (these read as errors, not intentional drift).
@@ -299,17 +299,17 @@ None found. ✅
 ### ⚠️ HIGH-SEVERITY
 
 **Issue #3: Cultivation System Not Explicitly Recontextualized**
-**Description:** The outline states the twist should reframe all B1–B5 meta-moments, and Ch25 does this for Gedanken-Echos, Monolog-Spaltung, anomalies, and self-protection. But the formal cultivation hierarchy (Qi Condensation → Immortal) — a major worldbuilding element across B1–B3 — is never addressed.
+**Description:** The outline states the twist should reframe all B1–B5 meta-moments and Ch25 does this for Gedanken-Echos, Monolog-Spaltung, anomalies and self-protection. But the formal cultivation hierarchy (Qi Condensation → Immortal) — a major worldbuilding element across B1–B3 — is never addressed.
 **One reference exists** (Ch33: "a cultivation technique that I hadn't needed because the cultivation was irrelevant") but it's a passing clause in a montage.
 **Recommendation:** Add 1–2 sentences in Ch25 or Ch26's reframing sequence: Yun realizing that cultivation "stages" were belief-frameworks she validated through conviction — the same mechanism, just lower-stakes. This pays off 3 books of cultivation worldbuilding without over-explaining.
 
 **Issue #4: Outline vs. Delivery — Chapter Count**
 **Description:** The outline specifies ~60–75 chapters. The delivered text has 50. Part-by-part: P1 = 8 (outline: 7–10 ✅), P2 = 7 (outline: 8–12 ⚠️), P3 = 7 (outline: 8–12 ⚠️), P4 = 6 (outline: 10–14 ❌), P5 = 6 (outline: 8–12 ⚠️), P6 = 9 (outline: 8–12 ✅), P7 = 7 (outline: 7–10 ✅).
-**Impact:** Part 4 (THE TWIST) runs 6 chapters vs. the outlined 10–14. The twist sequence is extremely compressed. While the execution is strong, additional chapters could allow: (a) more physical grounding during the creation memory, (b) a beat where Xu Ran's reaction is explored rather than merely observed, (c) a clearer separation between the memory, the twist utterance, and the aftermath.
+**Impact:** Part 4 (THE TWIST) runs 6 chapters vs. the outlined 10–14. The twist sequence is extremely compressed. While the execution is strong, additional chapters could allow: (a) more physical grounding during the creation memory, (b) a beat where Xu Ran's reaction is explored rather than merely observed, (c) a clearer separation between the memory, the twist utterance and the aftermath.
 **Recommendation:** Consider whether 2–3 additional chapters in Part 4 would strengthen the twist's landing or dilute its compression. The current execution favors density over space — this is a valid choice but worth conscious confirmation.
 
 **Issue #5: Third-Person "She" Ambiguity in Voice Integration (Parts 6–7)**
-**Description:** In Ch37, 38, and 41, "she" is used both for Yun's deeper self ("She. Me. The distinction was dissolving") AND as accidental third-person narration. This creates ambiguity: is "she" the deeper self, or has the narrator slipped? In Ch37, it's clearly the deeper self. In Ch41 ("the most stubborn person she'd encountered"), it's clearly a POV break. The co-occurrence muddies both.
+**Description:** In Ch37, 38 and 41, "she" is used both for Yun's deeper self ("She. Me. The distinction was dissolving") AND as accidental third-person narration. This creates ambiguity: is "she" the deeper self, or has the narrator slipped? In Ch37, it's clearly the deeper self. In Ch41 ("the most stubborn person she'd encountered"), it's clearly a POV break. The co-occurrence muddies both.
 **Recommendation:** Differentiate. Use italicized *she* for the deeper self and preserve first-person for narration. Or: complete the integration earlier (Ch37–38) so that by Ch41, there is no "she" left — only "I."
 
 ### ⚠️ MEDIUM-SEVERITY

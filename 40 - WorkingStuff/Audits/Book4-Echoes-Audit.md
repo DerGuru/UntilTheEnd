@@ -9,7 +9,7 @@
 
 ## 1. Executive Summary
 
-Book 4 "Echoes" is the structural Midpoint of the seven-book series — the pivot from passive to active, from endurance to investigation — and it delivers with remarkable precision. The Shift (Ch 29: "I did not want to live. I wanted to know what I was.") is the single most important sentence in the first four books: it redirects the entire series from grief toward discovery. The prose is disciplined, the POV is flawless throughout, and the dual-motif architecture — the death-radius contraction (10→6→3→2→3→7 paces) and the Leitwort pair (Rein/Weiter) — provides a structural throughline that culminates in the final word: *Rein.*
+Book 4 "Echoes" is the structural Midpoint of the seven-book series — the pivot from passive to active, from endurance to investigation — and it delivers with remarkable precision. The Shift (Ch 29: "I did not want to live. I wanted to know what I was.") is the single most important sentence in the first four books: it redirects the entire series from grief toward discovery. The prose is disciplined, the POV is flawless throughout and the dual-motif architecture — the death-radius contraction (10→6→3→2→3→7 paces) and the Leitwort pair (Rein/Weiter) — provides a structural throughline that culminates in the final word: *Rein.*
 
 The book succeeds at its most difficult task: making apathy compelling. Yun's *abgeklemmt* state (never *taub* — the Begriffshygiene rule is perfectly observed) is rendered through the disconnection lexicon (want→severed; hunger→disconnected; preference→absent) that gradually reconstitutes over 57 chapters without ever feeling rushed or unearned.
 
@@ -19,7 +19,7 @@ The book succeeds at its most difficult task: making apathy compelling. Yun's *a
 **Low-severity issues: 5**  
 **Observations / Narrative choices: 8**
 
-No critical issues. The two high-severity issues are: (1) the "Rein" Leitwort appears to exceed the outline's "max 3 echte Wiederholungen" rule (at least 6 standalone/italicized uses across Parts 4–7), and (2) the B3→B4 transition regarding Xu Ran's introduction contains a minor discontinuity (B3 ch 57 places him at 50 paces; B4 ch 1 reintroduces him as if for the first time). Neither is structurally damaging, but both warrant editorial review.
+No critical issues. The two high-severity issues are: (1) the "Rein" Leitwort appears to exceed the outline's "max 3 echte Wiederholungen" rule (at least 6 standalone/italicized uses across Parts 4–7) and (2) the B3→B4 transition regarding Xu Ran's introduction contains a minor discontinuity (B3 ch 57 places him at 50 paces; B4 ch 1 reintroduces him as if for the first time). Neither is structurally damaging, but both warrant editorial review.
 
 ---
 
@@ -37,7 +37,7 @@ No critical issues. The two high-severity issues are: (1) the "Rein" Leitwort ap
 
 **Total estimated duration:** ~3–4 months (from forest isolation through final departure)
 
-**Timeline assessment:** ✅ Internally consistent. The outline specifies "Wochen? Monate? Yun hat jedes Zeitgefühl verloren" — the text delivers this precisely. Time-tracking is Xu Ran's domain, not Yun's, and meaningful numbers (Day 23, Day 28, "three months") come exclusively from his records or dialogue. Seasonal markers are deliberately absent — appropriate for a narrator who has lost time-sense. The compression from weeks (Part 1) to days (Parts 4, 6) tracks with the passive-to-active shift: once Yun has direction, time accelerates.
+**Timeline assessment:** ✅ Internally consistent. The outline specifies "Wochen? Monate? Yun hat jedes Zeitgefühl verloren" — the text delivers this precisely. Time-tracking is Xu Ran's domain, not Yun's and meaningful numbers (Day 23, Day 28, "three months") come exclusively from his records or dialogue. Seasonal markers are deliberately absent — appropriate for a narrator who has lost time-sense. The compression from weeks (Part 1) to days (Parts 4, 6) tracks with the passive-to-active shift: once Yun has direction, time accelerates.
 
 ---
 
@@ -76,7 +76,7 @@ No critical issues. The two high-severity issues are: (1) the "Rein" Leitwort ap
 | 3 hours | Ch 49 | Clarity duration before degradation | ✅ |
 | Page 47 | Ch 37, 52 | Notebook (spy at crater) | ✅ Consistent page ref |
 
-**Hard numbers assessment:** ✅ Exceptionally clean. No contradictions detected. The 800/812 cliff-height discrepancy is deliberate characterization (Yun estimates, Xu Ran measures). All distances, durations, and counts track across chapters. The shockwave radius stays within the outline's 20–30m production rule. The death-radius progression (3→5→7→back to 3 baseline→contracting proximity with Xu Ran) is mathematically precise.
+**Hard numbers assessment:** ✅ Exceptionally clean. No contradictions detected. The 800/812 cliff-height discrepancy is deliberate characterization (Yun estimates, Xu Ran measures). All distances, durations and counts track across chapters. The shockwave radius stays within the outline's 20–30m production rule. The death-radius progression (3→5→7→back to 3 baseline→contracting proximity with Xu Ran) is mathematically precise.
 
 **Age references:** ✅ Always vague. No specific age number for Yun appears anywhere. All temporal references use approximate terms: "millennia," "thousands of years," "centuries," "~800 years," "~2000 years." Wei's age = 14 in memory (Ch 30), consistent with B3. This is a significant improvement over B2 (five violations) and B3 (one violation).
 
@@ -455,11 +455,11 @@ The outline provides detailed Sub-7PS beat tables for each Part. General complia
 
 ## 18. Encoding & Technical Quality
 
-**UTF-8 corruption:** ✅ ZERO encoding issues detected. All em-dashes, umlauts, and special characters render correctly throughout all 57 chapters. This is a significant improvement over B3 (which had widespread corruption of em-dashes and umlauts).
+**UTF-8 corruption:** ✅ ZERO encoding issues detected. All em-dashes, umlauts and special characters render correctly throughout all 57 chapters. This is a significant improvement over B3 (which had widespread corruption of em-dashes and umlauts).
 
 **Typos/grammar:** ✅ No typos detected across any chapter.
 
-**Consistent formatting:** ✅ Italics for German Leitwörter, memories, and substrate voice. Chapter structure consistent (no headers, prose-only, appropriate breaks).
+**Consistent formatting:** ✅ Italics for German Leitwörter, memories and substrate voice. Chapter structure consistent (no headers, prose-only, appropriate breaks).
 
 ---
 
@@ -475,7 +475,7 @@ Book 4's role as the series Midpoint is executed with precision:
 **What changes permanently:**
 1. The investigation direction ("Rein") is established and cannot be unerased
 2. Xu Ran becomes permanent companion (distance contracts 10→7)
-3. The substrate is identified as internal, autonomous, and dangerous to others
+3. The substrate is identified as internal, autonomous and dangerous to others
 4. The Memory/erasure defense is discovered (foreshadowing B5 escalation)
 5. German becomes shared language (not just crisis language)
 
@@ -567,7 +567,7 @@ Easter egg character ("immense" cultivation base) for B5+ payoff. Currently unna
 This appears to be a B4-native term (Ch 52, 55) for the sensory-trigger mechanism that opens memories. The outline uses it as a production rule — the text elevates it to a named in-world concept. Interesting meta-choice: a production rule becoming diegetic. Monitor for B5.
 
 **O6. German Register Evolution**
-B4 pushes German from crisis-only to five registers (see §7). This is the series' most significant German-language development — the domestication of the private language. The "Du isst" / "Du auch" exchange in Ch 54 is arguably the book's most intimate moment, and it happens entirely in German.
+B4 pushes German from crisis-only to five registers (see §7). This is the series' most significant German-language development — the domestication of the private language. The "Du isst" / "Du auch" exchange in Ch 54 is arguably the book's most intimate moment and it happens entirely in German.
 
 **O7. Disconnection Lexicon**
 B4 develops a complete vocabulary for the *abgeklemmt* state: "the disconnected cable," "the severed line," "below the severed line," "the machinery of wanting." This lexicon is internally consistent and never uses prohibited terms (taub, numb). It functions as a prose signature for B4 the way the qi-clock was B3's signature.
@@ -596,11 +596,11 @@ The substrate concept serves triple duty: (1) cultivation-system mystery, (2) me
 
 ## 23. Final Assessment
 
-Book 4 "Echoes" is the strongest entry in the series so far. It accomplishes the near-impossible: a compelling book driven by apathy, populated by two characters, and structured around a woman who doesn't want anything — until she does. The Midpoint Shift is the series' hinge sentence, and it lands.
+Book 4 "Echoes" is the strongest entry in the series so far. It accomplishes the near-impossible: a compelling book driven by apathy, populated by two characters and structured around a woman who doesn't want anything — until she does. The Midpoint Shift is the series' hinge sentence and it lands.
 
 **Structural execution:** Near-perfect. All 7PS beats delivered at correct positions. Scharmützel arc complete with correct inner-step progression. Meta-moments properly calibrated (quiet first half, escalating second half, exactly 3 merkbar signals).
 
-**Prose discipline:** Exceptional. The disconnection lexicon, the death-radius gradient, and the German register evolution demonstrate craft at the sentence level. The POV is flawless. The Begriffshygiene rule is perfectly observed.
+**Prose discipline:** Exceptional. The disconnection lexicon, the death-radius gradient and the German register evolution demonstrate craft at the sentence level. The POV is flawless. The Begriffshygiene rule is perfectly observed.
 
 **Motif architecture:** The new motifs (death-radius, humming, notebook, echoes) integrate seamlessly. The SoL running gags (cooking, meditation) provide essential warmth without undermining the darkness. The Leitwort pair (Rein/Weiter) provides the structural spine, though "Rein" is overused relative to spec.
 

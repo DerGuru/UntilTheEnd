@@ -9,7 +9,7 @@
 4. Make the storytelling immersive.
 
 ## Show, Don't Tell
-5. Characters act and interact—they live, experience, and change.
+5. Characters act and interact—they live, experience and change.
 6. Don't tell the reader something happened; show it in a scene.
 7. Match the scope of showing to importance: a scene, a chapter, or a separate book.
 

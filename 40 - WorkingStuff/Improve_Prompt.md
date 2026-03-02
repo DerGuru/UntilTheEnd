@@ -89,7 +89,7 @@ Fail-safe rule (important):
 WORKFLOW (follow exactly):
 1) For EACH chapter:
    - Produce a complete issue inventory.
-   - Issues must be actionable: identify the problem, why it hurts, and a concrete fix strategy.
+   - Issues must be actionable: identify the problem, why it hurts and a concrete fix strategy.
    - When possible, include the exact location: chapter number + scene anchor (first/last words of paragraph) OR a short quote (max 12 words).
    - THEN run the mandatory Knowledge-Gating Audit for that chapter (see above) and add any Foreknowledge/Continuity findings.
 2) Deduplicate: if the same systemic problem appears across multiple chapters, record it once under “Global Patterns” and then reference it in each chapter section.

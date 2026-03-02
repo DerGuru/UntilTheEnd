@@ -9,9 +9,9 @@
 
 ## 1. Executive Summary
 
-Book 5 "Fractures" is the Pinch 2 of the seven-book series — maximum pressure before the climax — and it delivers with devastating precision. The book's central achievement is the three-layer escalation: external (reality warping → regional instability → mountain erasure), interpersonal (Xu Ran crosses from observer to agent, weaponizing trust), and internal (the self-protection evolves from wall → guardian → caretaker). The prose sustains the "fracture" motif at every level: the crack in the wall becomes the book's dominant metaphor, culminating in the river-reflection scene (Ch 45) where the self-protection reveals itself not as an enemy but as the part of Yun that wants her to live.
+Book 5 "Fractures" is the Pinch 2 of the seven-book series — maximum pressure before the climax — and it delivers with devastating precision. The book's central achievement is the three-layer escalation: external (reality warping → regional instability → mountain erasure), interpersonal (Xu Ran crosses from observer to agent, weaponizing trust) and internal (the self-protection evolves from wall → guardian → caretaker). The prose sustains the "fracture" motif at every level: the crack in the wall becomes the book's dominant metaphor, culminating in the river-reflection scene (Ch 45) where the self-protection reveals itself not as an enemy but as the part of Yun that wants her to live.
 
-The structural payoff is exact: three FIX moments land precisely where they should (three forgettings at Midpoint, "Have you killed Wei?" at Plot Turn 2, reflection-smile at Resolution), and the book closes with the three elements that set up B6's meta-twist reveal: the crack, the feeling, and the recognition that whatever is behind the wall IS Yun.
+The structural payoff is exact: three FIX moments land precisely where they should (three forgettings at Midpoint, "Have you killed Wei?" at Plot Turn 2, reflection-smile at Resolution) and the book closes with the three elements that set up B6's meta-twist reveal: the crack, the feeling and the recognition that whatever is behind the wall IS Yun.
 
 **Critical issues found: 0**  
 **High-severity issues: 1**  
@@ -154,7 +154,7 @@ The structural payoff is exact: three FIX moments land precisely where they shou
 | **Fox-spirit** | Minor spirit beast | Ch 24, 40–47 | ✅ Unnamed throughout — appropriate |
 | **Village child** | ~6–7-year-old girl | Ch 43 | ✅ Unnamed — appropriate |
 
-**Assessment:** ✅ Character names are consistent throughout. The Namensregel (nicknames by trait, original name only in direct speech) is followed: Lian Zhuo is called "the Pencil" in narration, and "Lian Zhuo" appears primarily when Xu Ran identifies him by name in speech/context.
+**Assessment:** ✅ Character names are consistent throughout. The Namensregel (nicknames by trait, original name only in direct speech) is followed: Lian Zhuo is called "the Pencil" in narration and "Lian Zhuo" appears primarily when Xu Ran identifies him by name in speech/context.
 
 **Note:** "The Quiet One" as alternate nickname may need tracking — if it appears in only one chapter but "the Pencil" dominates, consider removing or reserving one consistently.
 
@@ -199,7 +199,7 @@ The structural payoff is exact: three FIX moments land precisely where they shou
 
 | Issue | Chapter | Line | Severity |
 |-------|---------|------|----------|
-| **"Moos" instead of "Moss"** — "Moos came away in clumps" | Ch 1 (5-1-01-01) | Line 17 | ⚠️ **Medium** — "Moos" is the German word for moss. This reads as a typo since it is NOT at an emotional extreme (the German-word-at-emotional-extremes motif), is not italicized, and is embedded in a mundane physical action. If intentional (German bleedthrough in Yun's narration), it should be italicized or otherwise marked. If unintentional, change to "Moss." |
+| **"Moos" instead of "Moss"** — "Moos came away in clumps" | Ch 1 (5-1-01-01) | Line 17 | ⚠️ **Medium** — "Moos" is the German word for moss. This reads as a typo since it is NOT at an emotional extreme (the German-word-at-emotional-extremes motif), is not italicized and is embedded in a mundane physical action. If intentional (German bleedthrough in Yun's narration), it should be italicized or otherwise marked. If unintentional, change to "Moss." |
 
 No other typos, grammatical errors, or spelling inconsistencies detected across 47 chapters.
 
@@ -323,7 +323,7 @@ The final chapter (47) explicitly states: "The beginning of a door that would ta
 
 **L-4: Three Sinnesmarker Fade After Part 2**
 - **Details:** The chalk dust / cold metal / incense trio is impressively consistent at every ruin in Parts 1–2 but naturally fades as the investigation moves away from ruins. The markers are not referenced in Parts 3–7.
-- **Assessment:** Correct — the investigation phase ends, and the markers belong to ruins. Not an error. But a brief ghost-smell callback during the breakthrough (Ch 35) might have been effective.
+- **Assessment:** Correct — the investigation phase ends and the markers belong to ruins. Not an error. But a brief ghost-smell callback during the breakthrough (Ch 35) might have been effective.
 
 ---
 
@@ -374,7 +374,7 @@ The final word of the book — "Forward" — functions as the directional counte
 
 ## 17. Final Assessment
 
-Book 5 "Fractures" executes its Pinch 2 mandate with exceptional precision. Every vector of pressure escalates logically from B4's setup, and the three FIX moments deliver with the spacing, intensity, and emotional weight that the outline demanded. The prose maintains StyleDNA discipline throughout: sparse dialogue, no melodrama, the "iceberg" principle of showing 10% and implying 90%.
+Book 5 "Fractures" executes its Pinch 2 mandate with exceptional precision. Every vector of pressure escalates logically from B4's setup and the three FIX moments deliver with the spacing, intensity and emotional weight that the outline demanded. The prose maintains StyleDNA discipline throughout: sparse dialogue, no melodrama, the "iceberg" principle of showing 10% and implying 90%.
 
 The book's greatest achievement is making the meta-twist emotionally legible through language evolution rather than exposition. A reader who arrives at Chapter 45's reflection scene knowing that the "guardian" is actually Yun herself has been taught this not through revelation but through the slow, chapter-by-chapter reframing of an adversary into a protector into a self. This is structural storytelling of the highest order.
 

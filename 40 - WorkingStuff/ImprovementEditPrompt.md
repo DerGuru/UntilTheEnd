@@ -59,7 +59,7 @@ HOW TO USE {{ImprovementsFile}} (mandatory):
 - Do not duplicate fixes that are already present in the target chapter; verify before changing.
 
 ACTION REQUIREMENTS (when action occurs):
-- Make action feel DYNAMIC, brutal, and efficient (functional violence, not showy choreography).
+- Make action feel DYNAMIC, brutal and efficient (functional violence, not showy choreography).
 - Ensure spatial clarity (who is where, what changes after each beat).
 - Ensure outcomes are explicit (no “he tries…” without result).
 - Consequences: add 1–3 lines of immediate aftermath without fetishizing violence.

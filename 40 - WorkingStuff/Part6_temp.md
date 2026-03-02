@@ -96,7 +96,7 @@
   â†’ *"the way the body moved"*
 
 #### Hooks & Payoffs
-- **[MED]** The intake should create anticipatory dread for Ch03 (the shockwave). Final lines need to point forward: the poison is in, the clock is running, and something is *wrong* â€” or wrong in a way Yun didn't predict. Strengthen the cliff edge.
+- **[MED]** The intake should create anticipatory dread for Ch03 (the shockwave). Final lines need to point forward: the poison is in, the clock is running and something is *wrong* â€” or wrong in a way Yun didn't predict. Strengthen the cliff edge.
 
 #### Quick Wins
 - **[CRITICAL]** Delete "the specific" from 9 of 11 instances. Mechanical find-and-cut.
@@ -187,7 +187,7 @@
 - **[MED]** "Ich tue das." â€” German fossil language âœ“. Consistent with established pattern. The weight is correct: she is claiming the act, not explaining it.
 
 #### Dialogue & Character
-- **[HIGH]** "Ich tue das." â€” the only line, and it's the right one. But its impact is diluted if surrounded by over-explained prose. Clear the space around it. The line should sit in silence â€” physical silence *and* prose silence. No analysis before or after for at least 2-3 sentences.
+- **[HIGH]** "Ich tue das." â€” the only line and it's the right one. But its impact is diluted if surrounded by over-explained prose. Clear the space around it. The line should sit in silence â€” physical silence *and* prose silence. No analysis before or after for at least 2-3 sentences.
 
 #### Prose / Clarity
 - **[CRITICAL]** "The specific involuntary tremor that indicated a neurological event beyond conscious control"
@@ -325,7 +325,7 @@
   â†’ *"living things"*
 
 #### Hooks & Payoffs
-- **[HIGH]** The Monolog-Spaltung is both payoff (Rein. was planted in Ch04) and hook (the split will deepen through Ch07). Currently the chapter treats the split as *finished* by the end. It should feel ongoing â€” unresolved â€” as if the voice that said *Nicht jetzt.* might say it again at any moment, and Yun is now *listening for it*.
+- **[HIGH]** The Monolog-Spaltung is both payoff (Rein. was planted in Ch04) and hook (the split will deepen through Ch07). Currently the chapter treats the split as *finished* by the end. It should feel ongoing â€” unresolved â€” as if the voice that said *Nicht jetzt.* might say it again at any moment and Yun is now *listening for it*.
 - **[MED]** Three *Nicht jetzt.* occurrences risk making the pattern feel *resolved* rather than *threatening*. If reduced to 2Ã—, the reader waits for the third â€” and that waiting is the hook.
 
 #### Quick Wins
@@ -479,7 +479,7 @@
 
 3. **Modern/clinical register (34 terms):** "Aerodynamic interaction," "hemoglobin," "cognitive bandwidth," "pharmacological timeline," "neurological event," "data point," "particulate matter," "tensile capacity" â€” none of these belong in a XianXia 1st-person narrative. Each must be replaced with experiential, in-world language.
 
-4. **E:R ratio (~0.5:1, target 2:1):** Part 6 is 4Ã— too introspective. Ch05-07 are essentially unbroken essays. The fix is structural: add physical events, dialog, and sensory detail; cut analytical cascades and post-show explanations.
+4. **E:R ratio (~0.5:1, target 2:1):** Part 6 is 4Ã— too introspective. Ch05-07 are essentially unbroken essays. The fix is structural: add physical events, dialog and sensory detail; cut analytical cascades and post-show explanations.
 
 5. **Dialog dead zone (Ch05-07, zero lines across 3 chapters):** R32 requires dialog to interrupt introspection. Three consecutive chapters without a single spoken word is the longest dead zone in the manuscript. Minimum fix: 2-3 lines per chapter.
 

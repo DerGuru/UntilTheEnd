@@ -10,7 +10,7 @@
   **Fix playbook:** After a show-beat, allow ONE sentence of internal reaction, then cut to action/dialog/scene shift. Delete “It was the kind of… / Not because… but because…” cascades.
 
 - **Pattern:** GP-03 — Syntax tic cluster ("specific/particular", “the way X does”, “the kind of X that…”, “the [NOUN] of [someone who]”, nested “whose…” chains, em-dash definitions).  
-  **Why it hurts:** Creates an AI-like rhythm, drains sentence variety, and turns concrete observations into abstract theses.  
+  **Why it hurts:** Creates an AI-like rhythm, drains sentence variety and turns concrete observations into abstract theses.  
   **Fix playbook:** (1) Global delete most “specific/particular.” (2) Rewrite “the way” phrases into direct verbs. (3) Cap relative-clause chains to max 1 per page. (4) Replace em-dash definitions with short independent sentences or cut.
 
 - **Pattern:** GP-04 — Dialogue deserts / dialogue-anchor deficit.  
@@ -87,7 +87,7 @@
 
 - **Pattern:** GP-22 — Power milestone continuity drift (breakthrough completion stated multiple times).  
   **Why it hurts:** Progression fantasy depends on precise milestones; duplicating them breaks reader trust in the cultivation math.  
-  **Fix playbook:** Choose the single completion beat, mark earlier moments as preludes/venting, and align consequences across adjacent chapters.
+  **Fix playbook:** Choose the single completion beat, mark earlier moments as preludes/venting and align consequences across adjacent chapters.
 
 ## Chapter-by-Chapter Findings
 
@@ -2954,7 +2954,7 @@
 #### Structure & Pacing
 - [CRITICAL] The First Lie is a key outline beat — it needs scene structure (setup, the moment, consequence), not reflection structure. — Rebuild as a dramatic scene: context → the lie spoken → immediate reaction → Yun's BRIEF internal response → cut.
 #### Foreknowledge / Continuity & "Second Glance"
-- [MED] Verify: is the lie consistent with established knowledge? What exactly is Yun lying about, and is that information confirmed on-page?
+- [MED] Verify: is the lie consistent with established knowledge? What exactly is Yun lying about and is that information confirmed on-page?
 #### Dialogue & Character
 - [HIGH] The lie should be DIALOG. The chapter about a lie should be built around spoken words. — Make the dialog exchange the spine of the chapter.
 #### Prose / Clarity
@@ -2970,7 +2970,7 @@
 #### Voice / Tone Drift
 - [MED] Flat analytical.
 #### Structure & Pacing
-- [HIGH] Structural duplicate — shares scene structure, emotional register, AND closing line with Ch49. One of them is redundant.
+- [HIGH] Structural duplicate — shares scene structure, emotional register and closing line with Ch49. One of them is redundant.
 #### Foreknowledge / Continuity & "Second Glance"
 - [LOW] No issues.
 #### Dialogue & Character
@@ -7882,7 +7882,7 @@
 | Ch63 (2-7-02) | Best-paced P7 — merchant frame. External interaction drives everything. |
 | Ch70 (2-7-09) | Best overall — "I glow at night. Don't I." Perfect restraint. Publication-ready. |
 
-**OVERALL ASSESSMENT:** Book 2 contains exceptional moments buried under analytical sediment. The prose shows→then tells with a 1:3 ratio. The voice, tics, and structural issues are SYSTEMIC, not chapter-specific. A rewrite pass that applies Ch70's restraint model across all 72 chapters would cut 30% of the word count and double the emotional impact. The material is there. It needs an editor with a machete, not a scalpel.
+**OVERALL ASSESSMENT:** Book 2 contains exceptional moments buried under analytical sediment. The prose shows→then tells with a 1:3 ratio. The voice, tics and structural issues are SYSTEMIC, not chapter-specific. A rewrite pass that applies Ch70's restraint model across all 72 chapters would cut 30% of the word count and double the emotional impact. The material is there. It needs an editor with a machete, not a scalpel.
 
 ### Book 3 - Silence
 
@@ -7969,7 +7969,7 @@
 | Ch54 (3-7-02) | "The bowl grew cold." — sensory grief without analysis. Proves P7 CAN work. |
 | Ch61 (3-7-09) | Finale. "Was Wurzeln hat, stirbt langsamer." + "The nothing that remained. And the roots that held." Kräutertopf lands despite violations elsewhere. |
 
-**OVERALL ASSESSMENT:** Book 3 is the series' emotional hinge — Wei dies, and the book must make that death unendurable. The material is there: the death scene's spatial brutality works, the Eiserne Regel is the right structural constraint, the Kräutertopf finale is earned, and Ch27 proves the voice CAN do what it needs to. BUT the manuscript systematically undermines itself. Every powerful moment is immediately explained. The narrator TELLS the reader what to feel in 60–120 word analytical paragraphs after every show-beat. The "specific" tic, the "whose" chains, and the post-show cascades are so pervasive they constitute the prose's default mode, not exceptions. The Eiserne Regel — the book's most sacred constraint — is violated in its most sacred chapters. And the meta-references (Books, Parts, Chapters named in prose) read like tracked changes that weren't deleted before export. A rewrite pass that applies Ch27's restraint model, enforces Eiserne Regel without exception, and deletes the analytical sediment would transform this from a novel that explains a devastating death into one where the reader experiences it. The bones are exceptional. The tissue needs a scalpel. The fat needs a machete.
+**OVERALL ASSESSMENT:** Book 3 is the series' emotional hinge — Wei dies and the book must make that death unendurable. The material is there: the death scene's spatial brutality works, the Eiserne Regel is the right structural constraint, the Kräutertopf finale is earned and Ch27 proves the voice CAN do what it needs to. BUT the manuscript systematically undermines itself. Every powerful moment is immediately explained. The narrator TELLS the reader what to feel in 60–120 word analytical paragraphs after every show-beat. The "specific" tic, the "whose" chains and the post-show cascades are so pervasive they constitute the prose's default mode, not exceptions. The Eiserne Regel — the book's most sacred constraint — is violated in its most sacred chapters. And the meta-references (Books, Parts, Chapters named in prose) read like tracked changes that weren't deleted before export. A rewrite pass that applies Ch27's restraint model, enforces Eiserne Regel without exception and deletes the analytical sediment would transform this from a novel that explains a devastating death into one where the reader experiences it. The bones are exceptional. The tissue needs a scalpel. The fat needs a machete.
 
 ### Book 4 - Arrival
 - [ ] Alle In-World-„system“-Nennungen entfernen (Regel 41).

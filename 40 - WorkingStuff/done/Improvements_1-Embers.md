@@ -40,7 +40,7 @@
 
 - **Pattern:** UI/engineering metaphors (“system”, “resolution”, percentages) appear during peak emotion/action.  
   **Why it hurts:** Pulls the prose toward analytics; reduces awe/terror in climax beats. Also conflicts with Writing Rules: **“Kein ‘System’ im Text.”**  
-  **Fix playbook:** Remove/replace the literal word “system” everywhere (use “it / something / whatever keeps me alive”), keep at most one “interface-ish” metaphor per major arc, and bias toward body/sense reactions over measurements.
+  **Fix playbook:** Remove/replace the literal word “system” everywhere (use “it / something / whatever keeps me alive”), keep at most one “interface-ish” metaphor per major arc and bias toward body/sense reactions over measurements.
 
 - **Pattern:** Name-reveal continuity drift (Wei named before he’s introduced on-page).  
   **Why it hurts:** Breaks a deliberate reader contract (Outline Part 1/2 “Namensregel”); also weakens the “boy → person” shift.  

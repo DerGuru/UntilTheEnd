@@ -38,7 +38,7 @@ Capture EVERY meaningful improvement opportunity you can find, including but not
 WORKFLOW (follow exactly):
 1)   For EACH file in /10 - Outlines/SzenenOutlines:
    - Produce a complete issue inventory.
-   - Issues must be actionable: identify the problem, why it hurts, and a concrete fix strategy.
+   - Issues must be actionable: identify the problem, why it hurts and a concrete fix strategy.
    - When possible, include the exact location: chapter number + scene anchor (first/last words of paragraph) OR a short quote (max 12 words).
 2) Deduplicate: if the same systemic problem appears across multiple chapters, record it once under “Global Patterns” and then reference it in each chapter section.
 3) Prioritize: mark each item with Severity:

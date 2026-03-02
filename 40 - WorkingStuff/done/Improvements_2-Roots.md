@@ -30,7 +30,7 @@
   **Why it hurts:** Memories are designed as controlled doses of Yun's past, not information dumps. Overlength dilutes their emotional precision and wrecks the carefully planned escalation pattern.
   **Fix playbook:** (1) Count sentences in each memory. (2) Compare to outline specification. (3) Cut to max 120% of specified count. (4) Preserve the FIRST and LAST images (entry/exit points are strongest); compress middle material.
 
-- **Pattern:** MC voice drift — Yun's dry humor, cynicism, and distanced observation disappear from P4 onward. Voice becomes uniformly analytical-melancholy-guilty. Clinical distance is OVER-represented. She doesn't observe and move on — she observes, analyzes, re-analyzes, and analyzes the analysis.
+- **Pattern:** MC voice drift — Yun's dry humor, cynicism and distanced observation disappear from P4 onward. Voice becomes uniformly analytical-melancholy-guilty. Clinical distance is OVER-represented. She doesn't observe and move on — she observes, analyzes, re-analyzes and analyzes the analysis.
   **Why it hurts:** Characters.md defines Yun as "distanziert, beobachtend, gelegentlich trocken humorvoll, leicht zynisch." The analytical-guilt spiral contradicts the character definition and flattens 40+ chapters into a single emotional register.
   **Fix playbook:** (1) Minimum 2 dry humor beats per chapter (Yun commenting wryly on herself or the situation). (2) Restore cynicism as her DEFAULT register — melancholy is the exception that breaks through. (3) The clinical distance should produce observations, not essays. Observe → one-line internal comment → MOVE.
 
@@ -882,7 +882,7 @@
 #### Structure & Pacing
 - [CRITICAL] The First Lie is a key outline beat — it needs scene structure (setup, the moment, consequence), not reflection structure. — Rebuild as a dramatic scene: context → the lie spoken → immediate reaction → Yun's BRIEF internal response → cut.
 #### Foreknowledge / Continuity & "Second Glance"
-- [MED] Verify: is the lie consistent with established knowledge? What exactly is Yun lying about, and is that information confirmed on-page?
+- [MED] Verify: is the lie consistent with established knowledge? What exactly is Yun lying about and is that information confirmed on-page?
 #### Dialogue & Character
 - [HIGH] The lie should be DIALOG. The chapter about a lie should be built around spoken words. — Make the dialog exchange the spine of the chapter.
 #### Prose / Clarity
@@ -898,7 +898,7 @@
 #### Voice / Tone Drift
 - [MED] Flat analytical.
 #### Structure & Pacing
-- [HIGH] Structural duplicate — shares scene structure, emotional register, AND closing line with Ch49. One of them is redundant.
+- [HIGH] Structural duplicate — shares scene structure, emotional register and closing line with Ch49. One of them is redundant.
 #### Foreknowledge / Continuity & "Second Glance"
 - [LOW] No issues.
 #### Dialogue & Character
@@ -1506,4 +1506,4 @@
 | Ch63 (2-7-02) | Best-paced P7 — merchant frame. External interaction drives everything. |
 | Ch70 (2-7-09) | Best overall — "I glow at night. Don't I." Perfect restraint. Publication-ready. |
 
-**OVERALL ASSESSMENT:** Book 2 contains exceptional moments buried under analytical sediment. The prose shows→then tells with a 1:3 ratio. The voice, tics, and structural issues are SYSTEMIC, not chapter-specific. A rewrite pass that applies Ch70's restraint model across all 72 chapters would cut 30% of the word count and double the emotional impact. The material is there. It needs an editor with a machete, not a scalpel.
+**OVERALL ASSESSMENT:** Book 2 contains exceptional moments buried under analytical sediment. The prose shows→then tells with a 1:3 ratio. The voice, tics and structural issues are SYSTEMIC, not chapter-specific. A rewrite pass that applies Ch70's restraint model across all 72 chapters would cut 30% of the word count and double the emotional impact. The material is there. It needs an editor with a machete, not a scalpel.

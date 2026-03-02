@@ -245,7 +245,7 @@ Post-transition, the only "I" appearances are in:
 | Ch63 | Settles beside her in the cave |
 | Ch64 | "Amber eyes. Warm body against a hip that is cooling." Present after death. |
 
-**Resolution:** ✅ Full. The fox-spirit remains unexplained, non-verbal, and faithful. It is the last living presence with Yun when she dies. It will continue after.
+**Resolution:** ✅ Full. The fox-spirit remains unexplained, non-verbal and faithful. It is the last living presence with Yun when she dies. It will continue after.
 
 ### 6.13 BURNED FEATHERS / DESTROYED NEST
 | Ch19–24 | Recurring smell after nest destruction |
@@ -276,7 +276,7 @@ Post-transition, the only "I" appearances are in:
 | **The Landlord** | 3 teeth / 3 houses | Ch46–47 | ❌ New to B7 |
 | **Thin Neighbor Man** | Barely mentioned | Ch47 | ❌ Minor |
 
-**Notable:** No other B1 characters receive callbacks beyond Yun, Xu Ran, and Wei. The village characters are all new — they exist to give Yun human connection in her final mortal years.
+**Notable:** No other B1 characters receive callbacks beyond Yun, Xu Ran and Wei. The village characters are all new — they exist to give Yun human connection in her final mortal years.
 
 **Assessment:** ✅ Appropriate for the resolution. B7 deliberately narrows the cast. The three series-spanning characters (Yun, Xu Ran, Wei) all receive closure. New characters are functional and well-drawn without being over-developed.
 
@@ -319,7 +319,7 @@ The ending earns its peace through 64 chapters of work:
 6. **Living as mortal** (P7, Ch56–62): Wrinkles, hunger, rain, cooking, community. She LIVES before she dies.
 7. **Return to origin** (P7, Ch63–64): Circle complete.
 
-The death is not sudden. Not dramatic. Not sacrificial. It is a woman who learned to stop holding, sitting in the place where she started holding, and letting the last breath go.
+The death is not sudden. Not dramatic. Not sacrificial. It is a woman who learned to stop holding, sitting in the place where she started holding and letting the last breath go.
 
 ### Does It Resolve the Series' Themes?
 
@@ -332,7 +332,7 @@ The death is not sudden. Not dramatic. Not sacrificial. It is a woman who learne
 | **Control** | ✅ "When I stopped trying to force it" — the cooking line that contains the whole series |
 | **The world continues** | ✅ Birds sing. Wind blows. Water drips. The fox stays. |
 
-**Grade: A+.** The ending is quiet, earned, and devastating in its simplicity. No twist. No spectacle. A breath that doesn't come. The best kind of resolution: inevitable but not predictable.
+**Grade: A+.** The ending is quiet, earned and devastating in its simplicity. No twist. No spectacle. A breath that doesn't come. The best kind of resolution: inevitable but not predictable.
 
 ---
 
@@ -368,7 +368,7 @@ The death is not sudden. Not dramatic. Not sacrificial. It is a woman who learne
 
 ### Issue #3 — MEDIUM: Outline Specifies "Laternen-Fest" and "Mooncakes" — Both Absent
 **Location:** Scene outline 7-7-05-01 specifies seasonal anchors: "Herbst: Laternen-Fest im Dorf. Nachbarin bringt Mooncakes."  
-**Description:** Neither a lantern festival nor mooncakes appear in the chapters. The autumn section (Ch59) covers leaves, the Counter counting wrinkles, and fires — but no communal festival.  
+**Description:** Neither a lantern festival nor mooncakes appear in the chapters. The autumn section (Ch59) covers leaves, the Counter counting wrinkles and fires — but no communal festival.  
 **Assessment:** The montage works without it, but the outline's instruction for "min. 1 fixes Alltagsdetail pro Sprung" is not fully met for autumn.  
 **Recommendation:** Consider adding a brief festival reference (1–2 sentences) in Ch59 during the autumn section. Could be as simple as: lanterns on the lane, the neighbor bringing something wrapped in leaves.
 
@@ -462,7 +462,7 @@ B7 follows the outline and scene outlines with high fidelity. Key planned beats 
 
 **Overall Grade: A**
 
-Book 7 is the ending this series deserves. It is quiet where the genre expects loud, still where the genre expects spectacle, and human where the genre expects cosmic. The POV transition is its most technically impressive achievement. The ending is its most emotionally impressive achievement. The cooking scene (Ch61) is its most thematically impressive achievement.
+Book 7 is the ending this series deserves. It is quiet where the genre expects loud, still where the genre expects spectacle and human where the genre expects cosmic. The POV transition is its most technically impressive achievement. The ending is its most emotionally impressive achievement. The cooking scene (Ch61) is its most thematically impressive achievement.
 
 The path forward is surgical: one German word after the POV transition, one brief B1-forest callback, one autumn festival detail. These are refinements, not repairs. The structure is sound. The ending lands.
 

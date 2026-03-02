@@ -1,6 +1,6 @@
 # Via Negativa / Apophasis Audit — Book 4 (Echoes), Parts 1–3 (Chapters 1–25)
 
-> **Audit scope:** Every instance of defining-by-negation, apophatic chains, and negation-based rhetorical patterns.
+> **Audit scope:** Every instance of defining-by-negation, apophatic chains and negation-based rhetorical patterns.
 > **Severity:** HIGH (3+ negations in chain) · MEDIUM (2 negations) · LOW (single/borderline)
 
 ---
@@ -747,7 +747,7 @@ Double negation redefining persistence.
 ### Hotspots (highest density of via negativa per chapter):
 
 1. **4-1-01-01.md (Ch. 1)** — 8 instances. The opening chapter is *saturated* with apophatic definition. The disconnect-state is introduced entirely through negation.
-2. **4-1-04-04.md (Ch. 4)** — 8 instances. The hut/memory chapter uses negation to define grief, memory, and pattern.
+2. **4-1-04-04.md (Ch. 4)** — 8 instances. The hut/memory chapter uses negation to define grief, memory and pattern.
 3. **4-1-06-06.md (Ch. 6)** — 7 instances. The guilt-question chapter: "Not directly. Not with hands. Not with intent."
 4. **4-2-08-15.md (Ch. 15)** — 9 instances. The triggers chapter accumulates negations as it builds toward the breaking point.
 5. **4-2-07-14.md (Ch. 14)** — 8 instances. The meditation chapter defines silence vs. noise entirely through negation.

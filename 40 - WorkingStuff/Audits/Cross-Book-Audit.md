@@ -126,7 +126,7 @@ Qi Condensation → Spirit Gathering → Foundation Establishment → Core Forma
 **Options:**
 1. Name it once in B2 (Xu Ran inn scene) or B3 (Xu Ran's appearance in Ch57)
 2. Eliminate "Nascent Soul" from B1 and go Core Formation → Dao-Seeking directly
-3. Accept the gap — the stage exists in B1, and B7's reframing makes cultivation stages irrelevant
+3. Accept the gap — the stage exists in B1 and B7's reframing makes cultivation stages irrelevant
 
 **Recommendation:** Option 1 — add one clarifying sentence in B2 or B3.
 

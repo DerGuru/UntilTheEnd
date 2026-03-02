@@ -102,7 +102,7 @@ Midpoint is at 6-4-04. All chapters before that must NOT state the belief→real
 - "My architecture. My conviction." (declarative) → "My architecture? My conviction?" (questions)
 
 ### 6-3-03: Causal chain softened (3 fixes)
-- "belief had produced fire, and the fire had always been burning" → "the thought came, quiet and terrible: that the belief had produced the fire"
+- "belief had produced fire and the fire had always been burning" → "the thought came, quiet and terrible: that the belief had produced the fire"
 - "was my belief fluctuating" → "could that be my belief fluctuating?"
 - "My belief shapes reality." → "What if my belief shapes reality."
 
