@@ -173,7 +173,7 @@ Das ist kein externer Kampf. Es ist:
 - **Der tiefste Konflikt:** Sie hat ANGST zu sterben. Trotz allem. Trotz der Müdigkeit. Trotz der Sehnsucht. Tief in ihr ist da Angst.
 - DAS war es immer. Nicht ein System. Nicht ein Fluch. Angst.
 
-#### Sub-7PS Part 5: PINCH 2 (~12k Wörter, ~8-12 Kapitel)
+#### Sub-7PS Part 5: PINCH 2 (~13k Wörter, ~9-13 Kapitel)
 
 | # | Beat | Event | Kapitel |
 |---|------|-------|--------|
@@ -182,8 +182,9 @@ Das ist kein externer Kampf. Es ist:
 | P1 | **Pinch 1** | Dann: PANIK. Ihr Körper GREIFT. Wie ein Ertrinkender. Die Hände ballen sich — die Nägel graben sich in die Handflächen. Das Qi schnellt zurück, hart, wie eine zuschlagende Tür. Der Brandfleck auf dem Stoff heilt sich. Sie atmet schwer, Hände zitternd. | 5-04 |
 | M | **Midpoint** | **Die Wahrheit.** Sie sitzt in der Höhle. Steinwände. Tropfendes Wasser. Boden kalt unter ihr. Sie hat ANGST zu sterben. Ihr Körper sagt es lauter als ihr Geist: Hände feucht, Hals eng, Atem flach. DAS war es immer. Nicht System. Nicht Fluch. Angst. Sie wischt sich die Hände an der Hose ab. | 5-05, 5-06 |
 | P2 | **Pinch 2** | **Erinnerung:** Weis Tod. Klar. Nicht schmerzhaft — klar. Sie sieht sein Gesicht. Ruhig. Unbeeindruckt. Sogar dann. "Er hat GELEBT. Das war genug." Draußen: Vogelgesang. Sie hört ihm zu. Zum ersten Mal hört sie Vögel WIRKLICH. | 5-07 |
-| PT2 | **Plot Turn 2** | Sie tritt aus der Höhle. Licht. Sie blinzelt. "Ich habe gelebt. Das war genug." Laut, in den Wald. Die Worte klingen hohl. Noch. Aber sie hat sie gesagt. Ein Anfang. | 5-08 |
-| R | **Resolution** | Sie geht den Bergpfad hinunter. Langsam. Spürt das Gewicht ihrer Beine. Die Angst ist benannt. Nicht besiegt — sichtbar. Man kann nicht kämpfen, was man nicht sieht. Unten im Tal: Rauch. Ein Dorf. Sie geht darauf zu. | 5-09 |
+| — | **Hermit-Begegnung** | Der Einsiedler-Meister. Dritte und letzte Begegnung (B2 Hof → B3 *Nicht* → hier). Auf dem Felsvorsprung. Zwei-Finger-Gruß. Sokratische Fragen: "Wessen Mauer?" / "Alles außer." / "Eine Hand, die lange genug greift, vergisst, dass Greifen eine Wahl ist." Ihre Frage: "Warum hast du mir nicht gesagt, was ich bin?" — "Hättest du jemand anderem geglaubt über das, was du bist?" Er geht. Kein Gruß. Ein Nicken. Der Satz bleibt. | 5-08 |
+| PT2 | **Plot Turn 2** | Sie tritt aus der Höhle. Licht. Sie blinzelt. "Ich habe gelebt. Das war genug." Laut, in den Wald. Die Worte klingen hohl. Noch. Aber sie hat sie gesagt. Ein Anfang. | 5-09 |
+| R | **Resolution** | Sie geht den Bergpfad hinunter. Langsam. Spürt das Gewicht ihrer Beine. Die Angst ist benannt. Nicht besiegt — sichtbar. Man kann nicht kämpfen, was man nicht sieht. Unten im Tal: Rauch. Ein Dorf. Sie geht darauf zu. | 5-10 |
 
 ---
 

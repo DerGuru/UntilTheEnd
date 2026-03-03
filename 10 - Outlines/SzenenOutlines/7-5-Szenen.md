@@ -158,7 +158,35 @@ Friedlich-traurig. Bittersüß. Eine Erinnerung, die nicht mehr schneidet — so
 
 ---
 
-## Szene 7-5-08-01 (Resolution | Pinch 2 | Plot Turn 2)
+## Szene 7-5-08-01 (Resolution | Pinch 2 | Hermit-Begegnung) ★ NEU
+
+### Absicht
+Der Hermit Master — zum dritten und letzten Mal. Sokratische Fragen, keine Antworten. Er pflanzt den Satz, der in Part 6 den Knoten löst.
+
+### Key Beat
+Signatur auf dem Grat. Zwei-Finger-Gruß. Er stellt Fragen: „Whose wall?" → Sie weiß es. „Everything except." → Callback B3 (Walls/Windows/Paths, alles außer Wei → jetzt alles außer sich selbst). „A hand that grips long enough forgets that gripping is a choice." — DER Satz. Dann: „Did you know what I was?" — „Yes." — „Why didn't you tell me?" — „Would you have believed someone else's answer about who you are?" Er geht. Kein Gruß. Ein Nicken.
+
+### Ton
+Ruhig. Gleichwertig. Zwei uralte Wesen, die endlich reden — kurz, knapp, wie Wesen es tun, die volume nicht mehr brauchen.
+
+### Outline
+- **Signatur.** Auf dem Grat. 200 Schritte östlich. Alt. Ihre Art von alt. Sie kennt sie — das Settlement, das tote Gras, *Don't.* Davor: der Zwei-Finger-Gruß im Hof.
+- **Er steht.** War schon da, bevor sie kam. Wie immer: schon dort. Zwei Finger. Der alte Gruß.
+- **Fragen (sokratisch):** „You held. Seven seconds. What pulled you back?" → „The wall." → „Whose wall?" → Stille (= ihre). „I watched you protect a settlement once. Everything except." → „You are protecting everything again. Except." „A hand that grips long enough forgets that gripping is a choice."
+- **Ihre Frage:** „You knew. What I was. Before I did." — „Yes." — „Why didn't you tell me?" — „Would you have believed someone else's answer about who you are?"
+- **Er geht.** Kein Gruß. Nicken. Weg. Endgültig. Signatur verschwindet — nicht versteckt, abwesend.
+- **Nachklang:** Sie steht auf dem Grat. Schaut auf ihre Hände. Offen. „Gripping is a choice." Der Satz bleibt.
+
+### Sonstiges/Wichtiges
+- Drei-Begegnungen-Struktur: B2 (Gruß/Ausweichen) → B3 (*Don't*/Weis Tod) → B7 (Gespräch/endlich bereit)
+- „A hand that grips long enough" = Kernsatz, der in P6 unter dem Pflaumenbaum den Knoten löst
+- „Everything except" = Callback B3: 3-5-06-41 (alles außer seinem Core) → jetzt: alles außer sich
+- Kein Gruß beim Abschied = er hat sein einziges Wort (*Don't*) und seine Fragen gegeben. Fertig.
+- ⚠ POV: Enge 3. Person Präsens. Kein „ich".
+
+---
+
+## Szene 7-5-09-01 (Resolution | Pinch 2 | Plot Turn 2)
 
 ### Absicht
 Sie spricht es AUS. Laut. In den Wald. „Ich habe gelebt. Das war genug." Die Worte klingen hohl. NOCH. Aber sie hat sie gesagt.
@@ -183,7 +211,7 @@ Vorwärts-gewandt. Nicht triumphierend — versuchend. Wie jemand, der eine Spra
 
 ---
 
-## Szene 7-5-09-01 (Resolution | Pinch 2 | Resolution)
+## Szene 7-5-10-01 (Resolution | Pinch 2 | Resolution)
 
 ### Absicht
 Sie geht bergab. Langsam. Die Angst ist BENANNT. Nicht besiegt — sichtbar. Unten: Rauch. Ein Dorf. Sie geht darauf zu.
