@@ -41,11 +41,11 @@ Kalt. Präzise. Wissenschaftlich. Die Stimmung eines Labors, nicht eines Schlach
 - **Warum Xu Ran es hat:** Er trug es bei sich, bevor er Yun fand. Über alte Kontakte beschafft. „Für den Fall." Dass ER es hat, zeigt, wie ernst er diese Reise nahm.
 - **Yun untersucht das Gift.** Sachlich. Dreht die Phiole. Riecht daran. Nickt. Gut genug.
 - **Kein innerer Monolog.** Keine Angst, kein Zweifel. Methodisch. Sie hat beim Klippensprung beobachtet. Jetzt will sie KONTROLLIERT beobachten.
-- **Xu Ran weiß, was sie vorhat.** Sie hat es nicht gesagt — er hat es aus dem Notizbuch abgeleitet. Er sagt nichts. Er will SEHEN.
+- **Xu Ran weiß, was sie vorhat.** Sie hat es nicht gesagt — er hat es aus dem Notizbuch abgeleitet. Er hat versucht, sie davon abzubringen. Er hat verloren. Er steht zehn Schritte entfernt, weil SIE es verlangt hat. Nicht weil er beobachten will — weil er nicht verhindern KONNTE.
 
 ### Sonstiges/Wichtiges
 - ⚠ Gift = spezifisch, keine generische Fantasie-Substanz
-- Xu Rans Motivation: Er will Antworten. Nicht sie retten.
+- Xu Rans Motivation: Er will Antworten — aber nach „Don't do it again" (4-4-06) kann er nicht einfach neutral zusehen. Er steht da, weil sie stärker ist als er. Nicht weil er einverstanden ist.
 
 ---
 
@@ -58,12 +58,12 @@ Der Moment der Einnahme. Ruhig, kontrolliert, beobachtend. Xu Ran ist Zeuge — 
 Sie nimmt das Gift. Ruhig. Xu Ran ist da. Er weiß, was sie tut. Kann sie nicht stoppen. Will vielleicht auch nicht — er will SEHEN.
 
 ### Ton
-Angespannt-ruhig. Das Paradox: absolute Gefahr, absolute Gelassenheit. Xu Rans Perspektive bringt die Spannung, nicht Yuns.
+Angespannt-ruhig. Das Paradox: absolute Gefahr, absolute Gelassenheit. Die Spannung kommt von Xu Rans Machtlosigkeit — er konnte es nicht verhindern und muss jetzt zusehen.
 
 ### Outline
 **Kapitel 6-02: Die Einnahme**
 - **Ort:** Eine Lichtung. Abseits. Yun hat den Platz gewählt — offen, keine Hindernisse im unmittelbaren Umkreis. (Aber: nicht genug, wie sich zeigt.)
-- **Distanz:** Xu Ran steht zehn Schritte entfernt. Nah genug für sein Notizbuch. Er will BEOBACHTEN, nicht eingreifen.
+- **Distanz:** Xu Ran steht zehn Schritte entfernt. Nah genug für sein Notizbuch. Er steht da, weil sie es verlangt hat — nicht weil er einverstanden ist. Sein Gesicht ist nicht das eines Beobachters. Es ist das eines Menschen, der ein Argument verloren hat.
 - **Das Gift.** Sie trinkt. Ruhig. Keine Dramatik. Ein Schluck. Wartet.
 - **Yun beobachtet:** Den eigenen Körper. Wartet auf die Wärme. Den Druck. Das, was beim Klippensprung kam.
 - **Es passiert nichts — Sekunden.** Eine Ewigkeit aus Warten. Xu Ran hält den Atem an. Stift am Papier.
@@ -177,7 +177,7 @@ Beunruhigend. Intim. Der Leser soll sich fragen: Wer spricht da?
 Erkenntnis nach dem Selbstschutz: Was sie am Leben hält, ist kein Käfig — es ist ein TEIL von ihr. Teilweise gelöscht, aber die Richtung bleibt.
 
 ### Key Beat
-Der Selbstschutz löscht die Klarheit teilweise. Aber genug bleibt: Was sie am Leben hält, ist kein Käfig — es ist ein Teil von IHR. Die Richtung ist klar.
+Der Selbstschutz löscht die Klarheit teilweise. Aber genug bleibt — als Gefühl, nicht als Gedanke. Sie FÜHLT, dass es nicht fremd ist. Xu Ran FORMULIERT es. Die Arbeitsteilung zwischen Empfinden und Benennen wird zur Methode.
 
 ### Ton
 Halblicht. Klarheit durch Nebel. Nicht triumphierend — hartnäckig.
@@ -189,14 +189,15 @@ Halblicht. Klarheit durch Nebel. Nicht triumphierend — hartnäckig.
 - **Aber genug bleibt:** Die RICHTUNG. Nicht die Details — das GEFÜHL. Etwas in ihr ist lebendig. Etwas hat sie beschützt. Es ist kein Käfig — es ist ein Teil von ihr.
 
 **Kapitel 6-09: Umformulierung**
-- **Yuns Verständnis (leise, intern):** Was sie am Leben hält, ist kein externer Mechanismus. Kein Gott, kein System, kein Fluch. Es ist etwas, das in ihr LEBT. Ein Teil von ihr.
+- **Yuns Verständnis (leise, intern):** Sie FÜHLT, dass die Kraft nicht fremd ist. Dass sie ihr gehört. Aber sie sagt es nicht so. Sie sagt vielleicht: „It didn't feel like an enemy." Oder: „It knew where to push."
+- **Xu Ran formuliert:** ER schreibt die Abstraktion ins Notizbuch: *Nicht feindlich. Von innen. Kein Käfig.* — Das ist sein Job: ihre Empfindungen in Konzepte übersetzen, die sie selbst nicht benennen kann/will.
 - **Die Implikation:** Wenn es ein Teil von ihr ist — dann kann sie es verstehen. Dann MUSS sie es verstehen.
-- **Autorenregel:** Figuren dürfen NUR Muster/Empfinden benennen — nie Mechanik, nie Regeln. Yun denkt: *„Es fühlt sich an, als wäre da jemand."* Nie: *„Das ist ein Schutzmechanismus."*
+- **Autorenregel STRIKT:** Yun darf NUR Muster/Empfinden benennen — nie Mechanik, nie Regeln. Sie denkt: *„Es fühlt sich an, als wäre da jemand."* Nie: *„Das ist ein Schutzmechanismus."* Nie: *„Es ist ein Teil von mir."* — Xu Ran darf abstrahieren, sie nicht.
 - **Die Richtung ist klar.** Nicht die Antwort — die Richtung. Das reicht. Für jetzt.
 
 ### Sonstiges/Wichtiges
-- Autorenregel strikt einhalten: kein Mechanik-Vokabular
-- Die Erkenntnis „es ist ein Teil von mir" zahlt sich in B5-B7 massiv aus
+- Autorenregel strikt einhalten: kein Mechanik-Vokabular von Yun. Xu Ran darf abstrahieren — er ist der Gelehrte. Sie liefert Empfindung, er liefert Konzept.
+- Die Erkenntnis „es ist nicht fremd" zahlt sich in B5-B7 massiv aus
 
 ---
 

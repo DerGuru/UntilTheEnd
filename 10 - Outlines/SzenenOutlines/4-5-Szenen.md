@@ -6,7 +6,7 @@
 
 **Selbstschutz-Tools:**
 - **Dauerhaft (wiederkehrend):** Erinnerungslücken + Kopfschmerzen. Alternieren, nie gleichzeitig pro Szene.
-- **Einmalig (nur 1 Szene):** Qi-Anomalie — plötzliche Eruption, Bäume knicken im 20m-Radius.
+- **Einmalig (nur 1 Szene):** Qi-Anomalie — ein einzelner Riss im Stein, leise, unkontrolliert, unmöglich.
 - **Alternieren-Regel:** Pro Szene dominiert EIN Symptom. Szene A = Erinnerungslücke. Szene B = Kopfschmerz. So bleibt jede Szene sauber.
 
 **Scharmützel Part 5:** Sekte-Angriff (organisiert). Innerer Schritt = FREUDE + SCHRECKEN darüber. Ikonisches Bild: echtes, kurzes Lächeln → sofortiger Ekel → Hand fährt zum Mundwinkel, als könnte sie es wegwischen.
@@ -63,20 +63,20 @@ Andächtig. Archäologisch. Wie eine Forscherin an einer alten Stätte.
 ### Outline
 **Kapitel 5-02: Der Krater**
 - **Ort:** Ein alter Vulkankrater. Vor 400 Jahren: Lava. Yun fiel hinein. Überlebte. Jetzt: kalt, still, bewachsen.
-- **Yun am Kraterrand.** Sie legt die Hand auf den Stein. Spürt...
-- **Ambivalenz:** Nichts? Oder alles? Die Grenze ist unklar. Etwas vibriert. Oder bildet sie es sich ein?
-- **Xu Ran beobachtet.** Schreibt. „Der Stein vibrierte, sagt sie."
+- **Yun am Kraterrand.** Sie legt die Hand auf den Stein. Zieht sie zurück. Sofort. Ohne Erklärung.
+- **Ambivalenz:** Was hat sie gespürt? Sie sagt nichts. Vielleicht weiß sie es nicht. Vielleicht will sie es nicht benennen.
+- **Xu Ran beobachtet.** Schreibt. „Sie berührte den Stein. Zog die Hand zurück." Er dokumentiert die Geste, nicht das Phänomen. Was sie gefühlt hat, bleibt bei ihr.
 
 **Kapitel 5-03: Qi-Anomalie (EINMALIG)**
 - **Blick in den Krater:** Sie konzentriert sich. Versucht, das zu wiederholen, was beim Klippensprung passierte. Die Wärme. Den Druck.
-- **QI-ANOMALIE:** Ihr Qi zuckt unkontrolliert. Plötzlich. Brutal. Bäume im 20-Meter-Radius knicken. Boden reißt auf. Staub. Wind.
-- **Danach:** Stille. Sie atmet schwer. „Was war das?" Xu Ran schreibt.
-- **Einmalig:** Kommt nie wieder. Wirkt wie ein Warnsignal — ist eines. Etwas in ihr will NICHT, dass sie hier gräbt.
-- **Risk Moment (Xu Ran):** Ein Sekten-Späher erkennt Xu Ran allein (Yun ist am Krater). Bietet: Information über Yun gegen ihre Position. Xu Ran lehnt ab. Pragmatisch: „Ich will Antworten. Nicht Kopf ab." Der Späher geht. Xu Ran erwähnt es Yun NIE.
+- **QI-ANOMALIE:** Ihr Qi zuckt unkontrolliert. Plötzlich. Leise. Ein einzelner Riss im Stein unter ihrer Hand — langsam, präzise, unmöglich. Kein Beben, kein Lärm. Nur: Stein, der sich teilt, wo Stein sich nicht teilen sollte. Klein, aber UNKONTROLLIERT.
+- **Danach:** Stille. Sie starrt auf den Riss. Zieht die Hand weg. Sagt nichts. Xu Ran schreibt.
+- **Einmalig:** Kommt nie wieder. Die Angst kommt nicht von der Größe — sondern davon, dass sie es NICHT KONTROLLIERT hat. Etwas in ihr will NICHT, dass sie hier gräbt.
+- **Risk Moment (Xu Ran):** Ein Sekten-Späher erkennt Xu Ran allein (Yun ist am Krater). Bietet: Information über Yun gegen ihre Position. Xu Ran sagt Nein. Kein Kommentar, keine Punchline — nur Nein. Der Späher geht. Xu Ran erwähnt es Yun NIE. Der Nachhall zeigt sich in Handlung: Paranoia, Blick über die Schulter, Notizbuch nicht mehr offen liegen lassen, zittrigere Schrift.
 
 ### Sonstiges/Wichtiges
 - ⚠ Qi-Anomalie = einmalig, nie wieder (Warnsignal)
-- ⚠ Produktionsregel: 20-30m Radius, lokal, kein Krater/keine Pilzwolke
+- ⚠ Produktionsregel: Leise, lokal, ein Riss — keine Explosion. Kontrolle-Verlust, nicht Kraft-Demonstration.
 - ⚠ CROSS-BEAT → B5: Sekten-Detail als Foreshadowing für Lian Zhuo einstreuen (identische Marken, Resonanz-Talisman)
 
 ---
@@ -95,9 +95,9 @@ Beunruhigend-nüchtern. Kein Drama — nur die Tatsache, dass etwas FEHLT.
 ### Outline
 **Kapitel 5-04: Die Lücke**
 - **Zeitsprung:** Stunden oder einen Tag nach der Qi-Anomalie. Yun steht am Krater. Sieht ihn an. Fragt: „Warum sind wir hier?"
-- **Xu Ran:** Stutzt. „Du hast gerade gesagt, der Stein vibrierte."
+- **Xu Ran:** Stutzt. „Du hast den Stein berührt. Du hast die Hand zurückgezogen."
 - **Yun:** „Habe ich nicht." Tonlos. Keine Verunsicherung — echte Überzeugung.
-- **Xu Ran zeigt ins Notizbuch.** Ihre Beschreibung, in seiner Handschrift. Sie liest. Erkennt die Worte nicht als ihre.
+- **Xu Ran zeigt ins Notizbuch.** Ihre Geste, in seiner Handschrift. Sie liest. Erkennt die Beschreibung nicht als ihre.
 - **Abstreiten:** Sie streitet ab. Nicht aggressiv — verwirrt. Oder: gar nicht verwirrt. ÜBERZEUGT, dass sie es nicht gesagt hat.
 
 **Kapitel 5-05: Muster**
