@@ -14,4 +14,20 @@ The overall arc
 
 First a concept.
 General Outline
-Finer but still overall Outline for what
+Finer but still overall Outline for what will happen in each book.
+Then the 7PS for each book. 
+Then the 7PS for each part of each book.
+Then the chapter by chapter outline for each part of each book.
+Then the scene by scene outline for each chapter of each part of each book.
+
+Then the writing.
+
+Tell the AI to ask questions. Whether it needs something to write a scene, or whether it needs to clarify something about the overall story. I have found that the more questions I enforce, the better the result. The more specific I am in my answers, the better the result.
+
+Learnings
+- Read the Outlines and correct them, if they are not, what you expect. They are your basis. They are your map and your compass. They are the structure that holds everything together. Question them, until you are satisfied. The better the basis, the better the result. 
+
+- Don't tell the AI to write a book. Tell it to write a chapter. Or even better: a scene. The more specific you are, the better the result.
+
+- Don't tell the AI a single tone. It have that, but foreboding or dread, will result in text, you don't want. And telling it to write it hollow or disconnected results in the first chapters of the Echoes. It was hard to read and even harder to edit in order to becoem somewhat readable. Keep the tone a mixture of some things. Some Slice of Life, some foreboding, some dread, some hope, some humor. The mixture is what makes it work and keeps the text readable and enjoyable.
+
