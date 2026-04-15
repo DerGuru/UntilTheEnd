@@ -1,10 +1,10 @@
-# Buch 5: Until The End: Cracks — PINCH 2 der Shadow-Serie
+# Buch 5: The Weight of Watching: Cracks — PINCH 2
 
 ## Serien-Rolle
-**Beat:** Pinch 2 (Shadow)
+**Beat:** Pinch 2 (TWoW)
 **Original-Pendant:** *Fractures* (Hauptreihe B5)
 **Thema:** Von außen sehen, was innen bricht. Xu Ran als Analytiker. Pencil als Harvester, der zu nah kommt.
-**POV-Fokus:** Xu Ran ~70% | Pencil ~25-30%
+**POV-Fokus:** Xu Ran ~75% | Pencil ~25%
 
 ---
 
@@ -34,6 +34,14 @@ Beide beobachten dieselbe Frau. Beide schreiben auf. Der eine aus Fürsorge, der
 - **Die 14 Anomalien:** Yun reißt eine Seite aus ihrem eigenen Notizbuch. Xu Ran findet sie. Liest sie. *Sie dokumentiert sich SELBST.*
 - **Die Vergesslichkeits-Muster:** Jedes Mal, wenn Yun einer Erkenntnis nahekommt, VERGISST sie. Er sieht es: sie kommt näher → „Kopfschmerz" → weg. Als lösche jemand ihr Gedächtnis.
 - **Sein Notizbuch als Gegengewicht:** Er wird zum Gedächtnis einer Frau, die ihres verliert.
+
+### Meridian-Reparatur (laufender Thread)
+- **Nächtliche Routine seit B4:** Yun arbeitet jeden Abend an seinen Kanälen. Was als Notmaßnahme nach dem Gift-Experiment begann, ist jetzt Ritual. Hände auf seinem Rücken, Wärme, langsames Öffnen.
+- **Xu Rans Perspektive:** Er versteht jetzt MEHR — spürt, wie Blockaden sich lösen, wie Reste sich verschieben. Er kategorisiert es im Notizbuch als eigene Anomalie-Klasse: *„Kategorie K: Kanäle. Was sie repariert und warum."*
+- **Was er FÜHLT:** Etwas kehrt zurück, das er seit der Tribulation verloren hatte. Nicht Qi — aber die WAHRNEHMUNG von Qi. Er spürt Strömungen klarer. Wittert Anomalien physisch, nicht nur analytisch. Sein Körper wird zu einem Messinstrument, das er nicht steuern kann.
+- **Proximity-Heilung (Seed, unsichtbar):** Yuns Proximity beginnt, den gebrochenen Kern zu regenerieren. Exponentiell — anfangs so mikroskopisch klein, dass weder Yun noch Xu Ran es bemerken. Der Riss vernarbt an den Rändern, nicht am Kern. Kein POV-Charakter weiß es. Der LESER von TWoW weiß es nicht. Nur das Faktum existiert.
+- **Die Ambivalenz bleibt:** Sie hat ihn zerbrochen. Sie repariert ihn. Jede Nacht. Wortlos. Er fragt nie warum. Sie erklärt nie. Es ist die intimste Handlung zwischen ihnen — und keiner von beiden benennt sie.
+- **Narrativ:** Der Thread taucht in 4-5 Kapiteln als kurze SoL-Beats auf (1-2 Absätze), nie als eigene Szene. Immer beiläufig: *„Danach: die Hände. Die Wärme. Die Stille."*
 
 ### Dreimal fast (Part 4-6)
 - Yun kommt dreimal an den Rand der Erkenntnis.
@@ -229,9 +237,9 @@ Beide beobachten dieselbe Frau. Beide schreiben auf. Der eine aus Fürsorge, der
 
 ---
 
-## Szenen-Crossreferenz (Shadow ↔ Original)
+## Szenen-Crossreferenz (TWoW ↔ UTE)
 
-| Szene in der Hauptreihe | Shadow-Pendant | Neue Info |
+| Szene in der Hauptreihe | TWoW-Pendant | Neue Info |
 |---|---|---|
 | Ruinen-Exploration | **[徐]** Dokumentation + **[笔]** Ernte-Auswertung | Doppelperspektive: Fürsorge vs. Kalkül |
 | Historische Fragmente | **[徐]** dekodiert mit Kultivator-Wissen | Xu Rans Expertise als Werkzeug |

@@ -1,10 +1,10 @@
-# Buch 6: Until The End: Glass — PLOT TURN 2 der Shadow-Serie
+# Buch 6: The Weight of Watching: Glass — PLOT TURN 2
 
 ## Serien-Rolle
-**Beat:** Plot Turn 2 (Shadow)
+**Beat:** Plot Turn 2 (TWoW)
 **Original-Pendant:** *Mirrors* (Hauptreihe B6)
 **Thema:** Glas — transparent, zerbrechlich, reflektierend. Xu Ran als Spiegel. Pencil als zerbrochener Harvester.
-**POV-Fokus:** Xu Ran ~50-55% | Pencil ~45%
+**POV-Fokus:** Xu Ran ~65% | Pencil ~35%
 
 ---
 
@@ -20,7 +20,7 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 ---
 
 ## Perspektive & Struktur
-- **POV:** 3rd Person Limited, chronologisch wechselnd [徐] ~55% / [笔] ~45%
+- **POV:** 3rd Person Limited, chronologisch wechselnd [徐] ~65% / [笔] ~35%
 - **Ton Xu Ran:** Ruhig → provokativ → erschüttert → still
 - **Ton Pencil:** Fasziniert → erschüttert → zerbrochen → loslassend (Beginn)
 - **Umfang:** ~100k+ Wörter
@@ -34,6 +34,13 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 - Er hat die Teile. Monate an Notizen. 14 Anomalien (ihre). 100+ Anomalien (seine). Drei gelöschte Erkenntnisse. Die historischen Fragmente. Das verschwindende Berg-Beweis.
 - **Er sieht das Muster:** Jedes Mal, wenn Yun an die Wahrheit kommt, schützt SIE SICH SELBST davor. Nicht ein System. Nicht der Himmel. SIE.
 - **Ab wann weiß ER es?** Nicht als Gewissheit — als Hypothese. Eine, die er testen kann.
+
+### Kanäle: Status B6
+- **Monate nächtlicher Arbeit** haben Xu Rans Meridiane weitgehend geöffnet. Die sekundären Kanäle sind sauber, die Hauptkanäle tragen. Was bleibt: der gebrochene Kern. Der Riss, den alles andere kompensiert.
+- **Proximity-Heilung (unsichtbar, exponentiell):** Der Kern regeneriert sich — aber der Prozess ist in B6 noch so langsam, dass er unter der Wahrnehmungsschwelle liegt. Yun prüft den Kern zweimal (Part 1, Part 7) und urteilt beide Male: *„The core wasn't ready."* Sie hat RECHT, zu dem Zeitpunkt. Aber sie übersieht, dass der Riss an den Rändern vernarbt. Der exponentielle Prozess ist im flachen Anlauf. Und sie hat zu viel eigenes um die Ohren (Realitäts-Warping, Erinnerungs-Überschreibung, Katalysator-Krise), um subtile Kern-Veränderungen zu bemerken.
+- **Was er spürt:** Qi-Ströme, klarer als seit B2. Er kann Anomalien nicht nur analytisch, sondern PHYSISCH wahrnehmen — sein Körper reagiert, bevor sein Verstand einordnet. Er weicht Dingen aus, die er nicht sehen kann (→ Xiǎohú-Thread). Gleichzeitig: seine Erinnerungen werden ÜBERSCHRIEBEN (kognitive Proximity-Wirkung). Körper heilt, Geist wird umgeschrieben. Notizbuch als Gegengewicht.
+- **Was er NICHT kann:** Kultivieren. Die Kanäle tragen, aber der Kern ist (noch) nicht funktional.
+- **Narrativ:** Der Thread wird weniger — die Routine verblasst in den Hintergrund. 2-3 kurze Erwähnungen. *„Die Kanäle waren jetzt leicht. Das Gewicht saß tiefer."*
 
 ### Der Katalysator-Moment (Part 2-4)
 - Das bewusste Warping: Yun verschiebt Angreifer — BEWUSST. Xu Ran sieht es. Kein Zufall mehr.

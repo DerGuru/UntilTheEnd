@@ -1,7 +1,7 @@
-# Buch 1: Until The End: Sparks — HOOK der Shadow-Serie
+# Buch 1: The Weight of Watching: Sparks — HOOK
 
 ## Serien-Rolle
-**Beat:** Hook (Shadow)
+**Beat:** Hook (TWoW)
 **Original-Pendant:** *Embers* (Hauptreihe B1)
 **Thema:** Ambition trifft Wunder. Zwei Sterbliche, ein Wald, eine Gottheit.
 **Funktion:** Xu Rans Jagd und Fall + Weis Begegnung mit Yun — dieselbe Geschichte, zwei neue Augen.
@@ -29,7 +29,7 @@ Die zentrale Ironie: Beide leben im selben Tal, zur selben Zeit. Xu Ran plant se
 
 ---
 
-## Timeline-Alignment (Shadow ↔ Original)
+## Timeline-Alignment (TWoW ↔ UTE)
 
 | Zeitraum | Xu Ran | Wei | Original (Yun) |
 |----------|--------|-----|-----------------|
@@ -289,9 +289,9 @@ Kapitel markieren ihren POV im Header. Die Zeitachse bestimmt die Reihenfolge.
 
 ---
 
-## Szenen-Crossreferenz: Shadow ↔ Original
+## Szenen-Crossreferenz: TWoW ↔ UTE
 
-| Shadow-Kapitel | Original-Part | Szene | Neue Information durch Shadow |
+| TWoW-Kapitel | UTE-Part | Szene | Neue Information durch TWoW |
 |---|---|---|---|
 | 1-1-08 [卫] | Part 1, Hook | Wildschwein-Szene | Wei sieht Müdigkeit in ihrem Gesicht, nicht Macht |
 | 2-1-03 [卫] | Part 2, PT1 | „Yun." — Der Name | Wei versteht die Bedeutung nicht, findet ihn „schön" |

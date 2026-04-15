@@ -1,20 +1,25 @@
-# Until The End: Shadows — Meta-Outline (Serie)
+# The Weight of Watching — Meta-Outline (Serie)
 
-> **Konzept:** Parallel-Erzählung zur Hauptreihe aus Weis und Xu Rans Perspektive — nach dem Modell von Orson Scott Cards *Ender's Shadow*. Dieselben Ereignisse, neue Blickwinkel, neue Szenen. Die Welt durch sterbliche Augen.
+> **Konzept:** Eigenständige Companion-Reihe zu *Until The End*. Dieselbe Welt, dieselben Ereignisse — aber durch sterbliche Augen. Inspiriert von Orson Scott Cards *Ender's Shadow*-Modell.
 
 ---
 
 ## Serientitel
 
-**Until The End: Shadows**
+**The Weight of Watching**
 
-Die Hauptreihe ist Yuns Geschichte — von oben gesehen, vom ältesten Wesen der Welt. Die Shadow-Reihe ist dieselbe Geschichte von unten — von Menschen, die neben einer Gottheit stehen und das nicht begreifen.
+*„You carry the weight of watching, which is the lighter weight."* — Der Hermit, B3
+
+Die Hauptreihe ist Yuns Geschichte — von oben gesehen, vom ältesten Wesen der Welt. *The Weight of Watching* ist dieselbe Geschichte von unten — von Menschen, die neben einer Gottheit stehen und das Gewicht des Zusehens tragen.
+
+**Veröffentlichung:** Separate Reihe, NACH Abschluss von *Until The End*.
+**Vorwort:** *„This series is best read after completing Until The End Books 1–7."*
 
 ---
 
 ## Einzeltitel
 
-| Buch | Shadow-Titel | Original-Titel | Resonanz |
+| Buch | Titel | UTE-Pendant | Resonanz |
 |------|-------------|----------------|----------|
 | **B1** | **Sparks** | Embers | Funken steigen AUS Glut auf — Wei und Xu Ran ENTSTEHEN in Yuns Welt |
 | **B2** | **Thorns** | Roots | Wurzeln haben Dornen — Wachstum tut weh |
@@ -40,13 +45,13 @@ Die Hauptreihe ist Yuns Geschichte — von oben gesehen, vom ältesten Wesen der
 
 | Buch | Wei | Xu Ran | Pencil | Hermit | Modus |
 |------|-----|--------|--------|--------|-------|
-| **B1: Sparks** | ~50% | ~50% | — | — | Wechsel, chronologisch |
-| **B2: Thorns** | ~30% | ~70% | — | — | chronologisch |
-| **B3: Ash** | ~30% (bis Tod) | ~70% (nach Tod: 100%) | — | Cameo (1-2 Kap.) | chronologisch |
-| **B4: Dust** | — | ~95% | ~5% (1-3 Kap.) | — | Xu Ran dominiert, Pencil-Einsprengsel |
-| **B5: Cracks** | — | ~70% | ~25-30% | — | chronologisch wechselnd |
-| **B6: Glass** | — | ~50-55% | ~45% | — | chronologisch wechselnd |
-| **B7: Ink** | — | ~70% | ~15% (Arc-Ende) | ~10% (Epilog) | Xu Ran-Block, dann Pencil, dann Hermit |
+| **B1: Sparks** | ~50% (37) | ~50% (38) | — | — | Wechsel, chronologisch |
+| **B2: Thorns** | ~35% (28) | ~65% (53) | — | — | chronologisch |
+| **B3: Ash** | ~30% (25, bis Tod) | ~70% (57, nach Tod: 100%) | — | Cameo (2 Kap.) | chronologisch |
+| **B4: Dust** | — | ~95% (72) | ~5% (3 Kap.) | — | Xu Ran dominiert, Pencil-Einsprengsel |
+| **B5: Cracks** | — | ~75% (56) | ~25% (20) | — | chronologisch wechselnd |
+| **B6: Glass** | — | ~65% (47) | ~35% (25) | — | chronologisch wechselnd |
+| **B7: Ink** | — | ~80% (52) | ~10% (8) | ~10% (7) | Xu Ran-Block, dann Pencil, dann Hermit |
 
 ### POV-Marker
 - **[徐]** = Xu Ran
@@ -61,15 +66,15 @@ Die Hauptreihe ist Yuns Geschichte — von oben gesehen, vom ältesten Wesen der
 ### Pencil / Lian Zhuo (笔)
 **Einführung:** B4 (1-3 Kapitel), wächst in B5-B6.
 **Rolle:** Anführer der fusionierten Sekte. Ex-Forscher-Fraktion. Der Antagonist, der kein Monster ist — ein Akademiker, der Yuns Anomalien „erntet" (Resonanz-Talismane). Diszipliniert, leise, überzeugt.
-**Shadow-Funktion:** Zeigt die Kehrseite von Xu Rans Suche: Pencil sucht AUCH Yun, aber als Ressource, nicht als Frage. Zwei Suchende, gegensätzliche Motive.
+**Funktion:** Zeigt die Kehrseite von Xu Rans Suche: Pencil sucht AUCH Yun, aber als Ressource, nicht als Frage. Zwei Suchende, gegensätzliche Motive.
 **Ton:** Klinisch, präzise, mit unterdrückter Faszination. Sieht Yun als Phänomen, nicht als Person — bis B6, wo seine Kontrolle bricht.
 **Arc:** Harvester → Beobachter → Versteher → loslassend (B7: akzeptiert, dass Yun nicht geerntet werden kann).
 
 ### Hermit / der Einsiedler (隐)
 **Einführung:** B3 Cameo (1-2 Kapitel aus seiner Sicht: Ankunft, Ablenkung, Rückzug). B7 Epilog.
-**Rolle:** Der Immortal+-Kultivator, der in B3 Yun ablenkt = Weis Tod ermöglicht. In der Hauptreihe nur durch Yuns Augen: ein Reflex, ein Moment. In der Shadow-Serie: ein Mensch mit eigenem Motiv.
-**Shadow-Funktion (B3):** Gibt Weis Tod eine weitere Tragik-Ebene — er kam nicht aus Bosheit, sondern aus Sorge um Yun. Wollte helfen. Wurde zum Auslöser.
-**Shadow-Funktion (B7):** Schließt den Kreis. Spürt Yuns Tod aus der Ferne. Ein Wesen, das ihr nahe genug war, um zu trauern — aber nie nahe genug, um zu bleiben.
+**Rolle:** Der Immortal+-Kultivator, der in B3 Yun ablenkt = Weis Tod ermöglicht. In der Hauptreihe nur durch Yuns Augen: ein Reflex, ein Moment. In *The Weight of Watching*: ein Mensch mit eigenem Motiv.
+**Funktion (B3):** Gibt Weis Tod eine weitere Tragik-Ebene — er kam nicht aus Bosheit, sondern aus Sorge um Yun. Wollte helfen. Wurde zum Auslöser.
+**Funktion (B7):** Schließt den Kreis. Spürt Yuns Tod aus der Ferne. Ein Wesen, das ihr nahe genug war, um zu trauern — aber nie nahe genug, um zu bleiben.
 **Ton:** Alt, still, beobachtend. Spricht wenig. Jeder Satz hat Gewicht.
 
 ---
@@ -93,21 +98,21 @@ Xiǎohú ist ein Fuchs-Geist, der durch **Proximity-Verstärkung** in Yuns Qi-Fe
 2. **Gewöhnung (B5-B6):** Der Fuchs ist halt DA. Gewohnheit tötet Aufmerksamkeit.
 3. **Asymptotische Tarnung:** Mit jedem Tag Proximity wird Xiǎohú besser im Täuschen. Yun müsste AKTIV genauer hinschauen — aber warum sollte sie? Die Überzeugung „harmloser Fuchs" ist gesetzt. Und ihre Überzeugung formt Realität.
 
-### Xu Rans Entdeckungspfad (Shadow-Serie)
+### Xu Rans Entdeckungspfad
 - **B5:** Sein Körper weicht etwas aus, das er nicht sehen kann. Er notiert: „Anomalie #47: Ich gehe um ETWAS herum. Kann nicht sagen, was."
 - **B6:** Muster: Der Fuchs reagiert auf Dinge, die noch nicht passiert sind. „Kein Tier tut das. Kein LOW-LEVEL Tier."
 - **B7 (Chronik):** Er versteht. Schreibt: *Sie hat ihn nie wirklich gesehen. Nicht weil er sich versteckt hat — weil sie entschieden hatte, dass es nichts zu sehen gab. Und ihre Entscheidung hat die Realität geformt.*
 
 ---
 
-## Serien-Struktur: 7-Point Structure (Shadow-Arc)
+## Serien-Struktur: 7-Point Structure
 
-Die Shadow-Serie hat einen EIGENEN emotionalen Arc, der parallel zur Hauptreihe läuft, aber eine andere Frage beantwortet.
+*The Weight of Watching* hat einen EIGENEN emotionalen Arc, der parallel zur Hauptreihe läuft, aber eine andere Frage beantwortet.
 
-**Hauptreihe (Yun):** *Was gibt dem Leben Sinn, wenn es kein Ende hat?*
-**Shadow-Reihe (Wei/Xu Ran):** *Was bedeutet es, neben jemandem zu stehen, der größer ist als die Welt — und trotzdem ein eigenes Leben zu haben?*
+**Until The End (Yun):** *Was gibt dem Leben Sinn, wenn es kein Ende hat?*
+**The Weight of Watching (Wei/Xu Ran):** *Was bedeutet es, neben jemandem zu stehen, der größer ist als die Welt — und trotzdem ein eigenes Leben zu haben?*
 
-### Langzeit-Arc (Shadow)
+### Langzeit-Arc
 ```
 B1: Ambition trifft Wunder (Xu Ran: der Aufstieg | Wei: die Begegnung)
 B2: Wachstum hat einen Preis (Wei: enabled, sichtbar | Xu Ran: gebrochen, unsichtbar)
@@ -122,19 +127,19 @@ B7: Aufschreiben und Loslassen (Xu Ran als Chronist, dann: eigener Weg)
 
 ## Serien-Beat-Übersicht
 
-| Buch | Shadow-Beat | Thema | POV-Fokus | Ending |
+| Buch | Beat | Thema | POV-Fokus | Ending |
 |------|------------|-------|-----------|--------|
 | **1: Sparks** | **Hook** | Ambition + Wunder | Wei ↔ Xu Ran | Xu Ran am Boden. Wei bewusstlos. Yun steht. |
-| **2: Thorns** | **Plot Turn 1** | Wachstum mit Dornen | Xu Ran (70%) ↔ Wei (30%) | Xu Ran taucht wieder auf. Weis Kern leuchtet. |
-| **3: Ash** | **Pinch 1** | Tod + Entscheidung | Xu Ran (70%) ↔ Wei (30%) + Hermit Cameo | Wei tot. Xu Ran allein. Alles Asche. |
+| **2: Thorns** | **Plot Turn 1** | Wachstum mit Dornen | Xu Ran (65%) ↔ Wei (35%) | Xu Ran taucht wieder auf. Weis Kern leuchtet. |
+| **3: Ash** | **Pinch 1** | Tod + Entscheidung | Xu Ran (70%) ↔ Wei (30%) + Hermit (2 Kap.) | Wei tot. Xu Ran allein. Alles Asche. |
 | **4: Dust** | **Midpoint** | Suche + Begleitung | Xu Ran (~95%) + Pencil (~5%) | Xu Ran bleibt. Unfreiwillig. Bewusst. |
-| **5: Cracks** | **Pinch 2** | Beobachten + Erkennen | Xu Ran (~70%) + Pencil (~25-30%) | Xu Ran sieht den Riss — Yun nicht. Xiǎohú-Spur. |
-| **6: Glass** | **Plot Turn 2** | Spiegel + Katalysator | Xu Ran (~50-55%) + Pencil (~45%) | Die Wahrheit, ausgesprochen. Akzeptanz. |
-| **7: Ink** | **Resolution** | Chronik + Abschied | Xu Ran (~70%) + Pencil (~15%) + Hermit (~10%) | Die letzte Seite. Eigener Weg. |
+| **5: Cracks** | **Pinch 2** | Beobachten + Erkennen | Xu Ran (~75%) + Pencil (~25%) | Xu Ran sieht den Riss — Yun nicht. Xiǎohú-Spur. |
+| **6: Glass** | **Plot Turn 2** | Spiegel + Katalysator | Xu Ran (~65%) + Pencil (~35%) | Die Wahrheit, ausgesprochen. Akzeptanz. |
+| **7: Ink** | **Resolution** | Chronik + Abschied | Xu Ran (~80%) + Pencil (~10%) + Hermit (~10%) | Die letzte Seite. Eigener Weg. |
 
 ---
 
-## Thematische Fäden (Shadow-spezifisch)
+## Thematische Fäden (reihenspezifisch)
 
 | Faden | Einführung | Entwicklung | Auflösung |
 |---|---|---|---|
@@ -143,7 +148,8 @@ B7: Aufschreiben und Loslassen (Xu Ran als Chronist, dann: eigener Weg)
 | **Die Göttin von unten** | B1: Yun als seltsame Frau (Wei) / als Unmöglichkeit (Xu Ran) | B4-5: Yun als zerbrochenes Wesen | B7: Yun als Mensch, der sterben will |
 | **Eigene Entscheidungen** | B1: Wei entscheidet zu bleiben, Xu Ran entscheidet zu jagen | B3: Weis letzte Entscheidung | B7: Xu Rans Entscheidung zu gehen |
 | **Das Unsichtbare sehen** | B2: Wei sieht Yun als Person, Welt sieht Macht | B5: Xu Ran sieht, was Yun nicht sieht | B6: Was Xu Ran sieht, bricht die Wahrheit auf |
-| **Proximity-Verstärkung** | B1: Xu Ran absorbiert Cores zu schnell | B2-3: Weis Kern brennt zu hell / Xu Rans bricht | B5-7: Xiǎohú — dasselbe Prinzip, anderes Wesen. Der Fuchs wird durch Yuns Nähe „vertieft". |
+| **Proximity-Verstärkung** | B1: Xu Ran absorbiert Cores zu schnell, Kern bricht | B2-3: Weis Kern brennt zu hell. B5-7: Xiǎohú — Fuchs wird „vertieft" | B5-7: Xu Rans Kern HEILT sich — exponentiell, unsichtbar. Proximity zerstört UND heilt. Dieselbe Kraft, andere Umstände. |
+| **Zerbrechen & Reparieren** | B1: Xu Rans Kern zerbricht durch Yuns Tribulation | B4: Gift-Schockwelle → Yun beginnt Meridian-Reparatur. B5-6: Kanäle öffnen sich. | B7: Yun bemerkt Kern-Heilung → erfindet Chronik als Taktik, um ihn da zu halten. Er erfährt es nie. Der Beweis, dass ihre Existenz nicht nur zerstört. |
 | **Überzeugung als Gefängnis** | B1: Xu Ran glaubt „Genie = Aufstieg" | B3: Yun glaubt „harmloser Fuchs" → sieht nichts anderes | B7: Xu Ran schreibt: „Sie sah nie, was direkt neben ihr stand." |
 
 ---
@@ -167,11 +173,11 @@ B7: Aufschreiben und Loslassen (Xu Ran als Chronist, dann: eigener Weg)
 - Wei allein im Dorf — was er tut, wenn Yun nicht da ist
 
 ### Goldene Regel
-Jede Szene, die auch in der Hauptreihe existiert, muss in der Shadow-Reihe **mindestens eine neue Information** liefern — ein Detail, das der Leser aus Yuns POV nicht hatte. Sonst: referenzieren statt nacherzählen.
+Jede Szene, die auch in der Hauptreihe existiert, muss in *The Weight of Watching* **mindestens eine neue Information** liefern — ein Detail, das der Leser aus Yuns POV nicht hatte. Sonst: referenzieren statt nacherzählen.
 
 ---
 
-## Emotionale Arc der Serie (Shadow)
+## Emotionale Arc der Serie
 
 ```
 Buch 1:  Ambition + Staunen ——→ Zerstörung + Hoffnung
@@ -185,7 +191,7 @@ Buch 7:  Chronik ——→ Abschied ——→ Eigener Weg
 
 ---
 
-## Buch-zu-Buch-Übergänge (Shadow)
+## Buch-zu-Buch-Übergänge
 
 | Übergang | Was das nächste Buch aufgreift |
 |---|---|
@@ -206,7 +212,7 @@ Der Arc aus der Hauptreihe wird von INNEN erzählt:
 blind-ehrgeizig → gebrochen → suchend → schwankend → verstehend → Chronist → eigener Weg
 ```
 
-**Was die Shadow-Reihe HINZUFÜGT:**
+**Was *The Weight of Watching* HINZUFÜGT:**
 - **B1:** WARUM er ehrgeizig ist. Familie? Trauma? Leere? Was ihn antreibt.
 - **B1:** Seine sorgfältige Planung der Tribulation — er IST kein Monster. Er hat nur nicht hingesehen.
 - **B2-3:** WIE das Gebrochensein sich anfühlt. Die Tribulation von innen.
@@ -216,13 +222,13 @@ blind-ehrgeizig → gebrochen → suchend → schwankend → verstehend → Chro
 
 ---
 
-## Offene Fragen (Shadow-Serie)
+## Offene Fragen
 
 - [x] Wie viele Bücher? → 7 (parallel zur Hauptreihe)
 - [x] POV? → 3rd Person Limited, Wei + Xu Ran
 - [x] Kapitelanordnung? → Chronologisch, zwischen POVs wechselnd
 - [x] Titel? → Sparks / Thorns / Ash / Dust / Cracks / Glass / Ink
+- [x] Soll die Reihe nach der Hauptreihe gelesen werden? → JA. Separate Reihe, nach UTE.
+- [x] Veröffentlichungsformat? → Eigene Bücher, eigene Serie.
 - [ ] Xu Rans Backstory: Familie? Sekte? Motivation JENSEITS von Aufstieg?
 - [ ] Weis Geschwister: Namen? Rollen? Oder nur Hintergrund?
-- [ ] Soll die Shadow-Reihe nach der Hauptreihe gelesen werden, parallel, oder unabhängig?
-- [ ] Veröffentlichungsformat: Eigene Bücher oder interleaved mit der Hauptreihe?

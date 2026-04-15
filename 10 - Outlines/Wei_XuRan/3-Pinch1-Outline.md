@@ -1,7 +1,7 @@
-# Buch 3: Until The End: Ash — PINCH 1 der Shadow-Serie
+# Buch 3: The Weight of Watching: Ash — PINCH 1
 
 ## Serien-Rolle
-**Beat:** Pinch 1 (Shadow)
+**Beat:** Pinch 1 (TWoW)
 **Original-Pendant:** *Silence* (Hauptreihe B3)
 **Thema:** Stolz → Opfer → Tod → Asche. **WEI STIRBT.** Danach: Xu Ran allein.
 **POV-Fokus:** Xu Ran ~70% | Wei ~30% — chronologisch wechselnd
@@ -10,7 +10,7 @@
 
 ## Konzept
 
-Das härteste Buch der Shadow-Serie. Xu Ran lebt als Sterblicher in der Nähe der Siedlung, in der Wei und Yun sich niedergelassen haben. Er beobachtet. Recherchiert. Versucht zu verstehen, was mit seinem Kern passiert ist. Er sieht Wei — den Jungen, dessen Kern zu hell brennt — und ERKENNT das Muster. Er war selbst so.
+Das härteste Buch der Reihe. Xu Ran lebt als Sterblicher in der Nähe der Siedlung, in der Wei und Yun sich niedergelassen haben. Er beobachtet. Recherchiert. Versucht zu verstehen, was mit seinem Kern passiert ist. Er sieht Wei — den Jungen, dessen Kern zu hell brennt — und ERKENNT das Muster. Er war selbst so.
 
 Weis 30% sind die Schlüsselmomente: seine letzte Normalität, sein Stolz, die Zeichen, die er ignoriert. Und sein Tod — aus SEINEN Augen. Was er in seinen letzten Sekunden denkt.
 
@@ -30,7 +30,7 @@ Nach Weis Tod: Xu Ran allein in der Asche. Die Entscheidung zu bleiben.
 
 ---
 
-## Timeline-Alignment (Shadow ↔ Original)
+## Timeline-Alignment (TWoW ↔ UTE)
 
 | Zeitraum | Xu Ran | Wei | Original (Yun B3) |
 |----------|--------|-----|---------------------|
@@ -265,9 +265,9 @@ Nach Weis Tod: Xu Ran allein in der Asche. Die Entscheidung zu bleiben.
 
 ---
 
-## Szenen-Crossreferenz (Shadow ↔ Original)
+## Szenen-Crossreferenz (TWoW ↔ UTE)
 
-| Szene in der Hauptreihe (Yuns POV) | Shadow-Pendant | Neue Info |
+| Szene in der Hauptreihe (Yuns POV) | TWoW-Pendant | Neue Info |
 |---|---|---|
 | Yun beobachtet Wei trainieren | **[徐]** Xu Ran beobachtet BEIDE — und sieht, was Yun nicht sagt | Xu Rans Analyse als Ex-Kultivator |
 | Shen Liangs Rekrutierung | **[徐]** Xu Ran erkennt die Methoden als Ex-Sekte-Mitglied | Innere Mechanik der Rekrutierung |

@@ -1,10 +1,10 @@
-# Buch 2: Until The End: Thorns — PLOT TURN 1 der Shadow-Serie
+# Buch 2: The Weight of Watching: Thorns — PLOT TURN 1
 
 ## Serien-Rolle
-**Beat:** Plot Turn 1 (Shadow)
+**Beat:** Plot Turn 1 (TWoW)
 **Original-Pendant:** *Roots* (Hauptreihe B2)
 **Thema:** Wachstum hat Dornen. Xu Rans Kern zerbricht. Wei wird stärker. Beide zahlen.
-**POV-Fokus:** Xu Ran ~70% | Wei ~30%
+**POV-Fokus:** Xu Ran ~65% | Wei ~35%
 
 ---
 
@@ -12,7 +12,7 @@
 
 *Thorns* ist Xu Rans Buch. Er kehrt zu seiner Sekte zurück — der Genius, der gescheitert ist. Sein Kern, in B1 nur instabil, zerfällt über Wochen und bricht vollständig. Die Sekte reagiert: mit Hilfe, Politik, Verachtung. Xu Ran verliert alles, was er war. Dann beginnt er zu suchen.
 
-Weis 30% zeigen die Schlüsselmomente seiner Flucht und seines Wachstums — das, was in der Hauptreihe durch Yuns müde Augen gefiltert war, hier roh und 14 Jahre alt.
+Weis 35% zeigen die Schlüsselmomente seiner Flucht und seines Wachstums — das, was in der Hauptreihe durch Yuns müde Augen gefiltert war, hier roh und 14 Jahre alt.
 
 **Zentrale Ironie:** Xu Rans Kern bricht, weil er zu viel wollte. Weis Kern leuchtet, weil er zu nah an Yun ist. Beide werden zerstört durch das, was sie stärker machen sollte.
 
@@ -27,7 +27,7 @@ Weis 30% zeigen die Schlüsselmomente seiner Flucht und seines Wachstums — das
 
 ---
 
-## Timeline-Alignment (Shadow ↔ Original)
+## Timeline-Alignment (TWoW ↔ UTE)
 
 | Zeitraum | Xu Ran | Wei | Original (Yun B2) |
 |----------|--------|-----|---------------------|

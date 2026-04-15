@@ -1,10 +1,10 @@
-# Buch 7: Until The End: Ink — RESOLUTION der Shadow-Serie
+# Buch 7: The Weight of Watching: Ink — RESOLUTION
 
 ## Serien-Rolle
-**Beat:** Resolution (Shadow)
+**Beat:** Resolution (TWoW)
 **Original-Pendant:** *Clouds* (Hauptreihe B7)
 **Thema:** In Tinte festhalten, was Wolken nicht halten können. Xu Ran als Chronist. Abschied. Eigener Weg.
-**POV-Fokus:** Xu Ran ~70% | Pencil ~15% | Hermit ~10% | (+ 1-2 gemischte Epilog-Kapitel)
+**POV-Fokus:** Xu Ran ~80% | Pencil ~10% | Hermit ~10% | (+ 1-2 gemischte Epilog-Kapitel)
 
 ---
 
@@ -12,7 +12,7 @@
 
 *Ink* ist das letzte Buch — und das stillste. Xu Ran schreibt Yuns Geschichte auf. Nicht als Biograph, nicht als Historiker — als jemand, der neben einer sterbenden Gottheit sitzt und aufschreibt, was sie ihm erzählt.
 
-Die Hauptreihe (*Clouds*) wechselt den POV: B7 Part 1-4 ist Yuns Ich-Erzählung an Xu Ran, Part 5-7 enger 3. Person Präsens. Die Shadow-Reihe zeigt die ANDERE SEITE: Xu Ran, der zuhört. Der schreibt. Der versteht. Und der am Ende gehen muss.
+Die Hauptreihe (*Clouds*) wechselt den POV: B7 Part 1-4 ist Yuns Ich-Erzählung an Xu Ran, Part 5-7 enger 3. Person Präsens. *The Weight of Watching* zeigt die ANDERE SEITE: Xu Ran, der zuhört. Der schreibt. Der versteht. Und der am Ende gehen muss.
 
 **Pencils Arc-Ende:** Er kehrt kurz zurück — nicht als Forscher, sondern als Mensch, der sich verabschiedet. Die 200 Seiten sind in Xu Rans Chronik integriert. Pencils letzte Frage: *War es das wert?* Seine Antwort: *Ja. Weil die Wahrheit wichtiger ist als der Nutzen.*
 
@@ -23,7 +23,7 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 ---
 
 ## Perspektive & Struktur
-- **POV:** 3rd Person Limited, [徐] ~70% / [笔] ~15% / [隐] ~10%
+- **POV:** 3rd Person Limited, [徐] ~80% / [笔] ~10% / [隐] ~10%
 - **Ton Xu Ran:** Still, aufmerksam, schreibend. Der ruhigste Ton der Serie.
 - **Ton Pencil:** Abgeklärt, befreit, fast heiter. Ein Forscher, der akzeptiert hat.
 - **Ton Hermit:** Alt, langsam, tief. Jeder Satz wie ein Stein, der ins Wasser fällt.
@@ -34,15 +34,25 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 
 ## Xu Rans B7-Arc: Der Chronist
 
-### Part 1-4: Yun erzählt, Xu Ran schreibt
+### Part 1-3: Sterblichkeits-Übungen + Proximity-Erkenntnis
+- **Xu Ran coacht Yun** bei den Sterblichkeits-Übungen: „Nicht kämpfen. Surrender." Er sieht von AUSSEN, was die Hauptreihe von INNEN zeigt.
+- **Die Erkenntnis (Yun-POV im Original, B7 Part 4 Mitte):** Abends, Meridian-Routine. Yun prüft den Kern — und stoppt. Der Riss ist kleiner. Deutlich. Exponentiell gewachsen, seit sie zuletzt genau hingeschaut hat (B6). Proximity. Dieselbe Kraft, die seinen Kern zerbrochen hat, heilt ihn. Ein paar Tage noch.
+- **Yuns Taktik:** Sie sagt ihm NICHTS. Braucht einen Vorwand, ihn noch lang genug hier zu halten. Am nächsten Morgen: *„Ich will dir etwas erzählen. Lass uns Geschichten vergleichen."* → Die Chronik beginnt. Als Taktik. Und als Geschenk.
+- **Xu Rans Perspektive (TWoW):** Er spürt etwas — Wärme im Kern, die er nicht einordnen kann. Aber seine Erinnerungen werden überschrieben (B6-Nachwirkung), er traut seinen eigenen Wahrnehmungen nicht. Er kategorisiert es als Anomalie und schreibt auf. Versteht es NICHT.
+
+### Part 3-4: Yun erzählt, Xu Ran schreibt (= Heilungstage)
 - **Das Erzählen:** Yun erzählt ihm ALLES. Ihr gesamtes Leben. Jahrtausende. Fragmentarisch, assoziativ, manchmal unterbrochen von Schluchzen oder Lachen oder Stille.
+- **Die Doppelfunktion:** Die Chronik-Tage SIND die Heilungstage. Er bekommt beides: die Geschichte und den Kern. Ohne es zu wissen. Sie weiß es — und erzählt trotzdem echt, nicht als Pflichterfüllung. Der Vorwand ist echt UND funktional.
 - **Xu Rans Aufgabe:** Zuhören. Aufschreiben. Nicht urteilen. Nicht kommentieren. Nicht unterbrechen. Das fällt ihm SCHWER — er ist analytisch, er will FRAGEN. Aber er lernt: manche Geschichten brauchen keinen Fragesteller. Nur ein Ohr.
 - **Was er schreibt:** Nicht wörtlich. Er ÜBERSETZT ihre Geschichte in Worte, die andere verstehen können. Sie redet in Fragmenten — er macht Sätze daraus. Sie springt durch Jahrhunderte — er findet die Verbindungen.
 - **Die Chronik wird das Manuskript der Hauptreihe.** (Meta-Schicht: Was der Leser als „Yuns Ich-Erzählung" liest, KÖNNTE Xu Rans Chronik sein. Oder auch nicht. Bewusst offen.)
 - **SoL des Schreibens:** Er bricht Federn. Tinte tropft. Sein Handgelenk schmerzt. Er schreibt bei Kerzenlicht, bei Sonnenaufgang, im Regen (Tinte verläuft). Physisch. Konkret.
+- **Proximity-Payoff (TWoW, unsichtbar für Xu Ran):** Während der Erzähltage sitzt er NEBEN ihr. Stundenlang. Die Nähe ist maximal. Die Heilung beschleunigt. Lesbare Hinweise aus seiner Perspektive: sein Körper fühlt sich anders an. Stärker. Wärmer. Er schreibt es dem Zuhören zu. *„Ihre Geschichte macht etwas mit mir."* — Wahrer als er ahnt.
 
 ### Part 4: Abschied
-- **Yun lässt ihn gehen.** Bewusst. Nicht grausam — liebevoll. „Du hast genug. Geh."
+- **Yun lässt ihn gehen.** Der Kern ist geheilt — oder kurz davor. Sie weiß es. Er nicht.
+- **Kein Angebot.** Keine Erklärung. Sie hat ihm gegeben, was sie konnte: die Geschichte, den Kern, die Zeit. Ohne es ihm zu sagen. Ohne Kontrolle über sein Schicksal zu fordern.
+- **Für Yun:** Der Beweis, dass ihre Existenz nicht nur zerstört. Proximity hat gebrochen UND geheilt. Dasselbe Prinzip. Dieselbe Kraft. Nur die Umstände waren anders.
 - **Xu Rans Reaktion:** Er will bleiben. Er ist nicht fertig. Es gibt noch Fragen. Es gibt IMMER noch Fragen.
 - Aber er versteht: sein Bleiben hilft ihr nicht. Was jetzt kommt — Sterblichkeit verinnerlichen — das kann sie nur allein.
 - **Die letzte Seite:** Er schreibt den letzten Satz. Legt die Feder hin. Schließt das Notizbuch.
@@ -50,8 +60,9 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 
 ### Part 5-7: Eigener Weg (Xu Rans Epilog)
 - **Was die Hauptreihe NICHT zeigt:** Was passiert mit Xu Ran NACH dem Abschied?
-- **Sein Weg:** Er geht. Allein. Mit dem Notizbuch + Pencils 200 Seiten. Durch Dörfer, Städte, Berge. Er hat keinen Kern. Er hat kein Ziel. Er hat: eine Geschichte.
+- **Sein Weg:** Er geht. Allein. Mit dem Notizbuch + Pencils 200 Seiten. Durch Dörfer, Städte, Berge. Er hat kein Ziel. Er hat: eine Geschichte.
 - **Sein Dao:** Nicht Aufstieg. Nicht Macht. Nicht Kultivation. Sondern: VERSTEHEN. Und weitererzählen.
+- **Sein Körper:** Kanäle offen. Kern GEHEILT — durch Proximity, ohne sein Wissen. Die Heilung, die die Chronik-Tage ermöglicht haben. Er spürt Qi wieder. Er KÖNNTE kultivieren. Aber sein Dao ist ein anderer: Chronist, nicht Kultivator. Der geheilte Kern gibt ihm die Wahl. Er wählt die Feder.
 - **Yuns Tod (aus der Ferne):** Xu Ran SPÜRT es. Nicht mit Qi — mit etwas Tieferem. Ein Fehlen, wo vorher ein Gewicht war. Die Welt atmet EIN. Er hält inne. Mitten auf einer Straße. Weiß es. Weint nicht. Steht nur da. Und dann: geht weiter.
 
 ---
@@ -141,7 +152,7 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 | 1 | **[徐]** | **Hook** | Yun erzählt von den VERLUSTEN. Nicht einzeln — als Welle. Hunderte Gesichter. Xu Ran schreibt, was er kann. Seine Hand zittert. *Nicht wegen der Hand. Wegen der Geschichten.* |
 | 2 | **[徐]** | **PT1** | Die Welt reagiert. Als sie von Wei erzählt — wirklich, tief, ungefiltert — verdorren die Gräser um sie herum. Xu Ran: „Du machst das wieder." — „Was?" — „Die Bäume." Sie sieht: braune Blätter. Ein Kreis des Welkens, drei Meter Radius. *Ihre Trauer TÖTET die Umgebung.* |
 | 3 | **[笔]** | **PT1** | **PENCIL-POV.** Er ist auf dem Rückweg. Bewusst. Nicht zur Ernte — zum Abschied. Er spürt die Anomalie-Welle: schwach, weit weg, aber SEINE geschulte Wahrnehmung fängt sie auf. *Sie erzählt.* Er weiß es, ohne es zu wissen. *Weil das Qi TRAUERT. Das ganze Qi-Feld der Region trauert.* |
-| 4 | **[徐]** | **P1** | Xu Ran greift ihr Handgelenk. Physisch. „Atmen. Erzähl es langsam." *Die intimste Geste der Shadow-Serie. Zwei Menschen, ein Handgelenk, eine Geschichte.* Yun sieht auf seine Hand. Sagt nichts. Atmet. Die Gräser hören auf zu sterben. |
+| 4 | **[徐]** | **P1** | Xu Ran greift ihr Handgelenk. Physisch. „Atmen. Erzähl es langsam." *Die intimste Geste der Reihe. Zwei Menschen, ein Handgelenk, eine Geschichte.* Yun sieht auf seine Hand. Sagt nichts. Atmet. Die Gräser hören auf zu sterben. |
 | 5 | **[徐]** | **P1** | „Als Wei starb — hast du da—?" Er bricht ab. *Nicht jetzt. Noch nicht. Sie weiß es bereits (B6). Aber nochmal laut aussprechen?* Yun: „Ja. Die Welt um ihn herum ist verstummt. Das war ich." Ruhig. Kein Zittern. *Sie hat es akzeptiert. Irgendwann zwischen B6 und jetzt.* |
 | 6 | **[笔]** | **M** | **PENCIL-POV.** Lian Zhuo erreicht das Lager. Xu Ran sieht ihn kommen. Kein Schwert gezogen — nur ein Blick. Überraschung. „Du?" — „Ich." — „Warum?" — „Abschied." Einfach. Xu Ran tritt zur Seite. *Für einen Feind: anständig. Für einen Menschen: mehr als das.* |
 | 7 | **[笔]** | **M** | **PENCIL-POV.** Er sieht Yun. Zum letzten Mal. Sie ist: anders. Ruhiger als in B6. Die Stärke ist da — aber die SCHÄRFE ist weg. *Sie hat aufgehört zu kämpfen. Nicht aufgegeben — aufgehört.* Er verbeugt sich. Leicht. Eine Geste, die er noch nie jemandem gezeigt hat. „Ich bin gekommen, um mich zu entschuldigen." — „Das hast du schon." — „Nicht richtig." |
@@ -220,7 +231,7 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 | 4 | **[徐]** | **Hook** | **XU RAN.** Wochen später. Oder Monate. Ein Weg. Ein Rucksack. Ein Notizbuch. Er geht. Die Sonne scheint. Der Staub weht. Er atmet ein — WIRKLICH ein. Ohne Gewicht. Ohne Frage. *Mein ganzes Leben habe ich gefragt: WARUM? Jetzt frage ich: WOHIN? Und zum ersten Mal ist die Antwort: egal.* |
 | 5 | **[徐]** | **M** | Er kommt an einen Fluss. Setzt sich. Öffnet die Chronik. Liest die letzte Seite. Seine Schrift. Beerentinte-Flecken. Der Fuchspfoten-Abdruck auf Seite 73. *Nicht die größte Geschichte, die je geschrieben wurde. Aber die ehrlichste.* |
 | 6 | **[徐]** | **PT2** | Ein Kind kommt zum Fluss. Neugierig. „Was liest du?" — „Eine Geschichte." — „Wovon?" Xu Ran überlegt. Lange. „Von einer Frau, die so lange gelebt hat, dass sie vergessen hat, wie man stirbt." — „Und dann?" — „Dann hat sie es gelernt." Das Kind: „Seltsame Geschichte." — „Ja." — „Erzähl sie mir." |
-| 7 | **[徐]** | **R** | Xu Ran sieht das Kind an. Sieht den Fluss. Sieht die Chronik. Sieht den Weg, der weitergeht. *Die Geschichte lebt. Nicht in einer Frau, die die Welt war. Nicht in einem Jungen, der zu früh starb. Nicht in einem Forscher, der verstand. Nicht in einem Alten, der aufhörte. In Tinte. Und in der Stimme von jemandem, der sie weitererzählt.* Er klappt die Chronik auf. Beginnt. **ENDE der Shadow-Serie.** |
+| 7 | **[徐]** | **R** | Xu Ran sieht das Kind an. Sieht den Fluss. Sieht die Chronik. Sieht den Weg, der weitergeht. *Die Geschichte lebt. Nicht in einer Frau, die die Welt war. Nicht in einem Jungen, der zu früh starb. Nicht in einem Forscher, der verstand. Nicht in einem Alten, der aufhörte. In Tinte. Und in der Stimme von jemandem, der sie weitererzählt.* Er klappt die Chronik auf. Beginnt. **ENDE von *The Weight of Watching*.** |
 
 ---
 
@@ -228,7 +239,7 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 
 - [x] Soll Xu Ran in Part 5-7 jemandem von Yun erzählen? → **Ja: einem Kind am Fluss. Letzte Szene.**
 - [x] Die Chronik: soll sie META sein? → **Bewusst offen. KÖNNTE das Manuskript der Hauptreihe sein.**
-- [x] Xu Rans Kern: Erholt er sich je? → **Nein. Kernlos bis zum Ende. Sein Dao braucht keinen Kern.**
+- [x] Xu Rans Kern: Erholt er sich je? → **JA. Proximity-Heilung (exponentiell, B5-B7). Yun bemerkt es, sagt nichts, erfindet die Chronik als Vorwand damit er bleibt. Er erfährt es nie. Sein Dao braucht den Kern nicht — aber er HAT ihn.**
 - [x] Letzte Worte zwischen Yun und Xu Ran: was genau? → **„Danke." Wer es sagt: bewusst offen.**
 - [x] Pencils Arc-Ende? → **B7 Part 3. Abschied. „Die Antwort war ein Mensch." Geht. Lehrt.**
 - [x] Hermits Arc-Ende? → **B7 Part 6-7. Findet die Höhle. Den Fuchs. Denkt: „Vielleicht sollte ich auch."**

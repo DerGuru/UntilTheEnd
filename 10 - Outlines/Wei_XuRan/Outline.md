@@ -1,7 +1,7 @@
-# Until The End: Shadows — Wei & Xu Ran (Index)
+# The Weight of Watching — Index
 
 > **Diese Datei dient als Übersicht.** Die Details befinden sich in den einzelnen Outline-Dateien.
-> **Konzept:** Parallel-Erzählung zur Hauptreihe aus Weis und Xu Rans Perspektive — nach dem Modell von Orson Scott Cards *Ender's Shadow*-Reihe. Dieselben Ereignisse, neue Blickwinkel, neue Szenen.
+> **Konzept:** Eigenständige Companion-Reihe zu *Until The End*. Dieselbe Welt, neue Perspektiven — Wei, Xu Ran, Pencil, der Hermit. Inspiriert von Orson Scott Cards *Ender's Shadow*-Modell.
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Quick Reference: Serien-Beats (Shadow)
+## Quick Reference: Serien-Beats
 
 ```
 B1 Sparks:  Xu Ran: Ambition → Jagd → Tribulation → Fall | Wei: Armut → Wunder → Hoffnung
@@ -36,12 +36,12 @@ B7 Ink:     Xu Ran als Chronist → Abschied → eigener Weg
 
 ## POV-Verteilung
 
-| Buch | Wei | Xu Ran | Modus |
-|------|-----|--------|-------|
-| **B1: Sparks** | ✓ | ✓ | ~50/50 Wechsel, chronologisch |
-| **B2: Thorns** | ✓ (Fokus) | ✓ (eingestreut) | ~70/30 |
-| **B3: Ash** | ✓ (bis Tod) | ✓ (ab Tod: allein) | ~50/50 → 0/100 |
-| **B4: Dust** | — | ✓ | 100% Xu Ran |
-| **B5: Cracks** | — | ✓ | 100% Xu Ran |
-| **B6: Glass** | — | ✓ | 100% Xu Ran |
-| **B7: Ink** | — | ✓ | 100% Xu Ran |
+| Buch | Wei | Xu Ran | Pencil | Hermit | Modus |
+|------|-----|--------|--------|--------|-------|
+| **B1: Sparks** | ✓ (~50%) | ✓ (~50%) | — | — | Wechsel, chronologisch |
+| **B2: Thorns** | ✓ (~35%) | ✓ (~65%) | — | — | chronologisch |
+| **B3: Ash** | ✓ (~30%, bis Tod) | ✓ (~70%) | — | Cameo (2 Kap.) | chronologisch |
+| **B4: Dust** | — | ✓ (~95%) | ✓ (~5%, 3 Kap.) | — | Xu Ran dominiert |
+| **B5: Cracks** | — | ✓ (~75%) | ✓ (~25%) | — | chronologisch wechselnd |
+| **B6: Glass** | — | ✓ (~65%) | ✓ (~35%) | — | chronologisch wechselnd |
+| **B7: Ink** | — | ✓ (~80%) | ✓ (~10%) | ✓ (~10%) | Xu Ran → Pencil → Hermit |

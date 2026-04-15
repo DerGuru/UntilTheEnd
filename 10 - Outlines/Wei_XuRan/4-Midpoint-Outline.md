@@ -1,7 +1,7 @@
-# Buch 4: Until The End: Dust — MIDPOINT der Shadow-Serie
+# Buch 4: The Weight of Watching: Dust — MIDPOINT
 
 ## Serien-Rolle
-**Beat:** Midpoint (Shadow)
+**Beat:** Midpoint (TWoW)
 **Original-Pendant:** *Echoes* (Hauptreihe B4)
 **Thema:** Spuren im Staub folgen. Xu Ran findet Yun. Bleibt. Wird unfreiwilliger Begleiter.
 **POV-Fokus:** Xu Ran ~95% | Pencil ~5% (1-3 Kapitel)
@@ -10,7 +10,7 @@
 
 ## Konzept
 
-Ab hier ist die Shadow-Serie Xu Rans Geschichte. Er hat Yun am Ende von B3 im Leichenfeld-Zustand erlebt, dann: monatelange Suche. *Dust* erzählt, wie er sie FINDET — und warum er bleibt.
+Ab hier ist die Reihe Xu Rans Geschichte. Er hat Yun am Ende von B3 im Leichenfeld-Zustand erlebt, dann: monatelange Suche. *Dust* erzählt, wie er sie FINDET — und warum er bleibt.
 
 Pencils erste Kapitel zeigen den Antagonisten von innen: Lian Zhuo, Ex-Forscher-Fraktion der Sekte, der die Fusion anführt. Er sieht Yun nicht als Person — als Phänomen. Als die größte Forschungsfrage, die je existiert hat.
 
@@ -27,7 +27,7 @@ Pencils erste Kapitel zeigen den Antagonisten von innen: Lian Zhuo, Ex-Forscher-
 
 ---
 
-## Timeline-Alignment (Shadow ↔ Original)
+## Timeline-Alignment (TWoW ↔ UTE)
 
 | Zeitraum | Xu Ran | Pencil | Xiǎohú | Original (Yun B4) |
 |----------|--------|--------|---------|---------------------|
@@ -64,6 +64,7 @@ Pencils erste Kapitel zeigen den Antagonisten von innen: Lian Zhuo, Ex-Forscher-
 - Richtungslosigkeit: Links oder rechts — egal. Er entscheidet. Sie gehorcht. Mechanisch.
 - Die Scharmützel: Er sieht Yun kämpfen — beiläufig, dann reckless, dann mit FREUDE. Die Spirale von außen ist beängstigend.
 - Der Klippensprung: Er steht oben. Sieht sie fallen. Herz setzt aus. Sie steht unten. Unverletzt. „Mein Herz hat ausgesetzt." — Das Ehrlichste, das je jemand zu ihr gesagt hat.
+- **Meridian-Reparatur (Auslöser):** Die Schockwelle von Yuns Gift-Experiment schleudert Xu Ran gegen einen Baum — bewusstlos. Als er aufwacht, versucht Yun ihn zu heilen und stellt fest: durch seine Meridiane passt fast NICHTS mehr. Die alten Tribulations-Schäden plus die Schockwelle haben alles blockiert. Narbengewebe, Qi-Trümmer, kollabierte Kanäle. Sie beginnt, die Meridiane zu säubern — nicht als Geste, sondern als medizinische Notwendigkeit, um den Heilungsschaden überhaupt behandeln zu können. Aus seiner Perspektive: er kommt zu sich und die Frau, die seinen Kern zerstört hat, hat die Hände auf seinem Rücken. Danach: jede Nacht. Wortlos. Die Ambivalenz ist riesig. Er notiert nur: *„Anomalie #38: Sie berührt meinen Rücken. Etwas wird wärmer. Ich weiß nicht, was sie tut. Ich frage nicht."*
 
 ---
 
@@ -230,13 +231,13 @@ Lian Zhuo hat die Sekte-Fraktionen fusioniert (Eiserne + Jaderne + Wurzel → ei
 | 5 | **[徐]** | **M** | Der Fuchs. Nummer vier. Diesmal: 10 Meter. Tagsüber. Er sitzt auf einem Felsen und SIEHT Xu Ran an. Direkt. Bernsteinaugen. Dann: dreht sich zu Yun. Folgt ihr. *Anomalie #42: Fuchs. Viertes Mal. Hypothese aktualisiert: kein Zufall. Proximity-Verstärkung? Oder mehr?* (Aber er denkt nicht weiter. Noch nicht.) |
 | 6 | **[徐]** | **P2** | Sekten-Gerüche in einer Herberge: Die Sekte hat sich reformiert. Stärker. Einheitliche Marken. „Ein Mann führt sie — dünn, leise, spricht wie ein Lehrer." Pencil. Xu Ran hört zu. *Der Mann mit den Resonanz-Talismanen hat einen Namen. Oder zumindest: eine Beschreibung.* |
 | 7 | **[徐]** | **PT2** | „Warum bleibst du?" Yun fragt. Abends. Er schreibt gerade. Hält inne. *Die ehrliche Antwort? Weil ich sonst nichts habe. Weil du die Frage bist. Weil mein Herz ausgesetzt hat. Weil ich deinen Reis-Kommentar lustig fand.* Sagt: „Weil du schlecht kochst und jemand muss das ausgleichen." Sie: „..." Fast warm. |
-| 8 | **[徐]** | **R** | Nacht. Sie meditiert. Er: laut. Sie: still. Nebeneinander. Der Reis ist angebrannt (er war abgelenkt). Sie isst ihn trotzdem. Schiebt die Schale näher. Kein Wort. Kein Blick. Nur: diese Bewegung. **Nicht Hoffnung. Nicht Freundschaft. Aber: zwei Menschen, die in dieselbe Richtung gehen. Das ist mehr als nichts.** **ENDE Buch 4.** |
+| 8 | **[徐]** | **R** | Nacht. Sie meditiert. Er: laut. Sie: still. Nebeneinander. Dann: ihre Hände an seinem Rücken. Die nächtliche Routine. Wärme, die durch seine Kanäle kriecht. Er spürt etwas FLIESSEN — zum ersten Mal seit der Tribulation. Keine Worte. Der Reis ist angebrannt (er war abgelenkt). Sie isst ihn trotzdem. Schiebt die Schale näher. Kein Wort. Kein Blick. Nur: diese Bewegung. **Nicht Hoffnung. Nicht Freundschaft. Aber: zwei Menschen, die in dieselbe Richtung gehen. Das ist mehr als nichts.** **ENDE Buch 4.** |
 
 ---
 
-## Szenen-Crossreferenz (Shadow ↔ Original)
+## Szenen-Crossreferenz (TWoW ↔ UTE)
 
-| Szene in der Hauptreihe (Yuns POV) | Shadow-Pendant | Neue Info |
+| Szene in der Hauptreihe (Yuns POV) | TWoW-Pendant | Neue Info |
 |---|---|---|
 | Yun in Isolation (Todeskreis) | **[徐]** Xu Ran findet sie, wartet Tage | Die Stille aus Begleiter-Perspektive |
 | Gift-Experiment | **[徐]** Findet die Spur, analysiert Qi-Residuen | Naturwissenschaftliche Perspektive auf Yuns Verzweiflung |
@@ -245,6 +246,7 @@ Lian Zhuo hat die Sekte-Fraktionen fusioniert (Eiserne + Jaderne + Wurzel → ei
 | Klippensprung | **[徐]** steht oben, Herz setzt aus | Das Ehrlichste, das je gesagt wurde |
 | Sekte-Reorganisation | **[笔]** von INNEN: Pencil als Harvester | Die Ernte-Methodik enthüllt |
 | Yun isst / Schale-Bewegung | **[徐]** sieht es als Fortschritt | Die Skala der Lebendigkeit |
+| Meridian-Arbeit (ab B4 End) | **[徐]** spürt Wärme, versteht nicht | Ambivalenz: die Zerstörerin repariert |
 | Lu Sen-Begegnung | **[徐]** sieht, dass Yun ihn kennt, lügt | Yuns selektive Intervention |
 
 ---
