@@ -4,7 +4,7 @@
 **Beat:** Plot Turn 1 (TWoW)
 **Original-Pendant:** *Roots* (Hauptreihe B2)
 **Thema:** Wachstum hat Dornen. Xu Rans Kern zerbricht. Wei wird stärker. Beide zahlen.
-**POV-Fokus:** Xu Ran ~65% | Wei ~35%
+**POV-Fokus:** Xu Ran ~63% | Wei ~35% + [隐] Hermit (2 Kap., ~2%)
 
 ---
 
@@ -22,6 +22,7 @@ Weis 35% zeigen die Schlüsselmomente seiner Flucht und seines Wachstums — das
 - **POV:** 3rd Person Limited, chronologisch wechselnd
 - **Ton Xu Ran:** Analytisch → verzweifelt → leer → suchend
 - **Ton Wei:** Warm → staunend → verunsichert → entschlossen
+- **Ton Hermit:** Alt, still, erwachend — ein Wesen, das zum ersten Mal seit Jahrhunderten neugierig wird
 - **Umfang:** ~100k+ Wörter
 - **Ending:** Xu Ran steht vor Yun. Wei leuchtet. Nichts ist sicher.
 
@@ -45,7 +46,7 @@ Weis 35% zeigen die Schlüsselmomente seiner Flucht und seines Wachstums — das
 
 ### Phase 1: Rückkehr zur Sekte (Part 1-2)
 
-**Die Sekte:** Yun Ling-Sekte (云凌派) — mittelgroß, ambitioniert, drei Fraktionen:
+**Die Sekte:** Shuhai-Sekte (书海派) — mittelgroß, ambitioniert, drei Fraktionen:
 - **Eiserne Fraktion (macht-gierig):** Will Ergebnisse. Xu Ran war ihr bestes Pferd. Jetzt: defekt.
 - **Jaderne Fraktion (Forscher):** Will verstehen. Was hat Xu Rans Tribulation zerstört? Das ist eine Anomalie, die studiert werden muss.
 - **Wurzel-Fraktion (Traditionalisten):** Betet für ihn. Schüttelt den Kopf. „Der Himmel hatte einen Grund."
@@ -64,13 +65,14 @@ Weis 35% zeigen die Schlüsselmomente seiner Flucht und seines Wachstums — das
 
 ### Phase 2: Der Kern-Bruch (Part 3)
 
-**Die Nacht, in der alles aufhört:**
-- Xu Ran meditiert. Routine-Übung — die einfachste Qi-Zirkulation. Kinderzeugs.
+**Der Morgen, an dem alles aufhört:**
+- Xu Ran hat in einer Herberge geschlafen. Morgens: Frühstück, Reis, Tee. Bezahlt. Geht.
+- Auf der Straße, zwei Li weiter: Routine-Übung im Gehen. Qi kreisen — die einfachste Zirkulation. Kinderzeugs.
 - Sein Kern reagiert. Vibriert. Dann: ein RISS. Nicht metaphorisch. Er HÖRT es — wie Eis, das bricht.
 - Qi entweicht. Nicht explosiv — wie Luft aus einem Ballon. Langsam, unaufhaltsam, endgültig.
-- Er liegt auf dem Boden. Kann nichts tun. Spürt, wie alles fließt — seine Kraft, sein Training, seine Identität.
+- Er liegt auf staubiger Straße. Allein. Kann nichts tun. Spürt, wie alles fließt — seine Kraft, sein Training, seine Identität.
 - **Was er verliert:** Nicht nur Kultivation. Seine Qi-Sinne dämpfen sich (nicht weg — geschwächt). Seine Reflexe verlangsamen. Sein Körper wird NORMAL. Er ist 18 und fühlt sich zum ersten Mal sterblich.
-- Morgens: Meister Fang untersucht ihn. Stille. Dann: „Der Kern ist gebrochen. Es gibt keinen Weg zurück."
+- Ein Bauer findet ihn am Straßenrand. Hilft ihm auf. „Bist du krank?" — „Nein. Fertig."
 
 **Ursache (für den Leser, nicht für Xu Ran):**
 - Die Cores, die er zu schnell absorbiert hat (B1), hatten die Risse verursacht.
@@ -158,7 +160,7 @@ Weis 35% zeigen die Schlüsselmomente seiner Flucht und seines Wachstums — das
 |---|-----|------|-------|
 | 1 | **[徐]** | **Hook** | Straße. Allein. Erster Tag ohne Sekte. Er geht — Richtung egal. Sein Kern summt noch. Instabil, aber da. Wie ein Tier, das noch atmet. Er kauft Reis in einem Dorf. Mit Geld, nicht mit Qi-Tricks. Es fühlt sich fremd an, BEZAHLEN zu müssen. |
 | 2 | **[卫]** | **Hook** | Wei durchbricht eine Qi-Stufe — im Schlaf. Wacht auf, sein Qi ist ANDERS. Dichter. Schneller. Yun schaut ihn an. Wei: „Was?" — „Nichts." Aber ihr Blick sagt: *Zu schnell.* |
-| 3 | **[徐]** | **PT1** | **DIE NACHT.** Xu Ran meditiert. Routine. Qi kreisen — die einfachste Übung. Und dann: das GERÄUSCH. Wie Eis, das bricht. Sein Kern REISST. Nicht laut — ein leises, endgültiges Knacken. Qi entweicht. Langsam. Unaufhaltsam. Wie Luft aus einem Ballon. Er liegt auf dem Boden einer leeren Herberge. Kann nichts tun. Spürt alles fließen. Seine Kraft. Sein Training. Seine Identität. Es dauert vier Stunden. Danach: Stille. Kein Kern. Kein Qi-Fluss. Nichts. |
+| 3 | **[徐]** | **PT1** | Herberge. Billig. Staubig. Er schläft zum ersten Mal seit Tagen in einem Bett. Sein Kern summt unregelmäßig, aber er kann meditieren — die einfachste Übung. Morgens: Frühstück beim Wirt. Reis, Tee. Bezahlt mit den letzten Münzen. Geht. **Auf der Straße, zwei Li weiter:** Er macht die Routine-Übung im Gehen. Qi kreisen. Und dann: das GERÄUSCH. Wie Eis, das bricht. Sein Kern REISST. Nicht laut — ein leises, endgültiges Knacken. Qi entweicht. Langsam. Unaufhaltsam. Er fällt. Liegt auf staubiger Straße. Spürt alles fließen. Seine Kraft. Sein Training. Seine Identität. Es dauert vier Stunden. Danach: Stille. Kein Kern. Kein Qi-Fluss. Nichts. |
 | 4 | **[徐]** | **P1** | Morgen. Er steht auf. Der Körper funktioniert — Muskeln, Sehnen, Organe. Aber die Welt ist GEDÄMPFT. Qi-Sinne auf Foundation-Niveau. Wie durch eine Milchglasscheibe sehen. Geräusche normaler. Farben flacher. Die Luft schmeckt nach: Luft. Nicht nach Qi-Strömen. „Ist das die Welt, in der Sterbliche leben?" |
 | 5 | **[卫]** | **P1** | Der Wanderkultivator, der Hilfe braucht. Wei will helfen — zögert — geht vorbei. Yuns Logik: unsichtbar bleiben. Am Feuer: starrt ins Nichts. *Bin ich feige geworden? Oder klug?* |
 | 6 | **[徐]** | **M** | Xu Ran wird krank. Erkältung. Seit SECHS JAHREN nicht mehr krank gewesen. Er liegt in einer Scheune, fiebernd, hustend. Ein Bauer bringt Brühe. Xu Ran: „Danke." Das Wort schmeckt fremd. |
@@ -193,7 +195,7 @@ Weis 35% zeigen die Schlüsselmomente seiner Flucht und seines Wachstums — das
 
 ---
 
-### 5. PINCH 2 — „Auf der Fährte" (~15k Wörter, ~10-14 Kapitel)
+### 5. PINCH 2 — „Auf der Fährte" (~16k Wörter, ~11-15 Kapitel)
 
 **Xu Ran:** Spur verfolgen. Physische Kosten. Näher kommen.
 **Wei:** Ältesten-Kampf. Yuns Lüge. Der Riss.
@@ -207,11 +209,12 @@ Weis 35% zeigen die Schlüsselmomente seiner Flucht und seines Wachstums — das
 | 5 | **[徐]** | **P1** | Während er wartet: alter Mann erzählt Geschichten. „Vor Generationen lebte eine Frau am Rand des Himmels. Man sagt, sie hatte alle Antworten. Aber niemand stellte die richtige Frage." Xu Ran: „Welche Frage?" Der Alte: „Wenn ich das wüsste, wäre ich nicht hier." |
 | 6 | **[卫]** | **M** | **Der Älteste.** Dao-Seeking-Stufe. Qi-Druck, der die Luft biegt. Er bedroht Wei. Weis Reaktion: Wut. Qi FLAMMT. Ein wilder Schlag — TRIFFT. Überraschung. Dann: Konter. Brutal. Boden. Blut. Yun: kalt. Der Älteste kniet. **Aus Weis Augen:** Eine ANDERE Yun. Kalt. Effizient. Gelenke brechen. *Das ist nicht die Frau, die meinen Reis getrunken hat.* |
 | 7 | **[卫]** | **M** | **Die Lüge.** Yun heilt Wei. „Warum bin ich so stark und gleichzeitig so instabil?" Pause. Zu lang. Stimme: zu ruhig. „Du drückst zu viel Qi durch Kanäle, die noch nicht fertig sind." **Wei spürt: etwas stimmt nicht.** Fragt nicht nach. Weil die Antwort schlimmer sein könnte. |
-| 8 | **[徐]** | **P2** | Xu Ran nähert sich. Herberge: ein Wirt, verschreckt. „Vor drei Tagen — eine Frau und ein Junge. Am nächsten Morgen ein Mann in Seidenroben. Beide Handgelenke gebrochen." *Sie ist nahe.* |
-| 9 | **[徐]** | **P2** | Die Qi-Spur am Fels. Aufgerissen, instabil — wie ein Kern, der sich nicht entscheiden konnte. Er legt die Hand drauf. Kalt. „Ich kenne dich." Nicht Yun — die NACHWIRKUNG ihrer Nähe. Sein eigener Fels sieht genauso aus. |
-| 10 | **[徐]** | **PT2** | Näher. Eine Qi-Signatur am Rand seiner Wahrnehmung. Gewaltig. Das Tal-Gefühl aus B1 — aber mobil. Er beschleunigt. Sein Fuß protestiert. Er ignoriert ihn. |
-| 11 | **[卫]** | **PT2** | Wei trainiert nachts allein. Ohne Yun zu fragen. Ohne sie zu wecken. Früher hätte er gefragt. Jetzt nicht. Die Lüge hat etwas verschoben. |
-| 12 | **[徐]** | **R** | Er spürt sie. Definitiv. Irgendwo in der nächsten Stadt. Er rasiert sich in einem Bach. Kämmt sein Haar. Dann lacht er. Über sich. Seit wann kümmert er sich darum, wie er aussieht? |
+| 8 | **[隐]** | **P2** | **HERMIT-POV: Das Erwachen.** Ein Bergplateau, 800 Li entfernt. Meditation — seit Monaten, vielleicht Jahren. Zeit bedeutet nichts auf seiner Stufe. Dann: ein Zittern. Nicht im Boden — im Qi-FELD. Etwas bewegt sich durch die Welt. Nicht schnell, nicht laut. Aber die Realität BIEGT sich um es herum. Er öffnet die Augen. Zum ersten Mal seit er sich erinnern kann: Neugier. *Kein Dao-Seeking. Kein Nascent Soul. Etwas... anderes.* Er steht auf. Langsam. Hebt zwei Finger — die Geste, die er immer macht, wenn etwas Neues beginnt. Niemand sieht es. Es ist trotzdem wichtig. *Sie bewegt sich nach Norden. Sie weiß nicht, dass ich sie spüre. Oder es ist ihr gleichgültig.* Er tut nichts. Noch nicht. Aber er hat aufgehört zu meditieren. Für ein Wesen seiner Stufe ist das ein Erdbeben. |
+| 9 | **[徐]** | **P2** | Xu Ran nähert sich. Herberge: ein Wirt, verschreckt. „Vor drei Tagen — eine Frau und ein Junge. Am nächsten Morgen ein Mann in Seidenroben. Beide Handgelenke gebrochen." *Sie ist nahe.* |
+| 10 | **[徐]** | **P2** | Die Qi-Spur am Fels. Aufgerissen, instabil — wie ein Kern, der sich nicht entscheiden konnte. Er legt die Hand drauf. Kalt. „Ich kenne dich." Nicht Yun — die NACHWIRKUNG ihrer Nähe. Sein eigener Fels sieht genauso aus. |
+| 11 | **[徐]** | **PT2** | Näher. Eine Qi-Signatur am Rand seiner Wahrnehmung. Gewaltig. Das Tal-Gefühl aus B1 — aber mobil. Er beschleunigt. Sein Fuß protestiert. Er ignoriert ihn. |
+| 12 | **[卫]** | **PT2** | Wei trainiert nachts allein. Ohne Yun zu fragen. Ohne sie zu wecken. Früher hätte er gefragt. Jetzt nicht. Die Lüge hat etwas verschoben. |
+| 13 | **[徐]** | **R** | Er spürt sie. Definitiv. Irgendwo in der nächsten Stadt. Er rasiert sich in einem Bach. Kämmt sein Haar. Dann lacht er. Über sich. Seit wann kümmert er sich darum, wie er aussieht? |
 
 ---
 
@@ -237,7 +240,7 @@ Weis 35% zeigen die Schlüsselmomente seiner Flucht und seines Wachstums — das
 
 ---
 
-### 7. RESOLUTION — „Neue Dornen" (~10k Wörter, ~7-10 Kapitel)
+### 7. RESOLUTION — „Neue Dornen" (~11k Wörter, ~8-11 Kapitel)
 
 **Xu Ran:** Verarbeiten. Bruder Jins Brief. Die Suche geht weiter.
 **Wei:** Der Schatten wird dichter. Das Leuchten wächst.
@@ -249,16 +252,18 @@ Weis 35% zeigen die Schlüsselmomente seiner Flucht und seines Wachstums — das
 | 3 | **[徐]** | **PT1** | Gerüchte: Drei Sekten formieren sich. Machtgierige, Forscher, Ordnungshüter. *Sie hat Feinde, die sie nicht ernst nimmt. Und einen Jungen, den sie nicht retten kann.* |
 | 4 | **[徐]** | **P1** | Bibliothek. Alte Aufzeichnung — ein Kultivator vor 800 Jahren: „Eine Signatur, die keiner Stufe entspricht. Als hätte jemand das System übersprungen." Xu Ran starrt. *800 Jahre. Wie alt ist sie?* |
 | 5 | **[卫]** | **M** | Sekten-Gerüchte in einer Herberge: „Die Frau ist eine Waffe." „Nein, ein Gott." Wei denkt: *Sie trinkt meinen Reis und kann nicht kochen.* Aber „Gott" bleibt hängen. |
-| 6 | **[徐]** | **P2** | Xu Ran kommt am Dorf aus B1 vorbei. Steht auf dem Hügel. Reparaturen. Ein spielendes Kind. Er hat das verursacht. Steht. Geht. Kommt zurück. Lässt Geld an der Schwelle. Geht. |
-| 7 | **[徐]** | **PT2** | Bruder Jins Brief. Meister Fangs Entdeckung: Xu Rans Kern-Struktur VOR und NACH. Die „Fremd-Signatur" ist kein Fremdkörper — sie ist eine ANPASSUNG. Kein Angriff — ein Reflex. *Das war kein Angriff. Das war... wie Atmen.* |
-| 8 | **[卫]** | **PT2** | Weis Kern leuchtet nachts. Aus seiner Sicht: warm, golden, pulsierend. Wie ein zweites Herz. Er legt die Hand drauf. Lächelt. Schläft ein. Weiß nicht, dass Yun daneben sitzt. |
-| 9 | **[徐]** | **R** | Straße. Richtung Süden. Keine Eile. Die Antwort läuft nicht weg. Sie isst Reis und weiß nicht, was sie ist. Und der Junge neben ihr brennt. *Wenn ich sie finde, bin ich vielleicht zu spät. Für ihn.* **ENDE Buch 2.** |
+| 6 | **[隐]** | **P2** | **HERMIT-POV: Zwei Finger.** Er hat sie gefunden. Nicht gefunden — *sie war da.* Eine Stadt, die ihn nicht interessiert. Er steht auf einer Mauer, 200 Schritt entfernt. Unsichtbar — nicht durch Technik, durch Irrelevanz. Wesen seiner Stufe verstecken sich nicht; die Welt sieht über sie hinweg. Er SIEHT sie zum ersten Mal: eine Frau. Müde Augen. Reis. Neben ihr: ein Junge, dessen Kern leuchtet wie eine zu helle Laterne. *Der Junge brennt.* Kurzer Gedanke, sofort verworfen — nicht sein Problem. Aber: SIE. Die Welt biegt sich um sie. Nicht aus Angst — aus Höflichkeit. Er hebt zwei Finger. Die Geste. 200 Schritt Entfernung. Sie sieht ihn nicht. Oder: sie sieht ihn und es bedeutet ihr nichts. Beides wäre angemessen. *Ich werde folgen. Nicht jetzt. Wenn sie sich wieder bewegt.* Er hat Zeit. Er hat nichts ALS Zeit. Ein Lächeln — das erste seit Jahrzehnten. |
+| 7 | **[徐]** | **P2** | Xu Ran kommt am Dorf aus B1 vorbei. Steht auf dem Hügel. Reparaturen. Ein spielendes Kind. Er hat das verursacht. Steht. Geht. Kommt zurück. Lässt Geld an der Schwelle. Geht. |
+| 8 | **[徐]** | **PT2** | Bruder Jins Brief. Meister Fangs Entdeckung: Xu Rans Kern-Struktur VOR und NACH. Die „Fremd-Signatur" ist kein Fremdkörper — sie ist eine ANPASSUNG. Kein Angriff — ein Reflex. *Das war kein Angriff. Das war... wie Atmen.* |
+| 9 | **[卫]** | **PT2** | Weis Kern leuchtet nachts. Aus seiner Sicht: warm, golden, pulsierend. Wie ein zweites Herz. Er legt die Hand drauf. Lächelt. Schläft ein. Weiß nicht, dass Yun daneben sitzt. |
+| 10 | **[徐]** | **R** | Straße. Richtung Süden. Keine Eile. Die Antwort läuft nicht weg. Sie isst Reis und weiß nicht, was sie ist. Und der Junge neben ihr brennt. *Wenn ich sie finde, bin ich vielleicht zu spät. Für ihn.* **ENDE Buch 2.** |
 
 ---
 
 ## Offene Fragen (Buch 2)
 
-- [ ] Yun-Ling-Sekte: Wird sie in B3+ wieder relevant?
+- [ ] Shuhai-Sekte: Wird sie in B3+ wieder relevant?
 - [ ] Bruder Jin: Wiederkehrende Figur? (Potenzial als Xu Rans „Wei")
 - [ ] Meister Fangs Entdeckung (Kern-Überschreibung): Wann versteht Xu Ran sie vollständig?
 - [ ] Soll Xu Ran das Dorf aus B1 namentlich kennenlernen?
+- [ ] Hermit: Passt UTE 2-7-02-62 (Begegnung) zum Part 7 Timing? Sieht Yun ihn in UTE oder ignoriert sie ihn?

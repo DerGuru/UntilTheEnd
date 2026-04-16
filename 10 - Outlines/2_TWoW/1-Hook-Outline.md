@@ -12,7 +12,7 @@
 
 *Sparks* erzählt Buch 1 der Hauptreihe aus Weis und Xu Rans Perspektive. Die Kapitel wechseln chronologisch zwischen beiden POVs. Der Leser erlebt:
 
-- **Xu Ran:** Einen brillanten jungen Kultivator, der ALLES richtig macht — außer hinzusehen. Seine Spirit-Beast-Jagden als Progression-Fantasy-Action. Seine gescheiterte Tribulation von INNEN.
+- **Xu Ran:** Einen brillanten jungen Kultivator, der ALLES richtig macht — außer hinzusehen. Seine Spirit-Beast-Jagden als Progression-Fantasy-Action. Seine Tribulation von INNEN — Nascent Soul formt sich, dann der Backlash.
 - **Wei:** Einen 12-jährigen Bauernjungen, dessen Welt aus Hunger, krankem Vater und leeren Vorräten besteht — bis eine seltsame Frau im Wald ein Monster mit einem Finger tötet.
 
 Die zentrale Ironie: Beide leben im selben Tal, zur selben Zeit. Xu Ran plant seine Tribulation sorgfältig, weil er niemanden verletzen will. Wei folgt einer Frau, die mächtiger ist als alles, was Xu Ran sich vorstellen kann. Keiner weiß vom anderen — bis es zu spät ist.
@@ -25,7 +25,7 @@ Die zentrale Ironie: Beide leben im selben Tal, zur selben Zeit. Xu Ran plant se
 - **Ton Xu Ran:** Analytisch, präzise, selbstsicher → zunehmend gehetzt → Panik → Stille
 - **Ton Wei:** Einfach, konkret, warm → staunend → mutig → atemlos
 - **Umfang:** ~100k+ Wörter (parallel zum Original)
-- **Ending:** Xu Ran am Boden, zerbrochen. Wei bewusstlos. Yun steht. Niemand versteht, was gerade passiert ist.
+- **Ending:** Xu Ran am Boden, Kern geschwächt aber nicht gebrochen. Wei bewusstlos. Yun steht. Niemand versteht, was gerade passiert ist.
 
 ---
 
@@ -91,9 +91,9 @@ Xu Rans Spirit-Beast-Jagden sind der Action-Motor des Buchs. Jede Jagd zeigt:
 Seine Tribulation von INNEN erleben. Was in der Hauptreihe ein Qi-Sturm ist, ist hier:
 - **Der Beginn:** Kontrollierte Meditation. Alles läuft nach Plan. Core-Resonanz. Qi-Kanäle weiten sich.
 - **Der Wendepunkt:** Die zu schnell absorbierten Cores reagieren ALLE GLEICHZEITIG. Sein Kern vibriert. Harmonie kippt in Dissonanz.
-- **Der Kontrollverlust:** Qi entlädt sich in Wellen. Er SPÜRT, wie seine Technik versagt. Er kann die Energie nicht halten. Die Welt um ihn wird Sturm.
-- **Der Moment:** Etwas DRÜCKT ihn zu Boden. Nicht der Himmel — etwas ANDERES. Etwas, das nicht Teil der Tribulation ist. Ein Finger auf einer Ameise. Er kann es nicht einmal wahrnehmen, bevor er am Boden liegt.
-- **Danach:** Stille. Kern gebrochen. Tribulation gescheitert. Alles, was er aufgebaut hat, in Trümmern. Und ein Gefühl: etwas UNMÖGLICHES hat ihn berührt.
+- **Der Kontrollverlust:** Qi entlädt sich in Wellen. Die Welt um ihn wird Sturm. Aber ER HÄLT. Durch Dissonanz, durch Schmerz — sein Nascent Soul FORMT SICH. Kurzer Triumph: es funktioniert.
+- **Der Moment:** Die entladene Energie rast als Welle nach Osten — zum Dorf. Etwas löst die Welle auf. Der Backlash kehrt ZU IHM zurück. Es DRÜCKT ihn zu Boden — nicht physisch, EXISTENZIELL. Nicht Angriff. Konsequenz. Ein Finger auf einer Ameise. Er kann es nicht einmal wahrnehmen, bevor er am Boden liegt.
+- **Danach:** Stille. Nascent Soul geformt, aber Kern geschwächt — angeknackst, nicht gebrochen. Der Bruch kommt erst später, off-screen in B2. Und ein Gefühl: etwas UNMÖGLICHES hat ihn berührt.
 
 ---
 
@@ -104,7 +104,7 @@ Was in der Hauptreihe Yuns Hintergrund-Beobachtung ist, wird hier gelebte Realit
 
 - **Vater:** Hustet Blut. Liegt im Bett. Wei hört es nachts — das rasselnde Atmen durch die dünne Wand. Der Vater war Bauer, ist zu schwach zum Arbeiten. Er schämte sich, als Wei ihm Wasser bringen musste. „Geh spielen", sagt er. Es gibt nichts zum Spielen.
 - **Mutter:** Arbeitet auf den Feldern anderer. Kommt abends zurück, kocht dünnen Reis, isst selbst nichts. Sagt: „Ich hab schon gegessen." Wei weiß, dass sie lügt. Er isst trotzdem, weil er 12 ist und Hunger alles übertönt.
-- **Geschwister:** Wei ist der Jüngste von vier. Die Älteren arbeiten, sind noch da, aber mit eigenen Sorgen beschäftigt. Wei ist „zu klein zum Helfen" — was heißt: überflüssig.
+- **Geschwister:** Wei hat zwei Geschwister. Die Älteren arbeiten, sind noch da, aber mit eigenen Sorgen beschäftigt. Wei ist „zu klein zum Helfen" — was heißt: überflüssig.
 - **Das Dorf:** Klein, arm, am Rand des Waldes. Jeder kennt jeden. Der Fischer misstraut Fremden. Die alte Frau bietet jedem Tee an. Kinder spielen mit Stöcken. Normal. Ganz normal.
 
 ### Die Begegnung (Part 1-2) — Bekannte Szene, neue Augen
@@ -127,7 +127,7 @@ Was der Leser der Hauptreihe als Yuns inneren Monolog kennt, sieht Wei von AUSSE
 Neue Szenen, die in der Hauptreihe unsichtbar sind:
 - **Nachbar Chen:** „Die Frau aus dem Wald? Die ist nicht richtig. Kein normaler Mensch lebt da draußen allein."
 - **Weis Mutter:** Misstrauisch, aber pragmatisch. Wei bringt gute Kräuter heim → sie fragt nicht genauer.
-- **Der Fischer:** Beobachtet Yun, als sie ins Dorf kommt. Sieht, dass sie keine Fußspuren im Schlamm hinterlässt. Sagt nichts. Fischt weiter.
+- **Gao (der Fischer):** Beobachtet Yun, als sie ins Dorf kommt. Sieht, dass sie keine Fußspuren im Schlamm hinterlässt. Sagt nichts. Fischt weiter.
 - **Kinder:** Die kleinen Kinder starren Yun an und laufen kichernd weg. Sie sagen: „Die ist ein Geist."
 
 ---
@@ -221,7 +221,7 @@ Kapitel markieren ihren POV im Header. Die Zeitachse bestimmt die Reihenfolge.
 |---|-----|------|-------|
 | 1 | **[卫]** | **Hook** | Qi-Turbulenzen. Wei trainiert trotzdem — Atemübungen am Fluss. Der Kräutersud für Yun (zu bitter, sie trinkt ihn trotzdem). **Bekannte Szene, Weis Augen:** Er sieht, wie sie den Becher nimmt. Trinkt. Keine Reaktion. Aber sie trinkt ALLES. Das zählt. |
 | 2 | **[徐]** | **Hook** | Final-Tuning. Xu Ran justiert die Core-Formation. Jeder Stein, jede Linie. Seine Hände sind ruhig. Sein Kern ist es nicht. Ein Summen, das lauter wird. Er meditiert es weg. „Nur Resonanz. Die Cores synchronisieren sich." Er hat weniger als 48 Stunden. |
-| 3 | **[卫]** | **PT1** | Wei verletzt — ein fliehendes Spirit Beast erwischt ihn. Blut. Er fällt. **Bekannte Szene, Weis Augen:** Yuns Hände auf der Wunde. Warm. Nicht wie Feuer — wie Boden im Sommer. Das Blut hört auf. Die Haut schließt sich. Wei starrt. „Wie hast du—" „Sei still." Er gehorcht. Aber er hat es gesehen: ihre Augen, für einen Augenblick, waren WEICH. |
+| 3 | **[卫]** | **PT1** | Wei verletzt — eine qi-kontaminierte Waldkatze (80 Pfund, aufgebläht durch Kultivator-Jagd) greift ihn beim Kräutersammeln am Waldrand an. Pfote erwischt seinen linken Arm: Unterarmbruch (Ulna, drei Fragmente), Gelenk zertrümmert. Yun erscheint, die Katze flieht. **Bekannte Szene, Weis Augen:** Nachts heilt Yun den Bruch. Warm. Wie Boden im Sommer. Der Knochen richtet sich. „Wie hast du—" „Sei still." Er hat es gesehen: ihre Augen waren WEICH. Folgenacht: Spirit Beast vom Katzenzahn angelockt, greift Chen an (Bein). Das Dorf gibt Wei die Schuld. |
 | 4 | **[徐]** | **PT1** | Xu Ran spürt die Qi-Fluktuation seiner bevorstehenden Tribulation. Die Umgebung reagiert — Tiere rasten, Bäume knarzen. Normal. Teil des Prozesses. „Die Welt spürt, was kommt." Er ist stolz. |
 | 5 | **[卫]** | **M** | **DIE ENTSCHEIDUNG (Weis Sicht):** Yun nimmt ihm den Verband ab. Macht es richtig. Bleibt. Wei weiß nicht, was sich verändert hat. Aber er spürt: vorher kam sie, weil er da war. Jetzt kommt sie, weil SIE da sein will. Der Unterschied ist gewaltig. |
 | 6 | **[卫]** | **P2** | Yun lehrt ihn WIRKLICH. Atemtechnik. Qi kreisen. Wei spürt zum ersten Mal Qi — sein eigenes, nicht das im Wald. Es ist klein und wackelig und fast nichts. „Das ist alles?" — „Halt es fest." Er hält. 4 Sekunden. Rekord. |
@@ -248,9 +248,9 @@ Kapitel markieren ihren POV im Header. Die Zeitachse bestimmt die Reihenfolge.
 | 7 | **[徐]** | **M** | **Der Himmel reißt auf.** Xu Rans Tribulation eskaliert. Donnerschläge. Qi-Blitze. Er steht MITTEN DRIN und kämpft — nicht gegen einen Gegner, sondern gegen sein eigenes Scheitern. Für IHN ist das der schlimmste Moment seines Lebens: Er sieht seinen Traum zerbrechen. In Echtzeit. Sein Kern KREISCHT — und er hält. Hält. Hält. „Nicht. So." |
 | 8 | **[卫]** | **M** | „Yun. Kannst du das aufhalten?" Sie antwortet nicht. Ihre Hand greift die Türklinke. Hält inne. Lässt los. Greift wieder. **Wei sieht es.** Versteht nicht, was es bedeutet. Aber er sieht: sie zittert. Nicht vor Schwäche. Vor Wahl. |
 | 9 | **[卫]** | **P2** | Wei handelt. Warnt Leute. Führt den Nachbarsjungen zur Fluchtroute. Nutzt alles, was Yun ihm beigebracht hat — nicht Qi, sondern SEHEN. Wo ist der nächste Qi-Stoß? Wohin fliehen? Er ist nicht stark. Er ist clever. |
-| 10 | **[徐]** | **P2** | Der Kern bricht. Xu Ran FÜHLT es — nicht schnell, sondern langsam. Wie Glas, das Risse bekommt. Er hat noch 3 Cores. Drei Chancen. Er versucht, sie einzeln zu absorbieren. Erste: geht. Zweite: schmerzt. Dritte: sein Kern SCHREIT. Er schreit mit. Qi entlädt sich unkontrolliert. |
+| 10 | **[徐]** | **P2** | Der Kern KREISCHT — aber hält. Er hat noch 3 Cores. Drei Chancen. Er versucht, sie einzeln zu absorbieren. Erste: geht. Zweite: schmerzt. Dritte: Durchbruch. Sein Nascent Soul FORMT SICH. Kurzer, reiner Triumph — Sekunden der Perfektion. Dann: die entladene Energie rast nach Osten. Qi entlädt sich unkontrolliert. |
 | 11 | **[卫]** | **PT2** | Die Tribulation erreicht das Dorf. Gebäude zittern. Wei steht im Epizentrum — nicht aus Dummheit, sondern weil hinter ihm die letzten Dorfbewohner sind. Er kann nicht weg. |
-| 12 | **[徐]** | **R** | Xu Ran auf den Knien. Sein Kern ist ein Trümmerfeld. Die Tribulation scheitert. Aber die entladene Energie MUSS irgendwohin. Sie geht — nach Osten. Wo er nie hingesehen hat. „Was ist da—" Er kann den Gedanken nicht beenden. Alles wird weiß. |
+| 12 | **[徐]** | **R** | Xu Ran auf den Knien. Nascent Soul geformt — es hat FUNKTIONIERT. Aber die entladene Energie MUSS irgendwohin. Sie rast nach Osten. Wo er nie hingesehen hat. Dann: Etwas löst die Welle auf. Der Backlash kommt ZURÜCK. „Was—" Alles wird weiß. |
 
 ---
 
@@ -261,14 +261,14 @@ Kapitel markieren ihren POV im Header. Die Zeitachse bestimmt die Reihenfolge.
 
 | # | POV | Beat | Event |
 |---|-----|------|-------|
-| 1 | **[卫]** | **Hook** | Wei im Qi-Sturm. Alles um ihn vibriert. Ein Qi-Blitz schlägt neben ihm ein. Er blutet. Er steht. Hinter ihm: der Nachbarsjunge, Frau Huangs Sohn. Er hat Wei gesucht. Der Idiot. Der mutige, dumme Idiot. |
+| 1 | **[卫]** | **Hook** | Wei im Qi-Sturm. Alles um ihn vibriert. Ein Qi-Blitz schlägt neben ihm ein. Er blutet. Er steht. Hinter ihm: der Nachbarsjunge, Tante Huangs Sohn. Er hat Wei gesucht. Der Idiot. Der mutige, dumme Idiot. |
 | 2 | **[卫]** | **PT1** | Wei tut, was Yun ihm beigebracht hat. Atemtechnik. Qi spüren. Fluchtweg finden. Es reicht nicht. Der Sturm ist zu groß. Er ist zu klein. Und der Junge klammert sich an seinen Arm. |
-| 3 | **[徐]** | **P1** | Xu Ran am Boden. Kern gebrochen. Tribulation gescheitert. Er liegt im Dreck und sieht zum Himmel. Die Energie, die er entlädt, rast — wohin? Er spürt es: nach Osten. Dort ist — *etwas*. Er wollte nie, dass jemand— „Nein—" |
+| 3 | **[徐]** | **P1** | Xu Ran am Boden. Nascent Soul geformt — aber sein Kern ist angeknackst, geschwächt vom Backlash. Er liegt im Dreck und sieht zum Himmel. Dort ist — *etwas*. Etwas hat seine Welle aufgelöst und den Backlash zu ihm geschickt. Er wollte nie, dass jemand— „Nein—" |
 | 4 | **[卫]** | **M** | Wei allein im Sturm. Der Junge weint. Wei drückt ihn hinter sich. Denkt: *Yun, wo bist du?* Und dann: *Warum sollte sie kommen? Sie hat immer gesagt, sie kümmert sich nicht.* Und dann: *Aber sie hat mich geheilt. Sie hat den Reis getrunken. Sie hat das Wasser geholt.* Er weiß: sie wird kommen. Er weiß nicht, warum er das weiß. |
 | 5 | **[卫]** | **P2** | **DER SPRUNG (Weis Sicht).** Er sieht nichts. Dann: die Welt hält den Atem an. Buchstäblich. Die Luft steht. Staub hängt. Der Qi-Sturm erstarrt. Wei sieht Yun — nicht gehen, nicht rennen — SEIN. Sie ist plötzlich DA. Zwischen ihm und dem Sturm. Und der Sturm zerfällt. Nicht langsam. SOFORT. Wie Glas, das jemand auflöst. Wei versteht nichts. Aber er sieht: auf ihrem Gesicht ist kein Zorn. Kein Stolz. Nur Entscheidung. |
-| 6 | **[徐]** | **PT2** | **DER SPRUNG (Xu Rans Sicht).** Er liegt am Boden. Sein zerstörter Kern spürt es wie eine Explosion in Zeitlupe: etwas DRÜCKT ihn flach. Nicht physisch. EXISTENZIELL. Als hätte die Schwerkraft sich verzehnfacht — aber nur für ihn. Für sein Qi, seine Ambitionen, sein Selbstverständnis. Die Macht, die das tut, ist so weit jenseits von allem, was er kannte, dass seine Sinne sie nicht greifen können. Wie eine Ameise, die einen Ozean bemerkt. „Was—" Er kann den Kopf nicht heben. Will nicht. Sein Körper WEISS: wer immer das ist, DEM schaut man nicht ins Gesicht. |
+| 6 | **[徐]** | **PT2** | **DER BACKLASH (Xu Rans Sicht).** Er liegt am Boden. Sein geschwächter Kern spürt es wie eine Explosion in Zeitlupe: der Backlash seiner eigenen Welle — aufgelöst, zurückgeschickt — DRÜCKT ihn flach. Nicht physisch. EXISTENZIELL. Die Erkenntnis, WAS da seine Welle einfach aufgelöst hat, ist das Zerdrückende. Eine Macht so weit jenseits von allem, was er kannte, dass seine Sinne sie nicht greifen können. Wie eine Ameise, die einen Ozean bemerkt. „Was—" Er kann den Kopf nicht heben. Will nicht. Sein Körper WEISS: wer immer das ist, DEM schaut man nicht ins Gesicht. |
 | 7 | **[卫]** | **R** | Stille. Der Sturm ist weg. Yun steht da. Wind. Haare. Staub. Wei sieht sie — zum ersten Mal WIRKLICH sieht er sie. Nicht die Kräuterfrau. Nicht die Grummelige. Etwas ANDERES. Etwas, das älter ist als der Berg. Und: sie sieht zu ihm. Nur zu ihm. Als gäbe es nichts anderes. Dann: dunkel. Wei fällt. |
-| 8 | **[徐]** | **R** | Xu Ran liegt im Dreck. Stunden? Tage? Sein Kern ist Asche. Alles, wofür er gelebt hat: weg. Und in seinem Kopf ein Bild, das er nicht loswird: der Moment, als etwas ihn berührte. Nicht feindselig. Nicht grausam. Nur: *größer.* Wie der Himmel, der eine Mücke bemerkt und nicht zerdrückt. *Die hat mich nicht einmal ANGEGRIFFEN. Sie hat mich nur — beiseitegelegt.* Sein letzter Gedanke, bevor die Erschöpfung ihn holt: *ICH MUSS WISSEN, WER DAS WAR.* |
+| 8 | **[徐]** | **R** | Xu Ran liegt im Dreck. Stunden? Tage? Sein Nascent Soul ist da — geformt, real. Aber sein Kern ist angeknackst, kaum Qi-Fluss. Und in seinem Kopf ein Bild, das er nicht loswird: der Moment, als etwas seinen Backlash zurückschickte. Nicht feindselig. Nicht grausam. Nur: *größer.* Wie der Himmel, der eine Mücke bemerkt und nicht zerdrückt. *Die hat mich nicht einmal ANGEGRIFFEN. Sie hat meine Welle einfach — aufgelöst.* Sein letzter Gedanke, bevor die Erschöpfung ihn holt: *ICH MUSS WISSEN, WER DAS WAR.* |
 
 ---
 
@@ -279,13 +279,13 @@ Kapitel markieren ihren POV im Header. Die Zeitachse bestimmt die Reihenfolge.
 
 | # | POV | Beat | Event |
 |---|-----|------|-------|
-| 1 | **[徐]** | **Hook** | Morgen danach. Xu Ran liegt auf seiner zerstörten Lichtung. Cores: Staub. Formation: Trümmer. Kern: still. Kein Qi-Fluss. Nichts. Er bewegt die Finger. Langsam. Etwas ist kaputt. Vieles. |
-| 2 | **[徐]** | **PT1** | Er steht auf. Schmerz, überall. Geht — stolpert — in Richtung aus der die Macht kam. Nach Osten. Durch den leeren Wald. Die Bäume sind still. Keine Beasts. Nichts. Er hat alles getötet und dann die Tribulation den Rest erledigen lassen. Die Stille ist Anklage. |
+| 1 | **[徐]** | **Hook** | Morgen danach. Xu Ran liegt auf seiner zerstörten Lichtung. Cores: Staub. Formation: Trümmer. Nascent Soul: da, aber schwach. Kern: angeknackst, Qi-Fluss ein Rinnsal. Er bewegt die Finger. Langsam. Etwas ist beschädigt. Vieles. |
+| 2 | **[徐]** | **PT1** | Er steht auf. Schmerz, überall. Flieht nach Süden — weg von der Macht. Dann: Haken schlagen, falls sie ihm folgt. Er dreht Richtung Osten ab, ohne zu wissen, was dort ist. Durch den leeren Wald. Die Bäume sind still. Keine Beasts. Nichts. Er hat alles getötet und dann die Tribulation den Rest erledigen lassen. Die Stille ist Anklage. |
 | 3 | **[徐]** | **P1** | Er kommt an den Hügel. Schaut hinunter. **Sieht zum ersten Mal das Dorf.** Klein. Beschädigt. Rauch. Verletzte. Kinder, die weinen. Ein Mann, der Trümmer wegräumt. Eine Frau, die einen kleinen Jungen umarmt. *Oh.* Er steht. Und steht. Und kann sich nicht bewegen. |
 | 4 | **[徐]** | **M** | Das Verstehen. Nicht Sekunden-Erkenntnis — langsam, wie Säure. Die Qi-Störungen. Die fliehenden Beasts. Die verdorrten Felder. Das alles war ER. Seine Jagden. Seine Tribulation. Seine Ambition. *Er hat alles richtig geplant. Und trotzdem alles zerstört.* Weil er nicht HINGESEHEN hat. Weil das Dorf für ihn nicht existierte. „Ameisen in der Nähe eines Vulkans." Er hatte genau das gedacht. Und es stimmte. Nur: er war der Vulkan. |
 | 5 | **[徐]** | **P2** | Er spürt die Qi-Signatur — DORT. In dem Dorf. Die Macht, die ihn zerdrückt hat. Sie ist DORT. Bei diesen Menschen. Bei diesem Dorf, das er nicht gesehen hat. Die Macht und das Dorf gehören zusammen. Unmöglich. Und: wahr. |
 | 6 | **[卫]** | **PT2** | **Weis letztes Kapitel in B1.** Er wacht auf. Kurz. Sieht Yun neben sich sitzen. Verschwommen. Sein Körper fühlt sich anders an — Qi fließt durch ihn, wo vorher nichts war. Er will reden. Kann nicht. Aber er sieht: sie ist da. Sie wartet. Das reicht. Dunkel. |
-| 7 | **[徐]** | **R** | Xu Ran dreht sich um. Geht weg. Nicht ins Dorf — davon. Aber: in seinem Kopf bleibt das Bild. Das Dorf, das er nicht gesehen hat. Die Macht, die ihn beiseitegelegt hat. *Ich werde zurückkommen. Ich muss verstehen.* **ENDE Buch 1.** — Kein Frieden. Kein Abschluss. Zwei Versprechen: Xu Ran wird wiederkommen. Und Wei wird nie mehr derselbe sein. |
+| 7 | **[徐]** | **R** | Xu Ran dreht sich um. Geht weg. Nicht ins Dorf — davon. Aber: in seinem Kopf bleibt das Bild. Das Dorf, das er nicht gesehen hat. Die Macht, die seine Welle aufgelöst hat. *Ich werde zurückkommen. Ich muss verstehen.* **ENDE Buch 1.** — Kein Frieden. Kein Abschluss. Zwei Versprechen: Xu Ran wird wiederkommen. Und Wei wird nie mehr derselbe sein. |
 
 ---
 
@@ -296,9 +296,9 @@ Kapitel markieren ihren POV im Header. Die Zeitachse bestimmt die Reihenfolge.
 | 1-1-08 [卫] | Part 1, Hook | Wildschwein-Szene | Wei sieht Müdigkeit in ihrem Gesicht, nicht Macht |
 | 2-1-03 [卫] | Part 2, PT1 | „Yun." — Der Name | Wei versteht die Bedeutung nicht, findet ihn „schön" |
 | 4-1-01 [卫] | Part 4, Hook | Kräutersud (zu bitter) | Wei sieht, dass sie ALLES trinkt — das zählt |
-| 4-1-03 [卫] | Part 4, PT1 | Verletzung + Heilung | Weis Erleben: warm, Sommerboden, weiche Augen |
+| 4-1-03 [卫] | Part 4, PT1 | Waldkatzen-Angriff + Heilung + Chen | Weis Erleben: Unterarmbruch, Yuns Nachtheilung, weiche Augen. Chen-Angriff durch angelocktes Beast. |
 | 6-1-05 [卫] | Part 7, Midpoint | DER SPRUNG | Wei sieht nicht Macht — er sieht ENTSCHEIDUNG |
-| 6-1-06 [徐] | Part 7, Midpoint | DER SPRUNG | Xu Ran spürt existenzielle Unterordnung, nicht Kampf |
+| 6-1-06 [徐] | Part 7, Midpoint | DER BACKLASH | Xu Ran spürt Welle aufgelöst + Backlash zurückgeschickt, existenzielles Flachdrücken |
 
 ---
 
@@ -306,7 +306,7 @@ Kapitel markieren ihren POV im Header. Die Zeitachse bestimmt die Reihenfolge.
 
 - [ ] Xu Rans Sekte: Name? Stil? Warum ist er ihr entwachsen?
 - [ ] Xu Rans Motivation JENSEITS von Aufstieg — was treibt ihn? Leere? Familie? Beweis?
-- [ ] Weis Geschwister: 3 ältere — Namen? Rollen? Oder bewusst namenlos (Weis POV: „mein ältester Bruder")?
+- [ ] Weis Geschwister: 2 — Namen? Rollen? Oder bewusst namenlos?
 - [ ] Konkretes Spirit-Beast-Bestiarium — welche Tiere gibt es? Qi-Typen?
 - [ ] Soll Xu Ran Yun vor der Tribulation FAST begegnen? (Z.B. er sieht eine Frau am Waldrand, die verschwindet)
 - [ ] Umfang der Action-Szenen — wie detailliert sollen die Jagden sein? Progression-Fantasy-Level oder kürzer?

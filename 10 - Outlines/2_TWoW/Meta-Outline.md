@@ -46,8 +46,8 @@ Die Hauptreihe ist Yuns Geschichte — von oben gesehen, vom ältesten Wesen der
 | Buch | Wei | Xu Ran | Pencil | Hermit | Modus |
 |------|-----|--------|--------|--------|-------|
 | **B1: Sparks** | ~50% (37) | ~50% (38) | — | — | Wechsel, chronologisch |
-| **B2: Thorns** | ~35% (28) | ~65% (53) | — | — | chronologisch |
-| **B3: Ash** | ~30% (25, bis Tod) | ~70% (57, nach Tod: 100%) | — | Cameo (2 Kap.) | chronologisch |
+| **B2: Thorns** | ~35% (28) | ~63% (53) | — | ~2% (2 Kap.) | chronologisch |
+| **B3: Ash** | ~28% (24, bis Tod) | ~66% (55, nach Tod: 100%) | — | ~4% (5-6 Kap.) | chronologisch |
 | **B4: Dust** | — | ~95% (72) | ~5% (3 Kap.) | — | Xu Ran dominiert, Pencil-Einsprengsel |
 | **B5: Cracks** | — | ~75% (56) | ~25% (20) | — | chronologisch wechselnd |
 | **B6: Glass** | — | ~65% (47) | ~35% (25) | — | chronologisch wechselnd |
@@ -71,9 +71,10 @@ Die Hauptreihe ist Yuns Geschichte — von oben gesehen, vom ältesten Wesen der
 **Arc:** Harvester → Beobachter → Versteher → loslassend (B7: akzeptiert, dass Yun nicht geerntet werden kann).
 
 ### Hermit / der Einsiedler (隐)
-**Einführung:** B3 Cameo (1-2 Kapitel aus seiner Sicht: Ankunft, Ablenkung, Rückzug). B7 Epilog.
+**Einführung:** B2 (2 Kapitel: Erwachen + Zwei Finger). B3 (5-6 Kapitel: Entschluss, Spur, Pilgerfahrt, Ankunft, Ablenkung, Rückzug). B7 Epilog.
 **Rolle:** Der Immortal+-Kultivator, der in B3 Yun ablenkt = Weis Tod ermöglicht. In der Hauptreihe nur durch Yuns Augen: ein Reflex, ein Moment. In *The Weight of Watching*: ein Mensch mit eigenem Motiv.
-**Funktion (B3):** Gibt Weis Tod eine weitere Tragik-Ebene — er kam nicht aus Bosheit, sondern aus Sorge um Yun. Wollte helfen. Wurde zum Auslöser.
+**Funktion (B2):** Setzt den Haken. Der Leser erlebt sein Erwachen — ein Wesen, das seit Jahrhunderten meditiert, öffnet die Augen, weil die Welt sich biegt. Und die erste Begegnung: Zwei Finger, die niemand sieht.
+**Funktion (B3):** Gibt Weis Tod eine weitere Tragik-Ebene — er kam nicht aus Bosheit, sondern aus *Pilgerfahrt*. Wollte SIE sehen. Verstehen. Zwei Finger heben. Wurde zum Auslöser. Der Aufbau über 5 Parts (Entschluss → Spur → Pilgerfahrt → Ankunft → Manifestation → Schuld) gibt dem Leser 6 Kapitel, um ihn zu verstehen, bevor er zerstört.
 **Funktion (B7):** Schließt den Kreis. Spürt Yuns Tod aus der Ferne. Ein Wesen, das ihr nahe genug war, um zu trauern — aber nie nahe genug, um zu bleiben.
 **Ton:** Alt, still, beobachtend. Spricht wenig. Jeder Satz hat Gewicht.
 
@@ -130,8 +131,8 @@ B7: Aufschreiben und Loslassen (Xu Ran als Chronist, dann: eigener Weg)
 | Buch | Beat | Thema | POV-Fokus | Ending |
 |------|------------|-------|-----------|--------|
 | **1: Sparks** | **Hook** | Ambition + Wunder | Wei ↔ Xu Ran | Xu Ran am Boden. Wei bewusstlos. Yun steht. |
-| **2: Thorns** | **Plot Turn 1** | Wachstum mit Dornen | Xu Ran (65%) ↔ Wei (35%) | Xu Ran taucht wieder auf. Weis Kern leuchtet. |
-| **3: Ash** | **Pinch 1** | Tod + Entscheidung | Xu Ran (70%) ↔ Wei (30%) + Hermit (2 Kap.) | Wei tot. Xu Ran allein. Alles Asche. |
+| **2: Thorns** | **Plot Turn 1** | Wachstum mit Dornen | Xu Ran (63%) ↔ Wei (35%) + Hermit (2 Kap.) | Xu Ran taucht wieder auf. Weis Kern leuchtet. Hermit erwacht. |
+| **3: Ash** | **Pinch 1** | Tod + Entscheidung | Xu Ran (66%) ↔ Wei (28%) + Hermit (5-6 Kap.) | Wei tot. Xu Ran allein. Alles Asche. |
 | **4: Dust** | **Midpoint** | Suche + Begleitung | Xu Ran (~95%) + Pencil (~5%) | Xu Ran bleibt. Unfreiwillig. Bewusst. |
 | **5: Cracks** | **Pinch 2** | Beobachten + Erkennen | Xu Ran (~75%) + Pencil (~25%) | Xu Ran sieht den Riss — Yun nicht. Xiǎohú-Spur. |
 | **6: Glass** | **Plot Turn 2** | Spiegel + Katalysator | Xu Ran (~65%) + Pencil (~35%) | Die Wahrheit, ausgesprochen. Akzeptanz. |
@@ -218,7 +219,9 @@ blind-ehrgeizig → gebrochen → suchend → schwankend → verstehend → Chro
 - **B2-3:** WIE das Gebrochensein sich anfühlt. Die Tribulation von innen.
 - **B4:** Die Suche als EIGENER Prozess — nicht nur Plot-Mechanik.
 - **B5-6:** Was er sieht, das Yun nicht sieht — seine Perspektive als WERT.
-- **B7:** Die Chronik als sein Dao — nicht Aufstieg, sondern Verstehen.
+- **B5-6: Die Notizbuch-Krise.** Das analytische Notizbuch (Anomalie-Nummern, Kategorien, Systeme) war sein Schutzschild. Ab B5 Part 4 zögert die Feder. Der Spiegel-Schock in B6 — Pencils Methodik ist IDENTISCH — bricht das System. Ein zweites, geheimes Notizbuch entsteht: nachts geschrieben, während Yun schläft. Keine Nummern. Rohtext. Beobachtung als Zuneigung. Das erste Notizbuch verstummt. Das zweite wird zur Chronik.
+- **B5-7: Kern-Heilung + Gedächtnis-Überschreibung.** Yuns Proximity heilt den gebrochenen Kern — aber überschreibt Xu Rans Erinnerungen. Der Prozess beginnt unsichtbar (B5 Part 4-5: 2-3 Einträge, die er nicht erinnert), wird zum Muster (B6 Part 1-2: systematische Lücken), zum bewussten Wissen (B6 Part 3: Meridian-Skip-Test = Beweis), zur bewussten Entscheidung (B6 Part 3-4: Schweigen, weil Yun ihn sonst wegschickt), zur täglichen Routine (B6 Part 4 – B7: morgens Notizbuch lesen, sich selbst rekonstruieren, die Rolle spielen). Das zweite Notizbuch, das als Zuneigung begann, wird zur Überlebensakte. Die Wahl „Feder statt Kern" (B7 Epilog) ist nicht Edelmut — Kultivation könnte die Überschreibung reaktivieren. Der geheilte Kern ist Geschenk UND Bombe.
+- **B7:** Die Chronik als sein Dao — nicht Aufstieg, sondern Verstehen. Das zweite Notizbuch, erwachsen geworden.
 
 ---
 

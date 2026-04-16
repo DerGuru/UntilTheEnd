@@ -128,7 +128,7 @@
 
 **Widerspruch im Timing:** Die Shadow sagt: Kern bricht in B2 Part 3 (Woche 7-10). Die Hauptreihe zeigt an der Herberge (Part 6, Woche 23-26) einen gerissenen, NICHT gebrochenen Kern. Erst in B3 (Monate später) wird er als „broken" beschrieben.
 
-**Lösung:** Der Kernbruch in der Shadow muss NACH der Herbergen-Szene stattfinden. Option: Kern bricht auf dem Weg von der Herberge → nächste Station. Oder: „Phase 2" im Shadow verschiebt sich auf Part 5-6 statt Part 3.
+**Lösung:** Der tatsächliche Kernbruch in der Shadow muss NACH der Herbergen-Szene stattfinden. Option: Kern bricht auf dem Weg von der Herberge → nächste Station. Oder: „Phase 2" im Shadow verschiebt sich auf Part 5-6 statt Part 3.
 
 ---
 

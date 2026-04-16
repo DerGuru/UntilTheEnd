@@ -36,9 +36,11 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 
 ### Part 1-3: Sterblichkeits-Übungen + Proximity-Erkenntnis
 - **Xu Ran coacht Yun** bei den Sterblichkeits-Übungen: „Nicht kämpfen. Surrender." Er sieht von AUSSEN, was die Hauptreihe von INNEN zeigt.
+- **Die Lücken sind Alltag geworden.** Er liest jeden Morgen das zweite Notizbuch wie einen Bericht über sich selbst. Was er gestern gefühlt hat. Was er gesagt hat. Was sie geantwortet hat. Die guten Tage: er erinnert die Hälfte. Die schlechten: er erinnert den Morgen und den Abend, dazwischen Leere. Er hat aufgehört, Panik zu empfinden. Es ist Routine. *Aufwachen. Lesen. Xu Ran werden.*
 - **Die Erkenntnis (Yun-POV im Original, B7 Part 4 Mitte):** Abends, Meridian-Routine. Yun prüft den Kern — und stoppt. Der Riss ist kleiner. Deutlich. Exponentiell gewachsen, seit sie zuletzt genau hingeschaut hat (B6). Proximity. Dieselbe Kraft, die seinen Kern zerbrochen hat, heilt ihn. Ein paar Tage noch.
 - **Yuns Taktik:** Sie sagt ihm NICHTS. Braucht einen Vorwand, ihn noch lang genug hier zu halten. Am nächsten Morgen: *„Ich will dir etwas erzählen. Lass uns Geschichten vergleichen."* → Die Chronik beginnt. Als Taktik. Und als Geschenk.
-- **Xu Rans Perspektive (TWoW):** Er spürt etwas — Wärme im Kern, die er nicht einordnen kann. Aber seine Erinnerungen werden überschrieben (B6-Nachwirkung), er traut seinen eigenen Wahrnehmungen nicht. Er kategorisiert es als Anomalie und schreibt auf. Versteht es NICHT.
+- **Xu Rans Perspektive (TWoW):** Er spürt etwas — Wärme im Kern, die er nicht einordnen kann. Aber er traut seinen eigenen Wahrnehmungen nicht mehr — zu viele Morgen, an denen sich „gestern" falsch anfühlt. Er schreibt es auf. Versteht es NICHT. Das Notizbuch versteht es für ihn.
+- **Das Zeitspiel:** Er weiß, was sie nicht weiß: dass die Nähe ihn überschreibt. Und er weiß, was ER nicht weiß: ob der Mann, den er morgen aus dem Notizbuch rekonstruiert, noch genug von ihm übrig hat, um die Chronik fertigzuschreiben. Jeder Tag neben ihr ist Heilung UND Verlust. Er bleibt trotzdem. Weil die Geschichte wichtiger ist als der Chronist.
 
 ### Part 3-4: Yun erzählt, Xu Ran schreibt (= Heilungstage)
 - **Das Erzählen:** Yun erzählt ihm ALLES. Ihr gesamtes Leben. Jahrtausende. Fragmentarisch, assoziativ, manchmal unterbrochen von Schluchzen oder Lachen oder Stille.
@@ -61,8 +63,9 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 ### Part 5-7: Eigener Weg (Xu Rans Epilog)
 - **Was die Hauptreihe NICHT zeigt:** Was passiert mit Xu Ran NACH dem Abschied?
 - **Sein Weg:** Er geht. Allein. Mit dem Notizbuch + Pencils 200 Seiten. Durch Dörfer, Städte, Berge. Er hat kein Ziel. Er hat: eine Geschichte.
-- **Sein Dao:** Nicht Aufstieg. Nicht Macht. Nicht Kultivation. Sondern: VERSTEHEN. Und weitererzählen.
-- **Sein Körper:** Kanäle offen. Kern GEHEILT — durch Proximity, ohne sein Wissen. Die Heilung, die die Chronik-Tage ermöglicht haben. Er spürt Qi wieder. Er KÖNNTE kultivieren. Aber sein Dao ist ein anderer: Chronist, nicht Kultivator. Der geheilte Kern gibt ihm die Wahl. Er wählt die Feder.
+- **Die Distanz heilt den Geist.** Weg von Yun stoppt die Überschreibung. Tage vergehen — und die Erinnerungen bleiben. Neue Erinnerungen. Klare Erinnerungen. Zum ersten Mal seit Monaten verliert er keinen Morgen. Er weint. Nicht vor Erleichterung — vor Trauer. Weil er JETZT spürt, was er alles verloren hat. Die Einträge im Notizbuch: sein Handschrift, seine Sätze, seine Gefühle — und NICHTS davon lebt in seinem Kopf.
+- **Sein Dao:** Nicht Aufstieg. Nicht Macht. Nicht Kultivation. Sondern: VERSTEHEN. Und weitererzählen. Der Mann, der sich monatelang aus Tinte rekonstruiert hat, wird zum Chronisten nicht aus Edelmut — sondern weil Tinte das Einzige war, das geblieben ist.
+- **Sein Körper:** Kanäle offen. Kern GEHEILT — durch Proximity, ohne sein Wissen. Die Heilung, die die Chronik-Tage ermöglicht haben. Er spürt Qi wieder. Er KÖNNTE kultivieren. Aber Kultivation bedeutet Qi-Fluss durch den Kern — und Qi-Fluss durch einen proximity-geheilten Kern könnte die Überschreibung reaktivieren. Er weiß es nicht sicher. Aber er weiß, was er riskiert. Er wählt die Feder. Nicht aus Bescheidenheit. Aus Überlebensinstinkt. Der geheilte Kern ist ein Geschenk UND eine Bombe. Er wählt, sie nicht zu zünden.
 - **Yuns Tod (aus der Ferne):** Xu Ran SPÜRT es. Nicht mit Qi — mit etwas Tieferem. Ein Fehlen, wo vorher ein Gewicht war. Die Welt atmet EIN. Er hält inne. Mitten auf einer Straße. Weiß es. Weint nicht. Steht nur da. Und dann: geht weiter.
 
 ---
