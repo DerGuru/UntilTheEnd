@@ -1,6 +1,80 @@
 # Objections: Shadow-Outlines vs. Hauptreihe-Kapitel
 
-> Vergleich aller 7 Shadow-Outlines (`Wei_XuRan/`) gegen die tatsächlich geschriebenen Kapitel (`20 - Chapters/`).
+## STATUS (Stand: Re-Verifikation Mai 2025)
+
+OBJ 01-38: Implementiert. Davon 4 Korrekturen nötig (siehe unten).
+OBJ 39-58: **NEU** — aus Re-Verifikation gegen tatsächliche Kapitel.
+
+### OBJ 01-38: Bisherige Fixes
+
+| OBJ | Status | Fix |
+|-----|--------|-----|
+| 01 | ✅ | Tribulation: erfolgreich aber beschädigt |
+| 02 | ⚠️ | **KORREKTUR:** Wei hat 2 Geschwister (nicht 3!). Outline war korrekt. |
+| 03 | ✅ | Dorfcharakter-Namen korrigiert |
+| 04 | ✅ | Weis Verletzung angepasst |
+| 05-06 | ✅ | Kompatibel |
+| 07 | ⚠️ | **UNVOLLSTÄNDIG:** Timeline OK, aber Sprache zu absolut ("Kein Kern. Nichts." → "gerissen, nicht zerbrochen") |
+| 08 | ✅ | Shuhai-Sekte (书海派) |
+| 09 | ✅ | Hermit Erstauftritt in B2 |
+| 10 | ✅ | Kompatibel |
+| 11 | ✅ | Shen Liang → Fang Liang |
+| 12 | ✅ | Wei stößt Shen zurück, 4 Kultivatoren |
+| 13 | ✅ | Tante Huang + Sohn Shen |
+| 14-15 | ✅ | Kompatibel / Info |
+| 16 | ✅ | Gift: Xu Ran bringt Yinshi mit, Yun stiehlt es |
+| 17 | ✅ | Per Mitigations: kein Problem |
+| 18 | ✅ | Splitterfelder statt perfekter Kreis |
+| 19 | ✅ | Gebrochener Kern mit Qi-Wahrnehmungsresten |
+| 20 | ✅ | Kompatibel |
+| 21 | ✅ | 7 Kultivatoren in B5, 112+ in B6 |
+| 22 | ✅ | Yuns 47 Wörter + Xu Rans Analyse |
+| 23 | ✅ | Nine Rivers Sect (九河派), nicht Yun Ling |
+| 24 | ✅ | Kompatibel |
+| 25 | ✅ | Kompromiss: Pencil hinterlässt 200 Seiten, Xu Ran findet sie |
+| 26 | ✅ | Kompatibel (Shadow-eigener Content) |
+| 27 | ✅ | "I am it" statt "Ich weiß" |
+| 28 | ✅ | Kompatibel |
+| 29 | ✅ | Pencil kehrt in B7 NICHT zurück (weggewarpt B6) |
+| 30 | ✅ | Hermit-Epilog ist POST-Tod |
+| 31 | ⚠️ | **KORREKTUR:** Abschied ist NICHT wortlos. "Thank you" + kurzer Austausch + Nicken |
+| 32 | ⚠️ | **KORREKTUR:** Perfektes Reismahl steht in Part 4 (Abschiedsessen), nicht Part 3 |
+| 33-36 | ✅ | Kompatibel |
+| 37 | ✅ | Hermit liest die Chronik an der Höhle (statt Pencil) |
+| 38 | ✅ | Info — Shadow-exklusive Inhalte dokumentiert |
+
+### OBJ 39-58: Neue Objections
+
+| OBJ | Schwere | Buch | Kurzbeschreibung |
+|-----|---------|------|------------------|
+| 39 | 🟡 | B1 | Tante Huang/Shen im B1-Dorf — falsche Location |
+| 40 | 🟡 | B2 | Kern-bruch Sprache: "Kein Kern. Nichts." → "gerissen, nicht zerbrochen" |
+| 41 | 🟡 | B3 | Shens Alter: ~10 → **12** |
+| 42 | 🟡 | B3 | Wei stößt Shen: "beide Hände" → **eine Hand** |
+| 43 | 🔴 | B4 | Gift-Timeline: Outline hat 2 Events, Text hat 1 (Part 6, Xu Ran anwesend) |
+| 44 | 🟠 | B4 | "Weis Garten" existiert nicht in B4 |
+| 45 | 🟡 | B4 | Klippe: 300m → **800m** |
+| 46 | 🔴 | B4 | Xu Ran findet Yun Ch 1 am Todeskreis — keine monatelange Suche |
+| 47 | 🟠 | B4 | Qinzhou-Wissen gehört **Yun**, nicht Xu Ran |
+| 48 | 🟡 | B4 | Meridian-Reparatur: "Hände auf Rücken" → Hand auf Brust/Rippen (B4) |
+| 49 | 🟡 | B4 | Xu Rans Kern-Level: Nascent Soul Residuen, nicht "praktisch sterblich" |
+| 50 | 🔴 | B4 | Xiǎohú existiert NICHT in geschriebenem B4 |
+| 51 | 🟡 | B4 | Lu Sen: stummer Nicken, kein Dialog/Lüge |
+| 52 | 🔴 | B5 | Verschwindender Berg: partielle Flanke (~300m), BEIDE sehen es |
+| 53 | 🟡 | B5 | Fast-Sehen: Horror/kontrolliert, nicht Schreien |
+| 54 | 🟠 | B5 | Fuchs erst ab Part 5, nicht Part 1 |
+| 55 | 🟡 | B5 | Kultivator-Zahl intern inkonsistent (15 UND 7 in Pinch 1) |
+| 56 | 🟠 | B6 | Pencil 200 Seiten + "Da war noch jemand"-Dialog fehlt in UTE |
+| 57 | 🟠 | B6 | Spiegel-Schock komplett abwesend in UTE |
+| 58 | 🟡 | B7 | Hermit trifft Yun VOR Tod in Part 5 — Outline ignoriert das |
+
+---
+
+> **Archiv:** Originale Objections-Analyse folgt unten (zur Referenz).
+
+---
+
+> Vergleich aller 7 Shadow-Outlines (`2_TWoW/`) gegen die tatsächlich geschriebenen Kapitel (`20 - Chapters/`).
 > Kapitel geprüft: B1 (66), B2 (71), B3 (61), B4 (57), B5 (49), B6 (50), B7 (66) = **420 Kapitel total.**
 > Stand: April 2026
 
@@ -649,3 +723,305 @@ Diese Elemente sind valider neuer Shadow-Content und stärken die Reihe.
 14. **OBJ-23** — Pencils Sekte: Nine Rivers, nicht Yun Ling
 15. **OBJ-31** — Xu Rans Abschied: Stille respektieren
 16. **OBJ-37** — Pencils 200 Seiten: Übergabe-Mechanismus klären
+
+---
+
+## NEUE OBJECTIONS: Re-Verifikation Mai 2025
+
+> Vergleich aller TWoW-Outlines (nach OBJ-01–38-Fixes) gegen die tatsächlichen UTE-Kapitel.
+> Methode: Subagent-Analyse mit 10-20 Kapitel-Samples pro Buch.
+
+---
+
+## Buch 1: Embers — Neue Befunde
+
+### 🟡 OBJ-39: Tante Huang / Shen im B1-Dorf — falsche Location
+
+**Shadow B1:**
+> Part 6 Ch. 1: „Hinter ihm: der Nachbarsjunge, Tante Huangs Sohn."
+> Part 4 Ch. 8: „Wei zeigt dem Nachbarsjungen die Atemübung."
+
+**Hauptreihe B1:**
+Tante Huang und Shen existieren NUR in der B3-Siedlung. In B1 sind die Dorfcharaktere: Elder Li, Mrs. Liu, Mrs. Zhao, Gao, Chen, Healer Wen. Kein Tante Huang, kein Shen.
+
+**Lösung:** Entweder (a) anderen Nachbarsjungen benennen (neuer Name), oder (b) die Referenzen entfernen. Tante Huang/Shen dürfen NICHT in B1 auftauchen — sie gehören zu B3.
+
+---
+
+## Buch 2: Roots — Neue Befunde
+
+### 🟡 OBJ-40: Kern-bruch Sprache zu absolut
+
+**Shadow B2 Part 3 Ch. 4:**
+> „Kein Kern. Kein Qi-Fluss. Nichts."
+
+**Hauptreihe B2 (Kap. ~51):**
+> „Not shattered — but cracked. The distinction mattered. Shattered cores died. Cracked cores leaked."
+
+**Widerspruch:** „Kein Kern. Nichts." = zerbrochen/weg. Tatsächlich: gerissen, noch funktional auf Foundation-Niveau. Die spätere Outline-Beschreibung (Foundation-Qi-Sinne) ist korrekt, aber der dramatische Moment übertreibt.
+
+**Lösung:** „Kein Kern. Kein Qi-Fluss. Nichts." → „Gerissen. Nicht zerbrochen — gerissen. Die Qi-Sinne: gedämpft, wie durch Milchglas. Foundation-Niveau."
+
+---
+
+## Buch 3: Silence — Neue Befunde
+
+### 🟡 OBJ-41: Shens Alter
+
+**Shadow B3 (Offene Fragen):**
+> „Tante Huangs Sohn — Shen, Alter ~10"
+
+**Hauptreihe B3 (Kap. ~30):**
+> „his twelve-year-old imperviousness"
+
+**Lösung:** ~10 → **12**
+
+---
+
+### 🟡 OBJ-42: Wei stößt Shen — eine Hand, nicht zwei
+
+**Shadow B3 Part 6 Ch. 11:**
+> „Er STÖSST Shen zurück — beide Hände, volle Kraft"
+
+**Hauptreihe B3 (Kap. 48):**
+> „He grabbed the boy with one hand — shirt, fabric in fist — and pushed."
+
+**Lösung:** „beide Hände" → „eine Hand — Hemd, Stoff in der Faust"
+
+---
+
+## Buch 4: Echoes — Neue Befunde
+
+### 🔴 OBJ-43: Gift-Timeline — struktureller Widerspruch
+
+**Shadow B4:**
+Outline hat ZWEI Gift-Events: Part 1 (Gift-Spur-Entdeckung) + Part 5 (Experiment).
+
+**Hauptreihe B4:**
+EIN Gift-Event in Part 6. Xu Ran ist ANWESEND. Es ist Yuns bewusstes Experiment, nicht eine Entdeckung. Die gesamte Part-1-Struktur der Gift-Spur existiert nicht.
+
+**Lösung:** Part 1 Gift-Entdeckung streichen. Gift-Event auf Part 6 verschieben, Xu Ran als Zeuge einbauen.
+
+---
+
+### 🟠 OBJ-44: „Weis Garten" existiert nicht
+
+**Shadow B4 Hook Ch. 1:**
+> „Xu Ran in Weis Garten — allein."
+
+**Hauptreihe B4:**
+Kein Garten. Xu Ran kommt direkt zum Todeskreis (Kap. 1 von B4). Es gibt keinen Wei-Bezug am Anfang von B4.
+
+**Lösung:** Startpunkt ändern — Xu Ran am Todeskreis, nicht in einem Garten.
+
+---
+
+### 🟡 OBJ-45: Klippenhöhe
+
+**Shadow B4:**
+> „300m Klippe"
+
+**Hauptreihe B4 (4x bestätigt):**
+> „800m" — durchgehend in allen relevanten Kapiteln.
+
+**Lösung:** 300m → **800m**
+
+---
+
+### 🔴 OBJ-46: Xu Ran findet Yun sofort — keine monatelange Suche
+
+**Shadow B4 Outline:**
+Impliziert monatelange Suche, bevor Xu Ran Yun findet.
+
+**Hauptreihe B4:**
+Xu Ran kommt in Kapitel 1 am Todeskreis an. Yun ist bereits da. Keine Suchphase.
+
+**Lösung:** Suchphase streichen. Hook anpassen: Xu Ran erreicht den Todeskreis, erkennt Yun.
+
+---
+
+### 🟠 OBJ-47: Qinzhou-Wissen — gehört Yun, nicht Xu Ran
+
+**Shadow B4:**
+Outline impliziert, Xu Ran habe Yinshi in Qinzhou-Ruinen gefunden und bringe dieses Wissen mit.
+
+**Hauptreihe B4:**
+YUN hat das Qinzhou-Wissen. Xu Ran trägt nur die Phiole. Die Expertise gehört Yun.
+
+**Lösung:** Qinzhou-Herkunfts-Wissen Yun zuschreiben. Xu Ran als Träger, nicht als Wissensquelle.
+
+---
+
+### 🟡 OBJ-48: Meridian-Handposition
+
+**Shadow B4:**
+> „Hände auf Rücken" (bei Meridian-Reparatur)
+
+**Hauptreihe B4:**
+> „hand on chest/ribs"
+
+**Hauptreihe B5:**
+> „between shoulder blades"
+
+**Widerspruch:** Verschiedene Positionen in B4 und B5. Tatsächlich: Brust/Rippen in B4, Schulterblätter in B5 (fortschreitende Behandlung).
+
+**Lösung:** B4-Outline: „Hand auf Brust/Rippen". B5: „zwischen den Schulterblättern" (bereits korrekt).
+
+---
+
+### 🟡 OBJ-49: Xu Rans Kern-Level-Beschreibung
+
+**Shadow B4:**
+Impliziert „praktisch sterblich" — kein Qi.
+
+**Hauptreihe B4:**
+Nascent Soul Level mit Residualfunktion. Kern gerissen, aber nicht leer. Qi-Wahrnehmung gedämpft, vorhanden.
+
+**Lösung:** „Praktisch sterblich" durch „Nascent Soul mit Riss — Qi-Sinne gedämpft, nicht erloschen" ersetzen.
+
+---
+
+### 🔴 OBJ-50: Xiǎohú existiert NICHT in geschriebenem B4
+
+**Shadow B4:**
+Fuchs-Thread läuft durch B4 — tracking, Nähe, Verhalten.
+
+**Hauptreihe B4:**
+KEIN Fuchs in einem einzigen Kapitel. Zero Erwähnungen. Xiǎohú taucht erst in B5 auf.
+
+**Lösung:** Gesamten Xiǎohú-Thread aus B4-Outline entfernen. Fuchs-Einführung erst in B5.
+
+---
+
+### 🟡 OBJ-51: Lu Sen Begegnung — stummer Nicken
+
+**Shadow B4:**
+Impliziert Dialog oder Lüge bei der Lu-Sen-Begegnung.
+
+**Hauptreihe B4:**
+Stummer Nicken. Keine Worte, kein Dialog.
+
+**Lösung:** Begegnung auf stummen Nicken reduzieren.
+
+---
+
+## Buch 5: Fractures — Neue Befunde
+
+### 🔴 OBJ-52: Verschwindender Berg — Ausmaß und Zeugen
+
+**Shadow B5:**
+> „Der gesamte Berg verschwindet. Nur Xu Ran erinnert sich."
+
+**Hauptreihe B5:**
+Partielle Flanke (~300m) verschwindet. BEIDE Charaktere (Yun UND Xu Ran) sehen es geschehen.
+
+**Lösung:** „Gesamter Berg" → „Flanke (~300m)". „Nur Xu Ran" → „Beide sehen es".
+
+---
+
+### 🟡 OBJ-53: Fast-Sehen — Tonalität
+
+**Shadow B5:**
+> Xu Ran schreit.
+
+**Hauptreihe B5:**
+Xu Ran ist entsetzt, aber kontrolliert. Wirft Steine. Kein Schreien.
+
+**Lösung:** Schreien → kontrolliertes Entsetzen, Steinwerfen als Reaktion.
+
+---
+
+### 🟠 OBJ-54: Fuchs-Timing
+
+**Shadow B5:**
+Xiǎohú ab Part 1.
+
+**Hauptreihe B5:**
+Erste Erscheinung in Part 5.
+
+**Lösung:** Fuchs-Thread in B5 erst ab Part 5 starten.
+
+---
+
+### 🟡 OBJ-55: Kultivator-Zahl — interne Inkonsistenz
+
+**Shadow B5 Pinch 1:**
+Nennt sowohl **15** als auch **7** Kultivatoren auf dem Bergrücken.
+
+**Lösung:** Auf **7** vereinheitlichen (per OBJ-21 Fix).
+
+---
+
+## Buch 6: Mirrors — Neue Befunde
+
+### 🟠 OBJ-56: Pencil-200-Seiten-Transfer + „Da war noch jemand"-Dialog
+
+**Shadow B6:**
+Xu Ran erzählt Yun: „Da war noch jemand. Ein Forscher." — basierend auf Pencils 200 Seiten.
+
+**Hauptreihe B6:**
+Xu Rans Konfrontation mit Yun (Kap. 13) basiert NUR auf eigenen Beobachtungen. Kein Hinweis auf externen Forscher oder gefundene Dokumente. Kein Dialog über „noch jemand".
+
+**Lösung:** Entweder (a) Xu Ran erzählt Yun NICHT von den 200 Seiten (behält sie privat), oder (b) die Szene als TWoW-exklusiv markieren, in der Xu Ran die Seiten findet aber Yun nichts davon sagt.
+
+---
+
+### 🟠 OBJ-57: Spiegel-Schock fehlt in UTE
+
+**Shadow B6:**
+Xu Ran erkennt: „Das erste Notizbuch IST Pencils Arbeit" — gleiche Kategorien, gleiche Methodik.
+
+**Hauptreihe B6:**
+Keinerlei Szene, in der Xu Ran externe Forschungsdaten findet oder seine eigene Arbeit mit fremder vergleicht.
+
+**Lösung:** Als TWoW-exklusive Szene beibehalten — aber sicherstellen, dass Xu Ran NICHT auf Basis dieser Erkenntnis mit Yun spricht (sonst müsste es in UTE erscheinen).
+
+---
+
+## Buch 7: Clouds — Neue Befunde
+
+### 🟡 OBJ-58: Hermit trifft Yun VOR Tod — nicht erfasst
+
+**Hauptreihe B7 (Kap. 45 = Part 5):**
+Der Hermit trifft Yun auf einem Bergrücken. Zwei-Finger-Gruß. Sagt: „A hand that grips long enough forgets that gripping is a choice." Geht mit einem Nicken.
+
+**Shadow B7:**
+Outline erwähnt nur den Hermit-Epilog POST-Tod. Dieses kanonische Pre-Tod-Treffen aus Part 5 wird ignoriert.
+
+**Lösung:** Ein Xu-Ran-Kapitel einbauen, in dem er den Hermit aus der Ferne beobachtet (oder davon erfährt), kurz bevor der Hermit Yun trifft. Mindestens als Referenz-Beat in der Outline aufnehmen.
+
+---
+
+## Zusammenfassung: Neue Prioritäten
+
+### Sofort beheben (🔴 KRITISCH):
+1. **OBJ-43** — B4 Gift-Timeline: 2 Events → 1 (Part 6, Xu Ran anwesend)
+2. **OBJ-46** — B4 Suche: keine monatelange Suche, Xu Ran kommt Ch 1 an
+3. **OBJ-50** — B4 Xiǎohú: Fuchs existiert NICHT in B4-Text
+4. **OBJ-52** — B5 Berg: partielle Flanke, BEIDE sehen es
+
+### Bei nächster Überarbeitung (🟠 SIGNIFIKANT):
+5. **OBJ-44** — B4 „Weis Garten" entfernen
+6. **OBJ-47** — B4 Qinzhou-Wissen → Yun zuschreiben
+7. **OBJ-54** — B5 Fuchs erst ab Part 5
+8. **OBJ-56** — B6 Pencil-200-Seiten: Xu Ran erzählt Yun NICHT davon
+9. **OBJ-57** — B6 Spiegel-Schock: TWoW-exklusiv, kein UTE-Dialog
+
+### Kleinkorrekturen (🟡 MINOR):
+10. **OBJ-39** — B1 Tante Huang/Shen entfernen
+11. **OBJ-40** — B2 Kern-bruch Sprache abschwächen
+12. **OBJ-41** — B3 Shen 10→12
+13. **OBJ-42** — B3 beide Hände → eine Hand
+14. **OBJ-45** — B4 Klippe 300→800m
+15. **OBJ-48** — B4 Meridian Hand → Brust/Rippen
+16. **OBJ-49** — B4 Kern: Nascent Soul Residuen
+17. **OBJ-51** — B4 Lu Sen: stummer Nicken
+18. **OBJ-53** — B5 Fast-Sehen: kein Schreien
+19. **OBJ-55** — B5 Kultivatoren: 15→7
+20. **OBJ-58** — B7 Hermit Pre-Tod-Treffen aufnehmen
+
+### Korrekturen bisheriger Fixes:
+- **OBJ-02** — Wei hat **2** Geschwister (Outline war korrekt, Fix auf 3 war falsch)
+- **OBJ-07** — Kern-bruch Sprache (→ siehe OBJ-40)
+- **OBJ-31** — Abschied: "Thank you" + Nicken (nicht wortlos)
+- **OBJ-32** — Reis: Part 4 Abschiedsessen (nicht Part 3 separat)

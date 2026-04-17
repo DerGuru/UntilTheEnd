@@ -12,8 +12,8 @@
 
 Die Hauptreihe ist Yuns Geschichte — von oben gesehen, vom ältesten Wesen der Welt. *The Weight of Watching* ist dieselbe Geschichte von unten — von Menschen, die neben einer Gottheit stehen und das Gewicht des Zusehens tragen.
 
-**Veröffentlichung:** Separate Reihe, NACH Abschluss von *Until The End*.
-**Vorwort:** *„This series is best read after completing Until The End Books 1–7."*
+**Veröffentlichung:** Eigenständige Fiction auf RoyalRoad. Standalone-fähig (kein UTE-Vorwissen nötig). Link aus UTEs letztem Kapitel.
+**Empfehlung:** *„This series stands on its own — but if you've read Until The End, you'll see the other side of every moment."*
 
 ---
 
@@ -223,6 +223,18 @@ blind-ehrgeizig → gebrochen → suchend → schwankend → verstehend → Chro
 - **B5-7: Kern-Heilung + Gedächtnis-Überschreibung.** Yuns Proximity heilt den gebrochenen Kern — aber überschreibt Xu Rans Erinnerungen. Der Prozess beginnt unsichtbar (B5 Part 4-5: 2-3 Einträge, die er nicht erinnert), wird zum Muster (B6 Part 1-2: systematische Lücken), zum bewussten Wissen (B6 Part 3: Meridian-Skip-Test = Beweis), zur bewussten Entscheidung (B6 Part 3-4: Schweigen, weil Yun ihn sonst wegschickt), zur täglichen Routine (B6 Part 4 – B7: morgens Notizbuch lesen, sich selbst rekonstruieren, die Rolle spielen). Das zweite Notizbuch, das als Zuneigung begann, wird zur Überlebensakte. Die Wahl „Feder statt Kern" (B7 Epilog) ist nicht Edelmut — Kultivation könnte die Überschreibung reaktivieren. Der geheilte Kern ist Geschenk UND Bombe.
 - **B7:** Die Chronik als sein Dao — nicht Aufstieg, sondern Verstehen. Das zweite Notizbuch, erwachsen geworden.
 
+### Standalone-Fähigkeit (Investigation-Thread)
+TWoW soll auch ohne UTE-Vorwissen funktionieren. Yun ist für den TWoW-only-Leser ein RÄTSEL, das über die Bücher aufgeklärt wird — nicht durch Exposition, sondern durch Xu Rans (und Hermits) Investigation:
+- **B2 Part 5:** Zerstörtes Heiligtum + Mönch → Yuns Trauer zerstört Dinge als Nebenprodukt
+- **B2 Part 7:** Bibliotheks-Fund „Verschwundene" → Leute in ihrer Nähe werden vergessen (Seed Gedächtnis-Überschreibung)
+- **B3 Part 2:** Alte Bais Brief (100 Jahre alt) → „Wartest du auf jemanden?" — „Nicht mehr." → Yun ist uralt und einsam
+- **B3 Part 3:** Hermit sammelt Namens-Fragmente → „Die Frau, die aufgehört hat." → Keine konsistente Identität über Jahrhunderte
+- **B3 Part 4:** Heiler Mao über Yun → „Verbraucht. Wie ein Feuer, das sich selbst verbrennt." → uralt, müde, verborgen
+- **B4-B5:** Xu Rans direkte Beobachtung liefert den Rest: ihre Vergesslichkeit, ihre Macht, ihre Gleichgültigkeit sich selbst gegenüber
+- **B7:** Yuns Erzählung in den Chronik-Tagen = die vollständige Geschichte, für Xu Ran UND den Standalone-Leser
+
+**Prinzip:** Der UTE-Leser weiß, wer Yun ist, und sieht dramatische Ironie. Der TWoW-only-Leser entdeckt es als Mystery. Beide Erfahrungen sind valide.
+
 ---
 
 ## Offene Fragen
@@ -231,7 +243,47 @@ blind-ehrgeizig → gebrochen → suchend → schwankend → verstehend → Chro
 - [x] POV? → 3rd Person Limited, Wei + Xu Ran
 - [x] Kapitelanordnung? → Chronologisch, zwischen POVs wechselnd
 - [x] Titel? → Sparks / Thorns / Ash / Dust / Cracks / Glass / Ink
-- [x] Soll die Reihe nach der Hauptreihe gelesen werden? → JA. Separate Reihe, nach UTE.
-- [x] Veröffentlichungsformat? → Eigene Bücher, eigene Serie.
+- [x] Soll die Reihe nach der Hauptreihe gelesen werden? → Empfohlen, aber nicht nötig. Standalone-fähig.
+- [x] Veröffentlichungsformat? → Eigene Fiction auf RoyalRoad, eigene Bücher, eigene Serie.
 - [ ] Xu Rans Backstory: Familie? Sekte? Motivation JENSEITS von Aufstieg?
 - [ ] Weis Geschwister: Namen? Rollen? Oder nur Hintergrund?
+
+---
+
+## Publikationsstrategie
+
+**Format:** Eigenständige Fiction auf RoyalRoad — NICHT als Sequel/Companion unter UTE angehängt.
+
+**Begründung:**
+- Anderes Publikum: Male Lead, Multiple POVs, Mystery, Psychological vs. UTEs Female Lead, Grief, Introspection
+- Eigener Trending-/New-Release-Bonus auf RR
+- Separate Ratings (UTE-Fans, die TWoW nicht mögen, beschädigen nicht UTEs Score)
+- TWoW braucht eigene Identität — nicht „das Ding nach UTE"
+
+**Genres (4/4):** Fantasy, Drama, Psychological, Mystery
+- Fantasy = Pflicht (Xianxia-Setting, Discoverability)
+- Drama = Kern (emotionale Themen, Beziehungen, Charakterentwicklung)
+- Psychological = Alleinstellungsmerkmal (Xu Rans Innenleben, Gedächtnisverlust, Obsession)
+- Mystery = Standalone-Hook ("Wer ist diese Frau?" treibt die Serie)
+- Verworfen: Tragedy (schreckt Neuleser ab), Adventure (kein klassisches Abenteuer), Thriller (zu reißerisch)
+
+**Tags:** Cultivation, Male Lead, Multiple Lead Characters, Local Protagonist, Slice of Life
+- Cultivation = Xianxia, Kern-Reparatur, Qi-System
+- Male Lead = Xu Ran als primärer POV
+- Multiple Lead Characters = Wei, Xu Ran, Pencil, Hermit (4 POVs)
+- Local Protagonist = kein Isekai/Reincarnation
+- Slice of Life = Reis, Meditation, Wanderschaft ab B4
+- Verworfen: Strong Lead (Xu Ran ist schwach), Progression (falsche Erwartung), Martial Arts (Kämpfe nicht detailliert)
+
+**Content Warnings:** AI-Assisted, AI-Generated, Sensitive Content
+- Sensitive Content: Weis Tod (Kind), Yuns Selbstverletzung (Gift, absichtliche Treffer), Gedächtnisverlust, Trauer
+
+**Vergleich UTE:** Adventure/Drama/Fantasy/Psychological + Female Lead/Cultivation/Slice of Life/Strong Lead
+→ TWoW tauscht: Adventure→Mystery, Female Lead→Male Lead, Strong Lead→Multiple Lead Characters + Local Protagonist
+
+**Verknüpfung mit UTE:**
+- UTEs letztes Kapitel / Interlude enthält Teaser + Link zur neuen Fiction
+- TWoW-Synopsis referenziert UTE als „same world, different eyes" — kein Spoiler, kein Prerequisite
+- Author Notes in den ersten TWoW-Kapiteln: *„You don't need to have read Until The End. But if you have — you'll recognize every shadow."*
+
+**Standalone-Absicherung:** Siehe Investigation-Thread oben. B2-B3 etablieren Yun als Mystery, B4 liefert direkte Beobachtung, B7 liefert Yuns vollständige Geschichte durch die Chronik-Tage.

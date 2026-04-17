@@ -4,7 +4,7 @@
 **Beat:** Resolution (TWoW)
 **Original-Pendant:** *Clouds* (Hauptreihe B7)
 **Thema:** In Tinte festhalten, was Wolken nicht halten können. Xu Ran als Chronist. Abschied. Eigener Weg.
-**POV-Fokus:** Xu Ran ~80% | Pencil ~10% | Hermit ~10% | (+ 1-2 gemischte Epilog-Kapitel)
+**POV-Fokus:** Xu Ran ~85% | Hermit ~15%
 
 ---
 
@@ -14,18 +14,17 @@
 
 Die Hauptreihe (*Clouds*) wechselt den POV: B7 Part 1-4 ist Yuns Ich-Erzählung an Xu Ran, Part 5-7 enger 3. Person Präsens. *The Weight of Watching* zeigt die ANDERE SEITE: Xu Ran, der zuhört. Der schreibt. Der versteht. Und der am Ende gehen muss.
 
-**Pencils Arc-Ende:** Er kehrt kurz zurück — nicht als Forscher, sondern als Mensch, der sich verabschiedet. Die 200 Seiten sind in Xu Rans Chronik integriert. Pencils letzte Frage: *War es das wert?* Seine Antwort: *Ja. Weil die Wahrheit wichtiger ist als der Nutzen.*
+**Pencils Arc-Ende:** Pencil kehrt in B7 NICHT zurück. Er wurde in B6 weggewarpt. Sein Arc endete dort — die 200 Seiten, die er hinterlassen hat, leben in Xu Rans Chronik weiter. Kein Abschied, kein Wiedersehen.
 
-**Hermits Epilog:** Er spürt Yuns Tod aus der Ferne. Kommt an den Ort. Findet: nichts. Nur Stille. Und den Fuchs. Kreis geschlossen.
+**Hermits Epilog:** Er spürt Yuns Tod aus der Ferne. Kommt an den Ort. Findet: nichts. Nur Stille. Und den Fuchs. Und: die Chronik — eine Kopie, die Xu Ran am Höhleneingang hinterlassen hat. Der Hermit liest sie. Kreis geschlossen.
 
 Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun bis zum Ende. Xu Rans Chronik-Eintrag: *Sie hat ihn nie wirklich gesehen. Nicht weil er sich versteckt hat — weil sie entschieden hatte, dass es nichts zu sehen gab.*
 
 ---
 
 ## Perspektive & Struktur
-- **POV:** 3rd Person Limited, [徐] ~80% / [笔] ~10% / [隐] ~10%
+- **POV:** 3rd Person Limited, [徐] ~85% / [隐] ~15%
 - **Ton Xu Ran:** Still, aufmerksam, schreibend. Der ruhigste Ton der Serie.
-- **Ton Pencil:** Abgeklärt, befreit, fast heiter. Ein Forscher, der akzeptiert hat.
 - **Ton Hermit:** Alt, langsam, tief. Jeder Satz wie ein Stein, der ins Wasser fällt.
 - **Umfang:** ~80-100k Wörter
 - **Ending:** Xu Ran geht weiter. Die Chronik unter dem Arm. Der Wind weht. Staub. Die Geschichte lebt. In Tinte.
@@ -70,36 +69,31 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 
 ---
 
-## Pencils B7-Arc: Loslassen
+## ~~Pencils B7-Arc~~ — GESTRICHEN
 
-### Arc-Ende (Part 3-4, 5-6 Einsprengsel)
-- Pencil kehrt zurück. Nicht als Forscher — als Mensch.
-- Er hat die Sekte aufgelöst. Die 47 Loyalen sind eigene Wege gegangen.
-- Er kommt allein. Ohne Resonanz-Talismane. Ohne Notizbuch. Ohne Fragen.
-- **Was er will:** Sich verabschieden. Von Yun. Von der Frage, die sein Leben bestimmt hat.
-- **Was er findet:** Yun, die erzählt. Xu Ran, der schreibt. Den Fuchs. Stille.
-- **Sein letzter Satz:** „Ich habe die größte Frage der Welt gesehen. Und die Antwort war: ein Mensch." Dann geht er. Endgültig. Frei.
+Pencil kehrt in B7 nicht zurück. Er wurde bei der Feld-Konfrontation in B6 weggewarpt und erscheint in der Hauptreihe B7 nicht. Sein Arc endete in B6 mit dem Hinterlassen der 200 Seiten. Was von ihm bleibt: seine Daten in Xu Rans Chronik, integriert als Fußnoten und Querverweise.
 
 ---
 
 ## Hermits B7-Arc: Der Kreis
 
-### Epilog (Part 6-7, 3-5 Kapitel)
+### Epilog (Part 6-7, 5-7 Kapitel)
 - Der Einsiedler-Kultivator (Immortal+) spürt es aus der Ferne: etwas FEHLT. Die Welt ist leichter. Oder: leerer.
 - Er weiß sofort: Yun.
 - **Die Reise:** Er geht zum Ort, wo sie war. Langsam. Er hat Zeit. Er hat IMMER Zeit. Das ist sein Fluch.
 - **Was er findet:** Eine Höhle. Stille. Keinen Körper — nur Frieden, der den Ort durchzieht wie ein Duft.
 - **Und: Xiǎohú.** Der Fuchs sitzt am Eingang. Bernsteinaugen. Ruhig. Als habe er gewartet.
-- **Der Hermit versteht:** Sie hat losgelassen. Was er nie konnte. Was er nie VERSUCHT hat.
-- **Callback B3:** In B3 hat sein Zwei-Finger-Gruß Yun abgelenkt — Wei ist gestorben. Schuld, die er seit Büchern trägt. Jetzt steht er vor ihrem Endpunkt. Der Kreis: sein Erscheinen hat den Tod ermöglicht (B3: Weis Tod) — und sein Erscheinen findet den Tod, den Yun GEWÄHLT hat (B7).
-- **Letzter Hermit-Moment:** Er sitzt. Vor der Höhle. Neben dem Fuchs. Schweigt. Zum ersten Mal seit Jahrhunderten denkt er: *Vielleicht sollte ich auch.*
+- **Und: die Chronik.** Xu Ran hat ein Exemplar am Höhleneingang hinterlassen — neben einem Stein, mit einer Notiz: *„Für den, der als nächstes kommt."* Der Hermit öffnet sie. Liest. 487 Seiten + 200 Seiten Pencil-Daten + 53 Seiten Notizen. Die gesamte Geschichte einer Frau, geschrieben in Beerentinte von einem Mann, der sie nie ganz verstanden hat.
+- **Der Hermit LIEST:** Langsam. Tagelag. Jede Seite. Er erkennt Dinge, die Xu Ran nicht erkennen konnte — historische Referenzen, Kultivations-Details, die einem Immortal+ auffallen. Er ergänzt NICHTS. Liest nur. Als Zeuge.
+- **Callback B3:** In B3 hat sein Zwei-Finger-Gruß Yun abgelenkt — Wei ist gestorben. Schuld, die er seit Büchern trägt. Jetzt liest er die Geschichte des Jungen, den sein Gruß getötet hat. Geschrieben von dem Mann, der den Jungen wie einen Bruder liebte.
+- **Letzter Hermit-Moment:** Er schließt die Chronik. Legt sie zurück. Setzt sich neben den Fuchs. Schweigt. Zum ersten Mal seit Jahrhunderten denkt er: *Vielleicht sollte ich auch.*
 
 ---
 
 ## Xiǎohú-Thread (letzte Intensität)
 
 - **Part 1-4:** Der Fuchs ist da. Immer. Zwischen Yun und Xu Ran. Er liegt neben wem auch immer NICHT spricht — als spüre er, wer gerade Stille braucht. Xu Ran notiert: *„Der Fuchs reagiert nicht auf Worte. Er reagiert auf STILLE."*
-- **Part 3-4 (Pencil da):** Pencil sieht den Fuchs. Zum letzten Mal. „Immer noch niedrig-level?" — Xu Ran: „Er war nie niedrig-level." — Pencil: *Ich weiß.* Sagt es nicht laut.
+- **Part 3-4 (Chronik-Tage):** Xiǎohú liegt auf den beschriebenen Seiten. Pfotenabdruck auf Seite 73. Xu Ran lässt ihn. *Sein Siegel.* Der Fuchs reagiert auf Yuns Erzählen — ruhig bei sanften Geschichten, unruhig bei schmerzhaften.
 - **Part 4 (Abschied):** Xu Ran geht. Der Fuchs bleibt. Bei Yun. Xu Ran dreht sich EINMAL um — nicht für Yun, für den Fuchs. Bernsteinaugen. Ein Nicken? Vielleicht. Wahrscheinlich. Er geht weiter.
 - **Part 7 (Hermit-Epilog):** Xiǎohú vor der Höhle. Lebt noch. Bernsteinaugen. Ruhig. *Wie lange wartet er schon? Seit Yun starb? Oder seit sie ihn das erste Mal streichelte?* Der Hermit setzt sich neben ihn. Zwei Wesen, die warten. Worauf? Auf nichts. Und auf alles.
 - **Xu Rans Chronik-Eintrag:** *„Ein Fuchs. Sie nannte ihn nie beim Namen — sie rief ‚Fuchs', und er kam. Sie sah: ein Tier. Niedrig-level. Harmlos. Sie hat nie gefragt, warum er blieb. Nie gefragt, warum er wusste, wohin sie ging, bevor sie es wusste. Nie gefragt, warum er nie schlief, wenn SIE nicht schlief. Sie hat ihn nie wirklich gesehen. Nicht weil er sich versteckt hat — weil sie entschieden hatte, dass es nichts zu sehen gab. Und ihre Entscheidung hat die Realität geformt."*
@@ -137,8 +131,8 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 | 3 | **[徐]** | **PT1** | Er bemerkt: nach dem Wei-Kapitel ist Yun LEICHTER. Nicht fröhlich — leichter. Als habe das Aussprechen etwas physisch gelöst. *Erzählen IST die Methode. Jede Geschichte, die sie teilt, ist ein Stein, den sie ablegt. Und ich trage sie. In Tinte.* |
 | 4 | **[徐]** | **P1** | „Du erzählst dich sterblich." — „Halt die Klappe und schreib." Running Gag wird ernst: er kocht Reis. Brennt an. Sie nimmt ihm den Topf ab. „DU kannst auch nicht kochen." — „Ich hab es auch nie gelernt." — „Weil du immer WEI hattest." — Stille. Schmerzhafte Verbindung. |
 | 5 | **[徐]** | **M** | Yun erzählt von ihrer ERSTEN Bindung. Vor Jahrtausenden. Ein Name, den sie kaum noch weiß. „Sie hatte warme Hände." — Mehr nicht. Xu Ran schreibt einen Satz. Der kürzeste der Chronik. Der tragischste. |
-| 6 | **[笔]** | **M** | **PENCIL-POV.** Lian Zhuo auf der Straße. Allein. Seine Sekte: aufgelöst. Die Loyalen: verstreut. Er wandert — nicht ziellos, SUCHEND. Nicht Yun. Sich selbst. Was ist ein Forscher ohne Forschungsobjekt? *Ein Mensch, der nicht weiß, wohin.* Er dreht eine leere Resonanz-Talisman-Hülse in den Fingern. Messing. Kalt. *Was war der Sinn?* |
-| 7 | **[笔]** | **P2** | **PENCIL-POV.** Er kommt in eine Stadt. Handelsstadt. Akademie. Bücher. Er steht vor den Regalen. Sucht etwas. Findet: ein Buch über Anomalie-Muster. Er lacht. Leise. *Mein Lebenswerk, zusammengefasst in einer Fußnote.* Er kauft das Buch. Liest es. Streicht 40% durch. *Die hatten keine DATEN.* |
+| 6 | **[徐]** | **M** | Er integriert Pencils 200 Seiten in die Chronik. Fußnoten. Querverweise. „Objekt 1 zeigt..." → *„Yun zeigt..."* Er übersetzt Pencils Kälte in Verständnis. Die Daten stimmen. Der Ton nicht. *Er hat sie als Phänomen gesehen. Ich sehe den Menschen. Zusammen: die Wahrheit.* |
+| 7 | **[徐]** | **P2** | Die Tinte geht aus. Er muss sich welche machen — aus Beeren, Ruß, Wasser. Provisorisch. Die Chronik der größten Geschichte der Welt, geschrieben mit Beerentinte. *Wei hätte gelacht.* |
 | 8 | **[徐]** | **P2** | Yun erzählt schneller. Mutiger. Die Geschichten fließen. Xu Ran KANN nicht mehr mitschreiben — er muss auswählen. Was bleibt? Was fällt weg? *Ich bin nicht nur Chronist. Ich bin KURATOR. Ich entscheide, was die Welt von ihr erfährt.* Das Gewicht dessen trifft ihn. |
 | 9 | **[徐]** | **PT2** | Er liest ihr ein Kapitel vor. Das Wei-Kapitel. Ihre Augen: feucht. „Hast du das so geschrieben?" — „Ja." — „Es klingt, als wäre er noch da." — „Ist er. In Tinte." |
 | 10 | **[徐]** | **R** | Nacht. Er zählt die Seiten. Hunderte. Und sie ist erst bei einem Drittel. *Ich brauche mehr Tinte. Mehr Papier. Mehr LEBEN.* Der Fuchs liegt auf den beschriebenen Seiten. Pfotenabdruck auf einer Seite. Er lässt ihn. *Sein Siegel.* |
@@ -147,23 +141,22 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 
 ### 3. PINCH 1 — „Die Welt reagiert" (~14k Wörter, ~10-12 Kapitel)
 
-**Xu Ran:** Emotionales Erzählen → die Realität zuckt. Yun verliert kurz die Kontrolle.
-**Pencil:** Rückkehr. Arc-Ende beginnt.
+**Xu Ran:** Emotionales Erzählen → die Realität zuckt. Yun verliert kurz die Kontrolle. Ein perfektes Reismahl.
 
 | # | POV | Beat | Event |
 |---|-----|------|-------|
 | 1 | **[徐]** | **Hook** | Yun erzählt von den VERLUSTEN. Nicht einzeln — als Welle. Hunderte Gesichter. Xu Ran schreibt, was er kann. Seine Hand zittert. *Nicht wegen der Hand. Wegen der Geschichten.* |
 | 2 | **[徐]** | **PT1** | Die Welt reagiert. Als sie von Wei erzählt — wirklich, tief, ungefiltert — verdorren die Gräser um sie herum. Xu Ran: „Du machst das wieder." — „Was?" — „Die Bäume." Sie sieht: braune Blätter. Ein Kreis des Welkens, drei Meter Radius. *Ihre Trauer TÖTET die Umgebung.* |
-| 3 | **[笔]** | **PT1** | **PENCIL-POV.** Er ist auf dem Rückweg. Bewusst. Nicht zur Ernte — zum Abschied. Er spürt die Anomalie-Welle: schwach, weit weg, aber SEINE geschulte Wahrnehmung fängt sie auf. *Sie erzählt.* Er weiß es, ohne es zu wissen. *Weil das Qi TRAUERT. Das ganze Qi-Feld der Region trauert.* |
-| 4 | **[徐]** | **P1** | Xu Ran greift ihr Handgelenk. Physisch. „Atmen. Erzähl es langsam." *Die intimste Geste der Reihe. Zwei Menschen, ein Handgelenk, eine Geschichte.* Yun sieht auf seine Hand. Sagt nichts. Atmet. Die Gräser hören auf zu sterben. |
-| 5 | **[徐]** | **P1** | „Als Wei starb — hast du da—?" Er bricht ab. *Nicht jetzt. Noch nicht. Sie weiß es bereits (B6). Aber nochmal laut aussprechen?* Yun: „Ja. Die Welt um ihn herum ist verstummt. Das war ich." Ruhig. Kein Zittern. *Sie hat es akzeptiert. Irgendwann zwischen B6 und jetzt.* |
-| 6 | **[笔]** | **M** | **PENCIL-POV.** Lian Zhuo erreicht das Lager. Xu Ran sieht ihn kommen. Kein Schwert gezogen — nur ein Blick. Überraschung. „Du?" — „Ich." — „Warum?" — „Abschied." Einfach. Xu Ran tritt zur Seite. *Für einen Feind: anständig. Für einen Menschen: mehr als das.* |
-| 7 | **[笔]** | **M** | **PENCIL-POV.** Er sieht Yun. Zum letzten Mal. Sie ist: anders. Ruhiger als in B6. Die Stärke ist da — aber die SCHÄRFE ist weg. *Sie hat aufgehört zu kämpfen. Nicht aufgegeben — aufgehört.* Er verbeugt sich. Leicht. Eine Geste, die er noch nie jemandem gezeigt hat. „Ich bin gekommen, um mich zu entschuldigen." — „Das hast du schon." — „Nicht richtig." |
-| 8 | **[笔]** | **P2** | **PENCIL-POV.** Er setzt sich. Drei Menschen + Fuchs. Er beobachtet: Xu Ran schreibt. Yun erzählt. Der Fuchs liegt da. *Das ist keine Forschung. Das ist ein Mensch, der einer Freundin beim Sterben hilft.* Pencil: „Darf ich die Chronik sehen?" Xu Ran zögert. Dann: gibt sie ihm. Pencil liest. Langsam. 200+ Seiten. Seine Augen werden feucht. *Er hat MEINE Daten integriert. Aus Harvester-Berichten hat er POESIE gemacht.* |
-| 9 | **[笔]** | **PT2** | **PENCIL-POV.** Er gibt die Chronik zurück. „Die Daten stimmen." — Xu Ran: „Das ist kein Paper." — „Ich weiß. Die Daten stimmen TROTZDEM. Das ist das Schönste, was ich je gelesen habe." Pause. „Und ich habe VIEL gelesen." Fast ein Lächeln. Fast. |
-| 10 | **[徐]** | **PT2** | Nacht. Pencil, Xu Ran. Unter Sternen. „Was wirst du tun?" — Pencil: „Lehren. Irgendwo. Nicht Kultivation — DENKEN." — „Das ist optimistisch." — „Das ist das Einzige, was ich gelernt habe. Von ihr." |
-| 11 | **[笔]** | **R** | **PENCIL-POV.** Abschied. Morgen. Lian Zhuo steht. „Ich habe versucht, die größte Frage der Welt zu beantworten." — Xu Ran: „Und?" — „Die Antwort war ein Mensch." Er dreht sich um. Geht. Zum letzten Mal. **PENCIL-ARC ENDET.** Kein Blick zurück. Kein Bedauern. Leicht. Zum ersten Mal in seinem Leben: ohne Frage. |
-| 12 | **[徐]** | **R** | Xu Ran sieht ihm nach. *Der merkwürdigste Feind, den ich je hatte. Und am Ende: der ehrlichste.* Er öffnet die Chronik. Die Seite, die er Pencil gewidmet hat: *„Ein Forscher, der einen Gott ernten wollte. Am Ende hat er einen Menschen gefunden."* Das muss reichen. Es reicht. |
+| 3 | **[徐]** | **PT1** | Er greift ihr Handgelenk. Physisch. „Atmen. Erzähl es langsam." *Die intimste Geste der Reihe. Zwei Menschen, ein Handgelenk, eine Geschichte.* Yun sieht auf seine Hand. Sagt nichts. Atmet. Die Gräser hören auf zu sterben. |
+| 4 | **[徐]** | **P1** | „Als Wei starb — hast du da—?" Er bricht ab. *Nicht jetzt. Noch nicht. Sie weiß es bereits (B6). Aber nochmal laut aussprechen?* Yun: „Ja. Die Welt um ihn herum ist verstummt. Das war ich." Ruhig. Kein Zittern. *Sie hat es akzeptiert. Irgendwann zwischen B6 und jetzt.* |
+| 5 | **[徐]** | **P1** | Er liest ihr das Wei-Kapitel der Chronik vor. Das Kapitel, das er MIT ihren Worten und seinen Beobachtungen geschrieben hat. Stille danach. Yun: „Hast du das so geschrieben?" — „Ja." — „Es klingt, als wäre er noch da." — „Ist er. In Tinte." Ihre Augen: feucht. Aber kein Weinen. Etwas Stilleres. |
+| 6 | **[徐]** | **M** | Proximiy-Beat: Xu Rans Körper fühlt sich ANDERS an. Stärker. Wärmer. Die Meridian-Nächte haben aufgehört (Yun braucht ihre Energie für sich), aber die Nähe allein tut etwas. Er schreibt es dem Zuhören zu. *„Ihre Geschichte macht etwas mit mir."* Wahrer als er ahnt. Er spürt Qi-Ströme, die er nicht benennen kann. |
+| 7 | **[徐]** | **M** | **DAS PERFEKTE REISMAHL.** Er kocht. Wie jeden Abend. Reis, Wasser, Feuer. Aber dieses Mal: er konzentriert sich. WIRKLICH. Kein Notizbuch daneben, kein Gedanke an die Chronik. Nur: Reis. Wasser. Feuer. Und: er gelingt. Zum ersten Mal in der gesamten Serie. Kein angebrannter Boden. Kein klebender Klumpen. Perfekt. Yun sieht in die Schale. „Das ist..." — „Ja." — „Wie?" — „Ich hab aufgepasst." Stille. Sie essen. Schweigend. Das beste Essen, das sie je zusammen hatten. *Und er weiß: das nächste Mal wird er ihn wieder anbrennen. Aber DIESES eine Mal — reicht.* |
+| 8 | **[徐]** | **P2** | Er schreibt eine neue Seite in die Chronik: über Pencil. Über den Forscher, der sie als Phänomen sah und als Mensch verließ. *„Ein Forscher, der einen Gott ernten wollte. Am Ende hat er einen Menschen gefunden."* Er hat Pencil nie getroffen. Nur seine 200 Seiten. Aber die Seiten reichen, um den Mann zu verstehen. |
+| 9 | **[徐]** | **P2** | Die Lücken. Er blättert im Notizbuch. Einträge, die er nicht erinnert. Mehr als zuvor. Sein eigener Name fühlt sich an manchen Morgen fremd an. *Aufwachen. Lesen. Xu Ran werden.* Die Routine hält. Noch. |
+| 10 | **[徐]** | **PT2** | Nacht. Die Überschreibung wird greifbar. Er hat einen GANZEN TAG vergessen. Zwischen gestern und heute: Leere. Das Notizbuch sagt: sie hat ihm von der ersten Person erzählt, die sie geliebt hat. „Sie hatte warme Hände." Er erinnert NICHTS davon. Nur den Satz. Und den hat er geschrieben. *Ich verliere mich. Schneller.* |
+| 11 | **[徐]** | **PT2** | Er entscheidet: NICHT aufhören. Nicht weggehen. Nicht ihr sagen. *Die Geschichte ist wichtiger als der Chronist.* Er schreibt einen neuen Eintrag ins Nacht-Notizbuch: *„Falls ich morgen nicht weiß, wer ich bin: lies das hier. Du heißt Xu Ran. Du bist Chronist. Du schreibst die Geschichte einer Frau, die die Welt war. Hör nicht auf."* |
+| 12 | **[徐]** | **R** | Morgen. Er wacht auf. Liest das Notizbuch. Erinnert den Abend. *Guter Tag.* Er steht auf. Yun sitzt bereits. „Weiter?" — „Weiter." Die Chronik wächst. |
 
 ---
 
@@ -182,8 +175,8 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 | 7 | **[徐]** | **M** | Xu Ran kocht. Ein letztes Mal. Reis. Er konzentriert sich — WIRKLICH konzentriert. Seit Monaten bei Yun. Und: er brennt ihn an. Natürlich. Yun isst. Er isst. Stille. „Der Reis ist schlecht." — „Ich weiß." — „Er war IMMER schlecht." — „Ich weiß." — Stille. Fast ein Lächeln. Von beiden. |
 | 8 | **[徐]** | **P2** | Nacht. Letzte Nacht. Er liest die Chronik. Nicht als Schreiber — als Leser. Zum ersten Mal. *Das ist die größte Geschichte, die je existiert hat. Und ich habe sie aufgeschrieben. In Beerentinte. Auf Baumrinde. Mit einer gebrochenen Feder.* Er hat Tränen in den Augen. Das erste Mal seit Weis Tod. |
 | 9 | **[徐]** | **P2** | Xiǎohú kommt. Legt sich neben ihn. Nicht neben Yun — neben IHM. Bernsteinaugen im Mondlicht. Xu Ran legt die Hand auf seinen Kopf. Wärmer als erwartet. „Du bleibst bei ihr." Kein Fragezeichen. Der Fuchs blinzelt. „Ich weiß." |
-| 10 | **[徐]** | **PT2** | Morgen. Er packt. Die Chronik. Pencils 200 Seiten. Seine 53 Seiten Notizen. Das Notizbuch. Mehr hat er nicht. Mehr BRAUCHT er nicht. |
-| 11 | **[徐]** | **PT2** | Der Abschied. Yun steht. Er steht. Keine großen Worte. Keine Umarmung. Sie sieht ihn an — WIRKLICH an, mit Augen die SEHEN, nicht die filtern. „Danke." Einer von ihnen sagt es. Der andere nickt. Wer was sagt: egal. |
+| 10 | **[徐]** | **PT2** | Morgen. Er packt. Die Chronik — das Original. Pencils 200 Seiten. Seine 53 Seiten Notizen. Das Notizbuch. Mehr hat er nicht. Mehr BRAUCHT er nicht. Und dann: er zögert. Legt eine KOPIE der Chronik ab — am Höhleneingang. Neben einem Stein. Eine Notiz: *„Für den, der als nächstes kommt."* Weil eine Geschichte, die nur einer kennt, KEINE Geschichte ist. |
+| 11 | **[徐]** | **PT2** | Der Abschied. Yun steht. Er steht. Keine großen Worte. Keine Umarmung. Sie sieht ihn an — mit Augen die SEHEN, nicht die filtern. Er öffnet den Mund. Schließt ihn. *Was sagt man einer Frau, die die Welt war?* Nichts. Man sagt nichts. Man nickt. Sie nickt zurück. Das ist der Abschied. **Die Stille IST der Abschied.** |
 | 12 | **[徐]** | **R** | Er geht. Dreht sich nicht um. Dreht sich EINMAL um — für den Fuchs. Bernsteinaugen am Höhleneingang. Ein Nicken. Dann: vorwärts. Der Weg hinunter. Allein. Zum ersten Mal seit Monaten. Und es ist: leiser. Normaler. Einsamer. Aber richtig. |
 
 ---
@@ -201,7 +194,7 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 | 5 | **[徐]** | **M** | Eine Stadt. Akademie. Er steht vor einem Lesezimmer. Überlegt: soll er die Chronik teilen? Kopieren lassen? Veröffentlichen? *Oder bewahre ich sie? Oder verbrenne ich sie und schreibe sie aus dem Gedächtnis neu, besser?* Er geht weiter. Entscheidung: später. Oder nie. |
 | 6 | **[徐]** | **P2** | Er trifft einen Wanderer. Allein, wie er. „Wohin?" — „Nirgendwohin." — „Was trägst du?" — Xu Ran sieht auf die Chronik. *Ein Buch. Geschrieben in Beerentinte. Über eine Frau, die die Welt war und aufgehört hat.* „Nichts Besonderes." Der Wanderer nickt. Geht weiter. |
 | 7 | **[徐]** | **PT2** | Nacht. Lagerfeuer. Er kocht — für sich allein. Der Reis brennt an. Er isst ihn trotzdem. Lächelt. *Manche Dinge ändern sich nie. Das hat etwas Tröstliches.* |
-| 8 | **[徐]** | **R** | Er schreibt. Nicht die Chronik — eine eigene Seite. *Über sich.* Zum ersten Mal. „Xu Ran. Ex-Kultivator. Kernlos. Chronist einer Geschichte, die größer ist als er. Sein ganzes Talent: Zuhören. Sein einziger Mut: Bleiben." Er liest es. Nickt. Reißt die Seite raus. *Nicht meine Geschichte. Ihre.* Aber die Seite ist geschrieben. |
+| 8 | **[徐]** | **R** | Er schreibt. Nicht die Chronik — eine eigene Seite. *Über sich.* Zum ersten Mal. „Xu Ran. Ex-Kultivator. Chronist einer Geschichte, die größer ist als er. Sein ganzes Talent: Zuhören. Sein einziger Mut: Bleiben." Er liest es. Nickt. Reißt die Seite raus. *Nicht meine Geschichte. Ihre.* Aber die Seite ist geschrieben. |
 
 ---
 
@@ -216,11 +209,11 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 | 2 | **[徐]** | **PT1** | Er lehrt. Nicht Kultivation — DENKEN. In einem kleinen Dorf sitzt er mit Kindern unter einem Baum. „Was ist Realität?" — Stille. Ein Kind: „Was ich sehe?" — „Nah dran. Was passiert, wenn jemand etwas anderes sieht?" Pencils Einfluss, transformiert. *Der Forscher hat mich gelehrt, Fragen zu stellen. SIE hat mich gelehrt, auf die Antworten zu warten.* |
 | 3 | **[隐]** | **PT1** | **HERMIT-POV.** Irgendwo. Weit weg. In einer Höhle im Gebirge. Er meditiert — seit Monaten? Jahren? Zeit ist irrelevant für ihn. Dann: ein Fehlen. Wie ein Ton, der aufhört. Nicht schmerzhaft — leer. Die Welt atmet EIN. Er öffnet die Augen. Weiß es sofort. *Sie ist gegangen.* |
 | 4 | **[隐]** | **P1** | **HERMIT-POV.** Er steht auf. Zum ersten Mal seit Langem. Das Gebirge. Die Luft: dünner als vorher? Nein — KLARER. Als hätte jemand einen Filter entfernt. *Weil sie keinen mehr braucht. Weil die Welt nicht mehr GEFORMT wird. Sie IST jetzt nur noch.* Er packt — nichts. Er hat nichts. Er geht. |
-| 5 | **[徐]** | **M** | **Xu Ran spürt es.** Mitten auf einer Straße. Ein Fehlen, wo vorher ein Gewicht war. Die Welt atmet ein. Er hält inne. Steht. Weiß es. Keine Qi-Wahrnehmung — er hat keinen Kern. Etwas Tieferes. Etwas, das er nicht benennen kann. *Sie hat losgelassen.* Er weint nicht. Steht nur da. Passanten gehen vorbei. |
+| 5 | **[徐]** | **M** | **Xu Ran spürt es.** Mitten auf einer Straße. Ein Fehlen, wo vorher ein Gewicht war. Die Welt atmet ein. Er hält inne. Steht. Weiß es. Nicht durch Qi-Wahrnehmung — durch etwas Tieferes. Etwas, das er nicht benennen kann. *Sie hat losgelassen.* Er weint nicht. Steht nur da. Passanten gehen vorbei. |
 | 6 | **[徐]** | **M** | Lange. Stunde? Minuten? Die Sonne bewegt sich. Er steht. Dann: er holt die Chronik hervor. Öffnet die letzte Seite. Schreibt den letzten Satz. Er weiß ihn, ohne nachzudenken. *Und dann war Stille.* Er schließt die Chronik. |
 | 7 | **[隐]** | **P2** | **HERMIT-POV.** Er wandert. Langsam. Durch Landschaften, die ANDERS aussehen — klarer, schärfer, als hätte die Welt Konturen zurückgewonnen. *Sie hat die Welt so lange GEFORMT, dass ich vergessen habe, wie die Welt ohne sie aussieht.* Richtung: die Höhle. Yuns Höhle. |
 | 8 | **[徐]** | **PT2** | Xu Ran geht weiter. Einen Schritt. Noch einen. Die Chronik unter dem Arm. Der Wind weht. Staub auf dem Weg. *Wei ist tot. Yun ist tot. Ich lebe. Und das ist: genug.* Er geht. |
-| 9 | **[隐]** | **R** | **HERMIT-POV.** Er erreicht die Höhle. Keinen Körper. Keine Spuren. Nur: Stille. Ein Frieden, der den Ort durchzieht wie ein Duft. Und am Eingang: ein Fuchs. Bernsteinaugen. Ruhig. Wartend. *Seit wann? Seit sie starb? Oder seit sie ihn das erste Mal streichelte?* Der Hermit setzt sich. Neben den Fuchs. Schweigt. |
+| 9 | **[隐]** | **R** | **HERMIT-POV.** Er erreicht die Höhle. Keinen Körper. Keine Spuren. Nur: Stille. Ein Frieden, der den Ort durchzieht wie ein Duft. Und am Eingang: ein Fuchs. Bernsteinaugen. Ruhig. Wartend. *Seit wann? Seit sie starb? Oder seit sie ihn das erste Mal streichelte?* Neben dem Fuchs: ein Bündel. Papier, in eine wasserdichte Hülle gewickelt. Eine Notiz: *„Für den, der als nächstes kommt."* |
 
 ---
 
@@ -228,9 +221,9 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 
 | # | POV | Beat | Event |
 |---|-----|------|-------|
-| 1 | **[隐]** | **Hook** | **HERMIT-POV.** Vor der Höhle. Stille. Der Fuchs neben ihm. Bernsteinaugen, die nichts suchen. *Wie lange sitze ich schon? Ist es wichtig?* Erinnerung: B3. Sein Zwei-Finger-Gruß. Yuns abgelenkter Blick. Weis Tod. *Ich habe den Tod eines Jungen verursacht, weil ich eine Frau begrüßen wollte. Und jetzt sitze ich vor ihrem Grab, weil sie das getan hat, was ich nie konnte.* |
-| 2 | **[隐]** | **PT1** | **HERMIT-POV.** Er spricht — zum Fuchs. Oder zur Höhle. Oder zu sich selbst. „Ich bin alt. Älter als die meisten. Aber nicht wie SIE." — Pause. „Sie hat aufgehört. Aufgehört zu HALTEN." — Der Fuchs blinzelt. „Vielleicht sollte ich auch." Nicht melodramatisch — sachlich. Wie eine Rechnung, die aufgeht. *Zum ersten Mal: der Gedanke ist nicht erschreckend. Er ist friedlich.* |
-| 3 | **[隐]** | **R** | **HERMIT-POV.** Er steht auf. Der Fuchs sieht ihm nach. Oder: sieht nicht hin. Schwer zu sagen bei Füchsen. Der Hermit geht. Keine Richtung. Kein Ziel. Aber: zum ersten Mal OFFEN für Enden. **HERMIT-ARC ENDET.** Kein letzter Satz. Nur ein Gehen. Wie Xu Ran. Wie Yun. |
+| 1 | **[隐]** | **Hook** | **HERMIT-POV.** Vor der Höhle. Der Fuchs neben ihm. Die Chronik in seinen Händen. Er öffnet die erste Seite. Beerentinte. Schiefe Schrift. *„Fang an." — „Womit?" — „Erzähl mir, wer du bist."* Er liest. Langsam. Jedes Wort. Die Geschichte einer Frau, geschrieben von einem Mann, der sie nie ganz verstanden hat — und es trotzdem versuchte. |
+| 2 | **[隐]** | **PT1** | **HERMIT-POV.** Stunden vergehen. Oder Tage. Er liest. Erkennt Dinge, die Xu Ran nicht erkennen konnte — historische Referenzen, Kultivations-Terminologie, die ein Immortal+ sofort einordnet. Er ergänzt NICHTS. Liest nur. Bei einer Passage hält er inne: das Wei-Kapitel. Ein Junge. Der Zwei-Finger-Gruß. Sein EIGENER Gruß. *Ich habe den Tod eines Kindes verursacht, weil ich eine Frau begrüßen wollte. Und der Mann, der das Kind wie einen Bruder liebte, hat es aufgeschrieben. Ohne Zorn. Ohne Anklage. Nur: was war.* |
+| 3 | **[隐]** | **PT1** | **HERMIT-POV.** Er schließt die Chronik. Legt sie zurück an ihren Platz. Neben dem Fuchs. Steht auf. Bernsteinaugen sehen ihm nach. Oder: sehen nicht hin. „Sie hat aufgehört zu HALTEN", sagt er. Zum Fuchs. Oder zur Höhle. „Vielleicht sollte ich auch." Nicht melodramatisch — sachlich. Wie eine Rechnung, die aufgeht. Er geht. Keine Richtung. Kein Ziel. Aber: zum ersten Mal OFFEN für Enden. **HERMIT-ARC ENDET.** |
 | 4 | **[徐]** | **Hook** | **XU RAN.** Wochen später. Oder Monate. Ein Weg. Ein Rucksack. Ein Notizbuch. Er geht. Die Sonne scheint. Der Staub weht. Er atmet ein — WIRKLICH ein. Ohne Gewicht. Ohne Frage. *Mein ganzes Leben habe ich gefragt: WARUM? Jetzt frage ich: WOHIN? Und zum ersten Mal ist die Antwort: egal.* |
 | 5 | **[徐]** | **M** | Er kommt an einen Fluss. Setzt sich. Öffnet die Chronik. Liest die letzte Seite. Seine Schrift. Beerentinte-Flecken. Der Fuchspfoten-Abdruck auf Seite 73. *Nicht die größte Geschichte, die je geschrieben wurde. Aber die ehrlichste.* |
 | 6 | **[徐]** | **PT2** | Ein Kind kommt zum Fluss. Neugierig. „Was liest du?" — „Eine Geschichte." — „Wovon?" Xu Ran überlegt. Lange. „Von einer Frau, die so lange gelebt hat, dass sie vergessen hat, wie man stirbt." — „Und dann?" — „Dann hat sie es gelernt." Das Kind: „Seltsame Geschichte." — „Ja." — „Erzähl sie mir." |
@@ -243,9 +236,9 @@ Xiǎohú: letzte Präsenz. Der Fuchs bleibt, nachdem Xu Ran geht. Bleibt bei Yun
 - [x] Soll Xu Ran in Part 5-7 jemandem von Yun erzählen? → **Ja: einem Kind am Fluss. Letzte Szene.**
 - [x] Die Chronik: soll sie META sein? → **Bewusst offen. KÖNNTE das Manuskript der Hauptreihe sein.**
 - [x] Xu Rans Kern: Erholt er sich je? → **JA. Proximity-Heilung (exponentiell, B5-B7). Yun bemerkt es, sagt nichts, erfindet die Chronik als Vorwand damit er bleibt. Er erfährt es nie. Sein Dao braucht den Kern nicht — aber er HAT ihn.**
-- [x] Letzte Worte zwischen Yun und Xu Ran: was genau? → **„Danke." Wer es sagt: bewusst offen.**
-- [x] Pencils Arc-Ende? → **B7 Part 3. Abschied. „Die Antwort war ein Mensch." Geht. Lehrt.**
-- [x] Hermits Arc-Ende? → **B7 Part 6-7. Findet die Höhle. Den Fuchs. Denkt: „Vielleicht sollte ich auch."**
+- [x] Letzte Worte zwischen Yun und Xu Ran: was genau? → **Keine Worte. Stille. Ein Nicken. Die Stille IST der Abschied.**
+- [x] Pencils Arc-Ende? → **Kein B7-Rückkehr. Arc endete B6 (weggewarpt). Seine 200 Seiten leben in Xu Rans Chronik.**
+- [x] Hermits Arc-Ende? → **B7 Part 6-7. Findet die Höhle. Den Fuchs. LIEST DIE CHRONIK. Denkt: „Vielleicht sollte ich auch."**
 - [x] Xiǎohú am Ende? → **Wartet vor der Höhle. Der Hermit setzt sich neben ihn. Wartet auch.**
-- [ ] Xu Rans weiteres Leben: wie lange lebt er? → **Offen. Er hat keinen Kern. Er ist sterblich. Das ist der Punkt.**
+- [ ] Xu Rans weiteres Leben: wie lange lebt er? → **Offen. Er hat einen geheilten Kern, wählt aber nicht zu kultivieren. Praktisch sterblich — aus Überlebensinstinkt.**
 - [ ] Das Kind am Fluss: soll es jemand sein? → **Nein. Ein Kind. Beliebig. Universell. Die nächste Generation.**

@@ -24,7 +24,7 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 - **Ton Xu Ran:** Ruhig → provokativ → erschüttert → still
 - **Ton Pencil:** Fasziniert → erschüttert → zerbrochen → loslassend (Beginn)
 - **Umfang:** ~100k+ Wörter
-- **Ending:** Die Wahrheit ist ausgesprochen. Yun zittert. Xu Ran sitzt neben ihr. Pencil steht am Rand und VERSTEHT. Xiǎohú am Feuer.
+- **Ending:** Die Wahrheit ist ausgesprochen. Yun zittert. Xu Ran sitzt neben ihr. Pencil ist weggewarpt — seine 200 Seiten bleiben. Xiǎohú am Feuer.
 
 ---
 
@@ -38,7 +38,7 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 ### Zwei Notizbücher
 - **Das erste Notizbuch (das analytische)** liegt seit B5 Part 5 halb-offen. Die Einträge sind seltener, kürzer, zögerlicher. Anomalie-Nummern stehen da, aber er braucht länger für jede. Ganze Tage ohne Eintrag.
 - **Das zweite Notizbuch (das nächtliche)** wächst. Yun schläft — er schreibt. Rohtext. Fragmente. Fragen. *„Warum lächelt sie, wenn sie denkt, dass ich nicht hinsehe?"* Kein System. Keine Nummern. Nur: Beobachtungen eines Menschen über einen anderen Menschen.
-- **Der Spiegel-Schock (Part 2):** Wenn er Pencils 200 Seiten sieht — dieselben Kategorien, dieselbe Methodik, dieselbe Distanz — erkennt er: das erste Notizbuch IST Pencils Arbeit. Gleiche Sprache. Gleicher Blick. Nur das Motiv unterscheidet sie. Und Motive sieht man nicht auf Papier.
+- **Der Spiegel-Schock (Part 2):** Xu Ran FINDET Pencils 200 Seiten — hinterlassen an einem verlassenen Sekte-Lager nach der Radikalen-Rebellion. Dieselben Kategorien, dieselbe Methodik, dieselbe Distanz — er erkennt: das erste Notizbuch IST Pencils Arbeit. Gleiche Sprache. Gleicher Blick. Nur das Motiv unterscheidet sie. Und Motive sieht man nicht auf Papier. **WICHTIG: Pencil und Xu Ran treffen sich NIE direkt. Der Datentransfer geschieht über hinterlassene Aufzeichnungen.**
 - **Das erste Notizbuch verstummt (Part 3-4).** Nicht zeremoniell. Es liegt einfach immer öfter geschlossen. Er greift noch hin — reflexhaft — und lässt die Hand sinken. Die Konfrontation in Part 4 kommt aus BEIDEN Notizbüchern: die DATEN aus dem ersten (Anomalie-Listen, Muster, Beweise), die MENSCHLICHKEIT aus dem zweiten (was er nachts gesehen hat, was keine Nummer tragen konnte).
 - **Part 4, nach dem Twist:** Er schließt das erste Notizbuch. Das zweite bleibt offen. *„Ich brauche das hier nicht mehr"* — meint das erste. Das zweite hat gerade erst begonnen.
 
@@ -77,6 +77,7 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 - Er hat in B5 die Ernte eingestellt. Sein Fokus: VERSTEHEN.
 - Das bedeutet: Näherkommen. Beobachten. Analysieren. Nicht mehr aus 300 Metern — aus 30.
 - **Das Problem:** Je näher er kommt, desto mehr sieht er eine PERSON. Nicht ein Phänomen.
+- **Kein direkter Kontakt:** Pencil und Xu Ran treffen sich in B6 NIE. Pencils Einfluss läuft über hinterlassene Aufzeichnungen. Er beobachtet den Twist aus der Ferne — von der Baumreihe. Seine Stimme dringt nicht durch.
 
 ### Pencils eigene Proximity-Veränderung
 - Monate in Yuns Qi-Feld haben ihn VERÄNDERT. Sein Kern ist dichter. Seine Wahrnehmung schärfer.
@@ -84,9 +85,10 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 - **Ist das Proximity-Verstärkung — oder wird er manipuliert?** Er weiß es nicht. Und DAS beunruhigt ihn am meisten.
 
 ### Der Twist aus Pencils Augen
-- Er sieht das bewusste Warping. Er VERSTEHT die Daten — schneller als Xu Ran, weil er die Messungen hat.
-- Aber: Xu Ran hat das MENSCHLICHE Verständnis. Pencil hat die Daten. Zusammen: die Wahrheit.
+- Er sieht das bewusste Warping AUS DER FERNE. Er VERSTEHT die Daten — schneller als Xu Ran, weil er die Messungen hat.
+- Aber: Xu Ran hat das MENSCHLICHE Verständnis. Pencil hat die Daten. Parallel, nie vereint.
 - **Pencils Reaktion auf den Twist:** Nicht Angst. Nicht Triumph. EHRFURCHT. „Das ist keine Kultivation. Das ist keine Macht. Das ist: GLAUBE, der Realität IST." Und: *Ich habe versucht, einen Gott zu ernten.*
+- **Pencils Hinterlassenschaft:** Vor der Feld-Konfrontation (114+ Kultivatoren) lässt Pencil seine 200 Seiten in seinem Lager zurück — bewusst. Nicht als Geschenk, sondern als Akt des Loslassens. Er wird bei der Konfrontation von Yun WEGGEWARPT (konsistent mit Hauptreihe). Die Seiten überleben, weil sie physisch sind — wie Xu Rans Notizbuch.
 
 ### Sekte-Instabilität
 - Nicht alle Kultivatoren tragen Pencils Shift mit. Einige wollen zurück zur Ernte. Ergebnisse. Macht.
@@ -136,13 +138,13 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 | 1 | **[笔]** | **Hook** | **PENCIL-POV.** Dorf in der Anomalie-Zone. Die Sekte-Radikalen haben unabhängig gehandelt — greifen Zivilisten an. Als Hebel. Lian Zhuo: „NEIN." Zu spät. Er rennt. Seine eigene Sekte ist außer Kontrolle. *DAS habe ich ermöglicht. Als ich aufgehört habe, sie mit Ernte-Ergebnissen bei Laune zu halten.* |
 | 2 | **[徐]** | **Hook** | Das Dorf. Angreifer. Xu Ran greift zum Schwert — reflexhaft. Kann wenig tun. Aber sieht: Yun REAGIERT. Nicht beiläufig. Nicht mechanisch. Sie WILL, dass die Angreifer weg sind. |
 | 3 | **[徐]** | **PT1** | **DAS BEWUSSTE WARPING.** Yun WARPT. Die Angreifer VERSCHWINDEN. Nicht getötet — VERSCHOBEN. Nicht physisch verschoben — REALITÄTS-verschoben. Einen Moment sind sie da — den nächsten: weg. Niemand erinnert sich, dass sie da WAREN. Außer Xu Ran (sein Notizbuch). Und: Xiǎohú (der Fuchs hat keinen Schritt getan). |
-| 4 | **[笔]** | **PT1** | **PENCIL-POV.** Er SPÜRT es. Sein Scanner: leer. Seine Kultivatoren: „Was ist passiert?" — „Sie hat die Angreifer entfernt." — „Getötet?" — „Nein. ENTFERNT. Aus der REALITÄT." Stille. 112 Kultivatoren, die zum ersten Mal verstehen, was sie beobachtenDas ist keine Macht. Das ist SCHÖPFUNG. |
+| 4 | **[笔]** | **PT1** | **PENCIL-POV.** Er SPÜRT es. Sein Scanner: leer. Seine Kultivatoren: „Was ist passiert?" — „Sie hat die Angreifer entfernt." — „Getötet?" — „Nein. ENTFERNT. Aus der REALITÄT." Stille. 112 Kultivatoren, die zum ersten Mal verstehen, was sie beobachten. Das ist keine Macht. Das ist SCHÖPFUNG. |
 | 5 | **[徐]** | **P1** | Stille danach. Yun sieht ihre Hände an. „Was hast du gerade getan?" — „Was ich immer getan habe. Nur diesmal hab ich hingesehen." *Bewusstes Warping. Die Regeln haben sich geändert. Sie weiß, was sie tut. Sie KANN nicht mehr so tun, als wüsste sie es nicht.* |
-| 6 | **[笔]** | **P1** | **PENCIL-POV.** Er tritt an Xu Ran heran. Allein. Unbewaffnet. „Wir müssen reden." Xu Ran: „Warum sollte ich?" — „Weil ich 200 Seiten Daten habe, die DASSELBE sagen wie dein Notizbuch. Und weil meine Leute gerade rebellieren und ich Hilfe brauche." |
-| 7 | **[徐]** | **M** | Xu Ran und Pencil. Erstmals direkt. Zwei Analytiker. Dasselbe Objekt. „Du erntest sie." — „Erntete. Vergangenheit. Seit Monaten nicht mehr." — „Warum?" — „Weil ich VERSTEHEN will. Und du weißt warum." Stille. „Überzeugung formt Realität." Pencil nickt. „Meine Daten sagen dasselbe." Xu Ran sieht auf Pencils Seiten. Kategorien. Anomalie-Nummern. Korrelationstabellen. *Mein Notizbuch. Das ist MEIN Notizbuch. Gleiche Sprache. Gleicher Blick. Nur ohne die Zeile „Für den Fall, dass SIE es liest."* Er schluckt. |
-| 8 | **[笔]** | **M** | **PENCIL-POV.** Er zeigt Xu Ran seine Daten. 200 Seiten. Korrelationen. Anomalie-Muster. Xu Ran liest — schnell, konzentriert, der Ex-Kultivator. Und: versteht. „Du hast das seit MONATEN?" — „Ja." — „Und hast es nicht GESAGT?" — „Ich habe geforscht. Nicht geholfen." Ehrlich. Schmerzhaft ehrlich. Er sieht: Xu Rans Hände ZITTERN. Nicht vor Wut — vor Erkenntnis. *Er hat dasselbe gesehen wie ich. In seinem eigenen Notizbuch.* |
-| 9 | **[徐]** | **P2** | Wei-Erinnerung. „Wei. Der Junge. Wenn ihre Überzeugung Realität formt — und sie seit Jahrhunderten glaubt ‚alles was ich liebe, stirbt'—" Er spricht es nicht aus. Muss nicht. Pencil versteht. Beide verstehen. |
-| 10 | **[笔]** | **P2** | **PENCIL-POV.** Die Schuldfrage, von AUSSEN. *Wenn die Frau Welt formt — hat sie den Jungen getötet? Nicht durch Handlung, sondern durch ÜBERZEUGUNG?* Er kennt die Antwort nicht. Aber er sieht: Xu Ran KENNT sie. Und sie zerstört ihn. |
+| 6 | **[笔]** | **P1** | **PENCIL-POV.** Lian Zhuo. Allein. Die Radikalen haben sein Lager verlassen. Er sitzt vor 200 Seiten. Seine Lebensarbeit. *Wenn ich jetzt gehe — wenn die Feld-Konfrontation kommt — sind diese Seiten NICHTS.* Er legt sie in eine wasserdichte Hülle. Legt sie auf den Tisch. Geht. Lässt das Lager offen. Kein Abschied. *Jemand wird sie finden. Vielleicht der Mann mit dem Notizbuch.* |
+| 7 | **[徐]** | **M** | Xu Ran findet das verlassene Sekte-Lager. Aufgeräumt. Leer. Auf dem Tisch: eine Hülle. 200 Seiten. Er öffnet. Liest. Kategorien. Anomalie-Nummern. Korrelationstabellen. *Mein Notizbuch. Das ist MEIN Notizbuch. Gleiche Sprache. Gleicher Blick. Nur ohne die Zeile „Für den Fall, dass SIE es liest."* Er schluckt. Der Mann, den er nie getroffen hat, hat DASSELBE gesehen. |
+| 8 | **[徐]** | **M** | Er liest Pencils Seiten die ganze Nacht. 200 Seiten. Die Daten bestätigen jedes seiner eigenen Muster — und ergänzen sie. Pencil hat die MESSUNGEN, die Xu Ran nie machen konnte. Korrelation zwischen Emotionalität und Anomalie-Stärke. Die Ernte-Statistiken. Und: EIN Satz, in Pencils Handschrift am Rand: *„Sie produziert Realität. Das ist keine Hypothese mehr."* Xu Rans Hände ZITTERN. Nicht vor Wut — vor Erkenntnis. |
+| 9 | **[徐]** | **P2** | Wei-Erinnerung. Pencils Daten bestätigen seine eigene Hypothese. Und jetzt steht die Frage im Raum: „Wei. Der Junge. Wenn ihre Überzeugung Realität formt — und sie seit Jahrhunderten glaubt ‚alles was ich liebe, stirbt'—" Er spricht es nicht aus. Muss nicht. Die Daten sagen es. |
+| 10 | **[笔]** | **P2** | **PENCIL-POV.** Von der Baumreihe. Fernglas. Er sieht Xu Ran über den 200 Seiten sitzen. *Er hat sie gefunden. Er LIEST.* Die Schuldfrage, die Pencil in seine Analyse eingebettet hat — Seite 178, Korrelation „Überzeugung → Realitätsänderung → Mortalität von Nahestehenden" — Xu Ran wird dort ankommen. *Und es wird ihn zerstören. Aber er wird weiterlesen.* |
 | 11 | **[徐]** | **PT2** | Nacht. Xu Ran allein. Xiǎohú kommt. Setzt sich neben ihn. Bernsteinaugen. Als sage er: *Tu es. Morgen. Sag es ihr.* Xu Ran legt die Hand auf den Kopf des Fuchses. Wärmmer als erwartet. „Du verstehst das alles, oder?" Der Fuchs blinzelt. Das reicht. |
 | 12 | **[徐]** | **R** | Er öffnet das Notizbuch. Liest die 47 Wörter von B5. *„Für eine Sekunde sah sie alles."* Morgen sagt er ihr, was in der Sekunde war. |
 
@@ -164,9 +166,9 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 | 7 | **[笔]** | **M** | **PENCIL-POV.** Lian Zhuo sieht die Radikalen verschwinden. Wie die Dorfangreifer. Shift. Weg. Seine eigenen Leute. *Was habe ich GETAN?* Er steht am Rand. Allein mit den Loyalen. Weniger als halb so viele wie vorher. Die Sekte bricht. |
 | 8 | **[徐]** | **P2** | Die Schuldfrage. Nicht durch Xu Ran — durch Yun SELBST. Er SIEHT es: ihr Gesicht, als der Gedanke einschlägt. Bewusstes Warping. Überzeugung formt Realität. *Wenn das stimmt — wenn meine Überzeugung die Welt formt — dann hat mein Glaube „alles was ich liebe, stirbt"...* Ihre Augen werden weit. |
 | 9 | **[徐]** | **P2** | Xu Ran will etwas sagen. Findet keine Worte. Zum ersten Mal: der Analytiker hat nichts. Seine Hand geht zum ersten Notizbuch — Reflex — und sinkt. Greift stattdessen ins zweite. Aber auch dort: nichts. Kein System hilft. Keine Rohnotiz hilft. Er sitzt. Schweigt. Ist DA. Das ist alles, was er tun kann. Und zum ersten Mal: das reicht. |
-| 10 | **[笔]** | **PT2** | **PENCIL-POV.** Er kommt. Zu Yun und Xu Ran. Allein. Unbewaffnet. „Ich habe 200 Seiten, die dasselbe sagen." Legt sie auf den Boden. „Ich bin nicht hier, um zu ernten. Ich bin hier, weil die Wahrheit wichtiger ist als meine Sekte." Xu Ran sieht ihn an: *Das hätte ich von einem Feind nicht erwartet.* |
-| 11 | **[笔]** | **PT2** | Pencil spricht mit Yun. Direkt. „Ihre Überzeugung formt Realität. Das ist keine Theorie — das sind Daten. 200 Seiten. 400 Anomalien. Alle Ihre. Immer um Sie herum." Yun sieht ihn an. „Wer bist du?" — „Lian Zhuo. Jemand, der versucht hat, Sie auszubeuten, und dabei die Wahrheit gefunden hat." Ehrlich. Das erschüttert sie mehr als Xu Rans Notizbuch. |
-| 12 | **[徐]** | **R** | Nacht. Drei Menschen am Feuer. + ein Fuchs. Yun zittert. Nicht vor Kälte — vor der Frage, die sie sich selbst gestellt hat. *Habe ich Wei getötet?* Xu Ran sitzt neben ihr. Schweigt. Pencil sitzt gegenüber. Schweigt auch. Xiǎohú liegt neben Yun. Sie legt — unbewusst — die Hand auf seinen Rücken. Erste Berührung. |
+| 10 | **[笔]** | **PT2** | **PENCIL-POV.** Lian Zhuo steht in der Baumreihe. Beobachtet. Die 200 Seiten sind weg — gefunden. Er sieht Xu Ran mit Yun sprechen, die Daten ausgebreitet. *Er nutzt MEINE Arbeit. Gut. Besser als alles, was ich damit getan hätte.* Er dreht sich um. Geht. Zurück zu den Loyalen. Die Feld-Konfrontation steht bevor. |
+| 11 | **[徐]** | **PT2** | Xu Ran konfrontiert Yun mit den KOMBINIERTEN Daten — seine 100+ Anomalien UND Pencils 200 Seiten. „Da war noch jemand. Ein Forscher. Er hat DASSELBE gesehen wie ich. 200 Seiten. 400 Anomalien. Alle deine. Immer um dich herum." Yun: „Wo ist er?" — „Weg. Hat seine Arbeit hinterlassen und ist gegangen." Das erschüttert sie: ein FREMDER hat sie gesehen. Hat sie dokumentiert. Und ist gegangen, ohne zu fordern. |
+| 12 | **[徐]** | **R** | Nacht. Zwei Menschen am Feuer. + ein Fuchs. In der Baumreihe: ein Schatten, der sich entfernt. Yun zittert. Nicht vor Kälte — vor der Frage, die sie sich selbst gestellt hat. *Habe ich Wei getötet?* Xu Ran sitzt neben ihr. Schweigt. Xiǎohú liegt neben Yun. Sie legt — unbewusst — die Hand auf seinen Rücken. Erste Berührung. |
 
 ---
 
@@ -177,18 +179,18 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 
 | # | POV | Beat | Event |
 |---|-----|------|-------|
-| 1 | **[徐]** | **Hook** | Morgen. Er hat die Nacht nicht geschlafen. Das Notizbuch ist offen. Die 47 Wörter. Daneben: Pencils 200 Seiten. Zusammen: die Wahrheit. Er muss sie nur SAGEN. |
+| 1 | **[徐]** | **Hook** | Morgen. Er hat die Nacht nicht geschlafen. Das Notizbuch ist offen. Die 47 Wörter. Daneben: die gefundenen 200 Seiten. Zusammen: die Wahrheit. Er muss sie nur SAGEN. |
 | 2 | **[徐]** | **PT1** | **DIE KONFRONTATION.** Er legt BEIDE Notizbücher auf den Tisch. Das erste — dick, systematisch, voller Anomalie-Nummern. Das zweite — dünn, chaotisch, nächtliche Handschrift. „Du hast das IMMER getan. Das Vergessen — das warst DU. Die Anomalien — DU. Die Cores in dem Tal, damals — DU hast das Qi verdichtet. DU bist es. Du warst es IMMER." |
 | 3 | **[徐]** | **PT1** | Er zeigt ihr das erste Notizbuch. Seite für Seite. Anomalie für Anomalie. Die Beweise. Dann schiebt er es beiseite. Öffnet das zweite. *„Für eine Sekunde sah sie alles."* Die 47 Wörter. *„Sie hat heute gelacht. Kurz. Über nichts."* Die Nachteinträge. „Jedes Mal, wenn die Realität sich geändert hat, warst DU die Ursache. Das hier—" tippt auf das erste — „sind die Beweise. Und das hier—" tippt auf das zweite — „ist, warum es mir nicht EGAL ist." |
-| 4 | **[笔]** | **P1** | **PENCIL-POV.** Er steht am Rand. Sieht es. Hört es. Die DATEN bestätigen jedes Wort. Aber was er SIEHT, ist: ein Mann, der einer Frau sagt, dass sie Gott ist. Und die Frau ZERBRICHT. Nicht äußerlich — innerlich. Er sieht das Zittern. Die Augen. „Das ist keine Forschung mehr", murmelt er. „Das ist ein Mensch." |
+| 4 | **[笔]** | **P1** | **PENCIL-POV.** Er steht 200 Meter entfernt. In der Baumreihe. Sieht es. Hört nichts — zu weit. Aber er SIEHT: der Mann legt Papier auf den Tisch. Sein UND Pencils. Und die Frau ZERBRICHT. Nicht äußerlich — innerlich. Er sieht das Zittern. Die Augen, die sich weiten. *Er nutzt meine Daten. Und es FUNKTIONIERT. Besser als meine Ernte je funktioniert hat.* „Das ist keine Forschung mehr", murmelt er. „Das ist ein Mensch." |
 | 5 | **[徐]** | **P1** | Dreifach-Trigger. Bewusstes Warping + Xu Rans Worte + die Erinnerung, die durchbricht. Alles gleichzeitig. Yuns Kern FLAMMT — nicht wie in den Almost-Seeings. STÄRKER. KLARER. Und sie BLEIBT. Kein Blackout. Kein Reset. Der Schutz ist zu schwach. Die Wahrheit bricht durch. |
-| 6 | **[徐]** | **M** | **Was er SIEHT:** Yuns Gesicht. Erkenntnis. Nicht das kurze Flackern von B5 — ein BLEIBENDER Moment. Sie WEISS. Er sieht es in ihren Augen. Und dann: sie zittert. Weint nicht. Schreit nicht. Zittert nur. Und sagt: „Ich weiß." Zwei Worte. Die schwersten der Serie. |
+| 6 | **[徐]** | **M** | **Was er SIEHT:** Yuns Gesicht. Erkenntnis. Nicht das kurze Flackern von B5 — ein BLEIBENDER Moment. Sie WEISS. Er sieht es in ihren Augen. Und dann: sie zittert. Weint nicht. Schreit nicht. Zittert nur. Und sagt: „I am it." Drei Worte. Die schwersten der Serie. |
 | 7 | **[笔]** | **M** | **PENCIL-POV.** Der Spike. MAXIMAL. Alles um sie herum ZUCKT. Bäume biegen sich. Steine vibrieren. Der Boden unter Lian Zhuos Füßen krümmt sich — aber hält. Sein Kern SINGT — Proximity-Verstärkung auf dem Höhepunkt. Er ist stärker als je zuvor. Und: er hat Angst. *Das ist keine Kultivation. Das ist GLAUBE, der Realität IST.* |
 | 8 | **[徐]** | **P2** | Xu Ran sitzt neben ihr. Kann nichts tun. Tut das Einzige, das geht: da sein. Xiǎohú auf ihrer anderen Seite. Der Fuchs atmet ruhig. Als stabilisiere seine Anwesenheit etwas. *Anomalie #∞: der Fuchs BERUHIGT das Qi-Feld. Direkt NEBEN ihr. Das sollte unmöglich sein.* |
-| 9 | **[笔]** | **P2** | **PENCIL-POV.** Die Sekte-Radikalen sind weg. Verschoben. Es bleiben: 47 Loyale. Und er. Er steht am Rand eines Feldes, auf dem eine Frau gerade begriffen hat, dass sie die Welt erschafft. *Ich habe versucht, einen Gott zu ernten. Und ein Mensch mit einem Notizbuch hat geschafft, was 200 Seiten Daten nicht konnten: sie SEHEN lassen.* |
+| 9 | **[笔]** | **P2** | **PENCIL-POV.** Die Radikalen sind weg — von Yun verschoben. Es bleiben: 47 Loyale. Und er. Er steht in der Baumreihe, 200 Meter vom Feld, auf dem eine Frau gerade begriffen hat, dass sie die Welt erschafft. *Ich habe versucht, einen Gott zu ernten. Und ein Mensch mit einem Notizbuch — mit MEINEM Notizbuch und seinem eigenen — hat geschafft, was 200 Seiten Daten allein nicht konnten: sie SEHEN lassen.* |
 | 10 | **[徐]** | **PT2** | Stunden. Yun sitzt. Zittert. Spricht nicht. Xu Ran neben ihr. Er greift zum ersten Notizbuch. Öffnet es. Liest eine Zeile: *„Anomalie #1: Baum neben dem Lager. Vorher: 3m. Nachher: 5m."* Schließt es. Legt es in den Rucksack. Ganz unten. *Das hier brauche ich nicht mehr. SIE weiß.* Das zweite Notizbuch bleibt in seiner Hand. Offen. |
-| 11 | **[笔]** | **PT2** | **PENCIL-POV.** „Warum bleibst du?" Xu Ran zu Pencil. Der Forscher sieht ihn an: „Weil ich sehen will, was als nächstes passiert. Nicht als Harvester. Als Zeuge." — „Das klingt fast wie eine Entschuldigung." — „Ist es." |
-| 12 | **[徐]** | **R** | Nacht. Feuer. Vier Wesen: Yun, Xu Ran, Xiǎohú, Pencil. Die Wahrheit ist im Raum. Yun sagt: „Ich weiß." Und dann: „Und jetzt?" Xu Ran hat keine Antwort. Zum ersten Mal: das ist in Ordnung. |
+| 11 | **[笔]** | **PT2** | **PENCIL-POV.** Von der Baumreihe. Er sieht: Xu Ran schließt das erste Notizbuch. Legt es weg. Das zweite bleibt. Die 200 Seiten liegen daneben — seine Arbeit, in fremden Händen. *Er braucht mein Notizbuch nicht mehr. Er hat SEINS.* Und dann: *Warum bleibe ich?* — *Weil ich sehen will, was als nächstes passiert. Nicht als Harvester. Als Zeuge.* Er dreht sich um. Die Feld-Konfrontation kommt morgen. Seine letzten Stunden als Beobachter. |
+| 12 | **[徐]** | **R** | Nacht. Feuer. Drei Wesen: Yun, Xu Ran, Xiǎohú. In der Baumreihe: ein Schatten, der zuschaut und sich dann abwendet. Die Wahrheit ist im Raum. Yun sagt: „I am it." Drei Worte. Die schwersten der Serie. Und dann: „Und jetzt?" Xu Ran hat keine Antwort. Zum ersten Mal: das ist in Ordnung. |
 
 ---
 
@@ -208,8 +210,8 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 | 7 | **[徐]** | **M** | Frustration. Yun WEISS, was sie tun muss. KANN es nicht. „Du sagst mir, ich soll loslassen. Wie lässt man etwas los, das man seit Äonen FESTHÄLT? Das ist kein Griff — das sind meine KNOCHEN." Xu Ran: *Sie hat recht. Und ich habe keine Antwort.* |
 | 8 | **[笔]** | **M** | **PENCIL-POV.** Er schreibt seinen letzten Bericht. Nicht für die Sekte — für sich. *„Überzeugung = Realität. Die Frau hat es immer getan. Unbewusst. Der Schutz ist keine externe Kraft — er ist SIE. Sie kann sie nicht überschreiben, weil man sich nicht selbst überzeugen kann, DASS man sich nicht überzeugen kann."* Er legt die Feder hin. *Logik reicht nicht. Was reicht?* |
 | 9 | **[徐]** | **P2** | Xiǎohú tut etwas Seltsames: er legt sich auf Yuns Schoß. Während sie scheitert. Während sie zittert. Er: warm, ruhig, da. Yuns Hand geht zu seinem Fell. Hält sich fest. Nicht drücken — halten. *Anomalie #∞+1: Der Fuchs stabilisiert sie. Nicht durch Qi. Durch ANWESENHEIT.* |
-| 10 | **[徐]** | **PT2** | Xu Ran und Pencil sprechen. Nacht. „Sie kann es nicht erzwingen", sagt Pencil. „Nein." — „Dann muss sie es LASSEN." — „Was?" — „Nicht sterblich WERDEN. Aufhören, sich unsterblich zu HALTEN." Stille. „Das ist das Dümmste, was ich je gehört habe." — Pencil: „Oder das Klügste." |
-| 11 | **[笔]** | **R** | **PENCIL-POV.** Er geht zu seiner Fraktion. Die 47 Loyalen. „Wir gehen." — „Wohin?" — „Weg. Sie braucht uns nicht. Und wir brauchen sie nicht mehr." Er dreht sich um. Sieht Yun. Xu Ran. Den Fuchs. *Drei Wesen, die etwas tun, das größer ist als meine Daten. Und ich: gehe.* Aber: er GEHT noch nicht. Noch ein Kapitel. |
+| 10 | **[徐]** | **PT2** | Xu Ran liest Pencils Notizen. Eine Passage springt ihn an: *„Sie kann Unsterblichkeit nicht ERZWINGEN, weil Unsterblichkeit kein Zustand ist — es ist eine Überzeugung. Man überzeugt sich nicht davon, NICHT überzeugt zu sein."* Stille. *Nicht sterblich WERDEN. Aufhören, sich unsterblich zu HALTEN.* Das klingt absurd. Und: richtig. |
+| 11 | **[笔]** | **R** | **PENCIL-POV.** Die 47 Loyalen versammeln sich. Die Feld-Konfrontation steht bevor. Lian Zhuo sieht in die Richtung, wo Yun und Xu Ran lagern. *Die Seiten sind gefunden. Meine Arbeit ist getan.* Er dreht sich um. Zu seinen Leuten: „Morgen stellen wir uns. Nicht als Angreifer. Als ZEUGEN." — „Zeugen wovon?" — „Von etwas, das größer ist als unsere Sekte." |
 | 12 | **[徐]** | **R** | Xu Ran zu Yun: „Du kämpfst gegen dich. Hör auf zu kämpfen. Lass einfach — los." Yun: „Das ist das Dümmste, was du je gesagt hast." Pause. „Und das Klügste." |
 
 ---
@@ -221,15 +223,17 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 
 | # | POV | Beat | Event |
 |---|-----|------|-------|
-| 1 | **[笔]** | **Hook** | **PENCIL-POV.** Abschied. Lian Zhuo kommt zu Xu Ran. Allein. „Ich habe eine Bitte." — „Was?" — „Schreib es auf. Was auch immer passiert. Schreib es auf." Er gibt Xu Ran seine 200 Seiten. — „Warum?" — „Weil ich ein Forscher bin. Und Forscher publizieren." Fast. Fast ein Lächeln. |
-| 2 | **[徐]** | **Hook** | Xu Ran nimmt die Seiten. 200 Seiten Daten. Pencils Lebenswerk. *Das ist das Zweit-Ehrlichste, das mir jemand gegeben hat. Nach Yuns „Ich weiß."* |
-| 3 | **[笔]** | **PT1** | **PENCIL-POV.** Er geht zu Yun. „Ich habe versucht, Sie auszubeuten." — „Ich weiß." — „Es tut mir leid." — „Es war irrelevant." — „Für mich nicht." Stille. „Gehen Sie gut." — „Sie auch." Er dreht sich um. Geht. Zum ersten Mal: BEFREIT. Nicht leer — leicht. *Ich habe die größte Frage der Welt gesehen. Und die Antwort war: ein Mensch.* |
-| 4 | **[徐]** | **PT1** | Pencil geht. Die 47 Loyalen folgen. Die Sekte löst sich auf — nicht mit einem Knall, mit einem Abschied. Xu Ran sieht ihm nach. *Für einen Feind war er: anständig.* |
-| 5 | **[徐]** | **P1** | Yun beginnt es zu fügen. Nicht sterblich WERDEN. Aufhören sich unsterblich zu HALTEN. Die Richtung: die Höhle. Die erste Erinnerung. Dorthin, wo es angefangen hat. |
-| 6 | **[徐]** | **M** | Er kocht. Reis. Anbrennen lassen. „Wohin?" — „Dorthin, wo es angefangen hat." — „Und was dann?" — „Dann erzähle ich dir alles." *Alles. Jahrtausende. Und ich soll es aufschreiben.* |
-| 7 | **[徐]** | **P2** | Xiǎohú folgt. Selbstverständlich. Er geht voraus — WÄHLT den Weg. Xu Ran: *Er wusste VORHER, wohin wir gehen. Weil er die Richtung vor uns eingeschlagen hat.* Der Fuchs ist kein Begleiter. Er ist ein FÜHRER. |
-| 8 | **[徐]** | **PT2** | Nacht. Yun spricht. Zum ersten Mal VON SICH. Nicht Fragmente — zusammenhängend. „Ich erinnere mich an Kälte. An Einsamkeit. An den Moment, in dem ich entschied, dass ich NICHT sterben werde." — „Wann war das?" — „Vor allem." Stille. *Vor allem. Das heißt: VOR der Welt.* |
-| 9 | **[徐]** | **R** | Der Weg ist klar. Die Höhle. Die Chronik. Das Loslassen. Xu Ran packt den Rucksack. Notizbuch + 200 Seiten Pencil. Yun packt: nichts. Der Fuchs packt: sich selbst. |
+| 1 | **[笔]** | **Hook** | **PENCIL-POV.** Die Feld-Konfrontation. 114+ Kultivatoren — Pencils 47 Loyale + die reorganisierten Radikalen + Nachzügler. Formiert auf dem Feld. Lian Zhuo steht in der Mitte. Nicht um anzugreifen — um zu SEHEN. *Ein letztes Mal. Dann: was auch immer kommt.* |
+| 2 | **[笔]** | **Hook** | **PENCIL-POV.** Er sieht Yun. 300 Meter. Sie steht. Ruhig. Weiß, dass sie kommen. Neben ihr: Xu Ran. Der Fuchs. *Drei gegen hundert. Nein — EINS gegen hundert. Und die Eins ist die Hundert nicht wert.* Er hebt die Hand. Formation hält. „Warten." |
+| 3 | **[徐]** | **PT1** | Xu Ran sieht die Formation. 114+. Mehr als je zuvor. *Das ist nicht der dünne Mann allein. Das ist ALLES, was er hat.* Er greift zum Schwert. Yun: „Lass." Ruhig. Nicht beiläufig — BEWUSST. |
+| 4 | **[徐]** | **PT1** | **DAS WARPING.** Yun sagt: „They are not here." Nicht laut. Nicht als Befehl — als FESTSTELLUNG. Und die Realität GEHORCHT. Die 114+ Kultivatoren — alle — VERSCHWINDEN. Nicht getötet. Verschoben. 300 Meter in den Wald. Desorientiert. Harmlos. Pencil eingeschlossen. Das Letzte, was Xu Ran von ihm sieht: eine dünne Silhouette, die sich auflöst. Kein Abschied. Kein Blick. Nur: weg. |
+| 5 | **[笔]** | **P1** | **PENCIL-POV (letztes Kapitel).** Desorientierung. Wald. Blätter. Er steht — 300 Meter vom Feld. Seine Kultivatoren: verstreut, verwirrt, aber lebendig. *Sie hat uns nicht getötet. Sie hat uns ENTFERNT.* Er sieht zurück. Kann das Feld nicht finden. Der Weg ist — anders. Als wäre er nie dort gewesen. *Die Antwort war ein Mensch. Und der Mensch hat uns nach Hause geschickt.* Er geht. Die 47 Loyalen sammeln sich. Die Sekte löst sich auf — nicht mit einem Knall, mit einem Verschwinden. |
+| 6 | **[徐]** | **P1** | Stille. Das Feld ist leer. Die Formation: weg. Xu Ran steht. Yun steht. Xiǎohú sitzt. *Sie hat ALLE bewegt. In einem Satz. Ohne Zorn. Ohne Gewalt.* Xu Ran sieht auf die Stelle, wo Pencil stand. *Er hat seine 200 Seiten hinterlassen und ist gegangen, bevor sie ihn gehen ließ. Er wusste es. Auf seine Art.* |
+| 7 | **[徐]** | **M** | Yun beginnt es zu fügen. Nicht sterblich WERDEN. Aufhören sich unsterblich zu HALTEN. Die Richtung: die Höhle. Die erste Erinnerung. Dorthin, wo es angefangen hat. |
+| 8 | **[徐]** | **M** | Er kocht. Reis. Anbrennen lassen. „Wohin?" — „Dorthin, wo es angefangen hat." — „Und was dann?" — „Dann erzähle ich dir alles." *Alles. Jahrtausende. Und ich soll es aufschreiben.* |
+| 9 | **[徐]** | **P2** | Nacht. Yun spricht. Zum ersten Mal VON SICH. Nicht Fragmente — zusammenhängend. „Ich erinnere mich an Kälte. An Einsamkeit. An den Moment, in dem ich entschied, dass ich NICHT sterben werde." — „Wann war das?" — „Vor allem." Stille. *Vor allem. Das heißt: VOR der Welt.* |
+| 10 | **[徐]** | **PT2** | Xiǎohú folgt. Selbstverständlich. Er geht voraus — WÄHLT den Weg. Xu Ran: *Er wusste VORHER, wohin wir gehen. Weil er die Richtung vor uns eingeschlagen hat.* Der Fuchs ist kein Begleiter. Er ist ein FÜHRER. |
+| 11 | **[徐]** | **R** | Der Weg ist klar. Die Höhle. Die Chronik. Das Loslassen. Xu Ran packt den Rucksack. Notizbuch + 200 Seiten Pencil (gefunden im verlassenen Lager). Yun packt: nichts. Der Fuchs packt: sich selbst. |
 
 ---
 
@@ -238,7 +242,7 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 | # | POV | Beat | Event |
 |---|-----|------|-------|
 | 1 | **[徐]** | **Hook** | Morgen. Aufbruch. Drei auf dem Weg: Yun, Xu Ran, Xiǎohú. Richtung: die Höhle. |
-| 2 | **[徐]** | **PT1** | Er liest Pencils Daten im Gehen. Manche sind brillant. Manche sind kalt. „Er hat dich als ‚Objekt 1' bezeichnet." — „Das überrascht mich nicht." — „Mich schon." |
+| 2 | **[徐]** | **PT1** | Er liest Pencils Daten im Gehen. Manche sind brillant. Manche sind kalt. „Er hat dich als ‚Objekt 1' bezeichnet." — „Wer?" — „Der Mann, der die 200 Seiten hinterlassen hat. Der Forscher." — „Das überrascht mich nicht." — „Mich schon." |
 | 3 | **[徐]** | **M** | Die Landschaft verändert sich. Weniger Anomalien — als hätte Yuns Wissen etwas BERUHIGT. Oder: als hätte ihr Schutz aufgegeben, die Anomalien zu verbergen. *Die Welt wird ehrlicher. Weil SIE ehrlicher wird.* |
 | 4 | **[徐]** | **PT2** | „Warum hast du den Reis nie RICHTIG hinbekommen?" — „Ich kann nicht kochen." — „DAS konnte ich sehen. Aber WARUM? Du bist tausende Jahre alt. Reis kochen kann jedes Kind." — „Genau. Jedes Kind kann es. Ich hab es nie gelernt." — *Weil sie immer jemanden HATTE, der es tat. Und alle sind gestorben.* |
 | 5 | **[徐]** | **R** | Der Weg. Drei Wesen. Das zweite Notizbuch — das nächtliche, das menschliche. 200 Seiten Pencil-Daten (im Rucksack, neben dem ersten Notizbuch, das er nicht mehr öffnet). Ein Fuchs, der den Weg weiß. Und eine Frau, die zum ersten Mal in Äonen WEISS, was sie ist — und es verändern will. **ENDE Buch 6.** |
@@ -247,8 +251,8 @@ Xiǎohú: intensivste Präsenz. Sie trackt Sekte-Scouts, warnt durch Verhalten, 
 
 ## Offene Fragen (Buch 6)
 
-- [ ] Pencils 47 Loyale: Was wird aus ihnen? (B7: Auflösung? Neue Sekte?)
-- [ ] Pencils 200 Seiten: Integriert Xu Ran sie in seine Chronik? (Ja — B7.)
+- [x] Pencils 47 Loyale: Aufgelöst nach dem Warping. Kein B7-Callback.
+- [x] Pencils 200 Seiten: Xu Ran hat sie (gefunden im verlassenen Lager). Werden in Chronik integriert.
 - [ ] Xiǎohú als „Führer": Wie viel versteht sie bewusst? (Offen lassen — der Leser soll fragen.)
 - [ ] Die „Höhle": Welcher Ort? (Der Ort, an dem Yun zum ersten Mal entschied zu leben.)
-- [ ] Soll Pencil in B7 zurückkehren? (Ja — kurz. Sein Arc-Ende.)
+- [x] Soll Pencil in B7 zurückkehren? → Nein. Weggewarpt in B6. Kein Rückkehr-Arc.

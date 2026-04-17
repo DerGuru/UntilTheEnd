@@ -44,11 +44,11 @@ Pencils erste Kapitel zeigen den Antagonisten von innen: Lian Zhuo, Ex-Forscher-
 
 ### Phase 1: Die Asche danach (Part 1)
 - Xu Ran steht auf nach dem Leichenfeld. Geht. Weg von Yun, weg von der Siedlung.
-- Die Gift-Spur: Er findet den Ort, an dem Yun mit Gift experimentiert hat (Callback B4 Hauptreihe). Verbrannte Erde. Tote Bäume in einem perfekten Kreis. Er analysiert die Qi-Residuen: *Sie hat SICH SELBST vergiftet. Warum?*
-- Er ist ALLEIN. Zum ersten Mal seit Monaten niemand, den er beobachten kann. Die Stille ist anders als in B2 (da war sie Verlust). Hier ist sie: Zweck-losigkeit.
+- Die Gift-Spur: Er findet den Ort, an dem Yun sein Yinshi-Gift getrunken hat — das Gift, das ER als Failsafe aus einer zerstörten Apotheke (Qinzhou-Ruinen) mitgebracht und in seinem Rucksack versteckt hatte. Sie hat es ihm nachts gestohlen. Er erkennt die Reste der Phiole. Splitterfelder: Bäume zu Fragmenten, ein radiales Rissmuster am Boden, 30m Zerstörung → 70m Fällzone → 120m Risszone. *Sie hat MEIN Gift gestohlen. Gegen sich selbst. Die Waffe, die ICH getragen habe.*
+- Er ist ALLEIN. Zum ersten Mal seit Monaten niemand, den er beobachten kann. Die Stille ist anders als in B2 (da war sie Verlust). Hier ist sie: Zweck-losigkeit. Und Schuld.
 
 ### Phase 2: Die Suche (Part 2-3)
-- Monate auf der Straße. Kein Kern, wenig Geld, nur Intelligenz.
+- Monate auf der Straße. Gebrochener Kern — praktisch sterblich, aber mit Resten von Qi-Wahrnehmung. Wenig Geld, nur Intelligenz.
 - Methodik: Er kartiert Yuns Spur wie eine wissenschaftliche Untersuchung. Qi-Anomalien. Gerüchte. Geschichten über „eine Frau, in deren Nähe alles stirbt."
 - Physische Kosten: Kälte. Krankheit. Ein Sturz auf einem Bergpfad. Er heilt wie ein normaler Mensch. Das demütigt ihn immer noch.
 - **Kern-Reparatur-Versuch #1:** Er findet einen stillen Ort. Meditiert. Versucht den Kern von innen zu stabilisieren — eine Technik aus seiner Sekte-Ausbildung. Nichts. Kein Echo, kein Fluss. Wie in einen leeren Brunnen zu rufen.
@@ -71,7 +71,7 @@ Pencils erste Kapitel zeigen den Antagonisten von innen: Lian Zhuo, Ex-Forscher-
 - Die Scharmützel: Er sieht Yun kämpfen — beiläufig, dann reckless, dann mit FREUDE. Die Spirale von außen ist beängstigend.
 - **Kern-Reparatur-Versuch #3 (final):** Im Wald. Letzte Methode — Resonanz mit einem Qi-Stein, den er in einem Dorf gekauft hat. Er spürt den Kern reagieren — zum ersten Mal. Ein Puls. Hoffnung. Dann: der Puls BRICHT den Stein. Zu viel Schaden, zu instabil. Der Kern kann nicht antworten, ohne zu zerstören. Xu Ran sitzt mit den Scherben in der Hand. Trauert. Lässt los. *Nicht Akzeptanz — Erschöpfung der Optionen.*
 - Der Klippensprung: Er steht oben. Sieht sie fallen. Herz setzt aus. Sie steht unten. Unverletzt. „Mein Herz hat ausgesetzt." — Das Ehrlichste, das je jemand zu ihr gesagt hat.
-- **Meridian-Reparatur (Auslöser):** Die Schockwelle von Yuns Gift-Experiment schleudert Xu Ran gegen einen Baum — bewusstlos. Als er aufwacht, versucht Yun ihn zu heilen und stellt fest: durch seine Meridiane passt fast NICHTS mehr. Die alten Tribulations-Schäden plus die Schockwelle haben alles blockiert. Narbengewebe, Qi-Trümmer, kollabierte Kanäle. Sie beginnt, die Meridiane zu säubern — nicht als Geste, sondern als medizinische Notwendigkeit, um den Heilungsschaden überhaupt behandeln zu können. Aus seiner Perspektive: er kommt zu sich und die Frau, die seinen Kern zerstört hat, hat die Hände auf seinem Rücken. Danach: jede Nacht. Wortlos. Die Ambivalenz ist riesig.
+- **Meridian-Reparatur (Auslöser):** Die Schockwelle von Yuns Yinshi-Experiment — dem Gift, das sie nachts aus seinem Rucksack gestohlen hat — schleudert Xu Ran gegen einen Baum — bewusstlos. Als er aufwacht, versucht Yun ihn zu heilen und stellt fest: durch seine Meridiane passt fast NICHTS mehr. Die alten Tribulations-Schäden plus die Schockwelle haben alles blockiert. Narbengewebe, Qi-Trümmer, kollabierte Kanäle. Sie beginnt, die Meridiane zu säubern — nicht als Geste, sondern als medizinische Notwendigkeit, um den Heilungsschaden überhaupt behandeln zu können. Aus seiner Perspektive: er kommt zu sich und die Frau, die seinen Kern zerstört hat, hat die Hände auf seinem Rücken. Die Frau, die SEIN Gift gegen sich selbst eingesetzt hat. Danach: jede Nacht. Wortlos. Die Ambivalenz ist riesig.
 - **Meridian-Nächte (Part 6-7):** Die Routine entwickelt sich: Nacht 1-5: Schock, Steifheit, er liegt wach. Nacht 6-10: er schläft ein WÄHREND sie arbeitet — das erste echte Vertrauen. Nacht 15+: Eine Nacht fehlt (sie kämpft). Er liegt wach. Merkt: er kann nicht schlafen ohne die Wärme. Das ist keine Anomalie mehr. Das ist Abhängigkeit. Er notiert: *„Anomalie #38: Sie berührt meinen Rücken. Etwas wird wärmer. Ich weiß nicht, was sie tut. Ich frage nicht."* — Letzter Eintrag in dieser Kategorie. Danach notiert er es nicht mehr.
 
 ---
@@ -79,7 +79,7 @@ Pencils erste Kapitel zeigen den Antagonisten von innen: Lian Zhuo, Ex-Forscher-
 ## Pencils B4-Arc: Der Harvester (Part 5, ~3 Kapitel)
 
 ### Konzept
-Lian Zhuo hat die Sekte-Fraktionen fusioniert (Eiserne + Jaderne + Wurzel → eine Macht). Ex-Forscher. Signatur-Methode: **Resonanz-Talismane** — vorbereitete Talismane, die chaotisches Qi „ernten" und in nutzbare Energie umwandeln.
+Lian Zhuo hat die Fraktionen der **Nine Rivers Sect** (九河派) fusioniert (Eiserne + Jaderne + Wurzel → eine Macht). Ex-Forscher. Signatur-Methode: **Resonanz-Talismane** — vorbereitete Talismane, die chaotisches Qi „ernten" und in nutzbare Energie umwandeln. **Wichtig:** NICHT Xu Rans alte Shuhai-Sekte — eine separate Macht.
 
 ### Was er sieht
 - Er hat Daten. Berichte. Qi-Analysen von Yuns Anomalien.
@@ -96,7 +96,7 @@ Lian Zhuo hat die Sekte-Fraktionen fusioniert (Eiserne + Jaderne + Wurzel → ei
 ## Xiǎohú-Thread (Hintergrund — kein POV)
 
 ### Was der Leser sieht (aus Xu Rans Augen):
-- **Part 1:** Am Ort des Gift-Experiments: Fußspuren. Kleine Pfoten. Kein Qi-Tier in der Nähe — die Vergiftung hätte alles vertrieben. Aber: frische Spuren. *Seltsam.*
+- **Part 1:** Am Ort des Yinshi-Experiments: Fußspuren. Kleine Pfoten. Kein Qi-Tier in der Nähe — die Zerstörung hätte alles vertrieben. Aber: frische Spuren. *Seltsam.*
 - **Part 3:** Xu Ran findet Yun. Am Rand des Todeskreises: ein Fuchs. Rötlich-braun, weiße Kehle. Sitzt 20 Meter entfernt. Starrt auf Yun. Flieht, als Xu Ran sich bewegt. *Nur ein Tier.*
 - **Part 5-6:** Xu Ran sieht den Fuchs wieder — zweimal. Immer in Yuns Nähe. Immer am Rand. Denkt: *Proximity. Tiere werden von Qi-Quellen angezogen. Logisch.* Notiert es nicht. Noch nicht.
 
@@ -111,9 +111,9 @@ Lian Zhuo hat die Sekte-Fraktionen fusioniert (Eiserne + Jaderne + Wurzel → ei
 | # | POV | Beat | Event |
 |---|-----|------|-------|
 | 1 | **[徐]** | **Hook** | Xu Ran steht in Weis Garten. Morgen nach dem Leichenfeld. Die Aura klingt ab — genug, um sich zu bewegen. Drei Kräuterreihen, zwei davon falsch-korrigiert (Weis letzte Arbeit). Er nimmt den Eimer. Gießt. Das Wasser läuft durch tote Erde — die Aura hat den Boden verbrannt. Nichts wird hier wachsen. Er gießt trotzdem. Alles. Stellt den Eimer ab. Steht. Geht. **Das erste Kapitel nach Wei muss nach Wei RIECHEN.** |
-| 2 | **[徐]** | **PT1** | Die Straße. Schwert am Rücken — nutzlos, vertraut. Ein Bauer mit einem Karren. „Wohin?" — „Weg." Der Bauer nickt. Kennt das. Xu Ran merkt: er ist zum ersten Mal seit zwei Jahren ALLEIN. Kein Wei, dessen Qi-Werte er messen konnte. Kein Kern, der antwortet. Seine Hände: leer. Sein Kopf: voll. |
-| 3 | **[徐]** | **P1** | Gerüchte in einer Kneipe. „Eine Frau, die versucht hat sich zu vergiften. Die halbe Lichtung tot. Bäume schwarz." Xu Ran: „Wo?" — „Südlich. Am Flussbogen. Aber geh nicht hin — die Erde lebt nicht mehr." Er geht. Sofort. *Sie lebt. Und sie will es nicht.* |
-| 4 | **[徐]** | **P1** | Die Gift-Spur. Verbrannte Erde. Tote Bäume in einem perfekten Kreis. Der Geruch: chemisch, metallisch, ANDERS als die Todes-Aura. Das hier war absichtlich. Qi-Residuen — er spürt sie kaum (angeknackster Kern), aber die MUSTER sind lesbar. Symmetrisch. Kontrolliert. *Sie hat SICH SELBST vergiftet. Methodisch.* |
+| 2 | **[徐]** | **PT1** | Die Straße. Schwert am Rücken — nutzlos, vertraut. Ein Bauer mit einem Karren. „Wohin?" — „Weg." Der Bauer nickt. Kennt das. Xu Ran merkt: er ist zum ersten Mal seit zwei Jahren ALLEIN. Kein Wei, dessen Qi-Werte er messen konnte. Sein Kern — gebrochen, still, aber da. Wie ein toter Zahn: man spürt die Lücke. Gedämpfte Qi-Wahrnehmung: genug um Spuren zu lesen, nicht genug um irgendetwas zu TUN. |
+| 3 | **[徐]** | **P1** | Gerüchte in einer Kneipe. „Eine Frau, die versucht hat sich zu vergiften. Die halbe Lichtung tot. Bäume zersplittert wie Zahnstocher." Xu Ran: „Wo?" — „Südlich. Am Flussbogen. Aber geh nicht hin — die Erde lebt nicht mehr." Er geht. Sofort. *Sie lebt. Und sie will es nicht.* |
+| 4 | **[徐]** | **P1** | Die Gift-Spur. Splitterfelder: 30m vom Zentrum — Bäume zu Fragmenten. 70m — umgefällt. 120m — gerissen, geneigt. Am Boden: ein radiales Netz von Rissen, das vom Zentrum ausstrahlt. Der Geruch: chemisch, metallisch, ANDERS als die Todes-Aura. Das hier war absichtlich. Am Zentrum: Scherben einer Phiole. ER kennt diese Phiole — das Yinshi-Gift aus seinem Rucksack. Die Qinzhou-Apotheke. Sein Failsafe. *Sie hat es mir GESTOHLEN. Nachts. Gegen sich selbst. Das ist MEINE Schuld.* |
 | 5 | **[徐]** | **M** | Am Rand des Kreises: Fußspuren. Kleine Pfoten. Frisch — NACH der Vergiftung. *Das ist seltsam. Die Vergiftung hätte jedes Qi-Tier vertrieben. Aber die Spuren führen HINEIN, nicht hinaus.* Er notiert es nicht. Denkt kurz nach. Vergisst es. (Xiǎohú-Thread Seed #1.) |
 | 6 | **[徐]** | **P2** | Er untersucht den Kreis. Findet ein Stück Stoff — Yuns Ärmel, versengt. Sie war hier. Vor Wochen. Er folgt der Spur. Qi-Anomalien in einer Linie — schwach, aber da. Wie Fußabdrücke im Schnee, die langsam schmelzen. *Sie geht nach Südosten.* |
 | 7 | **[徐]** | **R** | Nacht. Allein. Sterne. Herberge — er schärft sein Schwert. Routine. Denkt an Wei: *Er hat immer geschnitzt, wenn er nervös war. Die Hände beschäftigen, damit der Kopf still wird.* Xu Ran merkt: er tut dasselbe. *Morgen weiter. Sie ist da draußen. Und ich will wissen, warum sie sich vergiftet hat.* |
@@ -205,7 +205,7 @@ Lian Zhuo hat die Sekte-Fraktionen fusioniert (Eiserne + Jaderne + Wurzel → ei
 | 8 | **[徐]** | **P2** | Xu Ran sieht den Fuchs. Nummer drei. Diesmal: näher. 15 Meter. Er sitzt am Wegesrand, als würde er WARTEN. Yun geht vorbei. Der Fuchs folgt — 20 Meter Abstand. Xu Ran: *Immer dasselbe Tier? Oder verschiedene?* Weiß es nicht. Notiert: „Anomalie #31: Fuchs. Drittes Mal." |
 | 9 | **[徐]** | **PT2** | Er analysiert den Resonanz-Talisman genauer. Abends, bei Kerzenlicht. Sein Kultivator-Wissen (noch da, auch ohne Kern): das Ding ist BRILLANT. Wer auch immer das gebaut hat, ist kein Krieger — ein Ingenieur. Ein Forscher. *Jemand studiert sie. Systematisch.* |
 | 10 | **[笔]** | **PT2** | **PENCIL-POV.** Lian Zhuo besucht ein Ernte-Feld. Bäume, die zu schnell gewachsen sind (Yuns Anomalie). Die Resonanz-Talismane summen — voll. Er legt die Hand auf einen. Spürt die Energie. Rein. Mächtig. Anders als alles, was Kultivation hervorbringt. „Was BIST du?" Nicht an die Frau gerichtet — an die ENERGIE. Der Forscher fragt das Phänomen. |
-| 11 | **[徐]** | **R** | Nacht. Xu Ran schreibt. Das Notizbuch wird dicker. *Anomalie #34. Kampf-Spirale: 5 Eskalationsstufen, dann abrupter Stopp. Hypothese: bewusste Selbstkontrolle — sie hat die Spirale ERKANNT. Das setzt Selbstreflexion voraus. Das ist mehr als „abgeklemmt".* Er schließt das Buch. *Jemand farmt sie. Und sie weiß es nicht. Und ich habe ein Notizbuch und kein Qi. Das reicht nicht.* |
+| 11 | **[徐]** | **R** | Nacht. Xu Ran schreibt. Das Notizbuch wird dicker. *Anomalie #34. Kampf-Spirale: 5 Eskalationsstufen, dann abrupter Stopp. Hypothese: bewusste Selbstkontrolle — sie hat die Spirale ERKANNT. Das setzt Selbstreflexion voraus. Das ist mehr als „abgeklemmt".* Er schließt das Buch. *Jemand farmt sie. Und sie weiß es nicht. Und ich habe ein Notizbuch und einen gebrochenen Kern. Das reicht nicht.* |
 
 ---
 
@@ -215,7 +215,7 @@ Lian Zhuo hat die Sekte-Fraktionen fusioniert (Eiserne + Jaderne + Wurzel → ei
 
 | # | POV | Beat | Event |
 |---|-----|------|-------|
-| 1 | **[徐]** | **Hook** | Tage nach dem Gift-Experiment. Xu Ran heilt — langsam, sterblich. Yun IST anders — nicht lebendig, aber: weniger tot. Das Gift hat etwas gelöst. Sie fragt ihn Dinge. Kleine Dinge. „Woher kommst du?" — „Shuhai-Sekte. 书海派." — „Nie gehört." — „Ist auch nicht wichtig." — „Alles ist irgendwem wichtig." |
+| 1 | **[徐]** | **Hook** | Tage nach dem Gift-Experiment. Xu Ran heilt — langsam, wie ein Sterblicher. Yun IST anders — nicht lebendig, aber: weniger tot. Das Gift hat etwas gelöst. Sie fragt ihn Dinge. Kleine Dinge. „Woher kommst du?" — „Shuhai-Sekte. 书海派." — „Nie gehört." — „Ist auch nicht wichtig." — „Alles ist irgendwem wichtig." |
 | 2 | **[徐]** | **PT1** | **Meridian-Nacht #3-5.** Routine etabliert sich. Er legt sich hin, sie kommt. Wortlos. Nacht 3: er liegt steif, kann nicht einschlafen. Nacht 4: er schläft ein WÄHREND sie arbeitet. Wacht auf, ihre Hände sind weg. Es ist warm, wo sie lagen. Nacht 5: er wartet darauf. Merkt, dass er wartet. *Das ist keine Anomalie. Das ist Gewohnheit.* |
 | 3 | **[徐]** | **PT1** | Er kocht. Sie isst. Routiniert jetzt. Nicht begeistert — aber sie ISST. „Du machst den Reis zu weich." — „Dann koch selbst." — „..." Stille, die fast warm ist. |
 | 4 | **[徐]** | **P1** | Lu Sen-Moment. (Easter-Egg, Callback Hauptreihe.) Auf der Straße: ein Kultivator. Jung, stark, mit einer Aura wie ein Gewitter. Yun sieht ihn. Bleibt stehen. Sieht ihm nach. Lange. Xu Ran: „Kennst du ihn?" — „Nein." Lüge. Das spürt er. Sie kennt ihn — und lässt ihn in Ruhe. *Warum greifst du nicht ein? Warum lässt du DIESEN gehen, wenn du ANDERE suchst?* |

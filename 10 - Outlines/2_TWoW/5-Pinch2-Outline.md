@@ -50,7 +50,7 @@ Beide beobachten dieselbe Frau. Beide schreiben auf. Der eine aus Fürsorge, der
 - Xu Ran SIEHT alle drei Momente. Beim dritten Mal schreit er sie an.
 - „DU HAST ES GERADE GEWUSST. Du HATTEST es. Und dann — weg. WAS TUT DAS MIT DIR?"
 - Sie starrt ihn an. Leer. „Was hatte ich?"
-- Er gibt auf. Fast. Schreibt es auf. 47 Wörter. Die wichtigsten, die er je geschrieben hat.
+- Er gibt auf. Fast. Dann sagt Yun etwas — leise, fast nebenbei, als dächte sie laut. Worte, die SIE nicht einordnen kann. Die Xu Ran aber SOFORT versteht. Er schreibt es auf. Ihre Worte zuerst. Dann seine Analyse. Mehr als 47 Wörter — aber die 47, die sie gesagt hat, sind die wichtigsten, die er je aufgeschrieben hat.
 
 ### Das Zögern (ab Part 4)
 - Nach dem Schrei: er öffnet das Notizbuch. Stift. Und: nichts. Zum ersten Mal passt das, was er gesehen hat, in keine Kategorie. Kein Anomalie-Nummer. Kein Schema.
@@ -78,7 +78,7 @@ Beide beobachten dieselbe Frau. Beide schreiben auf. Der eine aus Fürsorge, der
 ## Pencils B5-Arc: Der Forscher
 
 ### Aufstieg
-- Lian Zhuo hat die Sekte komplett fusioniert. Nicht durch Gewalt — durch ERGEBNISSE.
+- Lian Zhuo hat die **Nine Rivers Sect** (九河派) komplett fusioniert. Nicht durch Gewalt — durch ERGEBNISSE.
 - Seine Resonanz-Talismane FUNKTIONIEREN. Die Anomalie-Ernte macht die Sekte stärker als Kampf es je könnte.
 - Er expandiert: mehr Ernte-Felder, mehr Talismane, systematische Kartierung von Yuns Anomalien.
 - **Sein Problem:** Er versteht die Anomalien nicht. Sie gehorchen keiner bekannten Physik. Er kann sie ERNTEN, aber nicht ERKLÄREN.
@@ -90,7 +90,7 @@ Beide beobachten dieselbe Frau. Beide schreiben auf. Der eine aus Fürsorge, der
 - Er zwingt sich zurück. Funktioniert. Vorerst.
 
 ### Konfrontation (Part 3)
-- Die Sekte tritt Yun und Xu Ran gegenüber. 15 Kultivatoren + Pencil.
+- Die Nine Rivers Sect tritt Yun und Xu Ran gegenüber. 6 Kultivatoren + Pencil.
 - Pencil sieht Xu Ran: kernloser Mann mit Notizbuch. Verachtenswert? Nein — INTERESSANT. Zwei Beobachter, die dasselbe beobachten.
 - Kein Kampf. Pencil zieht ab. „Wir haben Zeit." Weil die Anomalien weiter fließen. Weil die Ernte weitergeht. Egal was Yun tut.
 
@@ -156,7 +156,7 @@ Beide beobachten dieselbe Frau. Beide schreiben auf. Der eine aus Fürsorge, der
 | # | POV | Beat | Event |
 |---|-----|------|-------|
 | 1 | **[笔]** | **Hook** | **PENCIL-POV.** Entscheidung: direkte Beobachtung. Nicht Angriff — ZEIGEN. Er will sehen, wie sie reagiert. 15 Kultivatoren auf dem Bergrücken. Formiert. Geduldig. Er steht in der Mitte. „Warten." |
-| 2 | **[徐]** | **Hook** | Der Bergrücken. 112 Kultivatoren (Xu Ran zählt: „Mehr als vorher.") Formiert. Organisiert. In der Mitte: ein dünner Mann. Eckig. Präzise gezeichnet. Knochenstruktur wie für Effizienz designed. *Das ist der Ingenieur. Der Resonanz-Talisman-Bauer.* |
+| 2 | **[徐]** | **Hook** | Der Bergrücken. 7 Kultivatoren (Xu Ran zählt: „Sieben. Präzise. Kein Overkill — ein Einsatzteam.") Formiert. Organisiert. In der Mitte: ein dünner Mann. Eckig. Präzise gezeichnet. Knochenstruktur wie für Effizienz designed. *Das ist der Ingenieur. Der Resonanz-Talisman-Bauer.* |
 | 3 | **[笔]** | **PT1** | **PENCIL-POV.** Er sieht Yun zum ersten Mal aus der Nähe. Von Angesicht zu Angesicht — 200 Meter. Die Qi-Signatur: nicht messbar. Nicht „zu stark" — NICHT DA. Als wäre sie ein Loch in der Welt. Und gleichzeitig: alles. Ein Mann neben ihr. Kernlos. Hält ein Messer. Lächerlich. Und: mutig. *Wer BIST du?* Nicht an die Frau — an den Mann. |
 | 4 | **[徐]** | **PT1** | Xu Ran sieht Pencil. Erkennt den Typ: Forscher, nicht Krieger. Die Augen: analysierend, nicht feindlich. *Er sieht sie an wie ICH. Nur: mit hundert Leuten hinter sich.* |
 | 5 | **[笔]** | **P1** | **PENCIL-POV.** Er hebt eine Hand. Kleine Geste. „Wir gehen." Kein Kampf. Kein Angriff. Er hat gesehen, was er sehen wollte: dass sie REAL ist. Dass die Daten stimmen. Dass die Anomalien von einem WESEN kommen, nicht von einer Quelle. *Das ändert alles.* Weil ein Wesen entscheiden kann. Und Entscheidungen sind unberechenbar. |
@@ -166,7 +166,7 @@ Beide beobachten dieselbe Frau. Beide schreiben auf. Der eine aus Fürsorge, der
 | 9 | **[笔]** | **P2** | **PENCIL-POV.** Zurück im Lager. Berichte auswerten. Der Anomalie-Boost nach der Konfrontation: 340% über Normal. *Ihre EMOTIONALE Reaktion erzeugt mehr Anomalien. Konfrontation = Ernte-Boost.* Er will es NICHT ausnutzen. Noch nicht. Stimmt das? Er fragt sich selbst. Keine Antwort. |
 | 10 | **[徐]** | **P2** | Nacht. Xu Ran zu Yun: „Jemand erntet deine Anomalien. Der dünne Mann auf dem Berg — er hat Resonanz-Talismane. Jedes Mal, wenn du die Realität änderst, produzierst du Energie. Er SAMMELT sie." Yun: „Lass ihn." — „Was?" — „Lass ihn. Es ist irrelevant." *Du hälst ALLES für irrelevant. Dich eingeschlossen.* |
 | 11 | **[徐]** | **PT2** | Ruinen-Expedition. Tiefere Kammer. Alte Aufzeichnungen — ein Tagebuch. Yun liest. Hält inne. Ihre Hände ZITTERN. Xu Ran: „Was steht da?" — Stille. Dann: „Nichts." Sie legt es zurück. Aber er sieht: ihre Augen sind nass. *Sie hat etwas gelesen, das sie KENNT.* Er geht zurück, wenn sie schläft. Liest. Es steht: *„Ich erschuf etwas. Nicht mit Händen — mit Überzeugung."* |
-| 12 | **[徐]** | **R** | Er notiert es. 47 Wörter. Die wichtigsten, die er je geschrieben hat. *„Überzeugung erschafft Realität. Sie ist nicht Opfer eines Systems. SIE erschafft das System. Unbewusst. Und ihr Selbstschutz löscht jede Erkenntnis, die zu nah kommt."* |
+| 12 | **[徐]** | **R** | Er notiert es. Erst Yuns eigene Worte — exakt, wie sie sie zwischen dem dritten Almost-Seeing und dem Vergessen geflüstert hat. Dann seine Analyse. Mehr als 47 Wörter insgesamt, aber IHRE 47 Wörter sind der Kern. *„Überzeugung erschafft Realität. Sie ist nicht Opfer eines Systems. SIE erschafft das System. Unbewusst. Und ihr Selbstschutz löscht jede Erkenntnis, die zu nah kommt."* |
 
 ---
 
