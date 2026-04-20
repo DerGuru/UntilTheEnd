@@ -5,15 +5,20 @@ OBJ-39: Option A
 
 OBJ-44: Das kann Off-Screen passiert sein. Yun geht nicht noch mal zum Haus zurück?
 
-OBJ-25: Der Kompromiss ist gut. 
+OBJ-46: Die Suche begann in TWOW Buch 3 (oder schon in 2) er ist ja bereits im Dorf. Also kann er am Anfang von B4 nicht mehr suchen. Anpassen. Wie veil Content geht damit verloren?
 
-OBJ-27: Worte die von Yun tatsächlich so ausgesprochen wurden sollten in der Szene auch identisch bleiben.
+OBJ-47: Xu Ran kennt das Gift auch. Er hat es mit, für den Fall, dass Yun hostile ihm gegenüber auftritt. Aber er hat es aus einer Schriftrolle seiner Sektle. Irgengdwo im Archiv tief vergraben. Er ist ja darin unterwegs gewesen um nach Yun zu suchen.
 
-OBJ-29: Sofern Xu Ran in der Originalserie zeit allein hätte, gerne Option 3 ansonsten Option 2.
+OBJ-50: Xiaohu beobachtet aus sicherer Entfernung. Unentdeckt. Ein Fuchs, der sich tarnt und nicht gesehen werden will.
 
-OBJ-31: Folge der Empfehlung
+OBJ-51: Zeige mir die Szene, eventuell kann man sie drin lassen.
 
-OBJ-37: Nach OBJ-25 findet Xu Ran die 200 Seite. Wenn The Pencil natürlich weggewarpt wurde, dann kann er das Ergebnis am Ende auch nicht lesen. Eventuell bekommt es statt dessen der Hermit zu lesen?
+OBJ-54: siehe OBJ-50
+
+OBJ-56: Option B
+
+OBJ-57: wenn der Fund der 200 Seiten nach Mirrors - 15 passiert, kann man das in UTE einbauen
+
  
 
 

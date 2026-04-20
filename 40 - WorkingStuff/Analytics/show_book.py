@@ -1,28 +1,38 @@
 """Show per-chapter views for a specific book."""
-import re, sys
+import re, sys, json
 from pathlib import Path
 
 html = Path(sys.argv[1]).read_text(encoding='utf-8')
-m = re.search(r'aria-label="Views".*?fill="none" fill-opacity="0"><path d="(.*?)"', html, re.DOTALL)
-points = re.findall(r'[LM]\s*([\d.]+),([\d.]+)', m.group(1))
-values = [round((220 - float(y)) * 1200 / 220, 1) for x, y in points]
-while len(values) > 1 and values[0] == values[1]:
-    values.pop(0)
+
+# Extract real view counts from readerActivityData JSON
+m = re.search(r'var readerActivityData = (\[.*?\]);', html)
+data = json.loads(m.group(1))
+
+# Group by book
+BOOK_NAMES = ["Embers", "Roots", "Silence", "Echoes", "Fractures", "Mirrors", "Clouds"]
+books = {}
+for ch in data:
+    title = ch['title']
+    bname = title.rsplit(' - ', 1)[0].strip()
+    num = title.rsplit(' - ', 1)[1].strip()
+    if bname not in books:
+        books[bname] = []
+    books[bname].append((num, ch['views']))
 
 book = sys.argv[2] if len(sys.argv) > 2 else "embers"
-BOOKS = {
-    "embers": (0, 66), "roots": (66, 137), "silence": (137, 198),
-    "echoes": (198, 255), "fractures": (255, 304), "mirrors": (304, 318),
-}
-start, end = BOOKS.get(book.lower(), (0, 66))
-end = min(end, len(values))
+bkey = next((b for b in books if b.lower() == book.lower()), None)
+if not bkey:
+    print(f"Book '{book}' not found. Available: {list(books.keys())}")
+    sys.exit(1)
 
-print(f"{book.title()} chapters {start+1}-{end}:")
+chapters = books[bkey]
+ch1_views = data[0]['views']  # Embers Ch1 for global %
+
+print(f"{bkey} ({len(chapters)} chapters, {sum(v for _,v in chapters):,} total views, avg {sum(v for _,v in chapters)/len(chapters):.0f}):")
 prev = None
-for i in range(start, end):
-    v = values[i]
-    pct = v / values[0] * 100
-    delta = f" ({v - prev:>+.0f})" if prev else ""
+for num, v in chapters:
+    pct = v / ch1_views * 100
+    delta = f" ({v - prev:>+d})" if prev is not None else ""
     bar = "#" * int(v / 20)
-    print(f"  Ch {i-start+1:>2d}: {v:>6.0f}  ({pct:>5.1f}% of ch1){delta:>8s}  {bar}")
+    print(f"  Ch {num:>3}: {v:>5}  ({pct:>5.1f}% of E01){delta:>8s}  {bar}")
     prev = v
