@@ -48,3 +48,32 @@ Geschätzte Verteilung basierend auf Community-Erfahrung (~300.000+ Fictions auf
 - AVG Views/Chapter von 250+ bei 315 Kapiteln ist <0.5% aller Fictions.
 - Cultivation/XianXia hat generell niedrigere Follow-Raten als LitRPG/System-Fictions.
 - Ratings kommen hauptsächlich von Lesern, die caught up sind oder droppen — bei 315+ Kapiteln dauert die Rating-Welle Wochen.
+
+## Trending-Dauer
+
+| Dauer | Einordnung | Häufigkeit |
+|-------|------------|------------|
+| <3 Tage | Kurzer Spike | ~30% der Trending-Einträge |
+| 5-7 Tage | Median | ~35% |
+| 2-3 Wochen | Guter Lauf | ~25% |
+| 4-6 Wochen | Außergewöhnlich | ~8% |
+| 2-3 Monate | Legendär | ~2% (Beware of Chicken, DCC etc.) |
+
+**Einflussfaktoren:**
+- **Chapter-Frequenz** — regelmäßige Updates halten den Score oben. Pausen = Abstieg.
+- **Engagement-Rate** — Follows/Favorites/Ratings pro Zeiteinheit (nicht absolut).
+- **Backlog-Größe** — mehr Views pro neuem Leser = höherer Trending-Score.
+- **Konkurrenz** — weniger neue Launches gleichzeitig = leichter oben bleiben.
+
+**UTE:** Seit 6. April im Trending (Tag 15+). Überdurchschnittlich. Backlog von 320+ Kapiteln ist ein seltener Vorteil — jeder neue Trending-Leser generiert 50-300 Views statt 5-10 wie bei frischen Fictions. Verbleibend: 26 Mirrors + 66 Clouds = 92 Kapitel.
+
+## Referrer-Verteilung (UTE, Stand 21. April 2026)
+
+| Quelle | User | Sessions | Sessions/User |
+|--------|------|----------|---------------|
+| Trending | 597 | 721 | 1.2 |
+| Google | 247 | 458 | 1.9 |
+| Homepage | 218 | 828 | 3.8 |
+| Rising Stars | 38 | 54 | 1.4 |
+| Shoutout Swap | 3 | — | — |
+| **Total** | **~1.103** | **~2.061** | |
