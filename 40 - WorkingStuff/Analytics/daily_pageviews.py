@@ -1,65 +1,85 @@
-"""Reconstruct daily page views from SVG chart in General Analytics HTML."""
+"""Reconstruct daily page views from SVG chart in General Analytics HTML.
+
+Uses x-axis label positions for correct date mapping and tooltip for calibration.
+Bar heights are proportional to views; one tooltip gives the scale factor.
+"""
 from pathlib import Path
 import re, sys
 from datetime import datetime, timedelta
 
 html = Path(sys.argv[1]).read_text(encoding='utf-8')
 
-# Find the Page Views chart section
-m = re.search(r'aria-label="Page Views"(.*?)(?:aria-label="|$)', html, re.DOTALL)
-pv_section = m.group(1)
+# --- 1. Extract bars (position + height) from Page Views SVG ---
+pv_start = html.find('aria-label="Page Views"')
+next_chart = html.find('aria-label="', pv_start + 30)
+if next_chart == -1:
+    next_chart = len(html)
+pv_section = html[pv_start:next_chart]
 
-# Extract bar positions (transform="translate(x,y)")
-items = re.findall(r'role="listitem"\s*transform="translate\(([\d.]+),([\d.]+)\)"', pv_section)
-points = [(float(x), float(y)) for x, y in items]
-points.sort()
+bars = re.findall(
+    r'role="listitem"\s*transform="translate\(([\d.]+),([\d.]+)\)"[^>]*>'
+    r'.*?height="([\d.]+)"',
+    pv_section, re.DOTALL
+)
+bars = [(float(x), float(y), float(h)) for x, y, h in bars]
+bars.sort()
+n = len(bars)
 
-# Calibration: find tooltip value
-tooltip_match = re.search(r'(\d{4}-\d{2}-\d{2}): ([\d,]+)', html)
-cal_date = datetime.strptime(tooltip_match.group(1), '%Y-%m-%d')
-cal_views = int(tooltip_match.group(2).replace(',', ''))
+# --- 2. Map bar x-positions to dates via x-axis labels ---
+extended = html[pv_start:pv_start + 200000]
 
-# X-axis date labels
-date_labels = re.findall(r'<tspan>((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d+)</tspan>', html)
+# Find each date tspan, then look backwards for the nearest translate(X,0)
+date_re = re.compile(r'<tspan>((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d+)</tspan>')
+translate_re = re.compile(r'translate\(([\d.]+),0\)')
 
-# Determine start date from x-axis labels or infer from count
-# If 31 points, likely covers 31 days ending ~today
-n = len(points)
-# The last point is the most recent day
-end_date = datetime(2026, 4, 19)  # approximate
-start_date = end_date - timedelta(days=n-1)
+axis_labels = []
+for dm in date_re.finditer(extended):
+    chunk = extended[max(0, dm.start() - 300):dm.start()]
+    translates = translate_re.findall(chunk)
+    if translates:
+        x = float(translates[-1])
+        month_day = datetime.strptime(f"2026 {dm.group(1)}", "%Y %b %d")
+        axis_labels.append((x, month_day))
 
-# Find calibration point index
-cal_index = (cal_date - start_date).days
-if 0 <= cal_index < n:
-    cal_y = points[cal_index][1]
+if len(axis_labels) >= 2:
+    # Use first and last label for linear x→date mapping
+    lx1, ld1 = axis_labels[0]
+    lx2, ld2 = axis_labels[-1]
+    px_per_day = (lx2 - lx1) / (ld2 - ld1).days
+
+    # Compute bar[0] date
+    days_from_label1 = (bars[0][0] - lx1) / px_per_day
+    start_date = ld1 + timedelta(days=round(days_from_label1))
 else:
-    # Try adjusting start date
-    for offset in range(-5, 6):
-        test_start = start_date + timedelta(days=offset)
-        idx = (cal_date - test_start).days
-        if 0 <= idx < n:
-            start_date = test_start
-            cal_index = idx
-            cal_y = points[cal_index][1]
-            break
+    sys.exit("Could not find enough x-axis labels for date mapping.")
 
-# Chart bottom (baseline) - highest y value + small margin
-chart_bottom = max(y for _, y in points) + 1.0
-scale = cal_views / (chart_bottom - cal_y)
+# --- 3. Calibration from tooltip ---
+tooltip_match = re.search(r'(\d{4}-\d{2}-\d{2}): ([\d,]+)', html)
+if tooltip_match:
+    cal_date = datetime.strptime(tooltip_match.group(1), '%Y-%m-%d')
+    cal_views = int(tooltip_match.group(2).replace(',', ''))
+    cal_index = (cal_date - start_date).days
+    if not (0 <= cal_index < n):
+        sys.exit(f"Calibration date {cal_date.date()} outside chart range "
+                 f"({start_date.date()} .. {(start_date + timedelta(days=n-1)).date()})")
+    cal_height = bars[cal_index][2]
+    scale = cal_views / cal_height  # views per pixel of bar height
+else:
+    sys.exit("No tooltip found for calibration.")
 
-print(f"Chart: {n} days, start {start_date.strftime('%Y-%m-%d')}, calibration: {cal_date.strftime('%Y-%m-%d')}={cal_views} at index {cal_index}")
-print(f"Scale: {scale:.1f} views/pixel, chart_bottom={chart_bottom:.1f}")
+# --- 4. Output ---
+end_date = start_date + timedelta(days=n - 1)
+print(f"Chart: {n} days, {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
+print(f"Calibration: {cal_date.strftime('%Y-%m-%d')} = {cal_views:,} (bar[{cal_index}], h={cal_height:.1f})")
+print(f"Scale: {scale:.2f} views/px")
 print()
 
 total = 0
-for i, (x, y) in enumerate(points):
+for i, (x, y, h) in enumerate(bars):
     date = start_date + timedelta(days=i)
-    views = max(0, (chart_bottom - y) * scale)
+    views = round(h * scale)
     total += views
-    marker = ""
-    if i == cal_index:
-        marker = "  <- calibration"
-    print(f"  {date.strftime('%Y-%m-%d %a')}: {views:>6,.0f}{marker}")
+    marker = "  <- tooltip" if i == cal_index else ""
+    print(f"  {date.strftime('%Y-%m-%d %a')}: {views:>6,}{marker}")
 
-print(f"\n  Total: {total:>6,.0f}")
+print(f"\n  Total: {total:>6,}")
