@@ -45,7 +45,7 @@ Pencils erste Kapitel zeigen den Antagonisten von innen: Lian Zhuo, Ex-Forscher-
 ### Phase 1: Der Garten (Part 1)
 - Xu Ran steht auf nach dem Leichenfeld. Die Aura klingt ab — gerade genug, um sich zu bewegen.
 - Er geht zu Weis Haus. Weis Garten: drei Kräuterreihen, zwei davon falsch-korrigiert (Weis letzte Arbeit). Er nimmt den Eimer. Gießt — durch tote Erde. Nichts wird hier wachsen. Er gießt trotzdem.
-- Im Haus: durchwühlt Schubladen. Findet Weis geschnitzten Löffel, eine Zeichnung (Wei, Yun, Strichmännchen), einen kleinen Stein, den Wei als „Glücksstein" behalten hat. Er nimmt den Stein. Steckt ihn ein. **[→ TODO: Diesen Gegenstand in B6 an Yun geben, kurz vor Mirrors Ch 26 (Fluss-Szene). Verstärkt „I am it"-Moment.]**
+- Im Haus: durchwühlt Schubladen. Findet Weis geschnitzten Löffel, eine Zeichnung (Wei, Yun, Strichmännchen), einen kleinen Stein, den Wei als „Glücksstein" behalten hat. Er nimmt den Stein. Steckt ihn ein. **[→ Payoff in B6 Midpoint #1 (6-5-01-29): Xu Ran gibt ihr den Stein. Sie nimmt ihn. Geht zur Klippe. Wirft ihn. UTE: „I threw a stone. It fell." — SIE HAT WEIS STEIN GEWORFEN, ohne es zu wissen.]**
 - Er ist ALLEIN. Zum ersten Mal seit Monaten niemand, den er beobachten kann. Die Stille ist anders als in B2 (da war sie Verlust). Hier ist sie: Zweck-losigkeit. Und Schuld.
 - Er geht zum Todeskreis. Findet Yun — auf einer freiliegenden Wurzel sitzend. Augen offen. Leer. Um sie herum: drei Meter tote Erde. Er steht am Rand. Wartet.
 
@@ -92,9 +92,9 @@ Lian Zhuo hat die Fraktionen der **Nine Rivers Sect** (九河派) fusioniert (Ei
 ## Xiǎohú-Thread (Hintergrund — kein POV)
 
 ### Was der Leser sieht (aus Xu Rans Augen):
-- **Part 1:** Am Ort des Yinshi-Experiments: Fußspuren. Kleine Pfoten. Kein Qi-Tier in der Nähe — die Zerstörung hätte alles vertrieben. Aber: frische Spuren. *Seltsam.*
-- **Part 3:** Xu Ran findet Yun. Am Rand des Todeskreises: ein Fuchs. Rötlich-braun, weiße Kehle. Sitzt 20 Meter entfernt. Starrt auf Yun. Flieht, als Xu Ran sich bewegt. *Nur ein Tier.*
-- **Part 5-6:** Xu Ran sieht den Fuchs wieder — zweimal. Immer in Yuns Nähe. Immer am Rand. Denkt: *Proximity. Tiere werden von Qi-Quellen angezogen. Logisch.* Notiert es nicht. Noch nicht.
+- **Part 1-2:** Am Todeskreis: Fußspuren am Rand. Kleine Pfoten. Kein Qi-Tier in der Nähe — die Todesaura hätte alles vertrieben. Aber: frische Spuren. *Seltsam.*
+- **Part 3-4:** Auf der Wanderschaft: ein Fellbüschel an einem Dornbusch. Rötlich-braun. Daneben: regelmäßige Pfotenabdrücke. *Dasselbe Tier? Es folgt derselben Route.*
+- **Part 5-6:** Nach dem Gift-Experiment: die Spuren sind DICHTER. Näher. Regelmäßiger. Als wäre etwas angezogen worden. Er notiert: „Anomalie #14: Pfoten." Mehr nicht.
 
 ---
 
@@ -107,7 +107,7 @@ Lian Zhuo hat die Fraktionen der **Nine Rivers Sect** (九河派) fusioniert (Ei
 | # | POV | Beat | Event |
 |---|-----|------|-------|
 | 1 | **[徐]** | **Hook** | Xu Ran steht in Weis Garten. Morgen nach dem Leichenfeld. Die Aura klingt ab — genug, um sich zu bewegen. Drei Kräuterreihen, zwei davon falsch-korrigiert (Weis letzte Arbeit). Er nimmt den Eimer. Gießt. Das Wasser läuft durch tote Erde — die Aura hat den Boden verbrannt. Nichts wird hier wachsen. Er gießt trotzdem. Alles. Stellt den Eimer ab. Steht. **Das erste Kapitel nach Wei muss nach Wei RIECHEN.** |
-| 2 | **[徐]** | **PT1** | Im Haus. Staub. Weis Sachen — ein geschnitzter Löffel, eine Zeichnung (Strichmännchen: Wei, Yun, Sonne), ein kleiner Stein. Der „Glücksstein", den Wei am Fluss gefunden hat. Xu Ran steht vor dem Tisch. Nimmt den Stein. Steckt ihn ein. Nicht Diebstahl — Bewahrung. *Der Junge hat Dinge gehabt. Wenige. Aber sie waren SEINE.* **[→ TODO: Diesen Stein in B6 an Yun geben, kurz vor Mirrors Ch 26 (Fluss-Szene). Verstärkt „I am it"-Moment.]** |
+| 2 | **[徐]** | **PT1** | Im Haus. Staub. Weis Sachen — ein geschnitzter Löffel, eine Zeichnung (Strichmännchen: Wei, Yun, Sonne), ein kleiner Stein. Der „Glücksstein", den Wei am Fluss gefunden hat. Xu Ran steht vor dem Tisch. Nimmt den Stein. Steckt ihn ein. Nicht Diebstahl — Bewahrung. *Der Junge hat Dinge gehabt. Wenige. Aber sie waren SEINE.* **[→ Payoff: B6 Midpoint #1 (6-5-01-29). Er gibt ihr den Stein. Sie wirft ihn von der Klippe. „I threw a stone. It fell."]** |
 | 3 | **[徐]** | **P1** | Die Straße. Schwert am Rücken — nutzlos, vertraut. Richtung Wald. Er weiß, wo Yun ist — er hat sie zuletzt am Todeskreis gesehen (B3 Resolution). Sie ist nicht gegangen. Sein Kern — Nascent Soul, gerissen, gedämpft. Qi-Wahrnehmung wie durch Milchglas: genug um Spuren zu lesen, nicht genug um irgendetwas zu TUN. |
 | 4 | **[徐]** | **M** | Er findet sie. Auf einer freiliegenden Wurzel sitzend. Rücken gegen den Stamm. Augen offen. Leer. Um sie herum: der Todeskreis. Drei Meter tote Erde. Braunes Laub. Kein einziges Insekt. Er setzt sich. Am Rand. Drei Meter Asche zwischen ihnen. Wie am Ende von B3. Nur: jetzt wartet er nicht aus Entscheidung. Jetzt wartet er, weil es nichts anderes gibt. |
 | 5 | **[徐]** | **R** | Nacht. Allein neben dem Todeskreis. Sterne. Er denkt an Wei: *Er hat immer geschnitzt, wenn er nervös war. Die Hände beschäftigen, damit der Kopf still wird.* Xu Ran zieht sein Schwert. Schärft es. Routine. Den Stein in der Tasche spüren. *Morgen rede ich. Ob sie antwortet oder nicht.* |
@@ -126,12 +126,12 @@ Lian Zhuo hat die Fraktionen der **Nine Rivers Sect** (九河派) fusioniert (Ei
 | 4 | **[徐]** | **P1** | Tag 3. Er erzählt von Wei. Was er gesehen hat. Das Qi, das zu hell leuchtete. Die Hände, die zitterten. Den Stabilitäts-Zähler, der nie über Tag 4 kam. Und: „Er hat am Ende gelächelt. Nicht glücklich. Klar. So klar, wie ich nie war." Etwas BRICHT in ihr. Kein Lächeln. Kein Weinen. Nur: ein Riss. Eine Mikrobewegung — die Finger, die sich um die Wurzel spannen. |
 | 5 | **[徐]** | **P1** | Tag 5. Sie bewegt sich. Steht auf. Zum ersten Mal seit — wie lange? Er weiß es nicht. Sie steht. Sieht ihn an. Durch ihn. „Wer bist du?" — „Xu Ran." — „Ich weiß." Stille. „Warum bist du hier?" — „Weil du die interessanteste Antwort bist, die es gibt." Sie dreht sich um. Geht. Er folgt. |
 | 6 | **[徐]** | **M** | Auf dem Weg: er sieht ihren Rücken. Schmal. Müde. Keine Qi-Aura — oder: eine, die so groß ist, dass sie unsichtbar wird. Wie der Himmel. Man sieht ihn nicht, weil er alles IST. *Wer bist du? Und warum bist du hier, wenn du nicht hier sein willst?* |
-| 7 | **[徐]** | **M** | **NPC-Dorf #1.** Wanderschaft — Yun wartet am Waldrand. Xu Ran geht ins Dorf: Markt, Vorräte. Abends in der Gaststube: Geschichten. „Hier war eine Frau. Letzte Woche. Am Tag danach: der alte Mühlstein hat sich gedreht. Allein." Erste Anomalie-Daten von ANDEREN. |
-| 8 | **[徐]** | **P2** | Tag 2 im Dorf. Die Heilerin erkennt ihn als Ex-Kultivator (Narben, gedämpfte Kern-Signatur). „Du warst mal jemand." — „Ja." — „Und jetzt?" — „Jetzt bin ich hier." Sie erzählt: ein Fluss, der eine Nacht rückwärts floss. Ein Kind, das eine Woche lang in einer Sprache redete, die niemand kannte. Alles auf der Route, die sie gerade gehen. *Die Welt vernarbt hinter ihr.* |
-| 9 | **[徐]** | **P2** | **Backstory-Flashback: Bruder Jin.** Ausgelöst durch ein Lagerfeuer. Xu Ran und Jin, als Schüler, nachts am Feuer. Jin: „Was machst du, wenn der Kern nicht reicht?" Xu Ran, damals: „Dann mache ich ihn PASSEND." Jin lacht. Das Lachen klingt jetzt anders. *Jin hat nie danach gefragt, was passiert, wenn der Kern FEHLT.* |
+| 7 | **[徐]** | **M** | Wanderschaft — ein Dorf am Weg. Yun wartet am Waldrand. Xu Ran geht allein hinein: Markt, Vorräte. Ein Bäcker mustert ihn. „Allein unterwegs?" — „Nein." Blick nach draußen. Niemand zu sehen. *Sie IST da. Man sieht sie nur nicht, wenn man nicht weiß, wo man hinsehen soll.* |
+| 8 | **[徐]** | **P2** | Er redet weiter. Abends am Feuer. Erzählt von seiner Sekte, vom Prüfungssystem, von Bruder Jin, der immer gesagt hat: „Du denkst zu viel." Yun: keine Reaktion. Aber: sie dreht sich zum Feuer statt weg. *Das ist ein Unterschied. Ein kleiner.* |
+| 9 | **[徐]** | **P2** | **Backstory-Flashback: Meister Fang.** Nacht. Er liegt wach neben dem Todeskreis. Erinnert sich: Fangs Studierzimmer. Alte Bücher. Fang, ruhig, präzise: „Der Kern ist kein Organ. Er ist eine Überzeugung." Xu Ran, damals: leere Worte. Jetzt, im Dreck neben einer leeren Frau, schneiden sie. *Wenn der Kern eine Überzeugung ist — wovon bin ich noch überzeugt?* |
 | 10 | **[徐]** | **PT2** | Wanderschaft-Rhythmus etabliert sich. Er kocht (überraschend gut). Sie isst (manchmal). Er meditiert laut — summt, murmelt. Sie: „Kannst du das leiser machen?" — „Nein." (SoL-Running-Gag Setup: Laute Meditation.) |
-| 11 | **[徐]** | **PT2** | Er beginnt, Dinge aufzuschreiben. Auf Zettelrändern, Servietten, Buchrücken. Was sich verändert hat. Datum. Ort. Das Notizbuch ist noch kein Notizbuch — es ist ein Zettel-Chaos. Aber es ist der Anfang. |
-| 12 | **[徐]** | **R** | Auf dem Weg: er sieht zum ersten Mal, wie Yun SELBST etwas tut — sie geht zu einer Quelle, trinkt. Von sich aus. Wischt den Mund, geht weiter. *Das ist das erste Mal, dass sie ein Bedürfnis zeigt.* Er notiert es. *Anomalie #1, anderer Art.* |
+| 11 | **[徐]** | **PT2** | Yun geht zu einem Bach und wäscht sich die Hände. Unprovoziert. Von sich aus. Er sieht zu. *Das ist das zweite Mal, dass sie etwas für SICH tut.* Er greift zum Notizbuch — hält inne. *Noch kein Notizbuch. Nur Zettel.* Schreibt es auf eine Serviette. |
+| 12 | **[徐]** | **R** | Auf dem Weg: er sieht zum ersten Mal, wie Yun SELBST etwas tut — sie geht zu einer Quelle, trinkt. Von sich aus. Wischt den Mund, geht weiter. *Das ist das erste Mal, dass sie ein Bedürfnis zeigt.* Er notiert es auf einem Zettel. Kritzelig, kein System. Nur: das Datum und „Sie hat getrunken." |
 
 ---
 

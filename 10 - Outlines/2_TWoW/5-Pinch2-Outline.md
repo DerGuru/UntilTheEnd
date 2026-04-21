@@ -14,7 +14,7 @@
 
 Beide beobachten dieselbe Frau. Beide schreiben auf. Der eine aus Fürsorge, der andere aus Kalkül. Dieselbe Methodik, gegensätzliche Motive.
 
-**Xiǎohú-Thread:** Der Fuchs bleibt getarnt — beobachtet aus sicherer Entfernung, unentdeckt. Für Xu Ran: nur Spuren und ein Körpergefühl. Erst in Part 7: erste bewusste Sichtung durch Yun.
+**Xiǎohú-Thread:** Der Fuchs bleibt getarnt — beobachtet aus sicherer Entfernung, unentdeckt. Xu Ran sieht nur Spuren und spürt ein Körpergefühl. Yun bemerkt beiläufig „einen Fuchs" (Part 2) — hält ihn für irrelevant, hinterfragt nicht. Erst Part 7: der Fuchs zeigt sich BEWUSST (sitzt 3m entfernt, Bernsteinaugen). Yun urteilt: „too simple for intelligence." Urteil steht.
 
 ---
 
@@ -119,11 +119,11 @@ Beide beobachten dieselbe Frau. Beide schreiben auf. Der eine aus Fürsorge, der
 | 3 | **[徐]** | **PT1** | In der Ruine: historische Fragmente. Ein Kultivator-Relief — eine Technik, die Yun KENNT, ohne sie gelernt zu haben. Sie erstarrt. Xu Ran: „Du starrst." — „Ich lese." Aber ihr Blick sagt: *Ich ERINNERE mich.* |
 | 4 | **[徐]** | **PT1** | Er trägt die Fragmente ins Notizbuch. *„Ein Kultivator vor 3000 Jahren: ‚Mein Qi gehorchte meinem Willen, nicht meiner Technik.'"* Sein Kultivator-Verstand: *Wenn Qi dem Willen gehorcht statt der Technik — heißt das: der Anwender GLAUBT es anders?* |
 | 5 | **[笔]** | **P1** | **PENCIL-POV.** Lian Zhuo studiert eine Anomalie aus der Nähe. Ein Felsen, der sich über Nacht gedreht hat. Die Qi-Signatur: nicht gewaltsam. ORGANISCH. Als hätte die Realität beschlossen, den Felsen dort platziert zu haben. *Retroaktive Veränderung. Nicht Gewalt — Überzeugung.* Er versteht es nicht. Aber er kann es MESSEN. Das reicht. Vorerst. |
-| 6 | **[徐]** | **P1** | Realitäts-Anomalie: Ein Weg, der sich krümmt. Gestern gerade — heute gebogen. Xu Ran vergleicht mit seinem Notizbuch. *Anomalie #54. Die Veränderung ist retroaktiv — für alle anderen war der Weg IMMER gebogen.* Nur seine Notizen sagen: nein. |
-| 7 | **[徐]** | **M** | Xu Ran geht um etwas herum. Bemerkt es erst beim dritten Mal. Es gibt NICHTS an dieser Stelle — leeres Gras. Aber sein Körper weicht aus. *Anomalie #47: Ich gehe um ETWAS herum. Kann nicht sagen, was.* (Der Fuchs sitzt dort. Unsichtbar für ihn. Nicht für Yun — die ihn ignoriert.) |
+| 6 | **[徐]** | **P1** | Realitäts-Anomalie: Ein Weg, der sich krümmt. Gestern gerade — heute gebogen. Xu Ran vergleicht mit seinem Notizbuch. *Anomalie #47. Die Veränderung ist retroaktiv — für alle anderen war der Weg IMMER gebogen.* Nur seine Notizen sagen: nein. |
+| 7 | **[徐]** | **M** | Xu Ran geht um etwas herum. Bemerkt es erst beim dritten Mal. Es gibt NICHTS an dieser Stelle — leeres Gras. Aber sein Körper weicht aus. *Anomalie #54: Ich gehe um ETWAS herum. Kann nicht sagen, was.* (Der Fuchs sitzt dort. Unsichtbar für ihn. Nicht für Yun — die ihn ignoriert.) |
 | 8 | **[徐]** | **M** | Er fragt Yun: „Siehst du ETWAS in dem Gras?" — „Einen Fuchs." — „Wo?" — „Da. 5 Meter links." Er sieht: nichts. Sein Körper weiß mehr als seine Augen. *Warum kann ICH ihn nicht sehen?* |
 | 9 | **[徐]** | **P2** | Er notiert alles. Aber dieses Mal: eine neue Kategorie. *„Dinge, die SIE sieht und ich nicht."* Und: *„Dinge, die ich sehe und sie nicht."* Zwei Listen. Eine ist länger als die andere. |
-| 10 | **[徐]** | **R** | Nachts. Er schiebt das Notizbuch auf den Tisch. 60+ Anomalien. Und: die herausgerissene Seite. 14 Anomalien — IHRE. Er hat sie gefunden. Nicht konfrontiert. Nur: gelesen. Zurückgelegt. Aber: sein Verhalten hat sich geändert. |
+| 10 | **[徐]** | **R** | Nachts. Er schiebt das Notizbuch auf den Tisch. 60+ Anomalien. 47 davon in den letzten drei Wochen. Und: eine neue Erkenntnis. *Ich sehe den Fuchs nicht. Sie schon. Was SONST sieht sie, das ich nicht sehe? Und was sehe ICH, das sie nicht sieht?* Er klappt das Buch zu. Legt es unter den Kopf. Schläft ein. |
 
 ---
 

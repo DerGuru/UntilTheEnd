@@ -132,9 +132,9 @@ Pencil kehrt in B7 nicht zurück. Er wurde bei der Feld-Konfrontation in B6 wegg
 | 4 | **[徐]** | **P1** | „Du erzählst dich sterblich." — „Halt die Klappe und schreib." Running Gag wird ernst: er kocht Reis. Brennt an. Sie nimmt ihm den Topf ab. „DU kannst auch nicht kochen." — „Ich hab es auch nie gelernt." — „Weil du immer WEI hattest." — Stille. Schmerzhafte Verbindung. |
 | 5 | **[徐]** | **M** | Yun erzählt von ihrer ERSTEN Bindung. Vor Jahrtausenden. Ein Name, den sie kaum noch weiß. „Sie hatte warme Hände." — Mehr nicht. Xu Ran schreibt einen Satz. Der kürzeste der Chronik. Der tragischste. |
 | 6 | **[徐]** | **M** | Er integriert Pencils 200 Seiten in die Chronik. Fußnoten. Querverweise. „Objekt 1 zeigt..." → *„Yun zeigt..."* Er übersetzt Pencils Kälte in Verständnis. Die Daten stimmen. Der Ton nicht. *Er hat sie als Phänomen gesehen. Ich sehe den Menschen. Zusammen: die Wahrheit.* |
-| 7 | **[徐]** | **P2** | Die Tinte geht aus. Er muss sich welche machen — aus Beeren, Ruß, Wasser. Provisorisch. Die Chronik der größten Geschichte der Welt, geschrieben mit Beerentinte. *Wei hätte gelacht.* |
+| 7 | **[徐]** | **P2** | Er schreibt. Stundenlang. Seine Hand schmerzt — er wechselt zur linken. Schlechter. Unleserlich. Er schreibt trotzdem. *Wenn die Chronik unleserlich wird, ist nur SIE schuld — die hat zu viel erlebt.* Er grinst. Allein. |
 | 8 | **[徐]** | **P2** | Yun erzählt schneller. Mutiger. Die Geschichten fließen. Xu Ran KANN nicht mehr mitschreiben — er muss auswählen. Was bleibt? Was fällt weg? *Ich bin nicht nur Chronist. Ich bin KURATOR. Ich entscheide, was die Welt von ihr erfährt.* Das Gewicht dessen trifft ihn. |
-| 9 | **[徐]** | **PT2** | Er liest ihr ein Kapitel vor. Das Wei-Kapitel. Ihre Augen: feucht. „Hast du das so geschrieben?" — „Ja." — „Es klingt, als wäre er noch da." — „Ist er. In Tinte." |
+| 9 | **[徐]** | **PT2** | Er blättert durch die Chronik. Hunderte Seiten. Und merkt: er hat angefangen, Kommentare an den Rand zu schreiben. Nicht als Chronist — als LESER. „Sie hat nie gefragt, ob jemand zuhört." Und darunter, in kleinerer Schrift: *Das war das Problem.* |
 | 10 | **[徐]** | **R** | Nacht. Er zählt die Seiten. Hunderte. Und sie ist erst bei einem Drittel. *Ich brauche mehr Tinte. Mehr Papier. Mehr LEBEN.* Der Fuchs liegt auf den beschriebenen Seiten. Pfotenabdruck auf einer Seite. Er lässt ihn. *Sein Siegel.* |
 
 ---
@@ -237,7 +237,7 @@ Pencil kehrt in B7 nicht zurück. Er wurde bei der Feld-Konfrontation in B6 wegg
 - [x] Soll Xu Ran in Part 5-7 jemandem von Yun erzählen? → **Ja: einem Kind am Fluss. Letzte Szene.**
 - [x] Die Chronik: soll sie META sein? → **Bewusst offen. KÖNNTE das Manuskript der Hauptreihe sein.**
 - [x] Xu Rans Kern: Erholt er sich je? → **JA. Proximity-Heilung (exponentiell, B5-B7). Yun bemerkt es, sagt nichts, erfindet die Chronik als Vorwand damit er bleibt. Er erfährt es nie. Sein Dao braucht den Kern nicht — aber er HAT ihn.**
-- [x] Letzte Worte zwischen Yun und Xu Ran: was genau? → **Keine Worte. Stille. Ein Nicken. Die Stille IST der Abschied.**
+- [x] Letzte Worte zwischen Yun und Xu Ran: was genau? → **„Thank you." Zwei Worte. Ein Nicken. Dann geht er.**
 - [x] Pencils Arc-Ende? → **Kein B7-Rückkehr. Arc endete B6 (weggewarpt). Seine 200 Seiten leben in Xu Rans Chronik.**
 - [x] Hermits Arc-Ende? → **B7 Part 6-7. Findet die Höhle. Den Fuchs. LIEST DIE CHRONIK. Denkt: „Vielleicht sollte ich auch."**
 - [x] Xiǎohú am Ende? → **Wartet vor der Höhle. Der Hermit setzt sich neben ihn. Wartet auch.**
