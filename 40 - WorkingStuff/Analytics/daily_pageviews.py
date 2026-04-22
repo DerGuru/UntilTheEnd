@@ -2,12 +2,31 @@
 
 Uses x-axis label positions for correct date mapping and tooltip for calibration.
 Bar heights are proportional to views; one tooltip gives the scale factor.
+Falls back to --total <views> for calibration when no tooltip is present.
 """
 from pathlib import Path
 import re, sys
 from datetime import datetime, timedelta
 
-html = Path(sys.argv[1]).read_text(encoding='utf-8')
+# Parse args: script.py <html> [--total <views>]
+args = sys.argv[1:]
+total_override = None
+html_path = None
+i = 0
+while i < len(args):
+    if args[i] == '--total' and i + 1 < len(args):
+        total_override = int(args[i + 1])
+        i += 2
+    elif html_path is None:
+        html_path = args[i]
+        i += 1
+    else:
+        i += 1
+
+if html_path is None:
+    sys.exit("Usage: daily_pageviews.py <html_file> [--total <total_views>]")
+
+html = Path(html_path).read_text(encoding='utf-8')
 
 # --- 1. Extract bars (position + height) from Page Views SVG ---
 pv_start = html.find('aria-label="Page Views"')
@@ -53,7 +72,7 @@ if len(axis_labels) >= 2:
 else:
     sys.exit("Could not find enough x-axis labels for date mapping.")
 
-# --- 3. Calibration from tooltip ---
+# --- 3. Calibration from tooltip or --total ---
 tooltip_match = re.search(r'(\d{4}-\d{2}-\d{2}): ([\d,]+)', html)
 if tooltip_match:
     cal_date = datetime.strptime(tooltip_match.group(1), '%Y-%m-%d')
@@ -64,13 +83,18 @@ if tooltip_match:
                  f"({start_date.date()} .. {(start_date + timedelta(days=n-1)).date()})")
     cal_height = bars[cal_index][2]
     scale = cal_views / cal_height  # views per pixel of bar height
+    cal_method = f"tooltip: {cal_date.strftime('%Y-%m-%d')} = {cal_views:,} (bar[{cal_index}], h={cal_height:.1f})"
+elif total_override is not None:
+    total_height = sum(h for _, _, h in bars)
+    scale = total_override / total_height
+    cal_method = f"total override: {total_override:,} views / {total_height:.1f} px = {scale:.2f} views/px"
 else:
-    sys.exit("No tooltip found for calibration.")
+    sys.exit("No tooltip found for calibration. Use --total <total_views> to calibrate from total.")
 
 # --- 4. Output ---
 end_date = start_date + timedelta(days=n - 1)
 print(f"Chart: {n} days, {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
-print(f"Calibration: {cal_date.strftime('%Y-%m-%d')} = {cal_views:,} (bar[{cal_index}], h={cal_height:.1f})")
+print(f"Calibration: {cal_method}")
 print(f"Scale: {scale:.2f} views/px")
 print()
 

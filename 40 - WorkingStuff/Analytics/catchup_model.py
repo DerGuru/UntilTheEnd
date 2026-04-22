@@ -22,7 +22,7 @@ def lognorm_cdf(x, mu_ln, sigma_ln):
     return norm_cdf(log(x), mu_ln, sigma_ln)
 
 # --- 1. Load actual chapter view data ---
-html = Path(r'd:\UntilTheEnd\40 - WorkingStuff\Analytics\General Analytics _ Royal Road-2026-04-21T23-15.html').read_text(encoding='utf-8')
+html = Path(r'd:\UntilTheEnd\40 - WorkingStuff\Analytics\General Analytics _ Royal Road-2026-04-22T21-52.html').read_text(encoding='utf-8')
 scripts = re.findall(r'<script[^>]*>(.*?)</script>', html, re.DOTALL)
 for s in scripts:
     m = re.search(r'var readerActivityData\s*=\s*(\[.*?\]);', s, re.DOTALL)
@@ -35,12 +35,13 @@ titles = [ch['title'] for ch in actual_data]
 n_chapters = len(actual_views)
 
 # --- 2. Daily pageviews (from validated daily_pageviews.py results) ---
-# Mar 21 (day 0) to Apr 20 (day 30) = 31 days
+# Mar 22 (day 0) to Apr 21 (day 30) = 31 days (Apr 22 snapshot)
 daily_views = [
-    948, 127, 196, 2853, 797, 1017, 358, 71,     # Mar 21-28
+    127, 196, 2853, 797, 1017, 358, 71,           # Mar 22-28
     1492, 1227, 1112, 305, 785, 1887, 220, 311,   # Mar 29 - Apr 5
     2669, 3278, 2430, 4106, 2995, 3121, 2161,     # Apr 6-12
-    2816, 3555, 4696, 5230, 4903, 3199, 4528, 4543 # Apr 13-20
+    2816, 3555, 4696, 5230, 4903, 3199, 4528,     # Apr 13-19
+    4543, 5535                                      # Apr 20-21
 ]
 n_days = len(daily_views)  # 31
 
