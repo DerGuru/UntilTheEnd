@@ -70,17 +70,17 @@ UTE-Einordnung unter aktiven Fictions: **Top 8.4% Views** | **Top 15.8% Follower
 
 ---
 
-# UTE auf RoyalRoad — Stand 26. April 2026
+# UTE auf RoyalRoad — Stand 27. April 2026
 
-**Fiction 152927** | 124,164 Views | 150 Follower | 35 Fav | 4.24 Rating (21) | 353 Kapitel | AI Warning Tags
+**Fiction 152927** | 126,628 Views | 152 Follower | 37 Fav | 4.24 Rating (21) | 353 Kapitel | AI Warning Tags
 
 ## Kennzahlen im Kontext
 
 | Metrik | RR-Durchschnitt (Trending) | UTE | Einordnung |
 |--------|---------------------------|-----|------------|
 | Follower/1000 Views | ~3-5 | ~1.2 | Niedrig — Bulk-Content (353 Kap.), Leser folgen erst ab B2-B3 |
-| Fav/Follower-Ratio | ~30-50% | ~23% | Unter Schnitt — XianXia-typisch + AI-Tag-Effekt |
-| AVG Views/Chapter | selten >200 | 352 | Top <0.5% aller Fictions |
+| Fav/Follower-Ratio | ~30-50% | ~25% | Unter Schnitt — XianXia-typisch + AI-Tag-Effekt |
+| AVG Views/Chapter | selten >200 | 359 | Top <0.5% aller Fictions |
 
 ## Wachstumsphasen
 
@@ -121,3 +121,19 @@ Jeder Snapshot zeigt die letzten 7 Tage. Snapshots vom 13., 19. und 26. April er
 - **Latest Updates** verdoppelt in W3 (72→128) — mehr Kapitel/Tag = öfter sichtbar
 - **Google** stabil ~270-300 — organisch, nicht trending-getrieben
 - **Audio-book-ai** erst seit W3 relevant (12 User) — Audiobook-Nachfrage
+
+## RR Ad-Kampagne (seit 24. Februar 2026, läuft noch)
+
+| Metrik | Wert |
+|--------|------|
+| Impressions | ~260k (~50% geliefert) |
+| Clicks | 728 |
+| CTR | 0.28% |
+| Follower | 18 |
+| Read Later | 33 |
+| Click→Follow | 2.5% |
+| Click→Read Later | 4.5% |
+| Click→Aktion (Follow+RL) | 7.0% |
+| Bounce (keine Aktion) | 93% |
+
+**Einordnung:** ~18 von 150 Followern (~12%) sind Ad-getrieben. Trending allein bringt mehr Follower pro Tag als die gesamte Kampagne bisher. Die Ad war nützlich als **Flywheel-Starter** (Paid → Engagement-Velocity → Trending-Einstieg), aber als dauerhafter Akquise-Kanal ineffizient. Vergleich: "The Resonant" hatte ~1.25% Click→Follow — UTE ist doppelt so gut, aber immer noch schwach.
