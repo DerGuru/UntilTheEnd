@@ -1,0 +1,63 @@
+
+.chapter-editor .poll-container.no-poll {
+    display: none;
+}
+.chapter-editor input[name=HasPoll]:checked ~ .poll-container {
+    display: block;
+}
+
+.chapter-editor input[name=HasPoll]:checked ~ .col-md-9 editor-column > label[for=hasPoll] > span:after {
+    display: block;
+}
+
+.chapter-editor input[name=PollPublic]:checked ~ .col-md-9 editor-column > label[for=PollPublic] > span:after {
+    display: block;
+}
+
+.chapter-editor input[name=DeleteDraft]:checked ~ label[for=deletedraft] > span:after {
+    display: block;
+}
+
+.chapter-editor input:checked+div.col-md-9 editor-column > .mt-checkbox > span:after {
+    display: block;
+}
+
+.chapter-editor .chapter-content {
+    font-size: 14px;
+}
+
+.chapter-editor .chapter-content img{
+    max-width: 100%;
+}
+
+.chapter-editor .tox .tox-tbtn--bespoke[title='Font sizes'] .tox-tbtn__select-label{
+    width: 3em !important;
+}
+
+.bootstrap-datetimepicker-widget.dropdown-menu{
+    width: initial !important;
+}
+
+.bootstrap-datetimepicker-widget table thead tr:first-child th:hover{
+    background: #004b7a !important;
+}
+.bootstrap-datetimepicker-widget table td span:hover{
+    background: #004b7a !important;
+}
+
+.analytics-chapter-list-item{
+    cursor: pointer;
+}
+
+.edit-content-warning{
+    height: auto;
+    display: block;
+    background: rgba(128, 128, 128, .05);
+    padding: 1em 1em 1em 3em;
+    border-radius: 1em;
+}
+
+.edit-content-warning span{
+    top: calc(50% - 9px);
+    left: 10px;
+}
