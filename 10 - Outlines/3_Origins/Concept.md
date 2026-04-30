@@ -10,7 +10,7 @@
 > **Im Text wird die Zeit nie explizit genannt.** Kein Datum, keine Jahreszahl, kein „vor X Jahren“. Der Leser erkennt „Steinzeit“ aus dem Setting — Werkzeuge, Lebensweise, Sprache, Tiere. Wann genau ist unerheblich.
 
 ## Arbeitstitel
-**Until The End: Origins — *Stone and Bone*** 
+**Until The End: Origins — *Stones and Bones*** 
 
 ## Logline
 Ein Steinzeit-Mädchen entdeckt als erste Lebende etwas Namenloses in sich — und bezahlt dafür mit allem, was sie zum Menschen macht.
