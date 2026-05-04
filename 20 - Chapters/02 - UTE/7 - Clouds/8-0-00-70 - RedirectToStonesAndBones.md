@@ -14,6 +14,14 @@ She didn't know what she was building. She didn't know it couldn't be undone.
 
 **Until The End: Origins — Stones and Bones**
 
-*How does a god begin?*
+*How does it all begin?*
 
-*With a child's hand pressed flat against the earth, feeling something that has no name.*
+*With a child's hand pressed flat against the earth, feeling something warm that has no name yet.*
+
+---
+
+This is not *Until The End*. If you expect quiet introspection and tea — recalibrate. Origins is rawer, more brutal, less still. This is Mei before she learned to be still. Before she had a reason to be.
+
+The violence is not decoration. It's the cost.
+
+You've been warned.
