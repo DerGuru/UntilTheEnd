@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId">urn:uuid:a1b2c3d4-e5f6-7890-abcd-ef1234567890</dc:identifier>
+    <dc:title>Until the End Origins: Stones and Bones</dc:title>
+    <dc:language>en</dc:language>
+    <dc:creator id="creator">JakofHe</dc:creator>
+    <meta property="dcterms:modified">2026-05-04T00:00:00Z</meta>
+  </metadata>
+
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+
+    <item id="cover" href="0-00-00.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch01" href="1-01-01.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch02" href="1-02-02.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch03" href="1-03-03.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch04" href="1-04-04.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch05" href="1-05-05.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch06" href="1-06-06.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch07" href="2-01-07.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch08" href="2-02-08.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch09" href="2-03-09.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch10" href="3-01-10.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch11" href="3-02-11.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch12" href="3-03-12.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch13" href="3-04-13.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch14" href="4-01-14.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch15" href="4-02-15.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch16" href="4-03-16.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch17" href="4-04-17.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch18" href="4-05-18.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch19" href="4-06-19.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch20" href="4-07-20.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch21" href="4-08-21.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch22" href="4-09-22.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch23" href="4-10-23.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch24" href="4-11-24.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch25" href="4-12-25.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch26" href="4-13-26.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch27" href="5-01-27.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch28" href="5-02-28.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch29" href="6-01-29.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch30" href="7-01-30.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch31" href="7-02-31.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch32" href="7-03-32.xhtml" media-type="application/xhtml+xml" />
+    <item id="coverimage" href="cover.png" media-type="image/png" properties="cover-image"/>
+</manifest>
+
+  <spine toc="ncx">
+    <itemref idref="cover" />
+    <itemref idref="ch01" />
+    <itemref idref="ch02" />
+    <itemref idref="ch03" />
+    <itemref idref="ch04" />
+    <itemref idref="ch05" />
+    <itemref idref="ch06" />
+    <itemref idref="ch07" />
+    <itemref idref="ch08" />
+    <itemref idref="ch09" />
+    <itemref idref="ch10" />
+    <itemref idref="ch11" />
+    <itemref idref="ch12" />
+    <itemref idref="ch13" />
+    <itemref idref="ch14" />
+    <itemref idref="ch15" />
+    <itemref idref="ch16" />
+    <itemref idref="ch17" />
+    <itemref idref="ch18" />
+    <itemref idref="ch19" />
+    <itemref idref="ch20" />
+    <itemref idref="ch21" />
+    <itemref idref="ch22" />
+    <itemref idref="ch23" />
+    <itemref idref="ch24" />
+    <itemref idref="ch25" />
+    <itemref idref="ch26" />
+    <itemref idref="ch27" />
+    <itemref idref="ch28" />
+    <itemref idref="ch29" />
+    <itemref idref="ch30" />
+    <itemref idref="ch31" />
+    <itemref idref="ch32" />
+  </spine>
+</package>
