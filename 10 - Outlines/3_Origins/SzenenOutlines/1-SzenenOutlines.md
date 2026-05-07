@@ -5,8 +5,8 @@
 > **Mei:** 8–9 (Autoren-Referenz)
 > **Qi-Stufe:** Keine → Unbewusste Wahrnehmung (ab Szene 1.4)
 > **Ton:** Warm, SoL, sensorisch, staunend. Die Welt ist groß und gut.
-> **Umfang:** ~6–8 Kapitel
-> **Struktur:** Drei Kapitel reines Kinderleben → dann kommt das Warme.
+> **Umfang:** ~7–9 Kapitel
+> **Struktur:** Drei Kapitel reines Kinderleben → das Warme → ein weiteres Kind-Kapitel als Atempause → dann das Summen.
 
 ---
 
@@ -136,6 +136,39 @@ Freude. Nicht „ich bin besonders" — sondern „da ist Wasser, cool!" Sie zei
 - **Keine Autor-Bewertung.** Der Narrator beschreibt, was Mei fühlt. Nicht, was es *bedeutet*.
 - **Kontrast zu 1.2:** Dort löst Mei Probleme mit Beobachtung. Hier löst sie eines mit etwas Neuem. Der Leser merkt den Unterschied — Mei (noch) nicht.
 - **Kapitel:** 1 Kapitel, ~1200–1500 Wörter.
+
+---
+
+## Szene 1.4b — „Am Fluss"
+
+### Absicht
+Atempause zwischen der Warme-Entdeckung und dem Summen. Reines Kind-Sein — Spielen, Körperlichkeit, Freundschaft. Zeigt, was Mei verlieren wird. Gleichzeitig leise Seeds: Meis Auge für Muster und Passformen (Steine in eine Mauer setzen), ihre Geduld (Fische fangen durch Warten). Keine Qi-Entdeckung, kein Warmes — nur Wasser, Steine, Koh und ein normaler Tag.
+
+### Key Beat
+Mei und Koh spielen am Fluss. Bauen eine Steinmauer, um Fische zu fangen. Mei fängt Fische durch Geduld, Koh durch Kraft (und scheitert). Normaler, warmer Tag. Kein Warmes.
+
+### Ton
+Spielerisch (50%), warm (40%), leiser Humor (10%). Die leichteste Szene im Buch.
+
+### Outline
+
+**Setting:**
+Flussufer. Warmer Tag. Die Kinder des Stammes baden. Mei und Koh im Wasser. Andere Kinder am Rand.
+
+**Die Steinmauer:**
+Koh hat die Idee: Fische fangen, indem sie das Wasser blockieren. Mei setzt die Steine — sie hat ein Auge dafür, welche Form in welche Lücke passt. Koh bringt Material, Mei platziert. Die Mauer funktioniert: Wasser staut sich, Fische sind eingesperrt.
+
+**Fische fangen:**
+Koh greift mit den Händen ins Wasser — schnell, explosiv. Verfehlt. Mei hält die Hand still, wartet. Fängt einen Fisch durch Geduld. Koh starrt. „Wie." — „Gewartet." Ein jüngerer Junge schaut zu mit großen Augen.
+
+**Rückkehr:**
+Mei reißt die Mauer ein. Das Wasser nimmt alles zurück. Fußspuren auf warmem Stein, die trocknen und verschwinden. Koh gibt Mei am Feuer ein Stück Fleisch. „Guter Tag." — „Guter Tag."
+
+### Sonstiges
+- **Kein Qi.** Komplett menschlich. Meis Fähigkeiten (Geduld, Muster erkennen) sind hier Charakter-Traits, kein Übernatürliches.
+- **Titel-Echo:** „Stones and Bones" — Steine der Mauer, Fischgräten in der Hand.
+- **Funktion:** Luft geben zwischen zwei Qi-Entdeckungen. Zeigen, dass Mei ein Kind ist, bevor sie etwas anderes wird.
+- **Kapitel:** 1 Kapitel, ~1000–1200 Wörter.
 
 ---
 
