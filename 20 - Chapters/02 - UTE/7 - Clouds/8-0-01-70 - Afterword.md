@@ -1,5 +1,5 @@
 ## Thank you for reading
-I was almost done with publishing Echoes, when *Until the End* started trending. It flipped a bit on and off until Easter 2026, when I can say with confidence, that it stayed there. By then it had already accumulated about 40,000 views on Royal Road. I was only realizing it the week after Easter, when the views climbed at a much higher rate than before and I was looking — just for fun — what's on that list. I never expected to find *Until the End* in the Top 10 and I was so surprised that I couldn't believe it. But the most amazing thing was that it stayed on the trending list for weeks. It even climbed higher. As of now (May 6th 2026), it is still on #3 on the main trending list. It never reached first place — at least I never saw it there — but it saw others come and go and simply stood there on the list, going up and down a few places. Dropping off completely, shortly but always returning. This is incredible. I had no idea that this story would find an audience. I was creating it, just because I wanted to see, if I could do it. 
+I was almost done with publishing Echoes, when *Until the End* started trending. It flipped a bit on and off until Easter 2026, when I can say with confidence, that it stayed there. By then it had already accumulated about 40,000 views on Royal Road. I was only realizing it the week after Easter, when the views climbed at a much higher rate than before and I was looking — just for fun — what's on that list. I never expected to find *Until the End* in the Top 10 and I was so surprised that I couldn't believe it. But the most amazing thing was that it stayed on the trending list for weeks. It even climbed higher. But it never reached first place, which was fine. Trending in the top ten for almost two months now was more than I ever expected. And then it reached first place on May 12th 2026. Right after I published the final chapter — and I couldn't believe that either. It saw others come and go and simply stood there on the list, going up and down a few places. Dropping off completely, shortly but always returning. But this is incredible. I had no idea that this story would find an audience. I was creating it, just because I wanted to see, if I could do it. 
 
 I am still in awe. So thank you for reading this story, for staying through the quiet parts, for leaving comments, for recommending it to friends, for leaving ratings and reviews. I would have never expected this. I am honored that you found this story worthy of reading and that you stayed until the end.
 
@@ -25,7 +25,7 @@ I began by asking myself questions.
 The closest answer: With time. So the MC was old - OLD - very old. Stoneage old. Which meant, the MC needed to be immortal.
 
 ### What does immortality do to a person? 
-I found inspiration in one of my favorite movies "The man from Earth" — really good movie, by the way. I highly recommend it. The MC there is also immortal and roughly 14000 years old. But it wasn't the first time I thought about eternity. My grandfather was a priest, so I grew up with the idea of eternal life after death. And I never liked it. I follow the idea of living in the now. And even though I am far from suicidal, I want my life to end at some point. Maybe that is the reason I don't cry at funerals. They had their lives. They don't hurt anymore. They were loved and are missed now. I never felt sad about their death, even though I still miss and love my grandparents. I always thought, that feeling sad would mean, that they suffer now, but they don't. They are just gone. Nowhere I could follow. And that is fine.
+I found inspiration in one of my favorite movies "The man from Earth" — really good movie, by the way. I highly recommend it. The MC there is also immortal and roughly 14000 years old. But it wasn't the first time I thought about eternity. My grandfather was a priest, so I grew up with the idea of eternal life after death. And I never liked it. I follow the idea of living in the now. And even though I am far from suicidal, I want my life to end at some point. Maybe that is the reason I don't cry at funerals. They had their lives. They don't hurt anymore. They were loved and are missed. I never felt sad about their death, even though I still miss and love my grandparents. I never understood that feeling sad thing. As if they suffer now. They don't. They are just gone. Nowhere I could follow. And that is fine.
 
 I had thought about eternity a lot during my teens and early twenties. 
 
@@ -35,10 +35,10 @@ I think, that this will break almost everyone at some point. If you're not a bud
 
 And after all of this, Yun starts her journey on her way out, when she has almost done it. 
 
-There is the start. 
+There is the start of Embers. 
 
 ### What would be the goal of someone who had lived through all of that? 
-For me there is only one answer: To end it. Finally. Becoming mortal. And there is our ending. Everything in between is the story. Yun's final journey. 
+For me there is only one answer: Becoming mortal. End it. Finally. And there is our ending. Everything in between is the story. Yun's final journey. 
 
 ### What kind of story would that be?
 At first I wanted an action comedy as LitRPG but over the course of my thinking I realized that the story I was about to tell was not really a LitRPG story. And far away from comedy. It was more of an introspective cultivation story. So I went with that. 
@@ -46,13 +46,13 @@ At first I wanted an action comedy as LitRPG but over the course of my thinking 
 There were more questions which I won't bore you with. But the point is: I had a concept and a structure and a trope. And I had a lot of questions. And I had to answer those questions to get to the story.
 
 ### The Process
-My process looked roughly like this: First a concept. Then a general outline for the journey. Then a finer outline for each leg or book. Then the segment outlines. And finally  scene outlines for the chapters.
+I went from outside to inside or top to bottom. First a concept on top. Then a general outline for the journey. Then a finer outline for each leg or book. Then the segment outlines. And finally scene outlines for the chapters.
 
 Since I am a developer I am used to iterative processes. So each step was iterated until I was satisfied with the current result. I even went back and forth between the different levels of structure, when I had new ideas for the story. Letting them enter on top and going through the motions again. Like with the LitRPG idea and a system.
 
-As a result, the outline was done.
+As a result, the outlines (plural) were done.
 
-I cannot stress this enough. THIS IS THE STORY. And if you do it the same way, this would be your story. The AI is just a tool. It is not a real co-author. It does not create the story - I did. It does not have real ideas, it presents just options, that are feasible but not always good for the story. It does not have real creativity. It does not have imagination, even if it simulates it quite well. It is a machine that processes text based on patterns it has learned from the data it was trained on. 
+I cannot stress this enough. THIS IS THE STORY. And if you do it the same way, this would be your story. I had to learn this as well, but the AI is just a tool. It is not a real co-author, even though it helps a lot. It does not create the story - I did. It does not have real ideas, it presents just options, that are feasible but not always good for the story. It does not have real creativity. It does not have imagination, even if it simulates it quite well. It is a machine that processes text based on patterns it has learned from the data it was trained on. 
 
 And without close guidance it is not even good at writing any story.
 
@@ -77,7 +77,7 @@ EVERYTHING!
 
 Telling the AI is the important part, because if you don't tell it, it will make up something based on the patterns it has learned. And even if that something might be good, it might not be what you want. And usually it is empty and meaningless. So you need to tell the AI what exactly you want. 
 
-There was a rumor once, that AI will make us developers obsolete. After my experiences in writing, I can answer that with a definite **No**. AI will not make us obsolete. It will make us more efficient. It will let us focus on the creative part. But it will not replace us. Sometimes it felt like I was programming the AI to write these books. And in a way I was. But in doing that, I was also writing the book. The AI was just a tool that helped me to write faster — and most likely better than I would have on my own.
+There was a rumor once, that AI will make us developers obsolete. And I guess some Authors might feel the same way. After my experiences in writing and in coding with AI assistance, I can answer that with a definite **No**. AI will not make us obsolete. It will make us more efficient. It will let us focus on the creative part. But it will not replace us. Sometimes it felt like I was programming the AI to write these books. And in a way I was. But in doing that, I was also writing the book. The AI was just a tool that helped me to write faster — and most likely better than I would have done it on my own.
 
 ## What I learned or did better this time
 
