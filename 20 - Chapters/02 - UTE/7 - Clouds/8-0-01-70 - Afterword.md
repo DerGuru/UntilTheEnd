@@ -1,15 +1,15 @@
 ## Thank you for reading
-I was almost done with publishing Echoes, when *Until the End* started trending. It flipped a bit on and off until Easter 2026, when it I can say with confidence, that it stayed there. By then it had already accumulated about 40,000 views on Royal Road. I was only realizing it the week after Easter, when the views climbed at a much higher rate than before and I was looking — just for fun — what's on that list. I never expected to find *Until the End* in the Top 10 and I was so surprised that I couldn't believe it. But the most amazing thing was that it stayed on the trending list for weeks. It even climbed higher. As of now (May 6th 2026), it is still on #3 on the main trending list. It never reached first place — at least I never saw it there — but I don't mind. This is incredible. I had no idea that this story would find an audience. I was creating it, just because I wanted to see, if I could do it. 
+I was almost done with publishing Echoes, when *Until the End* started trending. It flipped a bit on and off until Easter 2026, when I can say with confidence, that it stayed there. By then it had already accumulated about 40,000 views on Royal Road. I was only realizing it the week after Easter, when the views climbed at a much higher rate than before and I was looking — just for fun — what's on that list. I never expected to find *Until the End* in the Top 10 and I was so surprised that I couldn't believe it. But the most amazing thing was that it stayed on the trending list for weeks. It even climbed higher. As of now (May 6th 2026), it is still on #3 on the main trending list. It never reached first place — at least I never saw it there — but it saw others come and go and simply stood there on the list, going up and down a few places. Dropping off completely, shortly but always returning. This is incredible. I had no idea that this story would find an audience. I was creating it, just because I wanted to see, if I could do it. 
 
 I am still in awe. So thank you for reading this story, for staying through the quiet parts, for leaving comments, for recommending it to friends, for leaving ratings and reviews. I would have never expected this. I am honored that you found this story worthy of reading and that you stayed until the end.
 
 ## Acknowledgments
-This story would not be what it is — whatever that means — without a handful of people who left comments that mattered. Comments that pointed out weaknesses or simple typos. Some comments even made me rethink things I thought were finished.
+This story would not be what it is — whatever that means — without a handful of people who left comments that mattered. Comments or private messages that pointed out inconsistencies, weaknesses or simple typos. People, who engaged in arguments with me.
 
 @Kobina, @Gravelton, @Doop, @satismagic, @Framewolf — thank you. You made this better.
 
 ## How did this story come to be?
-Third time is the charm. Or as we say in German: Alle guten Dinge sind drei.
+Third time is the charm. Or as we say in German: Aller guten Dinge sind drei.
 
 If you read one or both of my previous books, I already told you about my process. Nevertheless, I am still learning. Every book project teaches me something I did not know before.
 
