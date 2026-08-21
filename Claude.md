@@ -10,9 +10,12 @@ Dies ist ein Buchprojekt – ein XianXia/Cultivation Fantasy Roman mit OP-MC und
 - Das Buch selbst wird zweisprachig erscheinen: 01 - auf Englisch verfasst
 
 ## Bei Textarbeit am Manuskript
-Beachte die Stil-Vorgaben aus diesen Dateien:
-- `00 - General/StyleDNA.md` – Detaillierte Stilmerkmale
-- `00 - General/Writing Rules.md` – Narrative Regeln
+Die verbindlichen Stil- und Erzählregeln liegen strukturiert in `.github/instructions/`:
+- `Core/` – generische, projektunabhängige Regeln (`writing-rules`, `seven-point-structure`, `solid-checklist`)
+- `Story/` – projektspezifisch (`style-dna`, `project-specific-writing-rules`, `premise`, `system`, `master-outline`, `sects`, `origins`)
+- `Characters/` – Charakterprofile (`yun`, `wei`, `xu-ran`, `zhiweng`, `lu-sen`, `minor-figures`)
+
+Dateien mit `applyTo: '**'` gelten automatisch (`style-dna`, `writing-rules`, `project-specific-writing-rules`); die übrigen bei Bedarf konsultieren.
 
 ### Kernprinzipien:
 - **Dialog:** Sparsam getaggt, unterschwellig
@@ -23,11 +26,11 @@ Beachte die Stil-Vorgaben aus diesen Dateien:
 - **Wei:** Kindlich-stur, enthusiastisch, unbeeindruckt
 
 ## Wichtige Projekt-Dateien
-- `Concept.md` – Logline, Thema, Genre
-- `Characters.md` – Charakterprofile
-- `Worldbuilding.md` – XianXia-Setting, System
-- `Plan.md` – Schreibplan und Phasen
-- `/10 - Outlines/Outline.md` – Struktur und Beats
+- `.github/instructions/Story/premise.instructions.md` – Logline, Thema, Genre
+- `.github/instructions/Characters/` – Charakterprofile
+- `.github/instructions/Story/system.instructions.md` – XianXia-Setting, Weltmechanik
+- `00 - General/Plan.md` – Schreibplan und Phasen
+- `10 - Outlines/` – Struktur und Beats (pro Buch)
 
 ## Formatierung
 - Verwende Markdown-Formatierung
