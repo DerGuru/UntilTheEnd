@@ -7,30 +7,32 @@
 
 ---
 
-## 0. Feste Rahmen (entschieden)
+## 0. Feste Rahmen (entschieden — REVIDIERT: immersiver Modus, 07.09.2026)
+
+> **Kurswechsel:** Die frühere „dünne Lagerfeuer-Rezitation" (1. Person + Xu-Ran-Präsens-Rahmen + Prosa-Fieberkurve) ist **verworfen** — sie las sich zu knapp. Neuer Modus: **immersive Geschichte wie *Embers* / *Stones and Bones***, die man begleitet.
 
 | Aspekt | Festlegung |
 |---|---|
-| **POV / Tempus — zwei Ebenen** | **(a) Rahmen (Lagerfeuer, Jetzt):** Xu Rans POV, 3. Person limited, **Präsens** — „wir sind beim Erzählen dabei". Gesprochenes als direkte Rede; keine Yun-Innensicht (nur was Xu Ran sieht/hört). **(b) Erzählung (Vergangenheit):** Yun, **1. Person Präteritum**, immersiv, KEINE Anführungszeichen, KEINE „du"-Anrede (die lebt nur im Rahmen). Innerhalb der Erzählung bleibt Mei→„ich" bedeutungstragend. |
-| **Trenner** | Rahmen und Erzählung sind durch `---` getrennt. **Writing Rule 40 (keine Trenner) ist hier ausgesetzt** — nur an der Rahmen/Erzählung-Grenze, nie innerhalb der Erzählung. Scharnier-Muster: Yun beginnt zu sprechen (direkte Rede) → Trenner → derselbe Gedanke läuft als reine Erzählung weiter (siehe Prolog + `4-03` + `7-02`). |
-| **Stil-Referenz** | UTE-Hauptserie ([`style-dna.instructions.md`](../../.github/instructions/Story/style-dna.instructions.md)), Yuns Stimme — melancholisch, präzise, trocken, sensorisch-aber-distanziert. NICHT die kindlich-sensorische Origins-B1-StyleDNA. |
-| **Rahmen-Frequenz** | Yun erzählt Xu Ran am Lagerfeuer (UTE-7-Fenster), frisch erinnert nach dem Blockfall. **Max. 3 Lagerfeuer-Berührungen im ganzen Buch** (Prolog · Ende `4-03` nach Lin Feiyun · Ende `7-02` Schluss). Die übrigen Kapitel sind durchgehende Erzählung. |
-| **Namen-Regel** | Menschen über **Funktion + Merkmal**, nicht über Namen. **Einziger überlebender Eigenname im ganzen Buch: Lin Feiyun.** (Details → Zeitachse §6.1.) |
+| **POV / Tempus** | **3. Person limited auf Mei/Yun, Präteritum** (nahtlos an *Stones and Bones*). Immersiv, szenengetrieben, sensorisch — Embers-Dichte. |
+| **Erzähler-Einwürfe (Herz-Device)** | Die **alte Yun** bricht als **„ich"** ein und kommentiert ihr junges Selbst („she"). Der Ich-/Sie-Split *verkörpert* die Entfremdung (Mei ist ihr fremd). Sparsam, aber regelmäßig: 1–2 Einwürfe pro Kapitel an tragenden Stellen. Gelegentliches „du" (an Xu Ran) erlaubt — aber kein separater Rahmen-POV. |
+| **Start** | **Direkt am Ende von *Stones and Bones*:** Mei herrscht blutig über die People als „das stärkste Ding". Das früher übersprungene „After the tribe, I left" wird jetzt **gelebt** (Herrschen → Tod der Mutter → Weggang). |
+| **Hybrid-Umfang** | 135.000 Jahre gehen nicht lückenlos szenisch. Lösung wie *Embers* intern: **volle immersive Szenen für die tragenden Episoden**, dazwischen **ehrliche Kompression durch die Erzählerin**. Immersion, wo es zählt; Erzähler-Raffung über die Äonen. |
+| **Trenner** | Keine mehr nötig (kein Rahmen-Wechsel). Writing Rule 40 gilt wieder normal. Zeit-/Ortssprünge über Absatz + Erzähler-Einwurf. |
+| **Namen-Regel** | Bleibt: Menschen über **Funktion + Merkmal**. **Einziger überlebender Eigenname: Lin Feiyun.** Die Erzählerin *begründet* die Regel jetzt im Text (sie behält Formen, nicht Namen). |
+| **Verworfen** | Prosa-Fieberkurve (§1.1 alt), Xu-Ran-Präsens-Rahmen, `0-01-01`-Prolog. Taubheit wird über **Verhalten + Erzähler-Kommentar** gezeigt, nicht über verdünnende Syntax. |
 
 ---
 
-## 1. Die drei Devices, die dieses Buch tragen
+## 1. Die Devices, die dieses Buch tragen
 
-Ohne diese drei ist ein 135.000-Jahre-Buch entweder trockene Chronik oder unlesbar lang. Sie sind der eigentliche Trick:
+Ein 135.000-Jahre-Buch braucht Tricks, sonst wird es Chronik oder unlesbar lang. Die tragenden:
 
-### 1.1 Prosa-Dichte als Fieberkurve *(wichtigstes Device)*
-Die **Texturdichte der Prosa spiegelt Yuns Fühlfähigkeit** und sinkt über das Buch monoton — der Leser *fühlt* die Taubheit, statt sie erklärt zu bekommen.
-- **Beat 1–2 (Freiheit, erster Verlust):** reich, sensorisch, lange Sätze, Farbe, Geruch, Geschmack. Volle Lebendigkeit.
-- **Beat 3 (Muster):** beginnt zu raffen — Montagen, kürzere Absätze, weniger Sinnesdetail.
-- **Beat 4 (Lin Feiyun):** kehrt bewusst zur vollen Dichte zurück — die letzte warme Blüte, ein Kontrast-Insel. Danach nie wieder so warm.
-- **Beat 5–6 (Abstieg, Wiederholung):** die Prosa verdünnt sichtbar. Nominal, klinisch, kurz. Gesichter ohne Namen, Ereignisse als Aufzählung. Kälte in der Syntax.
-- **Beat 7 (Schwelle):** fast tonlos. Kurze Sätze. Keine Wertung mehr.
-- **Regel:** Nie kommentieren („und ich wurde kälter"). Die Form macht es. Yun benennt ihre Taubheit nicht — sie *ist* sie. **ABER:** „dünner" heißt nie „hohl" — kritischer Guardrail in 1.4 beachten, sonst kippt es in den früh-*Echoes*-Ton.
+### 1.1 Immersion + eingreifender Erzähler *(neues Kern-Device — ersetzt die alte Fieberkurve)*
+Das Buch liest sich wie eine **erlebte Geschichte**, nicht wie ein Bericht. Volle Szenen (Dialog, Echtzeit, Körper, Sinne) tragen die emotionalen Kerne. Die Taubheit wird **nicht** über verdünnende Prosa gezeigt (das las sich zu knapp), sondern über:
+- **Meis Verhalten** — was sie mechanisch tut und nicht mehr fühlt. Der Leser sieht die Kälte an ihren Handlungen.
+- **Den Erzähler-Kommentar** — die alte Yun benennt aus dem Jetzt, was die junge Mei damals nicht sah („Sie hielt es für Stärke. Sie hielt es lange dafür."). Der Split ich/sie IST die Trauer.
+- **Kontrast** — die glücklichen Beats (Freiheit, Lin Feiyun) strahlen voll; die späten zeigen dieselbe Frau, die dieselben Dinge tut und nichts mehr empfindet. Wärme bleibt in der *Erzählstimme*, schwindet im *erlebten Leben*.
+- **Ehrliche Kompression** — die Erzählerin rafft die Wiederholungen selbst („Das tat ich tausendmal; ich erzähle dir das eine Mal, das zählte."). So bleibt die Zeitspanne tragbar, ohne dünn zu werden.
 
 ### 1.2 Zeitraffung ohne Jahreszahlen
 Zeit wird nie in Jahren gemessen (Yuns Welt hat den Begriff kaum, s. B1-Zeitregel). Sprünge über:
@@ -398,40 +400,40 @@ Warnung: **nicht in den Ton der frühen *Echoes*-Kapitel (UTE B4) abrutschen** �
 
 ---
 
-## 6. Kapitelschnitt
+## 6. Kapitelschnitt (REVIDIERT — immersiver Modus)
 
-> **Ordner:** `20 - Chapters/03 - Origins/02 - The Long Silence/` (Titel entschieden: ***The Long Silence***; Arbeitstitel dt. „Die Lange Stille"). **Datei-Schema exakt wie Buch 1:** `Beat-SzeneImBeat-Laufnummer.md` (z. B. Buch 1 `4-03-17.md`). **Schnitt am Turn** = Writing Rule 40; **sanfte Einstiege** (keine Ein-Satz-Hooks) = Rule 50. Kein Wortzahl-Ziel. · **Status:** Alle 19 Kapitel als Prosa geschrieben (Prolog + 18); Rahmen-Architektur (Xu Ran 3rd present + Trenner / Yun 1st past) umgesetzt.
+> Neuer Modus: volle immersive Kapitel (Embers-Dichte), 3rd limited + Erzähler-Einwürfe, Start an SaB-Ende. Kapitel deutlich länger als die alte dünne Fassung; Beats dürfen wachsen. Reihenfolge = Lese-/EPUB-Reihenfolge (Dateien sortieren nach Name). Schema `Beat-SzeneImBeat-Laufnummer.md`. **Der alte `0-01-01`-Prolog entfällt.** Slots werden in Lesereihenfolge mit den neuen Szenen überschrieben; Feinausrichtung der Dateinamen = kosmetischer Schluss-Pass.
 >
-> **Rahmen-Handhabung:** Feuer 1 = eigenes Prolog-Kapitel (`0-01-01`). Feuer 2 & 3 sind **Kapitelenden** (in `4-03` bzw. `7-02` eingefaltet), keine eigenen Kapitel — so bleiben es „max. 3 Berührungen", zwei davon als Schluss-Beat.
+> **Status:** Rewrite abgeschlossen (07.09.2026). Beat 1 (Stamm) auf 4 Kapitel ausgebaut (Weggang als Erosion, ausgelöst durch Kohs Tod), Beat 4 (Lin Feiyun) auf 4 Kapitel. **19 volle Kapitel** (`1-01-01` … `7-02-19`), lückenlos durchnummeriert. Start an SaB-Ende, Cliffhanger zu *Liè*. ~12.100 Wörter.
 
-| Datei | Beat | Szene(n) | Schnitt am Turn (Kapitelende) | Prosa-Dichte | Arbeitslabel |
-|---|---|---|---|---|---|
-| `0-01-01` | Prolog/Rahmen | Prolog (Feuer 1) | „Danach ging ich fort — das kennt noch niemand." | mittel | Das Mädchen aus der Höhle |
-| `1-01-02` | 1 Hook | 1.1 | Sie muss nirgends hin — Zeit als Boden, keine Dringlichkeit | **hoch** | Die Welt war meine |
-| `1-02-03` | 1 Hook | 1.2 | Der Beinahe-Tod löst sich auf — „Glück." | hoch | Der Körper, der nicht kaputtging |
-| `1-03-04` | 1 Hook | 1.3 | Sie bleibt, es ist gut — „so würde es bleiben" (Ironie) | hoch | Die Leute am Wasser |
-| `2-01-05` | 2 PT1 | 2.1 | Das Spiegelbild — *nur ich bleibe* | hoch→mittel | Die Feuerhüterin |
-| `2-02-06` | 2 PT1 | 2.2 | Sie geht bei Nacht — *so wird es sein. Immer.* | mittel | Das erste Fortgehen |
-| `3-01-07` | 3 Pinch1 | 3.1 (Montage) | Sie hört auf, nach Namen zu fragen | mittel (raffend) | Wieder und wieder |
-| `3-02-08` | 3 Pinch1 | 3.2 | Erstes „fast nichts" beim Gehen | mittel | Der Handel, den ich machte |
-| `4-01-09` | 4 Midpoint | 4.1 | Sie *will bleiben* — gegen ihre eigene Regel | **hoch (Kontrast)** | Die erste Güte ohne Grund |
-| `4-02-10` | 4 Midpoint | 4.2 | Lin Feiyun sieht das Nicht-Altern — und nimmt es an | hoch | Bleiben |
-| `4-03-11` | 4 Midpoint | 4.3 **+ Feuer 2** | Feuer: „und ich kenne noch ihren Namen" | hoch→(Rahmen) | Ihr Tod |
-| `5-01-12` | 5 Pinch2 | 5.1 | Sie geht eine Saison nicht zum Garten — „es machte nichts" | **dünn** | Der Garten, den ich aufgab |
-| `5-02-13` | 5 Pinch2 | 5.2 (Montage) | Das letzte unfertige Gesicht | dünn (zerfallend) | Gesichter ohne Namen |
-| `5-03-14` | 5 Pinch2 | 5.3 | „es störte sie nicht, dass es sie nicht störte" | dünn | Das erste Mal nichts |
-| `6-01-15` | 6 PT2 | 6.1 | „nicht neu — nur größer" | dünn, klinisch | Die ersten Mauern |
-| `6-02-16` | 6 PT2 | 6.2 | Verachtung verkalkt | dünn, klinisch | Das Reich, das mich langweilte |
-| `6-03-17` | 6 PT2 | 6.3 | „bereit für alles" — die Waffe wartet | tonlos | Allein unter Vielen |
-| `7-01-18` | 7 Resolution | 7.1 | Das Gerücht entsteht (eine Frau, die nicht stirbt) | tonlos | Ich hörte auf, mich zu verstecken |
-| `7-02-19` | 7 Resolution | 7.2 **+ Feuer 3** | „Xu Ran, du siehst müde aus. Machen wir morgen weiter." | tonlos→(Rahmen) | Die Hand auf der Schulter |
+| Slot | Beat | Immersive Szene | Turn (Kapitelende) | Erzähler-Einwurf |
+|---|---|---|---|---|
+| `1-01-01` | 1 Hook | Rückkehr: herrschen über den Stamm, der sie verstieß · Koh (angespannt) · unbanishable & einsam | „Nothing got in" — bleibt für Koh | „Koh made me" (Koh = Ursprung von allem) |
+| `1-02-02` | 1 Hook | Die Erosion: die Jungen kennen nur „die Mächtige" · ein Kind duckt sich · Tod der Mutter (kalt) | nur Koh hält sie noch | „a door walled over" |
+| `1-03-03` | 1 Hook | Die Verengung: die letzten Alten sterben · Koh an „ihrem Platz" · „You should have let him have me" | „You're the last one who knew me" | unversöhnt; Yun vergibt zu spät |
+| `1-04-04` | 1 Hook | Kohs Tod („Good beetle") → sie geht (Prozess, kein Schnitt) | „looking for the thing she could not have" | Muster geboren: Zugehörigkeit vs. Gefürchtetsein |
+| `2-01-05` | 2 PT1 | Freiheit: die Welt schmecken · Beinahe-Tod (Dao unsichtbar) | „Glück." | Dao-Wink für UTE-Leser |
+| `2-02-06` | 2 PT1 | Die Leute am Wasser · die Feuerhüterin | Sie bleibt, es ist warm | — |
+| `3-01-07` | 3 Pinch1 | Feuerhüterin: Feuer-tragen, Altern & Tod | Spiegelbild — *nur ich bleibe* | „Ich werde alle überleben" |
+| `3-02-08` | 3 Pinch1 | Erstes Fortgehen (gesehen → gehen) + Muster | *so wird es sein* | Namen-Regel geboren |
+| `3-03-09` | 3 Pinch1 | Der Handel (dünner binden) · erstes „fast nichts" | erstes „fast nichts" | Vorbote der Taubheit |
+| `4-01-10` | 4 Midpoint | Lin Feiyun: die Türschwelle, die Güte ohne Grund | Sie *will bleiben* | der einzige Name |
+| `4-02-11` | 4 Midpoint | **SoL: die gemeinsamen Jahre** (Heilerin+Bäuerin, Setzlinge, Fieberwinter, „serrated: life") | das Nicht-Altern hängt | „das Tapferste, was sie je tat" |
+| `4-03-12` | 4 Midpoint | **Spirit Beast am Acker · Mei bricht die Regel · Reveal + Annahme** | „Who'd haul the next one?" | „was sie mir gab" |
+| `4-04-13` | 4 Midpoint | Ihr Tod (Ohnmacht gegen Zeit; Boar-Payoff) | Sie geht; etwas schließt sich | „grief being the last thing to go" |
+| `5-01-14` | 5 Pinch2 | Der Garten, den sie aufgab | „es machte nichts" | LF-Splitter-Erinnerung (Setzlinge) |
+| `5-02-15` | 5 Pinch2 | Das erste Mal nichts (ein gerenderter Tod) | „…dass es sie nicht störte" | „Da ging ich hinüber." |
+| `6-01-16` | 6 PT2 | Zivilisation (LF-Dörfer skalieren) · das Reich | „nicht neu — nur größer" | Reich funktional, kein Name |
+| `6-02-17` | 6 PT2 | Allein unter Vielen · Rettungs-Reflex am Faden | „bereit für alles" | „woran einmal alles hängen würde" |
+| `7-01-18` | 7 Resolution | Sie hört auf sich zu verstecken · das Gerücht | eine Frau, die nicht stirbt | — |
+| `7-02-19` | 7 Resolution | Die Hand des Kriegsherrn (Cliffhanger → *Liè*) | Hand, Name, Richtung — Schnitt | Brücke zu Buch 3 |
 
-**Summe: 19 Kapitel** (Prolog + 18). Jedes endet an einem Turn (Rule 40).
+**19 volle Kapitel.** Zwei emotionale Kerne mit je 4 Kapiteln: **Beat 1 (Stamm)** = warum sie geht (Macht isoliert; von „bekannt" zu „die Mächtige"; Kohs Tod als Auslöser). **Beat 4 (Lin Feiyun)** = die eine warme Bindung, deren Tor die Handlung (Spirit Beast) öffnet.
 
 ### Hinweise zum Schnitt
 
-- **Midpoint darf wachsen.** Wie in Buch 1 (dort hatte Beat 4 die meisten Kapitel) können `4-01`/`4-02` (Lin Feiyun) beim Schreiben je in zwei Kapitel zerfallen, wenn der Stoff es trägt — dann laufen die Laufnummern entsprechend weiter (Muster wie Buch 1 `4-04-18/19/20`). Lin Feiyun ist der Kern; ihr Raum geben.
-- **Höchstes Lesbarkeits-Risiko:** `5-01` bis `6-03` (die dünne Strecke). Genau hier greift der **Anti-Echoes-Guardrail 1.4** am schärfsten — jedes dieser Kapitel braucht mindestens einen lebendigen Beat (Sinnesschock, Trocken-Witz, scharfe Erinnerung), sonst kippt es in früh-*Echoes*. Beim Schreiben dieser sechs Kapitel 1.4 danebenlegen.
-- **Zwei Montagen** (`3-01`, `5-02`) sind bewusst je *ein* Kapitel — nicht auseinanderziehen. `3-01` scharf, `5-02` kontrolliert zerfallend.
-- **Kapitel-Einstiege** (Rule 50): kein Kapitel mit isoliertem Ein-Satz-Hook öffnen — in Sinneseindruck/Körper/Umgebung hineinführen, auch in den dünnen Kapiteln.
-- **Nächster Schritt:** Ordner + leere Kapitel-Stubs anlegen (auf Zuruf), dann `0-01-01` als Prosa-Probe schreiben — Ton-Balance am echten Text prüfen.
+- **Beat 1 (Koh) trägt das „Warum-sie-geht":** Macht + Gefürchtetsein machen Zugehörigkeit unmöglich; der Weggang ist Erosion, kein Schnitt. **Koh = die Wunde, aus der Yun entsteht** (SaB: Mei wurde verstoßen, *weil* sie Koh rettete; Koh schwieg). Mei weiß nur den Schmerz; der Yun-Erzähler weiß den Ursprung („Koh made me"). Payoff: „sitting with the dying" beginnt an Kohs Bett (Ritual serienweit).
+- **Beat 4 (Lin Feiyun) ist der zweite Kern** — SoL trägt die Bindung, damit der Tod selbst traurig macht. Payoffs: Setzlinge `4-02` → `5-01`; „serrated: life, smooth: death" → Yuns Wei-Lektion in *Embers*; „the part that had once kept a garden" (Embers) = LFs Garten.
+- **Lin Feiyun = Heilerin *und* Bäuerin**; ihr früh-sesshaftes Dorf skaliert später zu den Städten, die Mei verachtet (`6-01`).
+- Jedes Kapitel: **sanfter Einstieg** (Rule 50), **Schnitt am Turn** (Rule 42), **mind. ein Erzähler-Einwurf** (ich/sie-Device).
+- **Kontinuität zu *Stones and Bones*:** „the warm", Koh (2 Sommer älter, furchtlos, „Good beetle"/„don't show them"), der Platz am Fluss, die Verstoßung fürs Retten. Palm-Stop des Spirit Beast (`4-03`) echot SaBs „anchored"/Handflächen-Schlag.
