@@ -7,7 +7,7 @@ Konsolidierte Zusammenfassung aller Analytics-Untersuchungen (Fiction 152927, "U
 - Serie abgeschlossen **12.05.2026** (Clouds-68, 16:53 Uhr; Afterword selber Tag, 19:12 Uhr — verifiziert via `chapter_publish_dates.csv`), 423 Kapitel, 7 Bücher (Embers, Roots, Silence, Echoes, Fractures, Mirrors, Clouds). Danach nur noch administrative Einträge: "Available on Amazon" (15.05.) und ein Origins-Crosspromo-Post (19.05.) — kein Story-Content.
 - Launch: **14. Februar 2026** (Embers-01).
 - Datenquelle: `ute_pageviews_raw.json` (per-Kapitel Tages-Views, 2026-03-08 bis 2026-09-07, 184 Tage — Pageview-Tracking begann erst am 7./8. März, nicht beim Launch).
-- Stand 08.09.2026 (live Dashboard): **243,482 Views** gesamt, ~229 Follower, Rating ~3.96 (gefallen von 4.12 — AI-Tag zieht Downvotes), ~51 Favs.
+- Stand 18.09.2026 (live Dashboard): **245,626 Views** gesamt (+2,144 seit 08.09., ~214/Tag Ø über 10 Tage), ~229 Follower, Rating ~3.96 (gefallen von 4.12 — AI-Tag zieht Downvotes), ~51 Favs.
 
 ## 2. Wachstumsverlauf / Traffic-Geschichte
 
@@ -106,7 +106,11 @@ Aus `00 - General/RR-Metrik.md` (verifiziert via RR-Suche, 26.04.2026, 128,711 d
 ## 9. Offene Fragen
 
 - Exakter Auslöser von 24. März / 6. April auf Referrer-Ebene nicht rekonstruierbar (keine historischen Referrer-Snapshots aus dieser Zeit).
-- **Sommerloch vs. echter Rückgang (September):** aktuell zu wenig Datenpunkte (~1 Woche), um zu unterscheiden. Trending taucht in aktuellen Referrern weiterhin auf (klein, 5 Sessions), aber das war schon vorher bekannt ("flippt gelegentlich rein") — kein Hinweis auf neuen Schub. Empfehlung: 3-4 weitere Wochen abwarten.
+- **Sommerloch vs. echter Rückgang (September):** Update 18.09. — Tages-Views (rollendes 31-Tage-Fenster, `/api/data/chapterv/`) zeigen ab 10. September einen klaren Ausschlag nach oben: Sep 3-9 lag durchgehend niedrig (10-252/Tag), Sep 10-17 mehrfach deutlich höher (460, 429, 507, 407 an einzelnen Tagen, dazwischen aber auch wieder Ausreißer nach unten wie 2 und 20). Insgesamt eher volatil-aufwärts als eindeutig stabilisiert — spricht tendenziell FÜR ein Abklingen des Sommerlochs, aber die Tag-zu-Tag-Varianz ist immer noch zu groß für eine sichere Trendaussage. Empfehlung weiterhin: noch 2-3 Wochen beobachten, bevor eine klare Trendaussage getroffen wird.
+- **Referrer-Auffälligkeit 18.09. (ungeklärt, zwei Erklärungen möglich):** `fictions/latest-updates` zeigte bei UTE 1 User mit 425 Sessions in 7 Tagen; bei Origins (Fiction 167806, 37 Kapitel) dasselbe Muster mit 39 Sessions. Beide Werte liegen fast exakt bei der jeweiligen Gesamt-Kapitelzahl. Zwei gleich plausible Erklärungen, NICHT sicher unterscheidbar mit den verfügbaren Daten:
+  1. Ein einzelner Leser mit altem, gespeichertem "latest-updates"-Link, der die komplette Story an einem Tag durchgelesen hat.
+  2. Ein Crawler/automatisiertes Tool, das einen alten Link erneut abgeklappert hat — die "Sessions ≈ Kapitelzahl"-Signatur spricht nicht eindeutig gegen einen Bot (ein systematischer Crawler erzeugt dasselbe Muster, evtl. sogar präziser als ein Mensch). "RR filtert Crawler" gilt vermutlich nur für deklarierte/erkennbare Bots (User-Agent, IP-Listen); ein Tool mit echter Browser-Engine (Puppeteer/Playwright/Selenium) wäre für clientseitiges JS-Tracking nicht von einem echten User zu unterscheiden.
+  Fazit: nicht auflösbar, nicht als eindeutiges Engagement-Signal werten.
 - Kein Zugriff auf Vergleichszahlen anderer Autoren/Serien (Ursache-Frage fürs Bleedout bleibt daher branchenüblich-spekulativ, nicht hart belegbar).
 
 ## 10. Methodik-Hinweise
