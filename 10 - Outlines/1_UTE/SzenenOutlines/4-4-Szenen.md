@@ -1,211 +1,173 @@
 # Buch 4 — Part 4: MIDPOINT — ★ SERIEN-MIDPOINT ★ (7PS Gesamt: Midpoint | 7PS Buch: Midpoint | 7PS Part: eigene Struktur)
 
-**Part-Absicht:** „Der Shift: nicht mehr ‚ich will sterben' — sondern ‚ich will VERSTEHEN, warum ich nicht sterben kann.'"
+> **STATUS: Ist-Abgleich.** Nur 7 Kapitel (4-4-01-26.md bis 4-4-07-32.md), nicht 9 wie geplant — die Beats sind deutlich dichter gepackt, DER Serien-Midpoint-Moment fällt bereits in Kapitel 2 von 7, nicht Kapitel 6 von 9.
 
-**Wortziel:** ~15k Wörter, ~10-14 Kapitel
+**Part-Absicht:** „Der Shift: nicht mehr ‚ich will sterben' — sondern ‚ich will VERSTEHEN, warum ich nicht sterben kann.'" — **hält im Text**, aber zeitlich stark vorgezogen.
 
-**★ SERIEN-MIDPOINT:** DER zentrale Moment der gesamten 7-Buch-Serie. Yuns Frage ändert sich fundamental. Nicht Hoffnung — Entschlossenheit. Nicht Leben-Wollen — Erkenntnis-Wollen.
+**★ SERIEN-MIDPOINT (Ist-Lage):** Der Qi-Stopp passiert bereits am ENDE von `4-4-02-27.md` (geplant: Kapitel „4-06"). Die explizite neue Frage „What am I?" kristallisiert sich in `4-4-03-28.md`/`4-4-04-29.md`.
 
-**Scharmützel Part 4:** KEIN Kampf. Klippensprung stattdessen — die Kampf-gegen-sich-selbst-Variante. Innerer Schritt = INTERN (kein äußerer Gegner mehr nötig).
+**⚠ Leitwort „Rein." — WICHTIGSTE Abweichung des ganzen Buchs:** Der exakte Wortlaut „Rein." kommt in KEINEM der sieben Kapitel vor (das Buch ist auf Englisch verfasst, das deutsche Leitwort wurde nie wörtlich übersetzt). Die nächstliegende tatsächliche Entsprechung steht in `4-4-04-29.md`: *"Into. Inward. Toward the center. Toward the substrate."* sowie in `4-4-02-27.md`: *"I stopped counting and turned inward."* Das Leitwort-Konzept („nach innen") ist klar vorhanden, aber als VARIIERENDE Formulierung umgesetzt, nicht als 3x identisch wiederholte Phrase. Siehe `4-Midpoint-Outline.md` für die bucheinheitliche Neubewertung des Leitwort-Systems.
 
-**3 Sinnesmarker Klippensprung:**
-1. VORHER: Absolute Stille. Wind stoppt. Eigener Atem klingt fremd.
-2. WÄHREND (der Stopp): Innerer Druck. Hand, die ihr Herz zudrückt. Wärme, die BRENNT.
-3. DANACH: Kälte. Eisig. Gelenke steif. Sie zittert — zum ersten Mal seit Jahrhunderten.
+**Scharmützel Part 4:** Kein Kampf — hält exakt. Klippensprung als Kampf gegen sich selbst.
 
-**Meta-Budget Part 4:** 🔴 FIX #1: Klippensprung — Qi stoppt autonom (~Kapitel 4-06). DER Serien-Midpoint-Moment. MUSS sitzen.
+**3 Sinnesmarker Klippensprung — alle drei vorhanden, aber anders verteilt:**
+1. VORHER (Windstille, fremder Atem): `4-4-01-26.md`
+2. WÄHREND (Druck, brennende Wärme, "the substrate stirred"): `4-4-02-27.md`
+3. DANACH (Kälte, Zittern — 17 Minuten lang gezählt): `4-4-02-27.md`/`4-4-03-28.md`
 
-**Leitwort:** Yun: *„Rein."* (1. Verwendung: ~hier, nach dem Klippensprung-Shift)
-
-**Running Gag Variation:** Laute Meditation — sie ertappt sich, den Rhythmus zu kennen.
-
-**Doppelszenen-Erlaubnis:** Emotionale Szenen (Klippensprung) profitieren von Länge. 2.000–2.500 Wörter erlaubt.
+**Xu Ran:** Erscheint bereits am ENDE von `4-4-01-26.md` (kurz vor dem Sprung, auf dem Switchback) — nicht erst nach dem Sturz wie vage geplant.
 
 ---
 
-## Szene 4-4-01-01 (Midpoint | Midpoint | Hook)
+## Kapitel 4-4-01-26.md — Hook (+ Sprung am Kapitelende)
 
-### Absicht
-Abgrund. Wörtlich und metaphorisch. Yun steht an der Klippe — keine Dramatik, nur Feststellung.
+### Tatsächlicher Inhalt
+Nach zwei Tagen in den Bergen erreicht der Weg eine ca. 800 Meter tiefe Klippe. Der Wind hört abrupt auf; in der absoluten Stille klingt Yuns eigener Atem fremd. Sie setzt einen Schritt über den Rand — spricht dabei zunächst so, als wäre Xu Ran abwesend. Kurz vor dem Sprung erscheint er auf dem Switchback hinter ihr und sieht sie am Rand stehen. Sie springt noch im selben Kapitel: "Let's see."
 
-### Key Beat
-Abgrund. Wörtlich. Yun steht an einer Klippe. 800 Meter. Unten: Fels. Kein Wasser. Sie sieht nach unten. Einfach so.
+### Zitate
+- "You were not here. Behind me - at the camp, or on the path, or wherever your trajectory had taken you."
+- "I saw you on the switchback behind me."
+- "Let's see."
 
 ### Ton
-Kalt. Klinisch. Kein Pathos. Eine Feststellung, kein Hilferuf.
-
-### Outline
-- **Die Klippe:** 800 Meter. Senkrecht. Unten: Fels. Kein Wasser, kein Busch, keine Gnade. Nur Stein.
-- **Yun steht am Rand.** Zehen über der Kante. Wind. Stille.
-- **Sinnesmarker #1 (Vorher):** Absolute Stille. Wind stoppt — als würde die Welt den Atem anhalten. Kein Laut. Yuns eigener Atem klingt fremd — zu laut, zu nah.
-- **Kein innerer Monolog über Suizid.** Sie steht da. Sieht nach unten. Einfach so. Wie jemand, der über eine Mauer schaut.
-- **Xu Ran:** Nicht zu sehen. Entweder zurück am Lager oder noch auf dem Weg. Er wird den Sturz beobachten — aber das kommt später.
-- **Atmosphäre:** Die Welt ist still. Keine Tiere, kein Wind, kein Insekt. Nur sie und der Abgrund.
+Kalt, klinisch, kein Pathos.
 
 ### Sonstiges/Wichtiges
-- Klippe soll REAL wirken — geographisch plausibel, kein Fantasy-Setting
-- ⚠ Kein Melodrama. Feststellung. Punkt.
+- Abweichung: Der Sprung selbst passiert bereits am ENDE dieses Kapitels, nicht erst in einem eigenen Kapitel 4-02.
+- Xu Ran erscheint hier schon kurz vor dem Sprung — nicht wie vage geplant erst danach.
 
 ---
 
-## Szene 4-4-02-01 (Midpoint | Midpoint | Plot Turn 1)
+## Kapitel 4-4-02-27.md — Pinch 1 + 🔴 DER SERIEN-MIDPOINT-MOMENT
 
-### Absicht
-Der Sprung. Kalt, nicht impulsiv. „Mal sehen." Eine Feststellung.
+### Tatsächlicher Inhalt
+Yun fällt die Klippe hinunter, zählt die Sekunden, bis der Sturz gleichförmig wird. Sie wendet die Aufmerksamkeit nach innen: Qi zirkuliert weiter, doch ein tieferes "substrate" regt sich und schickt Wärme durch andere Bahnen. **Hier, nicht in einem späteren Kapitel, STOPPT etwas den Fall** — nicht Qi, nicht Technik. Sie schwebt kurz, landet unverletzt auf dem Fels. Danach weicht die Wärme einer inneren Kälte; sie zittert ungewohnt stark.
 
-### Key Beat
-Sie springt. Kalt. Nicht impulsiv — eine Feststellung. „Mal sehen." Der Fall. Der Wind. Die Sekunden.
+### Zitate
+- "The substrate stirred."
+- "Something seemed to stop my fall."
+- "Standing on the grey rock. At the bottom of eight hundred meters. Alive. As always. Trembling. Not as always."
 
 ### Ton
-Sachlich bis ins Unerträgliche. Der Sturz wird beschrieben wie eine physikalische Beobachtung.
-
-### Outline
-- **Sie springt.** Kein Anlauf. Kein Zögern. Ein Schritt nach vorne, dann: Luft.
-- **„Mal sehen."** Die einzigen Worte. Kein Abschied, keine Botschaft, kein Statement. Experiment.
-- **Der Fall:** Wind. Kälte. Die Welt rauscht an ihr vorbei. Felswand, grau. Himmel, blau. Fels unten, der größer wird.
-- **Die Sekunden:** Gezählt. Sachlich. 1. 2. 3. Jede Sekunde eine Ewigkeit.
-- **Yuns Perspektive:** Beobachtend. Wie eine Wissenschaftlerin, die einen Versuch durchführt. DIESMAL beobachtet sie genauer. Was passiert GENAU in dem Moment, in dem sie nicht stirbt?
-- **Doppelszenen-Erlaubnis:** Diese Szene darf lang sein. 2.000+ Wörter. Der Sturz braucht Raum.
+Unheimlich, körperlich — das Unfassbare als körperliche Erfahrung.
 
 ### Sonstiges/Wichtiges
-- ⚠ Kein Weichzeichner. Kein „sie dachte an Wei." Reine Physik + Beobachtung.
-- Der Sturz ist der Anfang des Experiments, nicht das Drama.
+- 🔴 **DAS ist der Serien-Midpoint-Moment** (geplant für „Kapitel 4-06" — tatsächlich bereits Kapitel 2 von 7). Alle nachfolgenden Bücher bauen auf diesem Moment auf; Planungsdokumente auf Serienebene müssen diese Verschiebung kennen.
+- Fallhöhe wird in 4-4-06-31.md nachträglich präzisiert: **812 Meter** (Xu Rans Messung), nicht pauschal 800.
+- Xu Ran ist NICHT unten bei ihr; er beobachtet von oben vom Grat (bestätigt rückblickend in 4-4-06-31.md).
+- Die drei Sinnesmarker (Stille/Atem, Druck/Wärme, Kälte/Zittern) sind alle vorhanden, aber Marker 2 und 3 liegen beide in diesem einen Kapitel statt auf zwei verteilt.
 
 ---
 
-## Szene 4-4-03-01 bis 4-4-04-01 (Midpoint | Midpoint | Pinch 1)
+## Kapitel 4-4-03-28.md — Midpoint-Vorbereitung
 
-### Absicht
-Etwas STOPPT den Fall. Nicht Qi. Nicht Technik. Etwas in ihr. Der Leser soll begreifen: das ist nicht normal.
+### Tatsächlicher Inhalt
+Yun sitzt/liegt auf dem kalten Fels und zählt siebzehn Minuten Zittern, während ihre Gedanken zum Eingriff in ihrem Inneren zurückkehren. Sie begreift: Nicht sie selbst hat den Sturz gestoppt — das "substrate" handelt unabhängig von ihrem Willen. Als die Kälte nachlässt, entsteht ein starker Wunsch: Sie will verstehen, was sie ist. Sie steht diesmal nicht bloß automatisch auf, sondern mit Richtung.
 
-### Key Beat
-Etwas STOPPT den Fall. Nicht Qi. Nicht Technik. Etwas in ihr. Reflex. Sie schwebt. Setzt auf. Unverletzt. Wie immer.
+### Zitate
+- "I wasn't really immortal. I was inhabited."
+- "I wanted to understand what I was."
+- "What am I?"
 
 ### Ton
-Unheimlich. Körperlich. Das Unfassbare als körperliche Erfahrung.
-
-### Outline
-**Kapitel 4-03: Der Stopp**
-- **Sinnesmarker #2 (Während/der Stopp):** Innerer Druck. Wie eine Hand, die ihr Herz zudrückt. Wärme von innen, die BRENNT. Nicht Qi — tiefer. Als würde ihr Körper sich weigern.
-- **Der Stopp:** Plötzlich. Irgendwo in den letzten 100 Metern. Kein Ruck — ein Übergang. Als würde die Luft dicker. Als würde die Schwerkraft... nachgeben.
-- **Schweben.** Für einen Moment. Schwerelos. Dann: langsames Absetzen. Wie ein Blatt.
-- **Sie setzt auf.** Unverletzt. Wie immer. Staub auf den Kleidern.
-
-**Kapitel 4-04: Danach**
-- **Sinnesmarker #3 (Danach):** Kälte. Eisig. Als hätte etwas den Preis bezahlt. Gelenke steif. Sie steht auf dem Fels, unverletzt, und zittert — zum ersten Mal seit Jahrhunderten.
-- **Das Zittern:** Es hört nicht auf. Minuten. In ihren Händen, ihren Knien, ihrem Kiefer. Nicht Angst. Nicht Kälte. Etwas ANDERES.
-- **Sie hat überlebt.** Natürlich hat sie überlebt. Aber diesmal hat sie GESPÜRT, wie.
+Nüchtern, am Rand der Fassungslosigkeit.
 
 ### Sonstiges/Wichtiges
-- 🔴 FIX-Meta-Moment: Qi stoppt autonom. DER Serien-Midpoint-Moment. MUSS sitzen.
-- ⚠ Keine Erklärung. Nur Sensorik.
-- 2 Kapitel, weil der Stopp + Nachhall Raum brauchen
+- Xu Ran NICHT bei ihr am Fuß der Klippe — sie ist allein.
+- Die neue Motivation ("verstehen wollen, was sie ist") beginnt bereits hier, einen Schritt vor dem eigentlichen Shift-Kapitel.
 
 ---
 
-## Szene 4-4-05-01 bis 4-4-06-01 (Midpoint | Midpoint | Midpoint — ★★★)
+## Kapitel 4-4-04-29.md — Midpoint (DER SHIFT, explizit)
 
-### Absicht
-DER SHIFT. Der zentrale Moment der gesamten Serie. Die Frage ändert sich: Nicht „Warum sterbe ich nicht" → „Was BIN ich?"
+### Tatsächlicher Inhalt
+Auf einem anderen Felsblock rekonstruiert Yun den Eingriff und unterscheidet das tiefere "substrate" von Qi, Geist und bekannten Kultivierungsstrukturen. Die Frage "Warum sterbe ich nicht" beantwortet sie für sich; an ihre Stelle tritt "What am I?" — keine Hoffnung, sondern Richtung und Entschluss. Am Kapitelende beginnt sie aus eigenem Antrieb, die Klippe hochzuklettern.
 
-### Key Beat
-DER SHIFT. Diesmal beobachtet sie den Prozess. Spürt GENAU, wie es passiert. Es kommt aus IHR. Nicht von außen. Die Frage ändert sich: „Was BIN ich?"
+### Zitate
+- "The question had changed."
+- "What am I?"
+- "I began to climb."
+- "Into. Inward. Toward the center. Toward the substrate."
 
 ### Ton
-Leise Epiphanie. Kein Fanfaren-Moment — ein stilles Erdbeben. Die Welt sieht gleich aus. Innen ist alles anders.
-
-### Outline
-**Kapitel 4-05: Beobachtung**
-- **Yun rekonstruiert.** Was GENAU hat sie gespürt? Die Wärme. Den Druck. Die Hand, die ihr Herz zudrückte. Es war von INNEN. Nicht ihr Qi. Nicht ihre Technik. Etwas Tieferes.
-- **Kein Name dafür.** Sie versucht es zu benennen — scheitert. Es ist, als würde man versuchen, den eigenen Herzschlag zu beschreiben. Es IST einfach.
-- **Die Erkenntnis formt sich:** Es kommt aus IHR. Nicht von außen. Kein System. Kein Gott. Kein Fluch.
-
-**Kapitel 4-06: Der Shift — 🔴 Serien-Midpoint**
-- **Die Frage ändert sich.** Nicht mehr „Warum sterbe ich nicht" — sondern „Was BIN ich?"
-- **Fundamental anders:** Nicht Hoffnung. Entschlossenheit. Nicht Leben-Wollen — Erkenntnis-Wollen.
-- **Keine Euphorie.** Kein „Ich hab's!" Nur: eine Kompassnadel, die sich dreht. Zum ersten Mal zeigt sie irgendwohin.
-- **Leitwort #1 Yun:** *„Rein."* — nach innen, zur Antwort. Leise. Mehr zu sich selbst. (1. Verwendung von 3.)
-- **Emotionaler Kern der Serie:** In der tiefsten Dunkelheit entsteht nicht Licht — sondern eine Frage. Und Fragen bewegen.
-- **Autorenregel:** Yun darf NUR Muster/Empfinden benennen — nie Mechanik, nie Regeln. *„Es fühlt sich an wie…"* — nie *„Die Regel ist…"*
+Leise Epiphanie — kein Fanfaren-Moment, ein stilles Erdbeben.
 
 ### Sonstiges/Wichtiges
-- ★★★ Serien-Midpoint. Dieser Moment definiert die zweite Hälfte der Serie.
-- ⚠ Kein Pathos. Kein Orchestermoment. Stille Feststellung.
-- ⚠ Visuelle Regel: Kapitel 4-06 mit 🔴 markieren im Draft.
+- ⚠ Das geplante Leitwort "Rein." fällt hier NICHT wörtlich. Die nächstliegende tatsächliche Formulierung ist "Into. Inward. Toward the center. Toward the substrate." — siehe Part-Header und `4-Midpoint-Outline.md` für die bucheinheitliche Einordnung.
+- Autorenregel eingehalten: Yun benennt ein Muster/Empfinden ("What am I?"), keine Mechanik.
+- Sie beginnt den Aufstieg SCHON HIER (nicht erst im Resolution-Kapitel) — aus eigenem Antrieb, nicht weil Xu Ran ruft.
 
 ---
 
-## Szene 4-4-07-01 (Midpoint | Midpoint | Pinch 2)
+## Kapitel 4-4-05-30.md — Pinch-2-Äquivalent (Wei-Erinnerung) + Wiederbegegnung mit Xu Ran
 
-### Absicht
-Erinnerung als Spiegel: Die schmerzhafteste Wei-Erinnerung — und JETZT will sie aufstehen. Nicht um zu leben. Um zu VERSTEHEN.
+### Tatsächlicher Inhalt
+Während des Aufstiegs erinnert sich Yun an eine kalte Nacht mit Wei: Auf seine Frage nach dem Schlimmsten antwortete sie "Waking up tomorrow", worüber er lachte. Jetzt bleibt das Aufwachen eine Last, aber sie entscheidet, es zu UNTERSUCHEN statt nur zu ertragen. Oben angekommen bemerkt sie, dass Gras, Insekten und Vögel innerhalb der früheren tödlichen Drei-Meter-Zone wieder leben. Xu Ran sitzt drei Schritte entfernt mit Notizbuch, dokumentiert Aufstieg und Veränderung, weicht reflexhaft zurück, setzt sich wieder; fragt, was sie unten herausgefunden habe. Sie: "A question."
 
-### Key Beat
-Erinnerung: „Das Schlimmste war morgen aufstehen." Wei lachte. Sie nicht. Und JETZT — jetzt will sie aufstehen. Nicht um zu leben. Um zu VERSTEHEN.
+### Zitate
+- "Waking up tomorrow."
+- "Forty-seven minutes," you said.
+- "A question."
 
 ### Ton
-Schmerzhaft-warm. Die Erinnerung schneidet — aber auf eine neue Art. Nicht Verlust. Richtung.
-
-### Outline
-- **Sinnesreiz → Erinnerung:** Die Kälte in ihren Gelenken. Kälte wie damals, in jener Nacht, als Wei —
-- **ERINNERUNG:** Wei. „Wei hat mich einmal gefragt: ‚Was war das Schlimmste, das dir je passiert ist?' Ich sagte: ‚Morgen aufstehen.' Er hat gelacht. Ich nicht."
-- **Erinnerungslänge:** 6-8 Sätze. Kurz. Direkt. Kein Ausschmücken.
-- **Der Bruch:** Dann: Stille. Und JETZT — jetzt will sie aufstehen. Der gleiche Satz. Neue Bedeutung.
-- **Nicht um zu leben.** Um zu VERSTEHEN. Das ist der Unterschied. Und er ist ALLES.
-- **Keine Träne, kein Zusammenbruch.** Nur: eine Feststellung. Die Kompassnadel zeigt.
+Schmerzhaft-warm — die Erinnerung schneidet auf neue Art: nicht Verlust, sondern Richtung.
 
 ### Sonstiges/Wichtiges
-- Die Erinnerung SPIEGELT die Situation (Wei fragte nach dem Schlimmsten → Klippensprung war das Schlimmste → und jetzt will sie aufstehen)
-- ⚠ Erinnerung = frisch, schmerzhaft, Wei-centric
+- Erinnerung und Wiederbegegnung mit Xu Ran liegen hier GEMEINSAM in einem Kapitel — zwei Outline-Kapitel früher als geplant.
+- Neu: Die frühere tödliche Zone ist nach dem Sturz verschwunden — Gras bleibt grün, Insekten und Vögel leben darin. Deutliches, sichtbares Zeichen für den Shift (nicht im Outline vorgesehen).
+- Xu Rans exakte Messung: "Forty-seven minutes" (nicht pauschal "eine Weile").
 
 ---
 
-## Szene 4-4-08-01 (Midpoint | Midpoint | Plot Turn 2)
+## Kapitel 4-4-06-31.md — Plot-Turn-2-Äquivalent
 
-### Absicht
-Xu Rans Reaktion: Er hat den Sturz gesehen. Der Leser bekommt den Shift von außen gespiegelt.
+### Tatsächlicher Inhalt
+Am Abend rekonstruieren Yun und Xu Ran am Feuer gemeinsam den Sturz. Xu Ran berichtet, was er vom Grat aus sah (inkl. der präzisierten Fallhöhe: 812 Meter); Yun beschreibt das autonome Qi, das "substrate", die Wärme, das Abbremsen. Er erwägt eine äußere Qi-Erklärung; Yun schließt sie aus — die Kraft kam aus ihrem Inneren. Xu Ran erkennt darin etwas mit eigenem Urteilsvermögen, fragt, warum sie gesprungen sei, und bittet sie, es nicht zu wiederholen.
 
-### Key Beat
-Xu Ran hat den Sturz gesehen. Blass. „Was war das?" — Stille. Sein Blick sagt: Ich habe das gesehen.
+### Zitate
+- "This suggests something with judgment."
+- "Then why did you do it?"
+- "Don't do it again."
 
 ### Ton
-Erschüttert — von seiner Seite. Von ihrer: ruhig. Die Asymmetrie ist der Punkt.
-
-### Outline
-- **Xu Ran oben.** Er hat den Sturz gesehen. Den Fall. Den Stopp. Das Aufsetzen. Unverletzt.
-- **Sein Gesicht:** Blass. Nicht Angst — Unglaube. Er hat gerade etwas gesehen, das unmöglich ist.
-- **Dialog:** „Was war das?" — Stille. Yun sieht ihn an. Sagt nichts. Sein Blick sagt: *Ich habe das gesehen.*
-- **Er schreibt.** Sofort. Notizbuch raus. Hand zittert. Die Schrift wird unlesbar.
-- **Kein langer Dialog.** Asymmetrie: Er ist erschüttert. Sie ist ruhig. Das Ungleichgewicht IST die Szene.
-- **Running Gag Variation (optional):** Später in der Szene — seine laute Meditation. Sie ertappt sich, den Rhythmus zu kennen. Normalisierung nach dem Abnormalen.
+Analytisch-angespannt — ausführlicher als geplant.
 
 ### Sonstiges/Wichtiges
-- ⚠ Xu Ran darf erschüttert sein — Yun nicht. Die Asymmetrie zeigen.
-- Dialog: Er in ganzen Sätzen, sie in Stille oder 1 Wort.
+- ⚠ Deutliche Abweichung: Geplant war eine KURZE Szene ("blass — 'Was war das?' — Stille"). Tatsächlich ist dies ein ausführliches Analysegespräch mit Messwerten (812m) und einer expliziten Bitte Xu Rans ("Don't do it again") — die erste klare persönliche Grenze, die er zieht.
+- Diese Bitte ("Don't do it again") ist im weiteren Buch relevant: Sie erschwert Xu Rans spätere neutrale Beobachterrolle beim Gift-Experiment in Part 6 (siehe `4-6-Szenen.md`).
 
 ---
 
-## Szene 4-4-09-01 (Midpoint | Midpoint | Resolution)
+## Kapitel 4-4-07-32.md — Resolution
 
-### Absicht
-Part-Ende: Der Shift ist vollzogen. Kein Fanfaren-Moment — nur Staub auf den Kleidern und eine neue Richtung.
+### Tatsächlicher Inhalt
+Nach dem Essen meditiert Xu Ran; Yun erkennt, dass sie seinen Rhythmus unbewusst auswendig gelernt hat — die erste Vertrautheit, die sie bewusst "behält". Am nächsten Morgen wählt sie an einer Weggabelung bewusst den linken, bergab führenden Pfad. Sie beschließt, frühere Überlebensereignisse und alte Wunden zu untersuchen, um Muster zu finden. Xu Ran folgt, registriert ihre Wegwahl, notiert sie im Gehen.
 
-### Key Beat
-Unten an der Klippe. Geröll. Staub auf den Kleidern. Der Shift ist vollzogen. Von „Ich will sterben" zu „Ich will verstehen."
+### Zitate
+- "I had a direction."
+- "I would investigate."
+- "The shift was complete."
 
 ### Ton
-Ruhig. Bestimmt. Nicht warm — aber nicht mehr kalt. Neutral. Wie der erste Tag nach einem Fieber.
-
-### Outline
-- **Unten an der Klippe.** Geröll. Staub. Yun wischt sich ab — mechanisch.
-- **Der Shift ist vollzogen.** Kein innerer Monolog darüber. Der Leser SPÜRT es — am Rhythmus, an der Haltung, an der Art, wie sie sich bewegt.
-- **Xu Ran oben am Rand.** Winzig. Er ruft etwas. Der Wind verschluckt es.
-- **Sie klettert hoch.** Nicht weil er ruft — weil sie WILL. Zum ersten Mal: eine Handlung aus eigenem Antrieb.
-- **Oben:** Sie steht vor ihm. Sagt nichts. Geht. Er folgt.
-- **Letztes Bild des Parts:** Zwei Gestalten, weg von der Klippe. Hinter ihnen: 800 Meter Abgrund. Vor ihnen: alles andere.
-- **Das Summen:** Leise. Folgt. Wie eine zweite Atmung.
+Ruhig, bestimmt — nicht warm, aber nicht mehr kalt.
 
 ### Sonstiges/Wichtiges
-- ★ Der Shift manifestiert sich in HANDLUNG (sie klettert hoch = eigener Antrieb), nicht in Worten
-- Ab hier: die Suche beginnt (Part 5)
-- Scharmützel-Pause: Part 4 hat keinen Kampf. Klippensprung = der Kampf gegen sich selbst.
+- Der Shift manifestiert sich in HANDLUNG (bewusste Wegwahl, konkreter Untersuchungsplan), nicht in Worten — wie geplant.
+- Running-Gag-Variation (laute Meditation, sie kennt den Rhythmus) ist HIER verankert, nicht im vorherigen Kapitel wie ursprünglich vorgesehen.
+- Ab hier beginnt konkret die Suche (Part 5) — Staub der Klippe bleibt als Beweis auf ihrer Kleidung.
+
+---
+
+## Kapitelübersicht Part 4 (Ist-Zustand)
+
+| Kapitel-Datei | Funktion | Besonderheit |
+|---|---|---|
+| 4-4-01-26.md | Hook + Sprung | Xu Ran erscheint kurz vor dem Sprung |
+| 4-4-02-27.md | Pinch 1 + 🔴 Serien-Midpoint | Qi-Stopp, Landung, Zittern — ALLES hier |
+| 4-4-03-28.md | Midpoint-Vorbereitung | 17 Min. Zittern, "I was inhabited" |
+| 4-4-04-29.md | Midpoint (DER SHIFT) | "What am I?", Leitwort-Äquivalent "Into. Inward." |
+| 4-4-05-30.md | Pinch-2-Äquivalent | Wei-Erinnerung + Wiederbegegnung Xu Ran |
+| 4-4-06-31.md | Plot-Turn-2-Äquivalent | Feuer-Rekonstruktion, "Don't do it again" |
+| 4-4-07-32.md | Resolution | Bewusste Wegwahl, Untersuchungsplan |
+
+**Gesamt: 7 Kapitel (nicht 9 wie geplant). Der titelgebende Serien-Midpoint-Moment liegt in Kapitel 2 von 7, nicht in der Buchmitte.**

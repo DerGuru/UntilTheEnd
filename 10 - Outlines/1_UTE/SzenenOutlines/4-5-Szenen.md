@@ -1,226 +1,172 @@
 # Buch 4 — Part 5: PINCH 2 (7PS Gesamt: Midpoint | 7PS Buch: Pinch 2 | 7PS Part: eigene Struktur)
 
-**Part-Absicht:** „Was sie am Leben hält, kommt von innen — und es ist gefährlich für andere."
+> **STATUS: Ist-Abgleich.** 10 Kapitel (4-5-01-33.md bis 4-5-10-42.md) — Kapitelzahl stimmt mit der Planung überein.
 
-**Wortziel:** ~12k Wörter, ~8-12 Kapitel
+**Part-Absicht:** „Was sie am Leben hält, kommt von innen — und es ist gefährlich für andere." — **hält im Text.**
 
-**Selbstschutz-Tools:**
-- **Dauerhaft (wiederkehrend):** Erinnerungslücken + Kopfschmerzen. Alternieren, nie gleichzeitig pro Szene.
-- **Einmalig (nur 1 Szene):** Qi-Anomalie — ein einzelner Riss im Stein, leise, unkontrolliert, unmöglich.
-- **Alternieren-Regel:** Pro Szene dominiert EIN Symptom. Szene A = Erinnerungslücke. Szene B = Kopfschmerz. So bleibt jede Szene sauber.
+**Erzähl-Stilbruch:** Die direkte „you"-Anrede an Xu Ran ist ab Kapitel 1 durchgehend präsent, keine Einzelformulierung (z.B. „What are we looking for?" you asked, on the second day of the search.).
 
-**Scharmützel Part 5:** Sekte-Angriff (organisiert). Innerer Schritt = FREUDE + SCHRECKEN darüber. Ikonisches Bild: echtes, kurzes Lächeln → sofortiger Ekel → Hand fährt zum Mundwinkel, als könnte sie es wegwischen.
+**Selbstschutz-Tools — wie umgesetzt:**
+- Erinnerungslücken: `4-5-04-36.md`/`4-5-05-37.md` — drei Stunden Erinnerung fehlen komplett (inkl. der Berührungen und des Steinrisses).
+- Qi-Anomalie (einmalig): `4-5-03-35.md` — eine geräuschlose Spalte im Basalt.
+- Kopfschmerzen: `4-5-06-38.md`, verschärft sich bis `4-5-09-41.md` — **hier etabliert, nicht „zum ersten Mal seit Jahrtausenden" explizit benannt.**
+- ⚠ **Begriffsverstoß gefunden:** `4-5-06-38.md` enthält den Satz „The system escalated to something the notebook couldn't counteract." Das Wort „the system" wird hier als In-World-Konzept verwendet — ein direkter Verstoß gegen die mandatory Regel „Kein 'System' im Text" (`Story/project-specific-writing-rules.instructions.md`). Zur Korrektur im Manuskript empfohlen (liegt außerhalb der reinen Outline-Anpassung).
 
-**Grenz-Moment (nach Sekte-Kampf):** Yun erkennt die Spirale. Körperlich: Ekel, Würgen. Ab hier: kein Scharmützel mehr. Kampf geht nach innen.
+**Lu Sen Easter Egg:** Vorhanden in `4-5-01-33.md` — Yun erkennt einen Kultivator mit außergewöhnlich dichtem Qi als „Judgement's Gale"; beide tauschen eine knappe, stumme Grußgeste, dann geht jeder weiter. Der Name „Lu Sen" fällt nicht wörtlich (nur der Titel). Etwas interaktiver als geplant (geplant: nur Blick aus der Ferne, kein Austausch).
 
-**Xu Rans Notizbuch:** Aktives Recherche-Tool. Er wird zum externen Gedächtnis.
+**Risk Moment (Xu Ran):** Vorhanden, aber nur RÜCKBLICKEND erwähnt (`4-5-03-35.md`): Jemand hatte ihn auf dem Weg zum Krater angesprochen, während Yun vorausging; er lehnte ab, sagte es ihr nicht. Die Ansprache selbst wird nicht gezeigt, die Person nicht explizit als „Sekten-Späher" benannt.
 
-**Leitwort:** Xu Ran: *„Weiter."* (2. Verwendung: ~hier, nach dem Sekte-Angriff)
+**Scharmützel Part 5 (LETZTES):** Sekte-Angriff, zwei Vierergruppen (`4-5-07-39.md`). Innerer Schritt = FREUDE + SCHRECKEN. Bild hält exakt: echtes Lächeln → Hand zum Mund → Ekel.
 
-**Risk Moment (~Part 5):** Xu Ran wird von Sekten-Späher angesprochen → lehnt ab → erwähnt es Yun nie. 2-3 Kapitel Paranoia danach.
-
-**Lu Sen Easter Egg:** Exakt Part 5. Exakt 1 Absatz (3-4 Sätze). Keine Erklärung. Crossover-Buch existiert!
-
-**⚠ CROSSOVER=ON** — Alle Easter-Egg-Beats (Lu Sen / Judgement's Gale) sind aktiv, weil Crossover-Buch ("Unintended Cultivator") veröffentlicht ist.
+**Leitwort:** Geplant „Weiter." (2. Verwendung) — **kommt in diesen zehn Kapiteln nicht vor.**
 
 ---
 
-## Szene 4-5-01-01 (Midpoint | Pinch 2 | Hook)
+## Kapitel 4-5-01-33.md — Hook
 
-### Absicht
-Shift in Aktion: Yun beginnt GEZIELT zu suchen. Nicht planlos — mit Richtung. Der Unterschied zum vorherigen Wandern ist spürbar.
+### Tatsächlicher Inhalt
+Yun folgt einer inneren Richtung zu Orten, an denen sie früher dem Tod nahekam; Xu Ran begleitet und protokolliert. Halt an einem Marktplatz für Vorräte. Dort begegnet Yun einem Kultivator mit außergewöhnlich dichtem Qi, den sie als „Judgement's Gale" erkennt; beide tauschen eine knappe, stumme Grußgeste, gehen weiter.
 
-### Key Beat
-Suche beginnt. Yun kehrt zu alten Orten zurück: Stellen, an denen sie hätte sterben müssen, und es nicht tat. Sie will Muster finden.
+### Zitate
+- "What are we looking for?" you asked, on the second day of the search.
+- "Judgement's Gale. I'd heard the name."
 
 ### Ton
-Zielgerichtet. Ruhig. Ein neuer Rhythmus — nicht mehr Wandern, sondern Suchen.
-
-### Outline
-- **Shift sichtbar:** Yun geht nicht mehr ziellos. Sie hat eine Richtung: alte Orte, an denen sie hätte sterben müssen.
-- **Xu Ran:** „Was suchen wir?" — „Spuren."
-- **Dialogentwicklung:** Part 5 = manchmal 2 Worte. „Spuren." ist mehr als früher. Schleichend.
-- **Atmosphäre:** Die Wanderschaft hat einen anderen Rhythmus. Nicht Driften — Ziehen. Yun geht schneller. Xu Ran muss mithalten.
-- **Show-Indikator-Update:** #3 (Richtung) verändert sich. Sie wählt jetzt LINKS oder RECHTS. Nicht immer — manchmal. Aber der Unterschied zu Part 1-4 ist da.
-- **Lu Sen Easter Egg (optional, ~hier oder Kap 5-02):** Passstraße nahe dem alten Krater. Kleiner Marktplatz. Lu Sen geht in der Gegenrichtung vorbei — zu Fuß, allein, gewöhnliche Kleidung. Yun sieht ihn aus der Ferne. Erkennt ihn. Geht weiter. Kein Dialog, kein Gedanke, keine Exposition. 1 Absatz (3-4 Sätze).
+Zielgerichtet, ruhig — neuer Rhythmus: Suchen statt Wandern.
 
 ### Sonstiges/Wichtiges
-- Der Shift zeigt sich in HaltunG, nicht in Worten
+- Lu-Sen-Easter-Egg hier verankert (siehe Part-Header für Details/Abweichung).
+- Xu Ran zeitweise getrennt (Vorräte besorgen), beim Vorbeigehen des Fremden nicht ausdrücklich verortet.
 
 ---
 
-## Szene 4-5-02-01 bis 4-5-03-01 (Midpoint | Pinch 2 | Plot Turn 1)
+## Kapitel 4-5-02-34.md + 4-5-03-35.md — Plot Turn 1
 
-### Absicht
-Erster alter Ort: Der Krater. 400 Jahre alt. Hier hat alles angefangen. Die Suche wird konkret — und der Selbstschutz beginnt.
+### Tatsächlicher Inhalt
+**5-02:** Yun und Xu Ran erreichen den 400 Jahre alten Krater — inzwischen ein See mit kleinen Tempeln am Ufer. Am Basalt des westlichen Ufers reagiert sie beim Berühren mit unwillkürlichem Zurückziehen, später mit Zittern; die Reaktion ist nahe dem Kraterzentrum stärker. Xu Ran beobachtet, dokumentiert.
+**5-03:** Yun sucht unterhalb ihres Qi nach dem "substrate"; ihr Qi steigt dabei ohne ihren Willen an. Der Basalt bekommt eine einzelne, geräuschlose Spalte. Xu Ran sieht und dokumentiert den Riss. Rückblickend enthüllt: Auf dem Weg zum Krater hatte jemand Xu Ran angesprochen, während Yun vorausging — er lehnte ab und sagte es ihr nicht.
 
-### Key Beat
-Ein Krater. Vor 400 Jahren fiel Yun hinein. Lava. Sie überlebte. Jetzt: der Krater ist still. Sie legt die Hand auf den Stein. Spürt... nichts? Oder alles?
+### Zitate
+- "A pressure that existed in a direction I could not point to."
+- "The basalt beneath my hand cracked."
+- "You had been approached on your way to the crater, while I was already ahead." / "You had said no."
 
 ### Ton
-Andächtig. Archäologisch. Wie eine Forscherin an einer alten Stätte.
-
-### Outline
-**Kapitel 5-02: Der Krater**
-- **Ort:** Ein alter Vulkankrater. Vor 400 Jahren: Lava. Yun fiel hinein. Überlebte. Jetzt: kalt, still, bewachsen.
-- **Yun am Kraterrand.** Sie legt die Hand auf den Stein. Zieht sie zurück. Sofort. Ohne Erklärung.
-- **Ambivalenz:** Was hat sie gespürt? Sie sagt nichts. Vielleicht weiß sie es nicht. Vielleicht will sie es nicht benennen.
-- **Xu Ran beobachtet.** Schreibt. „Sie berührte den Stein. Zog die Hand zurück." Er dokumentiert die Geste, nicht das Phänomen. Was sie gefühlt hat, bleibt bei ihr.
-
-**Kapitel 5-03: Qi-Anomalie (EINMALIG)**
-- **Blick in den Krater:** Sie konzentriert sich. Versucht, das zu wiederholen, was beim Klippensprung passierte. Die Wärme. Den Druck.
-- **QI-ANOMALIE:** Ihr Qi zuckt unkontrolliert. Plötzlich. Leise. Ein einzelner Riss im Stein unter ihrer Hand — langsam, präzise, unmöglich. Kein Beben, kein Lärm. Nur: Stein, der sich teilt, wo Stein sich nicht teilen sollte. Klein, aber UNKONTROLLIERT.
-- **Danach:** Stille. Sie starrt auf den Riss. Zieht die Hand weg. Sagt nichts. Xu Ran schreibt.
-- **Einmalig:** Kommt nie wieder. Die Angst kommt nicht von der Größe — sondern davon, dass sie es NICHT KONTROLLIERT hat. Etwas in ihr will NICHT, dass sie hier gräbt.
-- **Risk Moment (Xu Ran):** Ein Sekten-Späher erkennt Xu Ran allein (Yun ist am Krater). Bietet: Information über Yun gegen ihre Position. Xu Ran sagt Nein. Kein Kommentar, keine Punchline — nur Nein. Der Späher geht. Xu Ran erwähnt es Yun NIE. Der Nachhall zeigt sich in Handlung: Paranoia, Blick über die Schulter, Notizbuch nicht mehr offen liegen lassen, zittrigere Schrift.
+Andächtig, archäologisch — dann unheimlich bei der Qi-Anomalie.
 
 ### Sonstiges/Wichtiges
-- ⚠ Qi-Anomalie = einmalig, nie wieder (Warnsignal)
-- ⚠ Produktionsregel: Leise, lokal, ein Riss — keine Explosion. Kontrolle-Verlust, nicht Kraft-Demonstration.
-- ⚠ CROSS-BEAT → B5: Sekten-Detail als Foreshadowing für Lian Zhuo einstreuen (identische Marken, Resonanz-Talisman)
+- Risk Moment ist vorhanden, aber nur als Rückblende/Erwähnung — keine gezeigte Ansprache-Szene, keine explizite Identifikation als „Sekten-Späher" (siehe Part-Header).
+- Qi-Anomalie exakt wie geplant: leise, lokal, ein Riss — keine Explosion, Kontrollverlust statt Kraftdemonstration.
 
 ---
 
-## Szene 4-5-04-01 bis 4-5-05-01 (Midpoint | Pinch 2 | Pinch 1)
+## Kapitel 4-5-04-36.md + 4-5-05-37.md — Pinch 1
 
-### Absicht
-Selbstschutz eskaliert: Erinnerungslücken. Sie vergisst, was sie gerade entdeckt hat. Xu Ran wird zum externen Gedächtnis.
+### Tatsächlicher Inhalt
+**5-04:** Bei einer Rast sagt Yun, sie wolle nach Süden — und führt Xu Ran damit zurück zum Krater, ohne zu wissen, warum ihr der Weg vertraut ist. Dort erkennt sie den Ort, erinnert sich aber NICHT an den Besuch vom selben Morgen: drei Stunden fehlen, inkl. der Berührungen und des Steinrisses. Xu Ran zeigt seine Notizen als externen Beleg. Yun fordert ihn auf, fortan alles aufzuschreiben.
+**5-05:** Xu Ran protokolliert nun nicht nur Beobachtungen, sondern Yuns eigene Worte/Handlungen, damit sie nach Erinnerungslücken nachlesen kann. Sie erkennt ein Muster selektiver Auslöschung (v.a. Erinnerungen rund um die Untersuchung). Xu Ran erstellt ein morgendliches Briefing. Yun bemerkt, dass er sich umsieht, offenbar Angst vor etwas Äußerem hat, über das er nicht spricht.
 
-### Key Beat
-Erinnerungslücke: Sie vergisst, was sie gerade entdeckt hat. Xu Ran erinnert sie. „Du hast gerade gesagt, der Stein vibrierte." — Yun: „Habe ich nicht."
+### Zitate
+- "Why are we here?" I asked.
+- "I didn't do that," I said.
+- "You were my memory now."
 
 ### Ton
-Beunruhigend-nüchtern. Kein Drama — nur die Tatsache, dass etwas FEHLT.
-
-### Outline
-**Kapitel 5-04: Die Lücke**
-- **Zeitsprung:** Stunden oder einen Tag nach der Qi-Anomalie. Yun steht am Krater. Sieht ihn an. Fragt: „Warum sind wir hier?"
-- **Xu Ran:** Stutzt. „Du hast den Stein berührt. Du hast die Hand zurückgezogen."
-- **Yun:** „Habe ich nicht." Tonlos. Keine Verunsicherung — echte Überzeugung.
-- **Xu Ran zeigt ins Notizbuch.** Ihre Geste, in seiner Handschrift. Sie liest. Erkennt die Beschreibung nicht als ihre.
-- **Abstreiten:** Sie streitet ab. Nicht aggressiv — verwirrt. Oder: gar nicht verwirrt. ÜBERZEUGT, dass sie es nicht gesagt hat.
-
-**Kapitel 5-05: Muster**
-- **Xu Ran wird zum externen Gedächtnis.** Er schreibt alles auf. Daten, Orte, Beobachtungen. Weil SIE es vergisst.
-- **Er versteht nicht warum.** Aber er merkt: etwas kämpft GEGEN ihre Suche.
-- **Notizbuch-Regel zeigen:** Er schreibt SOFORT nach jedem Moment. Keine Ausnahme.
-- **⚠ Risk-Moment Nachhall (falls 5-03 Risk Moment aktiv):** Xu Ran ist paranoid. Schaut öfter zurück. Legt das Notizbuch nicht mehr offen hin. Handschrift wird zittriger. Kein Wort darüber. Yun bemerkt es nicht.
+Beunruhigend-nüchtern — kein Drama, nur die Tatsache, dass etwas FEHLT.
 
 ### Sonstiges/Wichtiges
-- ⚠ Alternieren-Regel: Hier NUR Erinnerungslücke, keine Kopfschmerzen
-- ⚠ CROSS-BEAT → B5: B4-Vergessen = schleichend, überlesbar. B5-Vergessen = akut, dreist, vor Zeugen.
+- Der geplante Dialog „Du hast gerade gesagt, der Stein vibrierte." — „Habe ich nicht." steht nicht wörtlich im Text; die Lücke wird stattdessen über den vergessenen Kraterbesuch selbst gezeigt.
+- Neu: Xu Rans sichtbare, unausgesprochene Angst vor einer äußeren Gefahr — ergänzt den Risk-Moment-Nachhall aus `4-5-03-35.md`.
 
 ---
 
-## Szene 4-5-06-01 (Midpoint | Pinch 2 | Midpoint)
+## Kapitel 4-5-06-38.md — Midpoint
 
-### Absicht
-Zweites Selbstschutz-Symptom: Kopfschmerzen. Zum ersten Mal seit Jahrtausenden. Etwas in ihr KÄMPFT gegen ihre Suche.
+### Tatsächlicher Inhalt
+Yun bekommt erstmals in dieser Folge starke Kopfschmerzen, die sich wiederholen und schlimmer werden, sobald sie ihre Aufmerksamkeit nach innen auf das „substrate" richtet. Sie deutet sie als aktive Abwehr, die auf die Erinnerungslücken folgt. Xu Ran beobachtet den Zusammenhang; beide erkennen, dass seine Aufzeichnungen die bisherige Abwehrstrategie möglicherweise verändert haben.
 
-### Key Beat
-Kopfschmerzen. Zum ersten Mal seit Jahrtausenden. Sie kommen, wenn sie zu tief denkt. Etwas in ihr KÄMPFT gegen ihre Suche.
+### Zitate
+- "The headaches were not random."
+- "The system escalated to something the notebook couldn't counteract."
 
 ### Ton
-Körperlich. Intim. Der Schmerz als Sprache von etwas, das sie nicht versteht.
-
-### Outline
-- **Die Suche geht weiter.** Yun versucht, die Muster zu lesen. Die Orte, an denen sie hätte sterben müssen. Die Reality-Glitches. Die Qi-Autonomie.
-- **Kopfschmerzen.** Die kommen, wenn sie zu tief denkt. Plötzlich. Scharf. Wie ein Nagel hinter den Augen.
-- **Sie hat seit Jahrtausenden keine Kopfschmerzen gehabt.** Das allein ist unheimlich. Ihr Körper — der ALLES heilt — erzeugt SCHMERZ. Als Warnung.
-- **Etwas in ihr kämpft gegen ihre Suche.** Nicht sie gegen sich selbst — etwas ANDERES in ihr gegen SIE.
-- **Reaktion:** Sie presst die Handballen auf die Augen. Wartet. Der Schmerz verebbt. 30 Sekunden. Eine Minute. Weg.
-- **Xu Ran:** „Was ist?" — „Nichts." (1 Wort.)
-- **Event:Reflexion-Ratio:** Kopfschmerz = physisch. Umgeben von Wanderalltag (Pfade, Wetter, Xu Rans Gemurmel).
+Körperlich, intim — der Schmerz als Sprache von etwas, das sie nicht versteht.
 
 ### Sonstiges/Wichtiges
-- ⚠ Alternieren-Regel: Hier NUR Kopfschmerzen, keine Erinnerungslücke
-- Kopfschmerzen zahlen sich in PT2 (Gift-Experiment) aus
+- ⚠ **Regelverstoß im Manuskript:** Das zweite Zitat verwendet „the system" als In-World-Begriff — widerspricht der mandatory Schreibregel „Kein 'System' im Text". Siehe Part-Header; zur manuskriptseitigen Korrektur empfohlen.
+- „Zum ersten Mal seit Jahrtausenden" wird für die Kopfschmerzen nicht ausdrücklich gesagt (anders als geplant) — der Text zeigt den ersten Kopfschmerz der Serie, verankert aber keine jahrtausendelange beschwerdefreie Zeit explizit.
 
 ---
 
-## Szene 4-5-07-01 bis 4-5-08-01 (Midpoint | Pinch 2 | Pinch 2)
+## Kapitel 4-5-07-39.md + 4-5-08-40.md — Pinch 2
 
-### Absicht
-Scharmützel #5 (letztes!): Die Spirale kulminiert. FREUDE am Kampf — und der SCHRECKEN darüber. Grenz-Moment: Yun HÖRT AUF.
+### Tatsächlicher Inhalt
+**5-07:** Im Wald greifen zwei koordinierte Vierergruppen an. Yun sagt, sie habe den Kampf gewollt, schaltet alle acht schnell aus. Sie lächelt echt, genießt die Gewalt; danach wischt sie sich über den Mund, angeekelt von dieser Freude. Xu Ran hat alles gesehen, spricht es offen an, dokumentiert es zunächst nicht.
+**5-08:** Drei Tage lang sprechen beide nicht über das Lächeln. Am Feuer erinnert sich Yun an einen früheren Krieg, in dem sie auf einem Schlachtfeld über die Toten lachte. Sie erkennt dieselbe Freude und entscheidet: "No more fighting." Xu Ran hält die Entscheidung danach im Notizbuch fest.
 
-### Key Beat
-Sekte-Angriff. Organisiert. Acht Kultivatoren. Yun LÄCHELT. Genießt es. Dann: Ekel. Hand am Mundwinkel. Ab hier: kein Scharmützel mehr.
+### Zitate
+- "I wanted this."
+- "My hand went to my mouth. Wiping."
+- "I was laughing."
+- "No more fighting," I said.
 
 ### Ton
-Ekstatisch → abrupt → Ekel. Der emotionale Dreischritt in einer Szene.
-
-### Outline
-**Kapitel 5-07: Der Kampf**
-- **Sekte-Angriff:** Organisiert. Acht Kultivatoren, einer auf höherem Immortal-Level. Sie spürt sie kommen.
-- **Yun LÄCHELT.** Echt. Zum ersten Mal Emotion im Kampf. Sie GENIESST es.
-- **Xu Ran:** „Yun—" Zu spät. Sie geht.
-- **Der Kampf:** Sekunden. Acht Kultivatoren. Brutal. Effizient. Und — zum ersten Mal — mit GENUSS.
-- **Ikonisches Bild:** Ein echtes, kurzes Lächeln. Dann: sofortiger Ekel. Ihre Hand fährt zum Mundwinkel, als könnte sie es wegwischen.
-- **Innerer Schritt = FREUDE + SCHRECKEN:** Sie erkennt die Spirale. Nicht als Gedanke — als Körper: Ekel. Würgen.
-- **Sinnesreiz → Erinnerung:** Ein früherer Krieg. Hunderte Jahre her. Schlachtfeld. Sie LACHTE.
-- **ERINNERUNG:** „Ich dachte, ich hätte das hinter mir." — Die Spirale. 12-16 Sätze.
-- **⚠ CROSS-BEAT → B5:** Spezifisches Detail: Resonanz-Talisman als Beutegegenstand (Xu Ran findet ihn). Oder: Angreifer tragen identische Marken / erwähnen „den Neuen". Foreshadowing für Lian Zhuo in B5 P3.
-
-**Kapitel 5-08: Grenz-Moment**
-- **Grenz-Moment:** Yun erkennt die Spirale. *Wenn ich so weitermache, werde ich wieder die, die auf Schlachtfeldern lacht.* Sie spricht es nicht aus. Aber sie HÖRT AUF.
-- **Ab hier: kein Scharmützel mehr.** Der Kampf geht nach innen (PT2).
-- **Xu Ran hat ihr Gesicht gesehen.** Sagt nichts. Aber seine Hand zittert, als er ins Notizbuch schreibt.
-- **Leitwort #2 Xu Ran:** „Weiter." — pragmatisch, nach vorne. Nach dem Schrecken.
-- **Stille danach.** Kein Dialog. Minuten. Gehen. Schweigen.
+Ekstatisch → abrupt → Ekel — der emotionale Dreischritt hält exakt wie geplant.
 
 ### Sonstiges/Wichtiges
-- ⚠ Scharmützel #5 = LETZTES. Innerer Schritt „Freude + Schrecken" danach nie wieder „neu"
-- ⚠ Produktionsregel: ~20-30m Schaden, lokal
-- Grenz-Moment = Wendepunkt der Kampf-Spirale
+- Letztes Scharmützel des Buchs — Grenz-Moment wie geplant: Ab hier kein Kampf mehr, der Kampf geht nach innen.
+- Der geplante CROSS-BEAT (Resonanz-Talisman/identische Marken als Foreshadowing für Lian Zhuo) wird von den Subagenten-Befunden nicht bestätigt — zur Prüfung, ob dieses Detail im Text fehlt oder nur nicht auffällig genug markiert ist.
 
 ---
 
-## Szene 4-5-09-01 (Midpoint | Pinch 2 | Plot Turn 2)
+## Kapitel 4-5-09-41.md — Plot Turn 2
 
-### Absicht
-Xu Ran zeigt sein Notizbuch. Yun erkennt Muster — für einen Moment, bevor der Schmerz kommt. Die Suche wird IHRE Suche.
+### Tatsächlicher Inhalt
+Xu Ran zeigt ein zweites, übersichtlicheres Notizbuch mit chronologischer Zusammenstellung von Yuns Erfahrungen. Yun erkennt ein Muster: starke Gefühle treten einige Sekunden vor den Qi-Pulsen auf, sodass sie ihre Gefühle als Auslöser vermutet. Während sie den Zusammenhang zu verstehen beginnt, setzt der Kopfschmerz ein und löscht die Erkenntnis. Xu Ran verspricht, ihr die Aufzeichnungen am nächsten Tag erneut zu zeigen.
 
-### Key Beat
-Xu Ran zeigt sein Notizbuch. Alles, was sie vergessen hat, steht drin. Yun liest. Erkennt Muster. Für einen Moment — bevor der Schmerz kommt.
+### Zitate
+- "My feelings were the command and the substrate executed."
+- "The headache hit."
 
 ### Ton
-Zerbrechlich. Klarheit, die sofort wieder verblasst. Wie Licht durch einen Spalt.
-
-### Outline
-- **Camp.** Abend. Xu Ran legt sein Notizbuch vor sie hin.
-- **Alles steht drin:** Daten. Orte. Beobachtungen. Die Qi-Anomalie. Die Erinnerungslücken. Der Pfad-Glitch. Der Klippensprung. In seiner Handschrift.
-- **Yun liest.** Blättert. Zum ersten Mal greift sie FREIWILLIG nach Informationen über sich selbst.
-- **Muster:** Sie erkennt etwas. Verbindungen. Zusammenhänge. Für einen Moment — Klarheit.
-- **Dann: Kopfschmerzen.** Der Selbstschutz greift. Die Klarheit verblasst. Nicht ganz — genug bleibt.
-- **Was bleibt:** Die RICHTUNG. Etwas in ihr will nicht, dass sie versteht. Das IST ein Hinweis.
-- **Notizbuch-Moment:** Er hat es für SIE geschrieben. Nicht für sich. Das sagt er nicht. Das zeigt die Handschrift — sorgfältig, lesbar, mit Markierungen. Er hat es ORGANISIERT.
+Zerbrechlich — Klarheit, die sofort wieder verblasst.
 
 ### Sonstiges/Wichtiges
-- ⚠ Alternieren-Regel: Kopfschmerzen nach Erinnerungslücke (5-04/5-05)
-- Notizbuch = zahlt sich in Part 7 (Kapitel 7-02) voll aus
+- Präziser als geplant: Das Muster ist konkret benannt (Gefühle 3-7 Sekunden vor den Qi-Pulsen), nicht nur vage "Verbindungen".
 
 ---
 
-## Szene 4-5-10-01 (Midpoint | Pinch 2 | Resolution)
+## Kapitel 4-5-10-42.md — Resolution
 
-### Absicht
-Part-Ende: Die Erkenntnis hält nicht — aber die Richtung hält. Setup für PT2 (Gift-Experiment).
+### Tatsächlicher Inhalt
+An einem Bach nimmt Yun Xu Rans zweites Notizbuch und reißt eine leere Seite heraus. Sie schreibt „Why" darauf — diesmal bekommt sie KEINEN Kopfschmerz. Sie faltet den Zettel, steckt ihn als äußere Erinnerung ein. Kündigt an, das „substrate" direkt zu testen und Xu Ran vorher Bescheid zu geben. Kapitelschluss: „I didn't."
 
-### Key Beat
-Sie reißt eine Seite aus Xu Rans Notizbuch. Schreibt ein Wort. Streicht es durch. Schreibt ein anderes. Streicht es durch. Die Erkenntnis hält nicht. Aber die RICHTUNG hält.
+### Zitate
+- "I wrote: Why."
+- "I didn't."
 
 ### Ton
-Frustration, die produktiv wird. Nicht Resignation — Hartnäckigkeit.
-
-### Outline
-- **Yun handelt.** Reißt eine Seite aus dem Notizbuch.
-- **Schreibt.** Ein Wort — streicht es durch. Ein anderes — streicht es durch. Sie sucht das RICHTIGE Wort für das, was in ihr ist.
-- **Die Erkenntnis hält nicht.** Jedes Mal, wenn sie es zu fassen versucht, entgleitet es. Wie ein Fisch im Wasser.
-- **Aber die RICHTUNG hält:** Etwas in ihr will nicht, dass sie versteht. Etwas in ihr hat ein eigenes Programm. Die Antwort liegt in ihr.
-- **Sie legt den Stift hin.** Sieht die durchgestrichenen Worte an. Zerknüllt das Papier nicht — faltet es. Steckt es ein.
-- **Letztes Bild des Parts:** Die gefaltete Seite in ihrer Tasche. Ein Versuch, der gescheitert ist. Aber sie hat es VERSUCHT. Das ist neu.
-- **Setup für PT2:** Sie braucht einen direkteren Weg. Einen, der den Selbstschutz ZWINGT, sich zu zeigen.
+Frustration, die produktiv wird.
 
 ### Sonstiges/Wichtiges
-- Die gefaltete Seite = physisches Objekt der Suche (kann in Part 6/7 wiederkommen)
-- Setup: Sie wird methodisch → führt zum Gift-Experiment
+- ⚠ Abweichung vom Plan: Kein Durchstreichen mehrerer Wörter — sie schreibt EIN Wort ("Why"), das stehen bleibt, und genau DAS ist die kleine Entdeckung (dieses Wort löst, anders als vorige Versuche, keinen Kopfschmerz aus).
+- Harter Cliff-Bruch: Sie verspricht Xu Ran Bescheid zu geben — der Schlusssatz "I didn't" verrät bereits hier, dass sie ihr Versprechen bricht. Direkter Vorgriff auf das Gift-Experiment in Part 6, bei dem sie genau das tut.
+
+---
+
+## Kapitelübersicht Part 5 (Ist-Zustand)
+
+| Kapitel-Datei | Sub-7PS-Beat |
+|---|---|
+| 4-5-01-33.md | Hook (+ Lu-Sen-Easter-Egg) |
+| 4-5-02-34.md | Plot Turn 1 |
+| 4-5-03-35.md | Plot Turn 1 (Qi-Anomalie, Risk Moment erwähnt) |
+| 4-5-04-36.md | Pinch 1 (Erinnerungslücke) |
+| 4-5-05-37.md | Pinch 1 (externes Gedächtnis) |
+| 4-5-06-38.md | Midpoint (Kopfschmerzen) |
+| 4-5-07-39.md | Pinch 2 (Sekte-Angriff, Freude) |
+| 4-5-08-40.md | Pinch 2 (Schlachtfeld-Erinnerung, "No more fighting") |
+| 4-5-09-41.md | Plot Turn 2 (Muster erkannt, Kopfschmerz löscht es) |
+| 4-5-10-42.md | Resolution ("Why" ohne Kopfschmerz, "I didn't") |
+
+**Gesamt: 10 Kapitel (wie geplant).**
