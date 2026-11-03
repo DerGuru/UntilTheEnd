@@ -69,10 +69,10 @@ Warnung: **nicht in den Ton der frühen *Echoes*-Kapitel (UTE B4) abrutschen** �
 | **Prolog** | — (Rahmen-Präsens) | Erzählerin am Feuer | mittel | **Feuer 1** |
 | **1 Hook — Freiheit** | 150k–146k | Unberührbar, staunend | **hoch** | — |
 | **2 PT1 — Erster Tod durch Zeit** | ~145k–135k | Erste Ahnung des Preises | hoch → mittel | — |
-| **3 Pinch 1 — Das Muster** | ~135k–100k | Vermeidung, Schutz, Schmerz | mittel (raffend) | — |
-| **4 Midpoint — Lin Feiyun** | ~irgendwann | Die letzte volle Bindung | **hoch (Kontrast-Insel)** | **Feuer 2** (danach) |
-| **5 Pinch 2 — Der Abstieg** | nach LF | Erosion → echte Taubheit | dünn (kälter) | — |
-| **6 PT2 — Die Wiederholung** | ~20k–15k | Zynismus, Verachtung | dünn, klinisch | — |
+| **3 Pinch 1 — Das Muster** | ~135k–117k | Vermeidung, Schutz, Schmerz | mittel (raffend) | — |
+| **4 Midpoint — Lin Feiyun** | ~117k | Die letzte volle Bindung | **hoch (Kontrast-Insel)** | **Feuer 2** (danach) |
+| **5 Pinch 2 — Der Abstieg** | ~117k–115k (Hausierer ≈ 115k = Ende Kern-Abstieg) | Erosion → echte Taubheit | dünn (kälter) | — |
+| **6 PT2 — Die Wiederholung** | ~115k–15k (`6-01` rafft fast alles) | Zynismus, Verachtung | dünn, klinisch | — |
 | **7 Resolution — Die Schwelle** | ~15k | Latentes Monster, indifferent | tonlos | **Feuer 3** (Schluss) |
 
 ---
@@ -143,7 +143,7 @@ Warnung: **nicht in den Ton der frühen *Echoes*-Kapitel (UTE B4) abrutschen** �
 
 ---
 
-### BEAT 3 — PINCH 1: „Das Muster des Verlusts" (~135k–100k vE)
+### BEAT 3 — PINCH 1: „Das Muster des Verlusts" (~135k–117k vE)
 
 > Hier beginnt die Prosa zu raffen. Wiederholung als Inhalt UND als Form.
 
@@ -421,19 +421,19 @@ Warnung: **nicht in den Ton der frühen *Echoes*-Kapitel (UTE B4) abrutschen** �
 | `3-05-11` | 3 Pinch1 | ↓ **Fires — Litanei**, Auflösung schrumpft bis „A fire." · kleine/keine eigenen Feuer · trinkt durch das Spiegelbild | „She put her mouth to it and drank." | „in the order they come back to me" |
 | `4-01-12` | 4 Midpoint | ↑↑ Lin Feiyun: die Türschwelle (Sinnesflut nach der Litanei) | Sie *will bleiben* | der einzige Name |
 | `4-02-13` | 4 Midpoint | **SoL: die gemeinsamen Jahre** (Heilerin+Bäuerin, Setzlinge, Fieberwinter, „serrated: life") | das Nicht-Altern hängt | „das Tapferste, was sie je tat" |
-| `4-03-14` | 4 Midpoint | **Spirit Beast am Acker · Reveal + Annahme** (Gegenstück zu The Cave) | „Who'd haul the next one?" | „was sie mir gab" |
+| `4-03-14` | 4 Midpoint | **Spirit Beast am Acker · Reveal + Annahme** (Gegenstück zu The Cave) · ⚔ Stachelschwein (Kürbis-Räuber, stürmt rückwärts; Qi-Haut + Handflächen-Schlag scheitern → umdrehen, „one thread" ins Herz) · LF zieht die Stacheln, sieht die Löcher schließen · lügt fürs Dorf · Packen ohne Schnur | „Who'd haul the next one?" | Tier-Einordnung nur im Rückblick („Tier one, and a sorry one"); „was sie mir gab" |
 | `4-04-15` | 4 Midpoint | ↓↓ Ihr Tod (Ohnmacht gegen Zeit) | Sie geht; etwas schließt sich | „grief being the last thing to go" |
 | `5-01-16` | 5 Pinch2 | ↑ Gartenbesuche ↓ der Garten, den sie aufgab | „no road left to find" | Wunsch, sie umzudrehen |
 | `5-02-17` | 5 Pinch2 | **Fine** ↑ lehrt Töpfermädchen das Feuer („Listen to it first", ohne Stocken) ↓ „Say it's a fine pot" → „You said it like the weather" | „nothing to set by a sleeping hand" | — |
 | `5-03-18` | 5 Pinch2 | **The Sea** ↑ sucht das Meer bewusst (2-01) · ⚔ Brandungsrückstrom, Felsen ↓ kein Schrei mehr nötig; die Muschel | „She looked at it until the next wave took it." | — |
 | `5-04-19` | 5 Pinch2 | ↑ ein Jahr Händler ↓↓ das erste Mal nichts (Erklärungen gestrichen) | „…dass es sie nicht störte" | Grabinschrift-Satz |
-| `6-01-20` | 6 PT2 | ↑ Schrift-Staunen ↓ Reiche, Zeit verliert ihre Kanten | „check it off a list" | Intervall-Verlust |
+| `6-01-20` | 6 PT2 | ↑ Schrift-Staunen ↓ Reiche, Zeit verliert ihre Kanten · *(eingebaut 03.11.2026)* zwei begabte Kinder: der Ofenjunge bekommt das Glut-Halten gezeigt, am Mädchen am Blasebalg geht sie vorbei (Lehr-Faden, s. `origins.instructions.md`) | „check it off a list" | Intervall-Verlust |
 | `6-02-21` | 6 PT2 | **Snow** ↑ allein ist es ertragbar · ⚔ Lawine, Akzeptanz → Panik → **Stillstand** ↓ der Lebenswille gehört nicht ihr; Jäger flieht (Gerüchte-Keim) | „toward wherever the next city was" | — |
 | `6-03-22` | 6 PT2 | ↑ geht bewusst ins Fest, tanzt korrekt ↓ Mädchen lässt los („empty cup") · Rettungs-Reflex am Faden | „bereit für alles" | „woran einmal alles hängen würde" |
 | `7-01-23` | 7 Resolution | Sie hört auf sich zu verstecken · Karrenrad, Rippen-Klick (2-01-Echo) · das Gerücht | eine Frau, die nicht stirbt | — |
 | `7-02-24` | 7 Resolution | Die Hand des Kriegsherrn (Cliffhanger → *Liè*) | Hand, Name, Richtung — Schnitt | Brücke zu Buch 3 |
 
-**24 volle Kapitel.** Abstieg ab `3-03-09` als **Wellen**: jedes ↑ (kleiner Versuch, ob es doch erträglich ist) wird von einem stärkeren ↓ beantwortet. Messpunkte mit Rückgriff auf reiche Momente (Rauch beim Ankommen, Blick zurück, Name, Lachen, Feuer, Spiegelbild, Meer/Muschel, „Listen to it first"). ⚔ = Action in voller Intensität (Löwe, Meer, Lawine), nach Ursache gestaffelt: versteckt sich → sucht Gefühl → kümmert sich nicht mehr. Zwei emotionale Kerne mit je 4 Kapiteln: **Beat 1 (Stamm)** = warum sie geht (Macht isoliert; von „bekannt" zu „die Mächtige"; Kohs Tod als Auslöser). **Beat 4 (Lin Feiyun)** = die eine warme Bindung, deren Tor die Handlung (Spirit Beast) öffnet.
+**24 volle Kapitel.** Abstieg ab `3-03-09` als **Wellen**: jedes ↑ (kleiner Versuch, ob es doch erträglich ist) wird von einem stärkeren ↓ beantwortet. Messpunkte mit Rückgriff auf reiche Momente (Rauch beim Ankommen, Blick zurück, Name, Lachen, Feuer, Spiegelbild, Meer/Muschel, „Listen to it first"). ⚔ = Action in voller Intensität (Löwe, Meer, Lawine), nach Ursache gestaffelt: versteckt sich → sucht Gefühl → kümmert sich nicht mehr. Zwei emotionale Kerne mit je 4 Kapiteln: **Beat 1 (Stamm)** = warum sie geht (Macht isoliert; von „bekannt" zu „die Mächtige"; Kohs Tod als Auslöser). **Beat 4 (Lin Feiyun)** = die eine warme Bindung, deren Tor die Handlung (Spirit Beast: Stachelschwein) öffnet.
 
 ### Hinweise zum Schnitt
 
@@ -441,4 +441,5 @@ Warnung: **nicht in den Ton der frühen *Echoes*-Kapitel (UTE B4) abrutschen** �
 - **Beat 4 (Lin Feiyun) ist der zweite Kern** — SoL trägt die Bindung, damit der Tod selbst traurig macht. Payoffs: Setzlinge `4-02` → `5-01`; „serrated: life, smooth: death" → Yuns Wei-Lektion in *Embers*; „the part that had once kept a garden" (Embers) = LFs Garten.
 - **Lin Feiyun = Heilerin *und* Bäuerin**; ihr früh-sesshaftes Dorf skaliert später zu den Städten, die Mei verachtet (`6-01`).
 - Jedes Kapitel: **sanfter Einstieg** (Rule 50), **Schnitt am Turn** (Rule 42), **mind. ein Erzähler-Einwurf** (ich/sie-Device).
-- **Kontinuität zu *Stones and Bones*:** „the warm", Koh (2 Sommer älter, furchtlos, „Good beetle"/„don't show them"), der Platz am Fluss, die Verstoßung fürs Retten. Palm-Stop des Spirit Beast (`4-03`) echot SaBs „anchored"/Handflächen-Schlag.
+- **Kontinuität zu *Stones and Bones*:** „the warm", Koh (2 Sommer älter, furchtlos, „Good beetle"/„don't show them"), der Platz am Fluss, die Verstoßung fürs Retten. Qi-gehärtete Haut im Stachelschwein-Kampf (`4-03`) echot SaBs Katzenkampf, hält gegen Spirit-Stacheln aber nur halb (kalibriert Meis Level deutlich unter Yun).
+- **Kontinuität zu *The Cave* (`3-04`) im Stachelschwein-Kampf (`4-03`):** Der Handflächen-Schlag „as she had hit the lion" scheitert an den Stacheln. „This time she listened first" + „one thread, no more than she would have given a coal" gelingt hier, wo derselbe Faden am Fuß des Jungen versagte. Die Mutter sah die Wunde schließen und bekam Angst; LF sieht die Löcher schließen und zieht weiter Stacheln. Rückbezug in `4-04`: „got both hands under a spirit beast, quills and all … nothing to get your hands under in a winter".

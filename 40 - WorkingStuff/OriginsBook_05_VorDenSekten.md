@@ -22,7 +22,7 @@ Bislang nur als Datum bekannt (800-1000 Jahre vor Embers, Material #9), nicht al
 
 ## Material
 
-**1. Die vergessene 17-teilige Technik.** In einem vor-konsolidierten Schrein erkennt sie eine Technik, die sie nie gelernt zu haben glaubt, deren Bewegungen ihr Körper aber sofort beherrscht — „begraben unter Jahrtausenden des Vergessens". Guter Auftakt: zeigt, dass selbst „neue" Cultivation-Techniken oft nur Wiederentdeckungen ihrer eigenen, viel älteren Instinkte sind. (Quelle: `5-1-02-02.md`) — *„The knowledge was already there, had always been there, buried under millennia of forgetting."*
+**1. Die vergessene 17-teilige Technik.** In einem vor-konsolidierten Schrein erkennt sie eine Technik, die sie nie gelernt zu haben glaubt, deren Bewegungen ihr Körper aber sofort beherrscht — „begraben unter Jahrtausenden des Vergessens". Guter Auftakt: zeigt, dass selbst „neue" Cultivation-Techniken oft nur Wiederentdeckungen ihrer eigenen, viel älteren Instinkte sind. (Quelle: `5-1-02-02.md`) — *„The knowledge was already there, had always been there, buried under millennia of forgetting."* **Lehr-Faden (03.11.2026):** Die Technik ist ihre eigene Übungsfolge aus Buch 4 (#11, der Schüler, den sie stoppen musste), gebaut aus den Formen, deren Wirkung sie im Drill entdeckte (Buch 3, #9), über die Schüler ihres Schülers weitergegeben und fremd zugeschrieben. Im Text nie aussprechen — nur Körperwissen.
 
 **2. Der erste „Instrument"-Kultivator (3.000 Jahre) & der Kultivator, dem die Welt gehorchte (4.000 Jahre).** Zwei dokumentierte frühere Träger einer Yun ähnlichen Kraft: einer, dessen Qi dem Willen statt der Technik gehorcht; ein noch älterer, dessen Qi die Welt selbst zum Gehorsam zwingt — erlebt als Unterwerfung, nicht als Triumph. **Beweist: Yun ist nicht die Einzige ihrer Art gewesen — nur die, die überlebt hat.** (Quelle: `5-2-02-09.md`, `5-2-03-10.md`) — *„I shaped the flow before I understood the form."* / *„It obeys as if I am the law."*
 
@@ -40,6 +40,10 @@ Bislang nur als Datum bekannt (800-1000 Jahre vor Embers, Material #9), nicht al
 
 **9. Als Kultivierung noch keine Stufen hatte.** Die uns aus UTE bekannten Rang-Namen (Qi Gathering, Foundation Establishment, Core Formation …) wurden erst vor 800-1000 Jahren formalisiert — also **nach** dem Ende dieses Buches. Gut als Schlusssatz/Epilog-Andeutung: „Noch hatten die Stufen keine Namen." (Quelle: `2-5-04-44.md`) — *„Before that, people just cultivated and didn't name the rungs."*
 
+**10. Der Schreiber.** *(Neu, Entscheidung 03.11.2026.)* Die Zeichen selbst kennt sie längst (TLS `6-01-20`: „went from town to town learning the marks" — dort bewusst ohne Gesicht). Der Schreiber lehrt sie die *Form*: Pinsel, Strich, Hand (Leitlinie wie Buch 4, #9: Form, nie Kraft). **Ironie als Kern:** Sie lernt schön zu schreiben in genau dem Zeitalter, in dem sie keine Namen mehr behält. **Payoffs:** Xu Ran als ihr letzter Schreiber (UTE-7-Rahmen); Yuns Gewohnheit, Legenden über sich bis ins Detail zu korrigieren; Nähe zu „Der Gelehrte und die verschwundene Bibliothek" (Cross-Ref unten) — evtl. dieselbe Gelehrtenkultur.
+
+**11. Der Kultivationsmeister, der glaubte, sie geformt zu haben.** *(Zugeordnet 03.11.2026, Lehr-Faden.)* Sie sucht einen Meister auf, nicht wegen der Technik, sondern wegen Präzision und Vokabular für das, was ihr Körper längst tut. Er stirbt stolz auf seine gelehrige Schülerin. **Ironie (nie aussprechen):** Seine Lehre stammt über Umwege von ihr selbst (Buch 4, #11 → #1 oben). (Quelle: `6-5-05-33.md`; Material auch in `OriginsIdeas.md`) — *„not because I needed the technique, I'd already known more than he could teach, but because I'd wanted the precision."* / *„He'd died believing he'd created something."*
+
 ## Nebenstrang: Achttausend Jahre (Mei & Qinzhou, ~8.000 vE)
 
 > Früher eigenständiges Buch 6, jetzt hier eingegangen. Zwei parallele Register derselben Zeit, die sich nie direkt berühren — der *Kontrast* ist die Aussage: Untätigkeit im Kleinen, Zerstörung im Großen, beides gleichzeitig, beides taub. Passt thematisch in dieses Buch, weil die Qinzhou-Apotheke selbst eine *frühe Sekte* ist — ihr Untergang ist Sekten-Ära-Material.
@@ -50,11 +54,13 @@ Bislang nur als Datum bekannt (800-1000 Jahre vor Embers, Material #9), nicht al
 
 ## Cross-Referenzen / schwebendes Material
 
+- **Herkunft der vor-sektischen Traditionen** *(03.11.2026)*: Die spezialisierten Schulen aus Buch 3 (#8) — Meister-Schüler-Ketten der ehemaligen Eingezogenen — sind die Wurzel von #6 (Formationsdoktrin) und #8 (alte Wasser-Traditionen): jeweils ein bewahrter Teil von Liès Formen. Die ersten Sekten dieses Buches entstehen, wenn Überlebende aus Buch 4 diese Schulen zu Institutionen verdichten. Erklärt nebenbei die Stil-Vielfalt der Sekten in UTE.
+
 - **Der Philosoph ohne Kategorien** & **Der Gelehrte und die verschwundene Bibliothek** (Roots `2-6-07-56.md`, `2-2-09-18.md`) — beide setzen bereits funktionierende Gelehrtenkultur/Bibliotheken voraus; könnten hier oder in Buch 7 spielen. Vorschlag: hier, als Beispiele für Yuns *nicht-destruktiven* Einfluss auf diese Ära, im Kontrast zu #5.
 
 ## Grobes Outline (7-Point)
 
-> **POV:** 1. Person retrospektiv (wie Buch 2). **Rahmen:** Erzählung an Xu Ran, max. 2-3 Lagerfeuer-Pausen. Die „Chronisten"-Idee (#3) geht dann nur als *von Yun erwähnte/rekonstruierte* Ebene, nicht als eigener POV. **Annahme Struktur:** thematischer Bogen „Ordnung aus Chaos → Ordnung frisst ihren Zweck", 7-Point, mit dem Mei/Qinzhou-Nebenstrang als parallelem, leiserem Kontrapunkt. **Annahme:** Der Meridian-Missbrauch an Kindern ist der zentrale Klimax.
+> **POV:** 3. Person limited auf Mei/Yun, Präteritum, mit Einwürfen der alten Yun als „ich" (wie *The Long Silence*, revidiert 07.09.2026, s. `origins.instructions.md`). **Rahmen:** erlebte Geschichte an Xu Ran; gelegentliches „du", kein separater Rahmen-POV. Die „Chronisten"-Idee (#3) geht dann nur als *von der Erzählerin erwähnte/rekonstruierte* Ebene, nicht als eigener POV. **Annahme Struktur:** thematischer Bogen „Ordnung aus Chaos → Ordnung frisst ihren Zweck", 7-Point, mit dem Mei/Qinzhou-Nebenstrang als parallelem, leiserem Kontrapunkt. **Annahme:** Der Meridian-Missbrauch an Kindern ist der zentrale Klimax.
 
 1. **Hook — Die Antwort der Überlebenden.** Überlebende einer Buch-4-Katastrophe gründen die ersten Strukturen (Regeln, Lehrer), damit nie wieder eine unaufhaltsame äußere Kraft nötig ist. Hoffnungsvoller Auftakt.
 2. **Plot Turn 1 — Die erste Sekte / die vergessene Technik.** Cultivation wird systematisiert. Sie erkennt ihre eigenen uralten Instinkte in „neuen" Techniken wieder — „buried under millennia of forgetting".
@@ -66,7 +72,7 @@ Bislang nur als Datum bekannt (800-1000 Jahre vor Embers, Material #9), nicht al
 
 ## Offene Fragen
 
-- ~~Yuns Sicht oder Chronisten-POV?~~ → **Entschieden:** 1. Person Yun (wie ganze Reihe). Chronisten nur als von ihr erwähnte Ebene.
+- ~~Yuns Sicht oder Chronisten-POV?~~ → **Entschieden:** Yun-POV (3. Person limited + Einwürfe der alten Yun, wie ganze Reihe ab TLS). Chronisten nur als von ihr erwähnte Ebene.
 - Wie explizit soll gezeigt werden, dass Sekten-Bildung eine *direkte Reaktion* auf das Chaos aus Buch 4 ist (kausale Verzahnung) vs. eine parallele, unabhängige Entwicklung?
 - Soll die Kinder-Meditations-Array-Episode (#5) zum zentralen Klimax des Buches werden, oder bleibt sie eine von mehreren gleichrangigen Episoden?
 - **Nebenstrang-Integration:** Läuft Mei/Qinzhou wirklich als durchgehender Parallelstrang, oder besser als ein kompaktes Kapitel-Paar in der Buchmitte? Bei zu vielen parallelen Fäden droht das Sekten-Hauptthema zu verwässern.

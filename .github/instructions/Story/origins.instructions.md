@@ -18,6 +18,37 @@ description: 'Die "Origins"-Prequel-Reihe — eigenständige Bücher über Yuns 
 ## Yuns Weg in die Numbness (Modell)
 Monotoner Abstieg (kein Zyklus), ~30.000 Jahre Kern-Abstieg, dann ~100.000 Jahre latentes Plateau. **Flicker-Modell:** die Taubheit ist nie 100 % — einzelne Menschen stechen kurz durch (Lin Feiyun), kehren den Abstieg aber nicht um. Entkopplung: innerer „Monster"-Zustand (tiefe Vorzeit) ≠ aktive Waffenphase (Zivilisationsära, braucht Städte). Phasen decken sich mit Yuns Selbst-Erzählung in UTE-7 `7-4-10-38.md` (Freiheit → Verlust → Wiederholung → Numbness → Waffe → Wandern → „Gefängnis").
 
+**Datierung (entschieden 03.11.2026):** Lin Feiyun ≈ 117.000 vE; ihr Tod (TLS `4-04-15`) = leiser Kipppunkt. Der Hausierer (`5-04-19`, erstes echtes „nichts") ≈ 115.000 vE = Ende des Kern-Abstiegs. `6-01-20` rafft danach das Plateau bis ~15.000. Zahlen nie im Text. Details: `40 - WorkingStuff/Origins_Zeitachse.md` §2.1.
+
+## Lernen & Lehren (durchgehender Faden, entschieden 03.11.2026)
+**Lernen — Leitlinie:** Mei/Yun lernt von anderen **nie Kraft, nur Form.** Die Kraft in der Form findet sie selbst, durch eigenes Ausprobieren (B3: Im Drill merkt sie, dass bestimmte Formen ihre Kraft wachsen lassen, und experimentiert danach mit eigenen Formen). Kultivation bringt sie sich selbst bei (UTE `5-2-04-11`: „no sects. No masters" gilt für den Anfang; `6-5-05-33` erinnert Jahrtausende später einen Meister, den sie wegen Präzision und Vokabular aufsuchte — kein Widerspruch). Lehrer (Funktion + Merkmal):
+
+| Buch | Lehrer | Was (Form) |
+|---|---|---|
+| TLS | Feuerhüterin | Feuer mit Technik statt Rohkraft („Listen to it first") |
+| TLS | Flötenspieler | die Melodie, die später Lin Feiyun summt |
+| TLS | Lin Feiyun | Heilen, Kräuter, Sterbebegleitung, Garten |
+| B3 | Drillmeister des Kriegsherrn | Soldatenausbildung vor dem ersten Schlachtfeld: brutal, effizient, keine Finesse → Ursprung von Yuns Kampfstil. Dabei entdeckt sie, dass bestimmte Formen ihre Kraft wachsen lassen, und experimentiert selbst weiter (→ Eskalation in B3) |
+| B4 | Kampflehrer | feinere Form: kämpfen wie Sterbliche, vor allem *verlieren* → Ursprung der Macht-Maskierung |
+| B4 | Navigatorin | Sterne → Bezugsrahmen für spätere Continuity Scars („Sternbild anders erinnert") |
+| B5 | Schreiber | Pinsel/Strich; sie lernt schreiben im Zeitalter, in dem sie keine Namen mehr behält |
+| B5 | namenloser Kultivationsmeister | Vokabular für das, was ihr Körper schon kann |
+
+**Lehren — die Gabe als Menschlichkeits-Messpunkt:** Wie Mei/Yun mit einer entdeckten Gabe (haardünnes Warm) umgeht, zeigt ihren jeweiligen Zustand. Nur zeigen, nie benennen.
+
+| Buch | Umgang mit der Gabe | Status |
+|---|---|---|
+| TLS 2-02/3-01 | Feuerhüterin: Gabe erkennt Gabe; Mei ist die Schülerin | geschrieben |
+| TLS 3-02 | Urenkel: sie lehrt das Bewahren — Lehren aus Liebe | geschrieben |
+| TLS 6-01 | zwei Kinder in der Raffung: dem Ofenjungen zeigt sie noch das Glut-Halten, am Mädchen am Blasebalg geht sie vorbei | geschrieben |
+| B3 | ihr Gabensinn wird Werkzeug: sie spürt Menschen mit Qi auf, der Kriegsherr zieht sie ein. Sie drillen mit ihr und kopieren ihre Formen — Lernen ohne Lehre. Nach der Asche geben sie ihr Wissen in eigenen Schulen weiter (Meister-Schüler-Ketten): erhalten, aber spezialisiert → Wurzel der Einzelaufstiege (B4) und der Sekten (B5) | entschieden |
+| B4 | lehrt einen Begabten Zurückhaltung als sanfte Alternative zum Stoppen und baut dafür aus ihren Form-Experimenten (B3) eine Übungsfolge, die Wachstum bremst und ordnet; er wächst trotzdem → sie stoppt den Aufstieg ihres eigenen Schülers („the stopping was what broke me") | Kern |
+| B5 | die 17-teilige Technik im Schrein (`5-1-02-02`) ist ihre Übungsfolge aus B4, fremd zugeschrieben; der namenlose Meister lehrt unwissentlich ihre Lehre („He'd died believing he'd created something"). Meridian-Missbrauch = Gegenprinzip zu „Listen to it first" | Verknüpfung |
+| B7 | Schützlinge sterben an zu schnellem Wachstum in ihrer Nähe → sie fängt nicht mehr an | vorhanden |
+| *Embers* | Wei — der erste Schüler seit B7 | Kanon |
+
+**Invisible-Writing-Pflicht:** Die Kette B3 → B4 → B5 (Form-Experimente → Übungsfolge → Schrein → Meister) wird im Text nie ausgesprochen. Sie existiert nur als Körperwissen und Ironie.
+
 ## Die fünf geplanten Bücher (nach *Stones and Bones*)
 | Buch | Arbeitstitel | Zeitraum (vE) | Kern |
 |---|---|---|---|

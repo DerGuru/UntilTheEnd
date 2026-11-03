@@ -51,6 +51,8 @@ Der Abstieg ist **Erosion, kein Einsturz** — Größenordnung **~30.000 Jahre f
 
 **Faustzahl: Die Reise in die Numbness ≈ das erste Fünftel ihres Lebens (~30.000 J.), danach ~100.000 J. Plateau.** Das deckt sich mit dem Nachwort auf drei Achsen: Fun ist kurz („the beginning"), das Steckenbleiben ist der Großteil („you get stuck there"), der Übergang ist so langsam, dass sie den Tag nicht benennen kann — dieselbe Textur wie die Unsterblichkeits-*Kristallisation* in `7-4-06-34` („it wasn't a moment, it was a crystallization").
 
+**Verankerung im TLS-Manuskript (entschieden 03.11.2026, „Option A"):** Lin Feiyun ≈ **117.000 vE** (Ende Pinch 1). Ihr Tod (`4-04-15`, „something in her had gone still") = der leise **Kipppunkt**. Der Hausierer (`5-04-19`, „forty lifetimes" nach LF; „It did not bother her that it did not bother her") ≈ **115.000 vE** = das erste echte „nichts" = **Ende des Kern-Abstiegs**. `6-01-20` rafft danach „tens of thousands of years, and then tens of thousands more" bis zum Kriegsherrn (~15.000) — deckt sich mit dem ~100.000-J.-Plateau. Innerweltliche Folge: LFs sesshaftes Dorf (Hirse, Kürbisse) liegt ~100.000 J. vor den ersten Mauern; `6-01` lässt solche Dörfer über diese Spanne langsam wachsen (bewusste Abweichung von der realen Analogie, im Text nie datiert).
+
 ### 2.2 Entkopplung: innerer „Monster"-Zustand vs. aktive Waffenphase
 
 Der Schlüssel, der Nachwort-Psychologie und Manuskript-Datierungen versöhnt: **Der innere Monster-Zustand (Taubheit) und die aktive Waffenphase sind NICHT dasselbe Ereignis.**
@@ -145,6 +147,8 @@ In diesem Kapitel (Buch 7, *Clouds*) fasst Yun ihre eigene „Trajektorie" gegen
 
 ## 5. Die fünf neuen Bücher (Übersicht)
 
+> **⚠ Revidiert 07.09.2026 (POV/Rahmen):** Ab Buch 2 gilt **3. Person limited auf Mei/Yun, Präteritum**, mit Einwürfen der alten Yun als „ich"; der Ich-/Sie-Split trägt jetzt die Entfremdung. **Kein separater Rahmen-POV** (keine Xu-Ran-Präsens-Szenen), nur gelegentliches „du". Die Angaben unten zu „1. Person" und „Lagerfeuer-Pausen" sind damit überholt. Kanon: `.github/instructions/Story/origins.instructions.md`.
+>
 > **Globale Entscheidungen (21.08.2026):** POV = **1. Person retrospektiv** (wie UTE-Hauptserie), nicht 3. Person wie *Stones and Bones* — der POV-Wechsel Mei→Yun ist selbst bedeutungstragend (Buch 2 eröffnet damit, dass Mei ihr fremd geworden ist, „vor ihrem Dao"). **Rahmen (Option A, s. §6.2):** Yun erzählt Xu Ran ihr Leben über mehrere Abende im UTE-7-Fenster, frisch erinnert nach dem Blockfall; Xu Ran benannt, Lagerfeuer sichtbar, **max. 2-3 Pausen/Buch**; standalone-funktional + Sequence-Bonus; Spoiler toleriert (Preface warnt). Buch 6 ist in Buch 5 aufgegangen → **fünf** Bände statt sechs.
 
 | Datei | Arbeitstitel | Zeitraum (vE) | Kernthema |
@@ -164,7 +168,7 @@ Jede Datei enthält: Zeitrahmen & Begründung, Prämisse/Pitch, Übergänge (Ein
 
 ### 6.1 Die Namen-Regel (FEST, ab Buch 2)
 
-Ab Buch 2 = 1. Person, aus enormem zeitlichem Abstand erzählt. **Die meisten Gesichter UND Namen sind verblasst.** Personen werden daher in der Regel über **Funktion + ein hervorstechendes Merkmal** eingeführt, nicht über einen Namen. (Buch 1 durfte Namen frei nutzen — es war noch Mei, 3. Person, im Moment.)
+Ab Buch 2 wird retrospektiv aus enormem zeitlichem Abstand erzählt (3. Person limited + Einwürfe der alten Yun, s. Revisionshinweis in §5). **Die meisten Gesichter UND Namen sind verblasst.** Personen werden daher in der Regel über **Funktion + ein hervorstechendes Merkmal** eingeführt, nicht über einen Namen. (Buch 1 durfte Namen frei nutzen — es war noch Mei, 3. Person, im Moment.)
 
 - **Kanonisch belegt (UTE-7):** „the healer with the cold core", „the student with the kingdom and the ash", „the fighter who won and then died", Hände „calloused from holding a sword and a brush and a child" — durchweg **namenlos**, nur Funktion/Merkmal.
 - **Die wenigen überlebenden Namen sind bedeutungstragend — GERADE WEIL sie überlebten.** In UTE-7 sind sie ihr wichtig genug, sie Xu Ran zu nennen. Kanonische Überlebende: **Lin Feiyun** (erste Güte), **Mei** (die Frau am Fluss — Ironie: ihr eigener alter Name), **Guo**, **Zhang Wei**, **Zhìwēng**, **Wei**, **Xu Ran**. Ihre eigenen Namen: **Liè**, **Yun**.
