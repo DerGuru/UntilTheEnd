@@ -22,6 +22,8 @@ Yun kennt alle Stufen, interessiert sich aber nicht dafür. Erst ab Immortal+ wi
 | Immortal | „Anfänger" — ab hier für Yun bemerkenswert |
 | ??? | **Yun** — jenseits aller Stufen. SIE IST die Kategorie. |
 
+**Schlaf & Grundbedürfnisse (Weltregel, festgehalten 03.11.2026):** Sterbliche und Anfänger (Qi Gathering) schlafen normal. Ab Foundation/Core Formation ersetzt tiefe Meditation den Schlaf, Schlafen wird optional. Ein **gebrochener Core** bringt die sterblichen Bedürfnisse zurück (Xu Ran in TWoW: „Er muss ESSEN. Schlafen."). Yun: „I usually don't sleep" — sie ruht in einem meditativen Zwischenzustand (Echoes `4-3-06-23`), schlafen kann sie trotzdem. Wann Mei aufhört zu schlafen: `origins.instructions.md`.
+
 ### Yuns Position & Macht-Maskierung
 - Hat keine „Stufe" — sie IST das System. **Keine anderen Wesen auf ihrem Level.** Absolut einzigartig.
 - Maskierung ist passiv-automatisch (wie Atmen, ein Ozean, der sich als Teich tarnt). Unter Immortal: sieht nichts. Immortal+: spürt evtl. eine „Leere"/Anomalie. Wenn sie Macht einsetzt (Resolution B1): Maskierung bricht wie Glas, JEDER spürt es, überregional (tausend Li+). Setup für Buch 2+.

@@ -28,7 +28,7 @@ Monotoner Abstieg (kein Zyklus), ~30.000 Jahre Kern-Abstieg, dann ~100.000 Jahre
 | TLS | Feuerhüterin | Feuer mit Technik statt Rohkraft („Listen to it first") |
 | TLS | Flötenspieler | die Melodie, die später Lin Feiyun summt |
 | TLS | Lin Feiyun | Heilen, Kräuter, Sterbebegleitung, Garten |
-| B3 | Drillmeister des Kriegsherrn | Soldatenausbildung vor dem ersten Schlachtfeld: brutal, effizient, keine Finesse → Ursprung von Yuns Kampfstil. Dabei entdeckt sie, dass bestimmte Formen ihre Kraft wachsen lassen, und experimentiert selbst weiter (→ Eskalation in B3) |
+| B3 | Drillmeister des Kriegsherrn | Soldatenausbildung vor dem ersten Schlachtfeld: brutal, effizient, keine Finesse → Ursprung von Yuns Kampfstil. Dabei entdeckt sie, dass bestimmte Formen ihre Kraft wachsen lassen, und experimentiert selbst weiter (→ Eskalation in B3; die nächtlichen Formen verdrängen den Schlaf, s. unten) |
 | B4 | Kampflehrer | feinere Form: kämpfen wie Sterbliche, vor allem *verlieren* → Ursprung der Macht-Maskierung |
 | B4 | Navigatorin | Sterne → Bezugsrahmen für spätere Continuity Scars („Sternbild anders erinnert") |
 | B5 | Schreiber | Pinsel/Strich; sie lernt schreiben im Zeitalter, in dem sie keine Namen mehr behält |
@@ -48,6 +48,8 @@ Monotoner Abstieg (kein Zyklus), ~30.000 Jahre Kern-Abstieg, dann ~100.000 Jahre
 | *Embers* | Wei — der erste Schüler seit B7 | Kanon |
 
 **Invisible-Writing-Pflicht:** Die Kette B3 → B4 → B5 (Form-Experimente → Übungsfolge → Schrein → Meister) wird im Text nie ausgesprochen. Sie existiert nur als Körperwissen und Ironie.
+
+**Schlaf (Kontinuität):** In TLS schläft Mei wie alle (`2-01-05`, `3-03-09`, `4-01-12`, `4-05-16`). In B3 verdrängen die nächtlichen Form-Experimente den Schlaf. Danach schläft sie selten, aus Gewohnheit. UTE: „I usually don't sleep" (meditative Ruhe). Weltregel: `system.instructions.md`.
 
 ## Die fünf geplanten Bücher (nach *Stones and Bones*)
 | Buch | Arbeitstitel | Zeitraum (vE) | Kern |
