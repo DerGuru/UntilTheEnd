@@ -33,7 +33,7 @@ Qi ist nicht einheitlich. Mei/Yun spürt Unterschiede als **Textur**. Rein senso
 |---|---|---|
 | **Rein (Mei/Yun)** | warm, nicht heiß, ohne Eigenrichtung = „the warm" | durchgehend; wenn sie Feuer macht, läuft es heiß und schnell wie Feuer-Qi |
 | **Feuer** | heiß, quirlig, schnell | Feuerhüterin, Urenkel (`3-02-08`), Ofenjunge, Blasebalg-Mädchen (`6-01-21`), dort als „the warm" bzw. „hair-thin warm" |
-| **Erde** | schwer, langsam, feucht, setzt sich, beständig; macht Ton still und fest | Töpfermädchen (`5-02-18`), erste Gabe, die kein Feuer ist |
+| **Erde** | schwer, langsam, feucht, setzt sich, beständig; macht Ton still und fest. Gleichmäßig durch die ganze Wand verteilt, verdichtet es den Ton: gebrannte Irdenware klingt dann hell wie Stein statt dumpf | Töpfermädchen (`5-02-18`), erste Gabe, die kein Feuer ist; ihr erster heiler Topf klingt, Mei hat so etwas nie gehört |
 | **Wasser** | fließend, träge, gleitend, feucht | als Gabe noch nicht im Text; als Ort-Qi: B1 `1-04-04` (unterirdische Strömung zur Quelle), `1-06-06` („the gentle warmth of the underground water") |
 | **Luft** | quirlig, flüchtig, schnell | noch nicht im Text |
 
