@@ -28,6 +28,7 @@ Monotoner Abstieg (kein Zyklus), ~30.000 Jahre Kern-Abstieg, dann ~100.000 Jahre
 | TLS | Feuerhüterin | Feuer mit Technik statt Rohkraft („Listen to it first") |
 | TLS | Flötenspieler | die Melodie, die später Lin Feiyun summt |
 | TLS | Lin Feiyun | Heilen, Kräuter, Sterbebegleitung, Garten |
+| TLS | Töpfermädchen (`5-02-18`) | Töpfern (Meis Wärme trocknet den Ton, ihre Töpfe reißen: „Your hands are worse than mine") und das *Verteilen* statt Zurückhalten, eine Form, auf die Mei nie gekommen war |
 | B3 | Drillmeister des Kriegsherrn | Soldatenausbildung vor dem ersten Schlachtfeld: brutal, effizient, keine Finesse → Ursprung von Yuns Kampfstil. Dabei entdeckt sie, dass bestimmte Formen ihre Kraft wachsen lassen, und experimentiert selbst weiter (→ Eskalation in B3; die nächtlichen Formen verdrängen den Schlaf, s. unten) |
 | B4 | Kampflehrer | feinere Form: kämpfen wie Sterbliche, vor allem *verlieren* → Ursprung der Macht-Maskierung |
 | B4 | Navigatorin | Sterne → Bezugsrahmen für spätere Continuity Scars („Sternbild anders erinnert") |
@@ -40,6 +41,7 @@ Monotoner Abstieg (kein Zyklus), ~30.000 Jahre Kern-Abstieg, dann ~100.000 Jahre
 |---|---|---|
 | TLS 2-02/3-01 | Feuerhüterin: Gabe erkennt Gabe; Mei ist die Schülerin | geschrieben |
 | TLS 3-02 | Urenkel: sie lehrt das Bewahren — Lehren aus Liebe | geschrieben |
+| TLS 5-02 | Töpfermädchen, erste Gabe, die kein Feuer ist (Erde, s. `system.instructions.md` → Qi-Texturen): Ihr Qi lässt den Ton fleckig fest werden → Risse; die Familie kann es nicht sehen. Mei lehrt das Zurückhalten („Listen to it first", diesmal *ohne* innezuhalten, vgl. 3-02), nachts, ungesehen; auf „Can you?" weicht sie aus. Sie sorgt mit Taten (prüft die Grube), aber ihre Stimme ist flach: „You said it like the weather" | geschrieben |
 | TLS 6-01 | zwei Kinder in der Raffung: dem Ofenjungen zeigt sie noch das Glut-Halten, am Mädchen am Blasebalg geht sie vorbei | geschrieben |
 | B3 | ihr Gabensinn wird Werkzeug: sie spürt Menschen mit Qi auf, der Kriegsherr zieht sie ein. Sie drillen mit ihr und kopieren ihre Formen — Lernen ohne Lehre. Nach der Asche geben sie ihr Wissen in eigenen Schulen weiter (Meister-Schüler-Ketten): erhalten, aber spezialisiert → Wurzel der Einzelaufstiege (B4) und der Sekten (B5) | entschieden |
 | B4 | lehrt einen Begabten Zurückhaltung als sanfte Alternative zum Stoppen und baut dafür aus ihren Form-Experimenten (B3) eine Übungsfolge, die Wachstum bremst und ordnet; er wächst trotzdem → sie stoppt den Aufstieg ihres eigenen Schülers („the stopping was what broke me") | Kern |

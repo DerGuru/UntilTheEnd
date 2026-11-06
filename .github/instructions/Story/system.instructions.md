@@ -1,5 +1,5 @@
 ---
-description: 'Autoritative, objektive Weltmechanik der UTE-Serie — XianXia-Setting, Kultivationsstufen, Yuns Macht-Maskierung, das „System" (= Yun selbst / Überzeugung=Realität), der Hänger/Stillstand mit 3 Regeln, das Dao der Fortsetzung, Stillstand-Ausweitung (Anker-/Feld-Regel), Warping-Grenzen, Welt-Instabilität. Konsultiere für alles, was objektiv wahr sein muss. Unterschieden von dem, was eine Figur weiß.'
+description: 'Autoritative, objektive Weltmechanik der UTE-Serie — XianXia-Setting, Kultivationsstufen, Qi-Texturen, Yuns Macht-Maskierung, das „System" (= Yun selbst / Überzeugung=Realität), der Hänger/Stillstand mit 3 Regeln, das Dao der Fortsetzung, Stillstand-Ausweitung (Anker-/Feld-Regel), Warping-Grenzen, Welt-Instabilität. Konsultiere für alles, was objektiv wahr sein muss. Unterschieden von dem, was eine Figur weiß.'
 ---
 
 # UTE — Worldbuilding / System (objektive Wahrheit)
@@ -23,6 +23,52 @@ Yun kennt alle Stufen, interessiert sich aber nicht dafür. Erst ab Immortal+ wi
 | ??? | **Yun** — jenseits aller Stufen. SIE IST die Kategorie. |
 
 **Schlaf & Grundbedürfnisse (Weltregel, festgehalten 03.11.2026):** Sterbliche und Anfänger (Qi Gathering) schlafen normal. Ab Foundation/Core Formation ersetzt tiefe Meditation den Schlaf, Schlafen wird optional. Ein **gebrochener Core** bringt die sterblichen Bedürfnisse zurück (Xu Ran in TWoW: „Er muss ESSEN. Schlafen."). Yun: „I usually don't sleep" — sie ruht in einem meditativen Zwischenzustand (Echoes `4-3-06-23`), schlafen kann sie trotzdem. Wann Mei aufhört zu schlafen: `origins.instructions.md`.
+
+### Qi-Texturen (Wahrnehmung, festgehalten 06.11.2026)
+Qi ist nicht einheitlich. Mei/Yun spürt Unterschiede als **Textur**. Rein sensorisch: Im Text gibt es keine Element-Begriffe und keine Einteilung, Figuren benennen nur das Empfinden. „The warm" ist Meis Oberbegriff für jedes Qi, die Texturen sind die Unterschiede darin.
+
+**Gaben (was jemand in den Händen trägt) — kanonisch**
+
+| Ausprägung | Textur | Im Text |
+|---|---|---|
+| **Rein (Mei/Yun)** | warm, nicht heiß, ohne Eigenrichtung = „the warm" | durchgehend; wenn sie Feuer macht, läuft es heiß und schnell wie Feuer-Qi |
+| **Feuer** | heiß, quirlig, schnell | Feuerhüterin, Urenkel (`3-02-08`), Ofenjunge, Blasebalg-Mädchen (`6-01-21`), dort als „the warm" bzw. „hair-thin warm" |
+| **Erde** | schwer, langsam, feucht, setzt sich, beständig; macht Ton still und fest | Töpfermädchen (`5-02-18`), erste Gabe, die kein Feuer ist |
+| **Wasser** | fließend, träge, gleitend, feucht | als Gabe noch nicht im Text; als Ort-Qi: B1 `1-04-04` (unterirdische Strömung zur Quelle), `1-06-06` („the gentle warmth of the underground water") |
+| **Luft** | quirlig, flüchtig, schnell | noch nicht im Text |
+
+**Zustände (Eigenschaft von Lebewesen und Orten, keine Gabe) — kanonisch**
+
+| Ausprägung | Textur | Im Text |
+|---|---|---|
+| **Leben** | Summen, Flattern; große Tiere hell und fest „like a coal" | B1 `1-06-06` („the light flutter of the deer"), `4-03-17` („hum"), `4-05-21` („a solid, bright presence, like a coal") |
+| **Fäulnis/Verderbnis** | sauer, grün, falsch | B1 `4-02-16` („a faint, sour note", giftige Pilze), TLS `4-03-14` („sour and green, a wrongness", Spirit-Rot) → Quelle verdorbener Spirit Beasts |
+| **Ort/Ley** | dicht, voll, „Chor" | B1 `4-03-17` (der Berg) |
+| **Tod/Yin** | kalt, leer, saugend | nur B1-Szenen-Outline („Manche Orte fühlen sich kalt an"), im Text noch nicht belegt |
+
+- **Leben ≠ Holz:** Leben ist die Grundtextur alles Lebendigen (jedes Tier summt). Holz ist die *Gabe*, dieses Wachsen zu lenken.
+
+**Kandidaten (nicht kanonisch)**
+
+| Ausprägung | Textur | Anknüpfung / Abgrenzung |
+|---|---|---|
+| **Holz** (Gabe) | drängt nach oben und außen, zäh-elastisch, saftig, geduldig, zieht wie eine Wurzel | Erde setzt sich, Holz strebt |
+| **Metall** (Gabe) | kalt, hart, klar, gespannt, mit Kanten, klingt nach | die einzige „scharfe" Textur |
+| **Blitz/Donner** (Gabe) | knisternd, sprunghaft, prickelt auf der Haut, fließt nicht, sondern springt | Luft ist flüchtig, Blitz ist ruckartig |
+| **Eis/Kälte** (Gabe) | still, zieht sich zusammen, beißt | Wasser, das stehen geblieben ist |
+| **Geist/Bewusstsein** | Gewicht ohne Körper | B1 `4-05-21` („the animal's awareness had weight") |
+| **Wille/Absicht** | Druck von außen | B1 `1-06-06`, Anführer („a hand pressing on her chest from outside") |
+| **Blut** | pulsiert im Takt des Herzens, kupfern | eher dunkle Phase (Liè) |
+
+**Ausschlüsse**
+- **Raum, Zeit, Kontinuität:** keine Textur. Yuns eigener Mechanismus ist eine *Abwesenheit* (Immortal+ sehen eine Lücke, s. Hänger).
+- **Licht/Dunkel:** westlicher Fantasy-Code; falls nötig als Yin/Yang.
+- **Karma/Schicksal:** zu nah am Schicksalsfaden (Anker-Regel) und an der Meta-Ebene.
+
+**Regeln & offene Punkte**
+- Neue Gaben-Texturen nur, wenn sie im Text an eine Person gebunden auftauchen; sparsam, höchstens alle paar Bücher. Erst dann wandern sie von „Kandidat" zu „kanonisch".
+- **Offen:** die Einteilung. Beim XianXia-Standard Wu Xing (Holz, Feuer, Erde, Metall, Wasser) gibt es Luft nur als Wind-Variante. Entscheiden, spätestens wenn B5 (der namenlose Kultivationsmeister) Vokabular liefert.
+- **Offen:** Der Anführer in B1 `1-06-06` („Denser. Hotter. … like standing too close to a fire") — Feuer-Gabe oder Wille/Absicht?
 
 ### Yuns Position & Macht-Maskierung
 - Hat keine „Stufe" — sie IST das System. **Keine anderen Wesen auf ihrem Level.** Absolut einzigartig.
