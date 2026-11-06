@@ -41,7 +41,7 @@ Qi ist nicht einheitlich. Mei/Yun spürt Unterschiede als **Textur**. Rein senso
 
 | Ausprägung | Textur | Im Text |
 |---|---|---|
-| **Leben** | Summen, Flattern; große Tiere hell und fest „like a coal" | B1 `1-06-06` („the light flutter of the deer"), `4-03-17` („hum"), `4-05-21` („a solid, bright presence, like a coal") |
+| **Leben** | Summen, Flattern; große Tiere hell und fest „like a coal"; viele Menschen dicht beieinander = Druck von allen Seiten (Ohren/Brust, wie tiefes Wasser) — Gewöhnung geht nach langer Einsamkeit verloren | B1 `1-06-06` („the light flutter of the deer"), `4-03-17` („hum"), `4-05-21` („a solid, bright presence, like a coal"), TLS `6-03-23` (Festival-Menge: „how much pressure so many people in one place could exert") |
 | **Fäulnis/Verderbnis** | sauer, grün, falsch | B1 `4-02-16` („a faint, sour note", giftige Pilze), TLS `4-03-14` („sour and green, a wrongness", Spirit-Rot) → Quelle verdorbener Spirit Beasts |
 | **Ort/Ley** | dicht, voll, „Chor" | B1 `4-03-17` (der Berg) |
 | **Tod/Yin** | kalt, leer, saugend | nur B1-Szenen-Outline („Manche Orte fühlen sich kalt an"), im Text noch nicht belegt |
