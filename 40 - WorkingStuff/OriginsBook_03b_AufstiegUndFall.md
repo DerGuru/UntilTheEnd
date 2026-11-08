@@ -1,7 +1,9 @@
 # Origins-Buch-Kandidat: Aufstieg und Fall
 
+> **⚠ Zusammengelegt 07.11.2026:** Dieses Material ist die zweite Hälfte von Origins-Buch 3 *Hand and Sky*. Maßgeblich ist [`03-HandAndSky.md`](../10%20-%20Outlines/3_Origins/03-HandAndSky.md) §Z; diese Datei bleibt Materialsammlung.
+
 **Zeitraum:** ~12.000–8.000 vE (~4.000 Jahre) · **Yuns Alter:** ~138.000–142.000 · **Reale Analogie:** frühe Städte (Mauern, Tempel, Bibliotheken existieren; noch keine organisierten Cultivation-Sekten). Überlappt zeitlich bewusst mit Buch 5 und Buch 6 — thematische Gruppierung, keine strikte Abfolge.
-**Vorheriges Buch:** *Das Wandern* (nach Liè, s. [`Origins_Zeitachse.md`](Origins_Zeitachse.md)) · **Nächstes Buch:** [`OriginsBook_05_VorDenSekten.md`](OriginsBook_05_VorDenSekten.md)
+**Vorheriges Buch:** *Das Wandern* (nach Liè, s. [`Origins_Zeitachse.md`](Origins_Zeitachse.md)) · **Nächstes Buch:** [`OriginsBook_04_VorDenSekten.md`](OriginsBook_04_VorDenSekten.md)
 **Phasenabgleich:** Liegt vollständig im tauben „Gefängnis"-Plateau ([`7-4-10-38.md`](../20%20-%20Chapters/02%20-%20UTE/7%20-%20Clouds/7-4-10-38.md)) — nach der aktiven Waffenphase, aber vor jeder Erlösung. Ihr Eingreifen hier ist **kein Wieder-Erwärmen**, sondern ein *Flicker* von Zweck, der zerdrückt wird und die Taubheit vertieft (Flicker-Modell, s. Zeitachse 2.3).
 
 ## Prämisse
@@ -66,6 +68,7 @@ Bislang nur implizit: Wie genau führt das Chaos individueller Cultivation-Katas
 
 ## Offene Fragen
 
+- **Ihr Name (Vorgabe 06.11.2026):** B3 endet mit dem Tod des letzten Herrn, damit endet auch „Liè". B4 beginnt namenlos („she"). Zügig in B4 bekommt sie einen neuen Namen, gegeben oder selbst erfunden (wie „Yun" in Embers `1-2-03-11`), passend zum Buchkontext. Nicht „Yun" (das kommt erst in Embers). Naheliegender Ort: der Hook (Grenzstreit), wo die Bauern sie zum ersten Mal ansprechen. Die spätere Legende von der „Seelen-verschlingenden Frau" ist kein Name, den sie trägt.
 - Sind Verdigris (#2) und die Sandstein-Zivilisation (#3) unterschiedliche Städte/Ereignisse, oder sollten sie zu einer verschmolzen werden? Empfehlung: getrennt lassen — zwei Katastrophen verstärken den „das passiert immer wieder"-Effekt mehr als eine ausführliche.
 - Wie viele Katastrophen-Kapitel verträgt das Buch, bevor die Wiederholung ermüdet statt zu beeindrucken? Vorschlag: 3-4 ausführliche (Verdigris, Sandstein, Krater, evtl. eine vierte neu erfundene), Rest als kurze Montage/Aufzählung.
 - Soll #8 (Grenzstreit) tatsächlich an den Anfang, um zu zeigen, dass sie es nach dem Wandern erst „verlernt" hat zu helfen? Das wäre ein starker, ironischer Opening-Beat.

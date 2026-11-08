@@ -1,7 +1,7 @@
 # Origins-Buch-Kandidat: Liè
 
 **Zeitraum:** ~15.000–12.000 vE (~3.000 Jahre, davon die *aktive* Gewaltphase vermutlich nur ein Bruchteil — Jahrhunderte) · **Yuns Alter:** ~135.000–138.000 · **Reale Analogie:** früheste Städte, Mauern, Belagerungen, Kriegsherren (Neolithikum-/Bronzezeit-Übergang) — die *erste* Epoche, die organisiert genug ist, um eine unsterbliche Frau als Waffe zu benutzen. **Datierungs-Korrektur:** Die frühere Einordnung in die Altsteinzeit war inkonsistent — eine „viermonatige Belagerung" und „Städte zu Asche" brauchen Städte. Deshalb entkoppelt und nach vorn (Zivilisationsära) verschoben (s. [`Origins_Zeitachse.md`](Origins_Zeitachse.md) Abschnitt 2.2).
-**Vorheriges Buch:** [`OriginsBook_02_LangeStille.md`](OriginsBook_02_LangeStille.md) · **Nächstes:** *Das Wandern* (keine eigene Datei, s. [`Origins_Zeitachse.md`](Origins_Zeitachse.md)) → [`OriginsBook_04_AufstiegUndFall.md`](OriginsBook_04_AufstiegUndFall.md)
+**Vorheriges Buch:** [`OriginsBook_02_LangeStille.md`](OriginsBook_02_LangeStille.md) · **Nächstes:** *Das Wandern* (keine eigene Datei, s. [`Origins_Zeitachse.md`](Origins_Zeitachse.md)) → [`OriginsBook_03b_AufstiegUndFall.md`](OriginsBook_03b_AufstiegUndFall.md)
 **Phasenabgleich:** der **akute, sichtbare Gipfel** ihrer längst bestehenden Taubheit (nicht deren Ursprung — der liegt ~100.000 Jahre früher, Ende Buch 2). Entspricht „That was my darkest time... I was a weapon" und „Something cracked... I killed the man who was pointing me and walked away" ([`7-4-10-38.md`](../20%20-%20Chapters/02%20-%20UTE/7%20-%20Clouds/7-4-10-38.md)).
 
 ## Prämisse

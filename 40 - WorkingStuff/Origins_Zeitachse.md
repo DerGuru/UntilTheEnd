@@ -68,13 +68,13 @@ Nachwort (monoton) und `Characters.md` (zyklisch: „Grund da → pausiert, Grun
 
 - **Lin Feiyun sticht durch** → bleibt „sharp, permanent" (die „firsts" überleben, `7-4-10-38`).
 - **Mei sticht nicht durch** → Taubheit gewinnt („I did not treat it").
-- Das **Ascension-Stopping** (Buch 4, „the stopping was what broke me") ist ein Flicker von Zweck, der **zerdrückt** wird und die Taubheit *vertieft*, statt sie zu heilen.
+- Das **Ascension-Stopping** (Buch 3, zweite Hälfte, „the stopping was what broke me") ist ein Flicker von Zweck, der **zerdrückt** wird und die Taubheit *vertieft*, statt sie zu heilen.
 
-Die Taubheit ist damit **asymptotisch — nie ganz 100 %.** „Voll numb" heißt „tief genug, um Waffe zu sein und den Tod zu wollen", nicht „null Gefühl". Genau deshalb kann Wei sie in *Embers* überhaupt noch erreichen — und genau deshalb funktioniert Wei, wo alle Schützlinge (Buch 7) scheiterten: Er fordert keinen *Entschluss*, er bleibt einfach (s. Übergang „Der letzte Schützling").
+Die Taubheit ist damit **asymptotisch — nie ganz 100 %.** „Voll numb" heißt „tief genug, um Waffe zu sein und den Tod zu wollen", nicht „null Gefühl". Genau deshalb kann Wei sie in *Embers* überhaupt noch erreichen — und genau deshalb funktioniert Wei, wo alle Schützlinge (Buch 5) scheiterten: Er fordert keinen *Entschluss*, er bleibt einfach (s. Übergang „Der letzte Schützling").
 
 ### 2.4 Wo bleibt die „Apathie vor Embers", die du meintest?
 
-Deine ursprüngliche Vorgabe (lange Apathie nach Zhìwēng, vor *Embers*) ist **nicht verschwunden, sondern aufgegangen** in dieser einen durchgehenden Taubheit: Nach Zhìwēng endet die aktive *Waffennutzung*, nicht die Taubheit. Sie wandert weiter numb („I kept walking… looking for mortality") und bleibt es — durch alle Ereignisse der Bücher 4–7 hindurch — bis Wei. Die „letzte Apathie" ist also einfach das **jüngste Ende desselben Plateaus**, kein separates Segment. Das frühere „~300 Jahre"-Segment entfällt als eigene Einheit.
+Deine ursprüngliche Vorgabe (lange Apathie nach Zhìwēng, vor *Embers*) ist **nicht verschwunden, sondern aufgegangen** in dieser einen durchgehenden Taubheit: Nach Zhìwēng endet die aktive *Waffennutzung*, nicht die Taubheit. Sie wandert weiter numb („I kept walking… looking for mortality") und bleibt es — durch alle Ereignisse der Bücher 3 (zweite Hälfte) bis 5 hindurch — bis Wei. Die „letzte Apathie" ist also einfach das **jüngste Ende desselben Plateaus**, kein separates Segment. Das frühere „~300 Jahre"-Segment entfällt als eigene Einheit.
 
 ---
 
@@ -88,9 +88,9 @@ In diesem Kapitel (Buch 7, *Clouds*) fasst Yun ihre eigene „Trajektorie" gegen
 | „Then the faces started accumulating... Every connection — cut. ... Always." | **Anhäufung von Verlust.** Bindungen entstehen (Lin Feiyun!) und werden alle gekappt — durch Tod oder eigene Flucht vor Entdeckung. | Mittelteil von **Buch 2** |
 | „And the repetition... You know how the empire ends before the emperor is crowned... Everything becomes inevitable." | **Muster-Erkennung.** Zwei Sorten: (a) die *prähistorische* Wiederholung — Jahreszeiten, Überleben, serieller Verlust jedes Menschen — treibt die tiefe Taubheit (Buch 2). (b) Die *zivilisatorische* Wiederholung — Reiche, Dynastien, Rebellionen — kommt erst spät und **schärft** die längst tiefe Taubheit zu aktivem Zynismus. | (a) **Bulk von Buch 2**; (b) **Spätzeit / Beginn Zivilisationsära**, direkt vor/in Buch 3 |
 | „And then you go numb... Nothing matters... That was my darkest time... I was a weapon." | **Der innere Monster-Zustand** (numb) — erreicht am Ende von Buch 2 (~115.000 vE). Die *aktive Waffenphase* ist davon entkoppelt (s. 2.2) und der sichtbare Gipfel, nicht der Ursprung. | Innerer Zustand: Ende **Buch 2**. Aktive Waffe: **Buch 3** (Zivilisationsära) |
-| „What changed? ... Something cracked... I killed the man who was pointing me and walked away." | **Der Bruch.** Das Ende der Waffenphase — deckt sich mit der separat dokumentierten Zhìwēng-Begegnung. | Ende von **Buch 3** |
-| „Just wandering. Millennia of it. Looking for mortality like it was a place I could walk to." | **Das Wandern.** Ziellose Suche nach einem Ende — innerhalb der fortlaufenden Taubheit. | *Das Wandern* (Teil des Plateaus) |
-| *(implizit alles danach)* „...later becomes a prison." | **Das Gefängnis.** Alles Folgende — Eingreifen, Mentoring, Beobachten — geschieht INNERHALB dieses Gefängnisses; es ist kein Entkommen, nur unterschiedliche Arten, die Zeit zu füllen. | **Bücher 4–7** (durchgehend taubes Plateau), bis *Embers* 01 |
+| „What changed? ... Something cracked... I killed the man who was pointing me and walked away." | **Der Bruch.** Das Ende der Waffenphase — deckt sich mit der separat dokumentierten Zhìwēng-Begegnung. | Midpoint und Pinch 2 von **Buch 3** |
+| „Just wandering. Millennia of it. Looking for mortality like it was a place I could walk to." | **Das Wandern.** Ziellose Suche nach einem Ende — innerhalb der fortlaufenden Taubheit. | **Buch 3**, Pinch 2 (Gehen, Grenzstreit, erster Todesversuch) |
+| *(implizit alles danach)* „...later becomes a prison." | **Das Gefängnis.** Alles Folgende — Eingreifen, Mentoring, Beobachten — geschieht INNERHALB dieses Gefängnisses; es ist kein Entkommen, nur unterschiedliche Arten, die Zeit zu füllen. | **Buch 3 (2. Hälfte) bis Buch 5** (durchgehend taubes Plateau), bis *Embers* 01 |
 
 **Konsequenz (revidiert, s. Abschnitt 2.2):** Der innere Zustand „numb → monster" ist am Ende von Buch 2 (tiefe Vorzeit) erreicht. Die *aktive Waffenphase* (Buch 3) ist davon **entkoppelt** und liegt viel später, in der Zivilisationsära — dort, wo Städte, Belagerungen und Kriegsherren überhaupt erst existieren, um die längst taube Frau zu benutzen. Zwischen Buch 2 und Buch 3 liegt also das lange latente Monster-Plateau (~100.000 J.), nicht ein direkter Schnitt. Yuns Selbst-Erzählung in `7-4-10-38` rafft das rückblickend zusammen („numb… weapon"), weil aus Sicht von Äonen die Jahrtausende Plateau zu einem Gefühl verschmelzen — für die Zeitachse müssen sie aber getrennt bleiben.
 
@@ -103,12 +103,12 @@ In diesem Kapitel (Buch 7, *Clouds*) fasst Yun ihre eigene „Trajektorie" gegen
 | Übergang | Zwischen | Kernidee | Datei |
 |---|---|---|---|
 | Von der Alpha zur Verschwundenen | *Stones and Bones* → Buch 2 | Eine unsterbliche Anführerin wird zur Göttin oder zum Monster; sie geht, bevor es kippt | `OriginsBook_02_LangeStille.md` |
-| Die Anwerbung | Buch 2 → Buch 3 | Nach ~100.000 J. tauber Latenz taucht erstmals eine Zivilisation mit Kriegsherren auf, die die unsterbliche Frau *benutzen* kann. Sie widerspricht nicht — nicht aus Zwang, sondern weil ihr das Ergebnis egal ist. Keine Entscheidung, sondern deren Fehlen. | `OriginsBook_02_LangeStille.md` / `OriginsBook_03_Lie.md` |
-| Von der Asche zum Wandern | Buch 3 → *Das Wandern* | „I killed the man who was pointing me and walked away. I kept walking." — das Weggehen hört nie auf; die Taubheit bleibt | `OriginsBook_03_Lie.md` |
-| Der zerdrückte Flicker | *Das Wandern* → Buch 4 | Ein Flicker von Zweck (Aufstiege stoppen) sticht kurz durch die Taubheit — und wird zerdrückt („the stopping was what broke me"), was die Taubheit *vertieft* statt sie zu heilen | `OriginsBook_04_AufstiegUndFall.md` |
-| Die Antwort der Überlebenden | Buch 4 → Buch 5 | Überlebende einer Katastrophe gründen Strukturen, „damit nie wieder eine unaufhaltsame Kraft nötig ist" | `OriginsBook_04_AufstiegUndFall.md` / `OriginsBook_05_VorDenSekten.md` |
-| Die Vereinheitlichung der Ränge | Buch 5 → Buch 7 | Ein „Gründungstreffen" schafft die Rang-Bürokratie, die später Talente wie Ressourcen behandelt | `OriginsBook_05_VorDenSekten.md` / `OriginsBook_07_DerWiderwilligeMentor.md` |
-| Der letzte Schützling | Buch 7 → (Plateau-Ende) → *Embers* 01 | Kein Entschluss aufzuhören — sie fängt nur beim nächsten Mal nicht mehr an | `OriginsBook_07_DerWiderwilligeMentor.md` |
+| Die Anwerbung | Buch 2 → Buch 3 | Nach ~100.000 J. tauber Latenz taucht erstmals eine Zivilisation mit Kriegsherren auf, die die unsterbliche Frau *benutzen* kann. Sie widerspricht nicht — nicht aus Zwang, sondern weil ihr das Ergebnis egal ist. Keine Entscheidung, sondern deren Fehlen. | `OriginsBook_02_LangeStille.md` / `OriginsBook_03a_Lie.md` |
+| Von der Asche zum Wandern | innerhalb Buch 3 (Pinch 2) | „I killed the man who was pointing me and walked away. I kept walking." — das Weggehen hört nie auf; die Taubheit bleibt. Naht: Feuer 3 (`5-03-21`) → Grenzstreit (`5-04-22`) | `10 - Outlines/3_Origins/03-HandAndSky.md` |
+| Der zerdrückte Flicker | innerhalb Buch 3 (Plot Turn 2) | Ein Flicker von Zweck (Aufstiege stoppen) sticht kurz durch die Taubheit — und wird zerdrückt („the stopping was what broke me"), was die Taubheit *vertieft* statt sie zu heilen | `03-HandAndSky.md` / `OriginsBook_03b_AufstiegUndFall.md` |
+| Die Antwort der Überlebenden | Buch 3 → Buch 4 | Überlebende einer Katastrophe gründen Strukturen, „damit nie wieder eine unaufhaltsame Kraft nötig ist" | `OriginsBook_03b_AufstiegUndFall.md` / `OriginsBook_04_VorDenSekten.md` |
+| Die Vereinheitlichung der Ränge | Buch 4 → Buch 5 | Ein „Gründungstreffen" schafft die Rang-Bürokratie, die später Talente wie Ressourcen behandelt | `OriginsBook_04_VorDenSekten.md` / `OriginsBook_05_DerWiderwilligeMentor.md` |
+| Der letzte Schützling | Buch 5 → (Plateau-Ende) → *Embers* 01 | Kein Entschluss aufzuhören — sie fängt nur beim nächsten Mal nicht mehr an | `OriginsBook_05_DerWiderwilligeMentor.md` |
 
 ---
 
@@ -121,12 +121,10 @@ In diesem Kapitel (Buch 7, *Clouds*) fasst Yun ihre eigene „Trajektorie" gegen
 | **Geburt & Stamm** | 150.000–149.984 | Altsteinzeit, Wildbeuter | Kind → junge Alpha | ✅ *Stones and Bones* (existiert) |
 | **Buch 2 — Die Lange Stille** | 149.984–~15.000 (~135.000 J.) | Alt-/Mittel-/Jungsteinzeit, vor-zivilisatorisch | Freiheit → Verlust → Kern-Abstieg in die Taubheit → latentes Monster-Plateau (s. Staging 2.1) | `OriginsBook_02_LangeStille.md` |
 | *Zivilisation entsteht* | ~15.000 vE | erste Städte, organisierte Kriegsführung | Rahmen für alles Folgende | — |
-| **Buch 3 — Liè** | ~15.000–12.000 (~3.000 J.) | früheste Städte/Belagerungen/Kriegsherren | Die taube Frau wird **erstmals aktiv** als Waffe benutzt → Zhìwēng bricht es | `OriginsBook_03_Lie.md` |
-| *Das Wandern* | ~12.000–10.000 | — | „kept walking", numb, sucht Sterblichkeit (`7-4-10-38`) | *(kein Buch — Leerstelle)* |
-| **Buch 4 — Aufstieg und Fall** | ~12.000–8.000 | frühe Städte, Bibliotheken | Flicker (Aufstiege stoppen) wird zerdrückt → Taubheit vertieft sich; Zivilisationen brennen | `OriginsBook_04_AufstiegUndFall.md` |
-| **Buch 5 — Vor den Sekten** | ~9.000–3.000 | Bronze-/frühe Eisenzeit-Analogie | Cultivation institutionalisiert sich; sie beobachtet numb, beeinflusst indirekt | `OriginsBook_05_VorDenSekten.md` |
-| ↳ *Nebenstrang: Achttausend Jahre* | ~8.000 (in Buch 5) | frühe Hochkultur | Qinzhou + Mei — zwei Register; Taubheit am leisesten monströs. **In Buch 5 aufgegangen** (war Buch 6) | → `OriginsBook_05` / Archiv: `OriginsBook_06` |
-| **Buch 7 — Der widerwillige Mentor** | ~3.000–300 (~2.700 J.) | „klassische" Sekten-Ära | Reihe gescheiterter Schützlinge; Guo; Ränge werden Standard (~800–1.000 vE) | `OriginsBook_07_DerWiderwilligeMentor.md` |
+| **Buch 3 — *Hand and Sky*** | ~15.000–8.000 (~7.000 J.) | früheste Städte/Belagerungen/Kriegsherren, dann frühe Städte mit Bibliotheken | Erste Hälfte (Liè): die taube Frau wird **erstmals aktiv** als Waffe benutzt → Zhìwēng bricht es (Midpoint). Zweite Hälfte (Aufstieg und Fall): Wandern, Grenzstreit, Todesversuche, der Schüler (Jìng), Flicker wird zerdrückt, Zivilisationen brennen. **Zusammengelegt 07.11.2026** | `10 - Outlines/3_Origins/03-HandAndSky.md` (Material: `OriginsBook_03a_Lie.md`, `OriginsBook_03b_AufstiegUndFall.md`) |
+| **Buch 4 — Vor den Sekten** (bisher 5) | ~9.000–3.000 | Bronze-/frühe Eisenzeit-Analogie | Cultivation institutionalisiert sich; sie beobachtet numb, beeinflusst indirekt | `OriginsBook_04_VorDenSekten.md` |
+| ↳ *Nebenstrang: Achttausend Jahre* | ~8.000 (in Buch 4) | frühe Hochkultur | Qinzhou + Mei — zwei Register; Taubheit am leisesten monströs. **In „Vor den Sekten" aufgegangen** (war Buch 6) | → `OriginsBook_04_VorDenSekten` / Archiv: `OriginsBook_04b_AchttausendJahre` |
+| **Buch 5 — Der widerwillige Mentor** (bisher 7) | ~3.000–300 (~2.700 J.) | „klassische" Sekten-Ära | Reihe gescheiterter Schützlinge; Guo; Ränge werden Standard (~800–1.000 vE) | `OriginsBook_05_DerWiderwilligeMentor.md` |
 | *Taubheit hält an* | 300–0 | jüngste Vergangenheit | „letzte Apathie" = nur das jüngste Ende desselben Plateaus, kein eigenes Segment | *(direkter Übergang)* |
 | **Gegenwart** | 0 | — | *Embers* 01 beginnt | — |
 
@@ -145,8 +143,10 @@ In diesem Kapitel (Buch 7, *Clouds*) fasst Yun ihre eigene „Trajektorie" gegen
 
 ---
 
-## 5. Die fünf neuen Bücher (Übersicht)
+## 5. Die neuen Bücher (Übersicht)
 
+> **⚠ Umnummeriert 07.11.2026:** Liè und Aufstieg und Fall sind **ein Buch** (Buch 3, *Hand and Sky*). „Vor den Sekten" ist jetzt Buch 4, „Der widerwillige Mentor" Buch 5. Die Arbeitsdateien sind entsprechend umbenannt (`03a`, `03b`, `04`, `04b`, `05`). Kanon: `.github/instructions/Story/origins.instructions.md`.
+>
 > **⚠ Revidiert 07.09.2026 (POV/Rahmen):** Ab Buch 2 gilt **3. Person limited auf Mei/Yun, Präteritum**, mit Einwürfen der alten Yun als „ich"; der Ich-/Sie-Split trägt jetzt die Entfremdung. **Kein separater Rahmen-POV** (keine Xu-Ran-Präsens-Szenen), nur gelegentliches „du". Die Angaben unten zu „1. Person" und „Lagerfeuer-Pausen" sind damit überholt. Kanon: `.github/instructions/Story/origins.instructions.md`.
 >
 > **Globale Entscheidungen (21.08.2026):** POV = **1. Person retrospektiv** (wie UTE-Hauptserie), nicht 3. Person wie *Stones and Bones* — der POV-Wechsel Mei→Yun ist selbst bedeutungstragend (Buch 2 eröffnet damit, dass Mei ihr fremd geworden ist, „vor ihrem Dao"). **Rahmen (Option A, s. §6.2):** Yun erzählt Xu Ran ihr Leben über mehrere Abende im UTE-7-Fenster, frisch erinnert nach dem Blockfall; Xu Ran benannt, Lagerfeuer sichtbar, **max. 2-3 Pausen/Buch**; standalone-funktional + Sequence-Bonus; Spoiler toleriert (Preface warnt). Buch 6 ist in Buch 5 aufgegangen → **fünf** Bände statt sechs.
@@ -154,11 +154,11 @@ In diesem Kapitel (Buch 7, *Clouds*) fasst Yun ihre eigene „Trajektorie" gegen
 | Datei | Arbeitstitel | Zeitraum (vE) | Kernthema |
 |---|---|---|---|
 | `OriginsBook_02_LangeStille.md` | Die Lange Stille | 149.984–~15.000 | Freiheit → erste Güte (Lin Feiyun) → Verlust häuft sich → Kern-Abstieg in die Taubheit → latentes Monster-Plateau (Staging s. 2.1) |
-| `OriginsBook_03_Lie.md` | Liè | ~15.000–12.000 | Erste aktive Waffenphase (Zivilisationsära), „die Hand, die zeigte", Zhìwēng |
-| `OriginsBook_04_AufstiegUndFall.md` | Aufstieg und Fall | ~12.000–8.000 | Zerdrückter Flicker: gestoppte Aufstiege zerstören Zivilisationen; der Preis des Eingreifens |
-| `OriginsBook_05_VorDenSekten.md` | Vor den Sekten | ~9.000–3.000 | Die Geburt organisierter Cultivation aus chaotischer Einzelmacht — **inkl. Nebenstrang Mei/Qinzhou (~8.000)** |
-| `OriginsBook_07_DerWiderwilligeMentor.md` | Der widerwillige Mentor | ~3.000–300 | Eine Reihe gescheiterter Schützlinge; Guo; der Hermit Master |
-| ~~`OriginsBook_06_AchttausendJahre.md`~~ | ~~Achttausend Jahre~~ | ~~~8.000~~ | **In Buch 5 aufgegangen** — Datei bleibt als Archiv/Referenz |
+| `OriginsBook_03a_Lie.md` | Liè → Buch 3, erste Hälfte | ~15.000–12.000 | Erste aktive Waffenphase (Zivilisationsära), „die Hand, die zeigte", Zhìwēng |
+| `OriginsBook_03b_AufstiegUndFall.md` | Aufstieg und Fall → Buch 3, zweite Hälfte | ~12.000–8.000 | Zerdrückter Flicker: gestoppte Aufstiege zerstören Zivilisationen; der Preis des Eingreifens |
+| `OriginsBook_04_VorDenSekten.md` | Vor den Sekten (Buch 4) | ~9.000–3.000 | Die Geburt organisierter Cultivation aus chaotischer Einzelmacht — **inkl. Nebenstrang Mei/Qinzhou (~8.000)** |
+| `OriginsBook_05_DerWiderwilligeMentor.md` | Der widerwillige Mentor (Buch 5) | ~3.000–300 | Eine Reihe gescheiterter Schützlinge; Guo; der Hermit Master |
+| ~~`OriginsBook_04b_AchttausendJahre.md`~~ | ~~Achttausend Jahre~~ | ~~~8.000~~ | **In Buch 4 (Vor den Sekten) aufgegangen** — Datei bleibt als Archiv/Referenz |
 
 Jede Datei enthält: Zeitrahmen & Begründung, Prämisse/Pitch, Übergänge (Ein-/Ausgang), das zugeordnete Material aus `OriginsIdeas.md` (mit Quellenangaben), ein grobes 7-Point-Outline und offene Fragen.
 
@@ -171,7 +171,7 @@ Jede Datei enthält: Zeitrahmen & Begründung, Prämisse/Pitch, Übergänge (Ein
 Ab Buch 2 wird retrospektiv aus enormem zeitlichem Abstand erzählt (3. Person limited + Einwürfe der alten Yun, s. Revisionshinweis in §5). **Die meisten Gesichter UND Namen sind verblasst.** Personen werden daher in der Regel über **Funktion + ein hervorstechendes Merkmal** eingeführt, nicht über einen Namen. (Buch 1 durfte Namen frei nutzen — es war noch Mei, 3. Person, im Moment.)
 
 - **Kanonisch belegt (UTE-7):** „the healer with the cold core", „the student with the kingdom and the ash", „the fighter who won and then died", Hände „calloused from holding a sword and a brush and a child" — durchweg **namenlos**, nur Funktion/Merkmal.
-- **Die wenigen überlebenden Namen sind bedeutungstragend — GERADE WEIL sie überlebten.** In UTE-7 sind sie ihr wichtig genug, sie Xu Ran zu nennen. Kanonische Überlebende: **Lin Feiyun** (erste Güte), **Mei** (die Frau am Fluss — Ironie: ihr eigener alter Name), **Guo**, **Zhang Wei**, **Zhìwēng**, **Wei**, **Xu Ran**. Ihre eigenen Namen: **Liè**, **Yun**.
+- **Die wenigen überlebenden Namen sind bedeutungstragend — GERADE WEIL sie überlebten.** In UTE-7 sind sie ihr wichtig genug, sie Xu Ran zu nennen. Kanonische Überlebende: **Lin Feiyun** (erste Güte), **Mei** (die Frau am Fluss — Ironie: ihr eigener alter Name), **Guo**, **Zhang Wei**, **Zhìwēng**, **Wei**, **Xu Ran**. Ihre eigenen Namen: **Liè**, **Jìng** (vom Schüler, Buch 3), **Yun**.
 - **Nuance:** Manche Erinnerte tragen ein **Epitheton statt eines Personennamens** („die Jade-Phönix", „der Morning Star", „die Hand, die zeigte") — auch das ist eine Form des Verblassens: die Funktion/Legende überlebt, der Mensch nicht.
 - **Schreib-Test pro Origins-Figur:** *Hat Yun einen Grund, sich diesen Namen gemerkt zu haben?* Nein → Funktion + Merkmal, kein Name. Ja (ein „First", eine echte Bindung, ein Gleicher) → Name, und dann trägt er Gewicht. Belohne den Leser nicht mit Namen, die die Erzählerin selbst nicht mehr hätte.
 

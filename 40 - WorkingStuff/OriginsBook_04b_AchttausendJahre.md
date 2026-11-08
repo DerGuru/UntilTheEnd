@@ -1,11 +1,11 @@
 # Origins-Buch-Kandidat: Achttausend Jahre
 
-> **STATUS: In Buch 5 aufgegangen (Entscheidung 21.08.2026).** Als eigenständiges Buch war das Material zu dünn. Mei am Fluss & die Qinzhou-Apotheke laufen jetzt als **Nebenstrang** in [`OriginsBook_05_VorDenSekten.md`](OriginsBook_05_VorDenSekten.md) (Abschnitt „Nebenstrang: Achttausend Jahre"). Diese Datei bleibt als **Referenz/Archiv** erhalten — der ausführliche Kontext unten ist weiterhin gültig, nur nicht mehr als separater Band.
+> **STATUS: In Buch 4 „Vor den Sekten" aufgegangen (Entscheidung 21.08.2026; Nummer seit 07.11.2026, vorher Buch 5).** Als eigenständiges Buch war das Material zu dünn. Mei am Fluss & die Qinzhou-Apotheke laufen jetzt als **Nebenstrang** in [`OriginsBook_04_VorDenSekten.md`](OriginsBook_04_VorDenSekten.md) (Abschnitt „Nebenstrang: Achttausend Jahre"). Diese Datei bleibt als **Referenz/Archiv** erhalten — der ausführliche Kontext unten ist weiterhin gültig, nur nicht mehr als separater Band.
 
 ---
 
 **Zeitraum:** ~8.200–7.800 vE (eng, ~400 Jahre) · **Yuns Alter:** ~141.800–142.200 · **Reale Analogie:** frühe Hochkultur, Sekten existieren bereits in institutioneller Form (Bronzezeit-Analogie)
-**Eingebettet in:** [`OriginsBook_05_VorDenSekten.md`](OriginsBook_05_VorDenSekten.md) (überlappender Zeitraum) · **Vorheriges/Nächstes Buch:** siehe [`Origins_Zeitachse.md`](Origins_Zeitachse.md)
+**Eingebettet in:** [`OriginsBook_04_VorDenSekten.md`](OriginsBook_04_VorDenSekten.md) (überlappender Zeitraum) · **Vorheriges/Nächstes Buch:** siehe [`Origins_Zeitachse.md`](Origins_Zeitachse.md)
 
 ## Prämisse
 
@@ -15,7 +15,7 @@ Das schmalste, aber am präzisesten datierte Buch der ganzen Reihe: **Zwei völl
 
 ## Übergänge
 
-Dieses Buch ist zeitlich in `OriginsBook_05_VorDenSekten.md` eingebettet (s. Kopfzeile) und braucht daher keine eigenen Ein-/Ausgangs-Übergänge — es ist selbst der „Übergang" innerhalb von Buch 5: der Moment, in dem Sekten bereits real genug sind, um zerstört zu werden (Qinzhou), während Yun im Kleinen (Mei) noch genauso hilflos/untätig ist wie in der tiefsten Steinzeit. Falls Buch 5 die in seinem Abschnitt „Übergänge" vorgeschlagene Gründungstreffen-Szene bekommt, sollte dieses Buch zeitlich klar *davor* liegen — Qinzhou als Beleg dafür, dass frühe Sekten schon vor jeder Vereinheitlichung existieren *und* scheitern können.
+Dieses Buch ist zeitlich in `OriginsBook_04_VorDenSekten.md` eingebettet (s. Kopfzeile) und braucht daher keine eigenen Ein-/Ausgangs-Übergänge — es ist selbst der „Übergang" innerhalb von Buch 5: der Moment, in dem Sekten bereits real genug sind, um zerstört zu werden (Qinzhou), während Yun im Kleinen (Mei) noch genauso hilflos/untätig ist wie in der tiefsten Steinzeit. Falls Buch 5 die in seinem Abschnitt „Übergänge" vorgeschlagene Gründungstreffen-Szene bekommt, sollte dieses Buch zeitlich klar *davor* liegen — Qinzhou als Beleg dafür, dass frühe Sekten schon vor jeder Vereinheitlichung existieren *und* scheitern können.
 
 ## Material
 
@@ -42,4 +42,4 @@ Dieses Buch ist zeitlich in `OriginsBook_05_VorDenSekten.md` eingebettet (s. Kop
 
 - **Zentrale Design-Entscheidung:** War Yun bei der Zerstörung Qinzhous anwesend/beteiligt, oder erfährt sie (wie der Leser) erst Jahrtausende später indirekt davon (z. B. über Xu Rans Forschung in der UTE-Gegenwart)? Beides ist mit dem Material vereinbar — ersteres macht sie aktiver, Letzteres würde das Buch nachträglich mit der UTE-Haupthandlung verzahnen (Qinzhou-Fund erst *durch* dieses Origins-Buch erklärt).
 - Warum genau tut Yun bei Mei nichts? Das Manuskript selbst lässt das bewusst offen („I don't know the reason") — soll das Buch eine Antwort liefern, oder die Unerklärlichkeit als Punkt stehen lassen (passend zu ihrer damaligen „Prison"-Phase aus `7-4-10-38.md`, in der „nothing mattered")?
-- Ist dieses Buch eigenständig tragfähig, oder eher ein dichtes Doppel-Kapitel *innerhalb* von `OriginsBook_05_VorDenSekten.md`? Aktuell ist das Material dafür recht schmal (zwei Funde) — bei Bedarf mit zusätzlichem, noch zu erfindendem Material auffüllen oder mit Buch 5 fusionieren.
+- Ist dieses Buch eigenständig tragfähig, oder eher ein dichtes Doppel-Kapitel *innerhalb* von `OriginsBook_04_VorDenSekten.md`? Aktuell ist das Material dafür recht schmal (zwei Funde) — bei Bedarf mit zusätzlichem, noch zu erfindendem Material auffüllen oder mit Buch 5 fusionieren.

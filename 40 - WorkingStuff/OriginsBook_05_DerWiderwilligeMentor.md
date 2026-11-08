@@ -1,7 +1,7 @@
 # Origins-Buch-Kandidat: Der widerwillige Mentor
 
 **Zeitraum:** ~3.000–300 vE (~2.700 Jahre) · **Yuns Alter:** ~147.000–149.700 · **Reale Analogie:** „klassische" Sekten-Ära — Ränge/Stufen werden gegen Ende dieses Zeitraums formalisiert (~800-1.000 vE), Cultivation-Welt ähnelt strukturell der aus UTE bekannten Gegenwart. Das jüngste der fünf Bücher, direkt vor *Embers*.
-**Vorheriges Buch:** [`OriginsBook_05_VorDenSekten.md`](OriginsBook_05_VorDenSekten.md) · **Nächstes:** *Embers* 01 (die Taubheit hält bruchlos an — es gibt keine separate „letzte Apathie" mehr, s. [`Origins_Zeitachse.md`](Origins_Zeitachse.md) Abschnitt 2.4)
+**Vorheriges Buch:** [`OriginsBook_04_VorDenSekten.md`](OriginsBook_04_VorDenSekten.md) · **Nächstes:** *Embers* 01 (die Taubheit hält bruchlos an — es gibt keine separate „letzte Apathie" mehr, s. [`Origins_Zeitachse.md`](Origins_Zeitachse.md) Abschnitt 2.4)
 
 ## Prämisse
 
@@ -13,7 +13,7 @@ Das dichteste, am stärksten wiederkehrende Muster im gesamten Material: eine Re
 
 ### Eingang: Die Vereinheitlichung der Ränge (Buch 5 → dieses Buch)
 
-Siehe `OriginsBook_05_VorDenSekten.md`, Abschnitt „Übergänge/Ausgang" — das „Gründungstreffen", das die Rang-Bürokratie schafft, unter der die Schützlinge dieses Buches (Jade-Phönix, leuchtender Kern, etc.) leiden und sterben. Dieses Buch könnte explizit zeigen, wie aus dem guten Willen von Buch 5 die Maschinerie wird, die Talente wie Ressourcen behandelt.
+Siehe `OriginsBook_04_VorDenSekten.md`, Abschnitt „Übergänge/Ausgang" — das „Gründungstreffen", das die Rang-Bürokratie schafft, unter der die Schützlinge dieses Buches (Jade-Phönix, leuchtender Kern, etc.) leiden und sterben. Dieses Buch könnte explizit zeigen, wie aus dem guten Willen von Buch 4 die Maschinerie wird, die Talente wie Ressourcen behandelt.
 
 ### Ausgang: Der letzte Schützling (dieses Buch → Embers 01)
 
@@ -50,7 +50,7 @@ Der wichtigste, bislang komplett unausgeschriebene Übergang der gesamten Reihe 
 ## Cross-Referenzen / schwebendes Material
 
 - **Die Frau auf dem Hügel & die zu scharfe Erinnerung** (Roots `2-1-07-07.md`) — ein Jahrhunderte altes Dorf, ein provisorischer Titel, eine bewusst abgebrochene Erinnerung an eine frühere Frau/Beziehung. Passt zeitlich und tonal hierher, bleibt aber bewusst ungeklärt — evtl. als kurzer, nie aufgelöster Faden einsetzbar.
-- **Der Gelehrte und die verschwundene Bibliothek** & **Der Philosoph ohne Kategorien** (Roots `2-2-09-18.md`, `2-6-07-56.md`) — primär in `OriginsBook_05_VorDenSekten.md` verortet, könnten aber ebenso gut hier (näher an der Gegenwart) spielen, falls Buch 5 dafür schon zu voll ist.
+- **Der Gelehrte und die verschwundene Bibliothek** & **Der Philosoph ohne Kategorien** (Roots `2-2-09-18.md`, `2-6-07-56.md`) — primär in `OriginsBook_04_VorDenSekten.md` verortet, könnten aber ebenso gut hier (näher an der Gegenwart) spielen, falls Buch 4 dafür schon zu voll ist.
 - **Die Ward Stones** (Roots `2-2-01-10.md`) — „älter als Weis Großeltern"; als kleine Umgebungsdetails/Reste dieser Ära in der UTE-Gegenwart nutzbar, kein eigenes Kapitel nötig.
 
 ## Grobes Outline (7-Point)

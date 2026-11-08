@@ -3,7 +3,7 @@
 ## Kernfakten
 
 ### Namen
-- **Yun** (云, Wolke) — ihr aktueller Name, gewählt nach der Waffenphase
+- **Yun** (云, Wolke) — ihr aktueller Name. *(Korrektur 06.11.2026: nicht „nach der Waffenphase gewählt", sondern in Embers `1-2-03-11` ad hoc für Wei erfunden. Nach Liè ist sie zunächst namenlos, in B4 folgt ein anderer Name; s. `origins.instructions.md`.)*
 - **Liè** (烈, wild/brennend/heftig) — der Name aus der Waffenphase, gegeben von den Menschen der südlichen Ebenen, die sahen, was sie tat. Respekt *und* Angst.
 - **Zhìwēng** (智翁, Weiser Alter Mann) — sein letzter bekannter Name, mit Schulterzucken angeboten
 

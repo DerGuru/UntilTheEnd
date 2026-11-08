@@ -1,8 +1,8 @@
 # Origins-Buch-Kandidat: Vor den Sekten (Die Geburt der Sekten)
 
 **Zeitraum:** ~9.000–3.000 vE (~6.000 Jahre) · **Yuns Alter:** ~141.000–147.000 · **Reale Analogie:** Bronze- bis frühe Eisenzeit-Analogie — organisierte Cultivation entsteht als institutionelle Antwort auf das Chaos aus Buch 4. Überlappt vorne mit Buch 4 (~12.000–8.000).
-**Vorheriges Buch:** [`OriginsBook_04_AufstiegUndFall.md`](OriginsBook_04_AufstiegUndFall.md) · **Nächstes Buch:** [`OriginsBook_07_DerWiderwilligeMentor.md`](OriginsBook_07_DerWiderwilligeMentor.md)
-**Enthält jetzt (Entscheidung 21.08.2026):** die „Achttausend Jahre"-Ereignisse (Mei am Fluss & die Qinzhou-Apotheke, ~8.000 vE) — früher eigenes Buch 6, jetzt als **Nebenstrang** hier eingegangen. Details/Herkunft: [`OriginsBook_06_AchttausendJahre.md`](OriginsBook_06_AchttausendJahre.md) (archiviert).
+**Vorheriges Buch:** [`OriginsBook_03b_AufstiegUndFall.md`](OriginsBook_03b_AufstiegUndFall.md) · **Nächstes Buch:** [`OriginsBook_05_DerWiderwilligeMentor.md`](OriginsBook_05_DerWiderwilligeMentor.md)
+**Enthält jetzt (Entscheidung 21.08.2026):** die „Achttausend Jahre"-Ereignisse (Mei am Fluss & die Qinzhou-Apotheke, ~8.000 vE) — früher eigenes Buch 6, jetzt als **Nebenstrang** hier eingegangen. Details/Herkunft: [`OriginsBook_04b_AchttausendJahre.md`](OriginsBook_04b_AchttausendJahre.md) (archiviert).
 
 ## Prämisse
 
@@ -12,9 +12,11 @@ Der thematische Bogen: Aus dem Chaos individueller, unorganisierter Cultivation-
 
 ## Übergänge
 
-### Eingang: Die Antwort der Überlebenden (Buch 4 → dieses Buch)
+### Eingang: Die Antwort der Überlebenden (Buch 3 → dieses Buch)
 
-Siehe `OriginsBook_04_AufstiegUndFall.md`, Abschnitt „Übergänge/Ausgang". Dieses Buch könnte mit genau der Gegenperspektive beginnen: nicht Yun beobachtet einen Aufstieg, sondern Menschen, die einen ihrer früheren Eingriffe überlebt haben, gründen die allerersten Strukturen. Guter Kontrast zum Rest des Buches: Der Auftakt ist hoffnungsvoll (Ordnung aus Chaos), bevor Material #5 und #7 zeigen, wie diese Hoffnung in Ressourcen-Verwaltung kippt.
+> **Umgesetzt 07.11.2026** am Ende von Buch 3 (`20 - Chapters/03 - Origins/03 - Hand and Sky/7-04-38.md`): In der wiederaufgebauten Sandstein-Stadt steht auf dem alten Bibliotheksboden am Osttor ein ummauerter Hof. Die Lehrerin (~30, Brandnarbe in der rechten Handfläche) ist das Bibliothekskind; der verbrannte Rollstab liegt in einer Nische am Tor. Sie prüft Kinder mit der Hand auf dem Kopf, führt eine weiße Namenstafel und lehrt vier Regeln: *Nobody sits alone. Nobody sits within ninety li of a wall. Every spark is written down. When the teacher says stop, you stop.* („The council voted it.") Die Kinder machen langsame Formen; sie sagt „Not so hard. Listen to it first." Yun verneint ihren eigenen Funken und geht. Die Erzählerin: *„I thought it was a school. It was a school. … It starts well. I'll tell you another night."* → Buch 4 kann genau hier einsetzen.
+
+Siehe `OriginsBook_03b_AufstiegUndFall.md`, Abschnitt „Übergänge/Ausgang". Dieses Buch könnte mit genau der Gegenperspektive beginnen: nicht Yun beobachtet einen Aufstieg, sondern Menschen, die einen ihrer früheren Eingriffe überlebt haben, gründen die allerersten Strukturen. Guter Kontrast zum Rest des Buches: Der Auftakt ist hoffnungsvoll (Ordnung aus Chaos), bevor Material #5 und #7 zeigen, wie diese Hoffnung in Ressourcen-Verwaltung kippt.
 
 ### Ausgang: Die Vereinheitlichung der Ränge (dieses Buch → Buch 7)
 
