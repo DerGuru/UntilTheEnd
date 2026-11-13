@@ -24,4 +24,4 @@ This is not *Until The End*. If you expect quiet introspection and tea — recal
 
 The violence is not decoration. It's the cost.
 
-You've been warned.
+[https://www.royalroad.com/fiction/167806/until-the-end-origins](https://www.royalroad.com/fiction/167806/until-the-end-origins)
