@@ -1,227 +1,180 @@
 # Buch 4 — Part 7: RESOLUTION (7PS Gesamt: Midpoint | 7PS Buch: Resolution | 7PS Part: eigene Struktur)
 
-**Part-Absicht:** „Yun hat eine Richtung. Nicht Hoffnung — aber auch nicht Stagnation. Sie geht REIN."
+> **STATUS: Ist-Abgleich.** 7 Kapitel (4-7-01-51.md bis 4-7-07-57.md), nicht 8 wie geplant.
 
-**Wortziel:** ~10k Wörter, ~7-10 Kapitel
+**Part-Absicht:** „Yun hat eine Richtung. Nicht Hoffnung — aber auch nicht Stagnation. Sie geht REIN." — **hält im Kern**, aber der konkrete Schlussdialog fällt anders aus (siehe unten).
 
-**Ending-Ton:** Dunkel, aber mit Richtung. Wie ein Tunnel mit einem Lichtpunkt. Ob das Licht ein Ausgang oder ein Zug ist — unklar.
+**⚠ WICHTIGSTE ABWEICHUNG — Der Schluss:** Die geplante Dialogfolge „Wir gehen." — „Wohin?" — „Rein." kommt NICHT vor. Das tatsächliche Buch endet in `4-7-07-57.md` mit Yun, die am Krater die Hand auf den Basaltstein legt und erklärt, hier beginne ihre „journey inward". **Letztes Wort des Buchs:** *"Inward."* — thematisch identisch zum geplanten „Rein.", aber ohne den geplanten Dialog-Dreizeiler.
 
-**Running Gag PAYOFFS (beide OHNE Kommentar — nur Handlung):**
-1. Kochen: Sie isst von selbst. Schiebt die Schale einen Fingerbreit näher zu sich. Kein Blick. Kein Wort.
-2. Laute Meditation: Er meditiert. Sie sitzt daneben. Still. Nicht genervt. Nicht beruhigt. Einfach: da.
+**Erzähl-Stilbruch:** Direkte „you"-Anrede an Xu Ran durchgehend vorhanden, bereits im ersten Kapitel (z.B. „You lay beneath the lean-to and breathed your careful breaths and watched the light change.").
 
-**Leitwort-Paar Payoff:**
-- Yun: *„Rein."* (3. und letzte Verwendung — letztes Wort des Buchs)
-- Xu Ran: *„Weiter."* (3. Verwendung — als Antwort auf Yuns Zögern)
+**Running Gag PAYOFFS — verschoben und abgeschwächt:**
+1. Kochen: Yun isst erstmals von selbst aus dem Topf bereits in **`4-7-04-54.md`** (nicht erst „7-05"), wiederholt in `4-7-07-57.md`. **Der geplante Dialog „You eat." — „You too." sowie die Geste „Schale einen Fingerbreit näher schieben" fehlen.**
+2. Laute Meditation: Kein scharfer Payoff-Moment am Schluss, sondern ein graduelles leiseres Echo in `4-7-03-53.md` und ein gemeinsamer stiller Moment in `4-7-06-56.md`.
 
-**Kollateral-Nachsatz Beat B (MUSS, Kap 7-01):** Xu Ran hustet, Schwindel, gebrochene Rippe. Er geht langsamer. Yun passt Tempo an OHNE es zu benennen. Konsequenz bleibt sichtbar bis Part 7 Ende.
+**Kollateral-Nachsatz Beat B:** Vorhanden in `4-7-01-51.md`, inkl. der geplanten Symptome (Husten, Schwindel, gebrochene Rippe, langsameres Gehen) — Yun behandelt zusätzlich alte Qi-Kanal-Rückstände, die über die reine Rippenverletzung hinausgehen.
 
-**Erinnerungs-Stop-Marker (2 Beats):**
-1. ~Kap 7-02/7-03: Situation, die Erinnerung auslösen SOLLTE → nichts. Stirnrunzeln. Weiter. (MAX 2 Sätze.)
-2. ~Kap 7-05: Sie greift bewusst nach Wei-Erinnerung → Statik. Raum mit ausgeschaltetem Licht. (MAX 3 Sätze.)
+**Erinnerungs-Stop-Marker:** Marker #1 (geplant ~7-02/7-03) fehlt in der dramatisierten Form — es gibt Gespräche über vergessene Erlebnisse, aber keine explizit ausbleibende Erinnerung. Marker #2 (Wei-Erinnerung = nur „Static") ist vorhanden, aber in `4-7-04-54.md`, nicht `4-7-05`.
 
-**Letzte Erinnerung:** Wei. „Wenn du nicht weißt wohin, geh einfach." 4-6 Sätze.
+**Letzte Wei-Erinnerung:** „If you don't know where to go, just go." — liegt in `4-7-05-55.md`, ein Kapitel früher als geplant.
 
 ---
 
-## Szene 4-7-01-01 (Midpoint | Resolution | Hook)
+## Kapitel 4-7-01-51.md — Hook
 
-### Absicht
-Der Morgen danach. Konsequenzen sind physisch, sichtbar, unverhandelt. Kollateral-Nachsatz Beat B.
+### Tatsächlicher Inhalt
+Zweiter Abend nach der Schockwelle, am Rand der zerstörten Lichtung. Yun lindert Xu Rans Rippenverletzung und räumt zusätzlich Rückstände aus alten Qi-Kanälen (seinen Kern kann sie noch nicht behandeln). Wärmt das Lager über Nacht. Morgens wacht er hustend auf, kann wegen der Rippen kaum kochen — Yun kocht. Er besteht darauf, selbst zu gehen; Yun passt ihr Tempo seinem an.
 
-### Key Beat
-Der Morgen nach dem Gift. Asche vom Lagerfeuer. Yun sitzt auf einem Stein, Hemd zerrissen von der Schockwelle. Xu Ran liegt unter einer Decke, Verband um den Kopf. Still.
+### Zitate
+- "You lay beneath the lean-to and breathed your careful breaths and watched the light change."
+- "No. I want to— I need to walk."
 
 ### Ton
-Grau. Körperlich. Der Morgen nach einer Katastrophe — nicht dramatisch, nur wahr.
-
-### Outline
-- **Morgen.** Asche. Kälte. Die Erkenntnis hängt in der Luft wie kalter Rauch.
-- **Yun sitzt auf einem Stein.** Hemd zerrissen. Staub. Sie hat die ganze Nacht gewacht.
-- **Xu Ran unter einer Decke.** Verband um den Kopf. Blut durchgesickert. Still.
-- **KOLLATERAL-NACHSATZ Beat B (MUSS):** Er wacht auf. Hustet. Schwindel. Gebrochene Rippe. Er setzt sich hoch — langsam, mit zusammengekniffenen Augen. Jede Bewegung kostet.
-- **Yun passt ihr Tempo an.** OHNE es zu benennen. Er bemerkt es. Sagt nichts. Für die restlichen Kapitel: langsameres Gehen, flaches Atmen, Pausen. Die Konsequenz ist KÖRPERLICH und bleibt sichtbar bis Part 7 Ende.
-- **Kein Dialog über das Geschehene.** Die Zerstörung um sie herum spricht. Umgeknickte Bäume. Aufgerissener Boden. Ein Kreis aus Chaos mit Yun im Zentrum.
-- **⚠ Nachhall:** 1 körperlicher Nachhall des Gift-Experiments (Husten, langsames Tempo). Rule 19-21.
+Grau, körperlich — der Morgen nach einer Katastrophe.
 
 ### Sonstiges/Wichtiges
-- Kollateral-Nachsatz Beat B = verpflichtend
-- Xu Rans Verletzung bleibt den GESAMTEN Part 7 sichtbar
+- Kollateral-Nachsatz Beat B wie geplant verpflichtend umgesetzt, plus zusätzliches Detail (alte Qi-Kanal-Rückstände, nicht nur Rippen).
 
 ---
 
-## Szene 4-7-02-01 (Midpoint | Resolution | Plot Turn 1)
+## Kapitel 4-7-02-52.md — Plot Turn 1
 
-### Absicht
-Yun greift zum Notizbuch. FREIWILLIG. Das ist der Moment, in dem die Suche IHRE Suche wird. Plus: Erinnerungs-Stop-Marker #1.
+### Tatsächlicher Inhalt
+Nach vier Stunden Fußmarsch muss Xu Ran im Wald anhalten. Yun bittet um Erlaubnis, sein Notizbuch zu lesen; er stimmt zu. Sie findet Beobachtungen über den plötzlich entstandenen Pfad, den aufgefangenen Sturz, Dinge, die von innen zu kommen scheinen. Erkennt Hinweise auf eine Abwehrreaktion und darauf, dass Verständnis/Erinnerung ausgelöscht werden. Liest weiter, während er schläft. Abends kocht sie Reis für ihn, behandelt seine Rippen.
 
-### Key Beat
-Sie nimmt sein Notizbuch. Liest. Blättert. Drei Erkenntnisse in seiner Handschrift: 1) Es kommt von INNEN. 2) Etwas will nicht, dass sie versteht. 3) Reality-Glitches und Nicht-Sterben hängen zusammen.
+### Zitate
+- "Something comes from inside me."
+- "And something doesn't want me to understand it."
 
 ### Ton
-Leise Wendung. Kein Orchestermoment — nur eine Hand, die nach einem Buch greift.
-
-### Outline
-- **Xu Rans Notizbuch.** Es liegt neben ihm. Yun sieht es. Zum ersten Mal greift sie von sich aus danach. DAS ist der kleine Wendepunkt.
-- **Sie liest.** Blättert. Seite für Seite. Alles, was sie vergessen hat. Alles, was er aufgeschrieben hat.
-- **3 Erkenntnisse (in seiner Handschrift, weil sie es selbst nicht halten konnte):**
-  1. Es kommt von INNEN.
-  2. Etwas will nicht, dass sie versteht.
-  3. Reality-Glitches und Nicht-Sterben hängen zusammen.
-- **Sie legt das Buch zurück.** Sorgfältig. An die gleiche Stelle.
-- **ERINNERUNGS-STOP-MARKER #1 (~hier oder Kap 7-03):** Eine Situation, die normalerweise eine Erinnerung auslösen würde (z.B. Xu Ran kocht → sie MÜSSTE an die Frau denken, die sie vor 800 Jahren beherbergte). Aber: nichts. Stille. Kein Bild. Sie runzelt die Stirn. Geht weiter. Überlesbar. MAX 2 Sätze. Kein Erklärabsatz.
+Leise Wendung — eine Hand, die nach einem Buch greift.
 
 ### Sonstiges/Wichtiges
-- Notizbuch-Moment: die Suche wird IHRE Suche, nicht seine
-- ⚠ Stop-Marker = MAX 2 Sätze, überlesbar
+- Dies ist der Moment, in dem die Suche IHRE Suche wird (freiwilliger Zugriff aufs Notizbuch) — wie geplant.
+- Der geplante Erinnerungs-Stop-Marker #1 ist NICHT in dramatisierter Form vorhanden (siehe Part-Header).
+- Die drei geplanten Notizbuch-Erkenntnisse werden nicht als saubere Dreierliste präsentiert; zwei davon ("von innen", "will nicht, dass sie versteht") stehen klar im Text, die dritte (Reality-Glitches ↔ Nicht-Sterben-Können) bleibt eher implizit in den dokumentierten Phänomenen.
 
 ---
 
-## Szene 4-7-03-01 bis 4-7-04-01 (Midpoint | Resolution | Pinch 1)
+## Kapitel 4-7-03-53.md — Pinch 1 (teilweise)
 
-### Absicht
-Xu Ran bleibt. Nicht aus Loyalität — aus Neugier. Und vielleicht einem Hauch von etwas, das keiner benennt. Normalisierung nach der Katastrophe.
+### Tatsächlicher Inhalt
+Dritter Morgen nach der Schockwelle: Xu Ran kocht ein einfaches Frühstück (Reis), Yun bestätigt seine Notizbuch-Beobachtungen. Gespräch über Erinnerungslücken, knappe Vorräte, Weg zur nächsten Siedlung. Xu Ran meditiert deutlich leiser als früher; Yun sitzt daneben. Sie untersucht seine Schulter und Kopfverletzung. Als sie merkt, dass er den Aufbruch hinauszögert, sagt sie "We go", trägt seinen Beutel, geht mit ihm weiter.
 
-### Key Beat
-Xu Ran wacht auf. Hustet. Setzt sich hoch. Packt seinen Beutel — nicht um zu gehen. Um Reisnudeln rauszuholen. „Frühstück." Er bleibt.
+### Zitate
+- "Your observations are correct."
+- "We go."
 
 ### Ton
-Praktisch. Fast friedlich. Normalität als Bewältigungsstrategie.
-
-### Outline
-**Kapitel 7-03: Frühstück**
-- **Xu Ran setzt sich hoch.** Hustet. Verzieht das Gesicht (Rippe). Aber er greift zum Beutel.
-- **„Frühstück."** Reisnudeln. Praktisch. Kein dramatischer Moment des Bleibens. Nur: Essen machen.
-- **Er bleibt.** Nicht aus Loyalität — aus Neugier. Und vielleicht einem Hauch von Respekt, den keiner der beiden benennt.
-- **Dialogentwicklung Part 7:** *„Wir gehen."* — zwei Worte, aber SIE initiiert. Das ist der gesamte Bogen.
-
-**Kapitel 7-04: Routinen**
-- **Running Gag #2 kleines Echo (vor dem Payoff):** Er meditiert. Leise diesmal — Rippe. Yun sitzt daneben. Registriert: es ist leiser. Sagt nichts.
-- **Wanderalltag:** Langsamer als sonst (Xu Rans Verletzung). Yun passt sich an. Pausen, die vorher nicht nötig waren.
-- **Atmosphäre:** Frühling? Winter? Die Jahreszeit ist unklar — absichtlich. Yun achtet nicht darauf. Xu Ran achtet auf alles.
+Praktisch, fast friedlich — Normalität als Bewältigungsstrategie.
 
 ### Sonstiges/Wichtiges
-- Xu Rans Verletzung = Pacing-Tool (alles wird langsamer)
-- ⚠ Dialog: Er in ganzen Sätzen, sie in 1-2 Worten. Teil 7: ein ganzer Satz, wenn es sie überrascht.
+- ⚠ Abweichung: Xu Ran wacht NICHT mit "Frühstück." + Reisnudeln auf wie geplant — er kocht Reis, die explizite Motivation "bleibt aus Neugier" wird nicht ausgesprochen.
+- Running Gag #2 (laute Meditation) zeigt hier ein leiseres Zwischen-Echo, kein harter Payoff.
 
 ---
 
-## Szene 4-7-05-01 (Midpoint | Resolution | Midpoint)
+## Kapitel 4-7-04-54.md — Midpoint (Running-Gag-Payoff #1 + Stop-Marker #2)
 
-### Absicht
-Beim Essen. Schweigend. Die Trauer hat einen Behälter bekommen: die Suche. Plus: Running-Gag-Payoff #1 + Erinnerungs-Stop-Marker #2.
+### Tatsächlicher Inhalt
+Am Lagerplatz unter einem Granitvorsprung isst Yun zum ersten Mal seit langer Zeit aus eigenem Antrieb vom Topf; Xu Ran bemerkt es, ohne es anzusprechen. Als sie bewusst nach einer Wei-Erinnerung greift, findet sie nur zwei Herzschläge lang Statik. Sie analysiert das nicht mit ihm, kehrt zum Essen zurück. Nachts behandelt sie weiter seine Rippen; morgens essen beide, Aufbruch nach Süden.
 
-### Key Beat
-Beim Essen. Schweigend. Yun kaut langsam. Xu Ran: „Du isst." — „Du auch." Fast ein Gespräch.
+### Zitate
+- "I ate from the pot with the wooden spoon."
+- "Static."
 
 ### Ton
-Leise Wärme — die erste im ganzen Buch. Nicht aufgesetzt. Nicht triumphierend. Einfach: da.
-
-### Outline
-- **Running Gag #1 PAYOFF:** Sie isst von selbst. Ohne Kommentar. **Detail:** Sie schiebt die Schale einen Fingerbreit näher zu sich. Kein Blick. Kein Wort. Nur diese Bewegung.
-- **Xu Ran bemerkt es.** Sagt nichts. FAST ein Lächeln. (Payoff OHNE Kommentar — weder Yun noch Xu Ran benennen es.)
-- **Dialog:** „Du isst." — „Du auch." — Fast ein Gespräch. Mehr als zwei Worte. For Yuns Standards: ein Durchbruch.
-- **Die Trauer ist nicht weg.** Aber sie hat einen Behälter bekommen: die Suche. Das ändert alles.
-- **ERINNERUNGS-STOP-MARKER #2:** Sie greift bewusst nach einer Wei-Erinnerung — und findet nur Statik. Wie ein Raum, in dem jemand das Licht ausgemacht hat. Die Erinnerung SOLLTE da sein, ist es aber nicht. Beunruhigend. MAX 3 Sätze. Keine Analyse, keine Schlussfolgerung. Nur das Gefühl.
-- **Beides GLEICHZEITIG:** Sie isst (Fortschritt) UND verliert Erinnerungen (Rückschritt). Der Leser soll nicht wissen, ob die Bilanz positiv oder negativ ist.
+Still, zweideutig — Fortschritt (Essen) und Verlust (Erinnerung) gleichzeitig, ohne Wertung.
 
 ### Sonstiges/Wichtiges
-- ⚠ Payoff OHNE Kommentar — nur Handlung
-- ⚠ Stop-Marker #2 = MAX 3 Sätze, beunruhigend
-- ⚠ CROSS-BEAT → B5: B4-Vergessen = schleichend. B5-Vergessen = akut, dreist.
+- ⚠ Running-Gag-Payoff #1 UND Erinnerungs-Stop-Marker #2 liegen hier GEMEINSAM — beide ein Kapitel früher als geplant ("7-05").
+- Der geplante Dialog "You eat." — "You too." und die Geste "Schale einen Fingerbreit näher schieben" fehlen; der Payoff ist stiller/minimalistischer als geplant.
 
 ---
 
-## Szene 4-7-06-01 (Midpoint | Resolution | Pinch 2)
+## Kapitel 4-7-05-55.md — Pinch 2
 
-### Absicht
-Ein letzter Blick zurück: die Zerstörung, die sie hinterlassen hat. Dann: abwenden. Nach vorne.
+### Tatsächlicher Inhalt
+Xu Ran und Yun erreichen eine kleine Siedlung am Fluss; Yun bringt ihn in einem Zimmer mit Bett unter und reist allein mit Qi-Geschwindigkeit zurück zur zerstörten Lichtung. Versucht, die drei verlorenen Stunden Verständnis zurückzuholen, stößt aber auf stärkere statische Abwehr; hält ihre Beobachtungen schriftlich fest. Der Aschegeruch löst die letzte Wei-Erinnerung aus: "If you don't know where to go, just go." Zurück in der Siedlung liest Xu Ran ihren Eintrag, ergänzt: "Confirmed. Active resistance. Not passive decay."
 
-### Key Beat
-Sie stehen an dem Ort, wo die Schockwelle war. Ein Kreis aus zerstörtem Wald. Ein letzter Blick zurück. Sie dreht sich weg.
+### Zitate
+- "If you don't know where to go, just go."
+- "Confirmed. Active resistance. Not passive decay."
 
 ### Ton
-Abschiedlich. Nicht melancholisch — entschlossen. Sie lässt etwas hinter sich.
-
-### Outline
-- **Der Ort:** Die Lichtung mit den umgeknickten Bäumen. Der Kreis aus Zerstörung. Xu Rans Blut am Boden (trocken, braun).
-- **Yun sieht es.** Einen Moment. Ein letzter Blick auf das, was ihre Macht anrichtet.
-- **Sie dreht sich weg.** Nicht dramatisch. Wie jemand, der eine Tür schließt.
-- **Letzte Erinnerung (Andock-Regel):** Sinnesreiz → der Geruch von Asche. Wei-Erinnerung. „Er sagte einmal: ‚Wenn du nicht weißt wohin, geh einfach.' Also ging ich. Er hatte Recht. Wie immer." — 4-6 Sätze. Die kürzeste Erinnerung des Buchs. Und die letzte.
-- **Erinnerungslänge:** 4-6 Sätze. Kurz. Direkt. Wie ein Kopfnicken.
-- **Atmosphäre:** Wind in den umgeknickten Bäumen. Das Knarren von Holz, das zerbrochen ist.
+Entschlossen, dann warm — die letzte Wei-Erinnerung des Buchs.
 
 ### Sonstiges/Wichtiges
-- Letzte Erinnerung des Buchs = Wei (Richtung)
-- ⚠ Kein sentimentales Verweilen am Ort
+- ⚠ Die letzte Wei-Erinnerung liegt hier, ein Kapitel früher als geplant ("7-06").
+- Die geplante Rückkehr zur Lichtung als "letzter Blick" wird hier zu einer ausführlichen Solo-Recherche-Szene ausgebaut (Yun reist allein per Qi-Geschwindigkeit zurück).
+- Xu Rans Blutspuren am Zerstörungsort werden nicht explizit gezeigt (anders als vage geplant).
 
 ---
 
-## Szene 4-7-07-01 (Midpoint | Resolution | Plot Turn 2)
+## Kapitel 4-7-06-56.md — Plot Turn 2
 
-### Absicht
-Yun packt ihren Beutel. Hebt den Kopf. Die Richtung kristallisiert sich: REIN. Plus: Running-Gag-Payoff #2 + Leitwort-Paar.
+### Tatsächlicher Inhalt
+Am Morgen erklärt Yun: "The answer is inside me. So I have to go in." Xu Ran findet die Vorstellung unangenehm, folgt aber; er hinkt noch, atmet vorsichtig, Yun trägt seinen Beutel. Sie verlassen die Siedlung, bewegen sich durch Wald und über einen Bergrücken Richtung des alten Kraters. Abends meditiert Xu Ran am Feuer, Yun sitzt still neben ihm.
 
-### Key Beat
-Yun packt ihren Beutel. „Die Antwort liegt in mir. Also muss ich REIN." Xu Ran: „Klingt unangenehm." Geht trotzdem.
+### Zitate
+- "The answer is inside me. So I have to go in."
+- "Forward."
 
 ### Ton
-Ruhig-bestimmt. Ein Hauch von trockenem Humor — zum ersten Mal im ganzen Buch.
-
-### Outline
-- **Yun packt.** Ihren Beutel. (Hat sie überhaupt einen? Xu Ran hat den Beutel. Aber die GESTE zählt.)
-- **Dialog:** „Die Antwort liegt in mir. Also muss ich REIN." — Der längste Satz, den sie in diesem Buch gesprochen hat.
-- **Xu Ran:** Schnallt seinen Beutel um. Winkt ab: „Klingt unangenehm." Geht trotzdem neben ihr.
-- **Leitwort #3 Xu Ran:** „Weiter." — als Antwort auf Yuns Zögern, bevor sie losgeht. (3. und letzte Verwendung.)
-- **Running Gag #2 PAYOFF:** Er meditiert. Sie sitzt daneben. Still. Nicht genervt. Nicht beruhigt. Einfach: da. (Payoff OHNE Kommentar — sie denkt nicht „ich habe mich daran gewöhnt". Sie SITZT einfach.)
-- **Konkreter nächster Schritt:** Sie kehrt zum Krater zurück — dem ersten Ort, an dem sie hätte sterben müssen (400 Jahre alt, Lava). Dort hat alles angefangen. Dort will sie tiefer graben. Kein Erklären, nur Gehen.
+Ruhig-bestimmt — die Entscheidung liegt hier, nicht erst im Schlusskapitel.
 
 ### Sonstiges/Wichtiges
-- ⚠ Payoff #2 OHNE Kommentar — nur Handlung
-- „Die Antwort liegt in mir" = längster Satz Yuns im ganzen Buch
-- Hauch von Humor = neuer Ton (zahlt sich in B5-7 aus)
+- Entschluss UND Aufbruch Richtung Krater liegen bereits hier — das Erreichen und Bestätigen des Ziels setzt sich erst in `4-7-07-57.md` fort.
+- Running Gag #2 (laute Meditation) bekommt hier seinen eigentlichen, stillen Payoff-Moment (gemeinsames Schweigen), nicht erst im letzten Kapitel.
 
 ---
 
-## Szene 4-7-08-01 (Midpoint | Resolution | Resolution)
+## Kapitel 4-7-07-57.md — Plot Turn 2 + Resolution (letztes Kapitel des Buchs)
 
-### Absicht
-Letztes Bild. „Wir gehen." — „Wohin?" — „Rein." Das Summen folgt. Buchtitel wird körperlich.
+### Tatsächlicher Inhalt
+Nach einem Zeitsprung über mehrere Tage ist Xu Ran so weit genesen, dass er seinen eigenen Beutel tragen kann; ein Husten bleibt. Beide ziehen über erkaltete Lava Richtung Krater, wo Yun ein Summen unterhalb ihres Qi wahrnimmt, das mit der Nähe zum Ort stärker wird. Am Krater legt sie die Hand auf den Basaltstein und sagt, hier beginne ihre Reise nach innen. **Letzte Zeile des Buchs:** *"Inward."*
 
-### Key Beat
-„Wir gehen." — „Wohin?" — „Rein." Das Summen — leise — wie eine zweite Atmung.
+### Zitate
+- "The journey inward."
+- *"Inward."* (letztes Wort des Buchs)
 
 ### Ton
-Dunkel, aber mit Richtung. Das letzte Bild bleibt. Wie ein Akkord, der nicht aufgelöst wird.
-
-### Outline
-- **Der letzte Dialog des Buchs:**
-  - „Wir gehen."
-  - „Wohin?"
-  - „Rein."
-- **Leitwort #3 Yun:** *„Rein."* — Letztes Wort des Buchs. (3. und letzte Verwendung.)
-- **SIE initiiert.** „Wir gehen." — zwei Worte, aber SIE beginnt. Das ist der gesamte Dialogbogen des Buchs: von Stille → 1 Wort → 2 Worte → ein ganzer Satz → und jetzt: Initiative.
-- **Das Summen:** Leise. Folgt ihr. Wie eine zweite Atmung. Der Buchtitel „Echoes" wird körperlich. Letzter Satz des Buchs.
-- **Ending-Ton:** Dunkel, aber mit Richtung. Wie ein Tunnel mit einem Lichtpunkt. Ob das Licht ein Ausgang oder ein Zug ist — unklar.
-- **Zwei Gestalten auf einem Weg.** Einer hinkt. Eine geht sicher. Zwischen ihnen: weniger als zehn Schritte jetzt. Das Summen in ihr. Die Stille um sie herum. Und irgendwohin: rein.
+Ruhig-entschlossen — kein Pathos, keine große Geste.
 
 ### Sonstiges/Wichtiges
-- ⚠ Letzter Satz = das Summen. Echo-Motiv. Buchtitel.
-- → Setup für Buch 5: Sie kehrt zum Krater zurück. Konfrontation mit sich selbst.
-- ⚠ CROSS-BEAT → B5: B4-Vergessen = schleichend → B5-Vergessen = akut, dreist, vor Zeugen
-- ⚠ CROSS-BEAT → B7: Kochen-Gag-Echo (erster Hunger + erster angebrannter Reis als Spiegel zu Wei)
+- ⚠ **Größte Abweichung des Buchs:** Die geplante Dialogfolge „Wir gehen." — „Wohin?" — „Rein." fehlt vollständig. Es gibt keinen Dialog-Dreizeiler; stattdessen endet das Buch mit Yuns stiller Feststellung am Kraterrand und dem Einzelwort *"Inward."*
+- Das Leitwort-Konzept (nach innen gehen) ist inhaltlich erfüllt, aber nie als wörtlich wiederholte Phrase „Rein." realisiert — weder hier noch in den Kapiteln 4-01 bis 4-06. Siehe `4-Midpoint-Outline.md` für die bucheinheitliche Neubewertung.
+- Running Gag #2 Payoff (gemeinsames stilles Sitzen) ist bereits in `4-7-06-56.md` vorweggenommen.
+- Running Gag #1 (Essen) wird hier wiederholt (sie isst erneut aus eigenem Antrieb), ohne expliziten Kommentar — wie geplant.
+- Setup für Buch 5: Rückkehr zum Krater, Konfrontation mit sich selbst, exakt wie geplant.
 
 ---
 
-## Kapitelumfang Buch 4 Zusammenfassung
+## Kapitelübersicht Part 7 (Ist-Zustand)
 
-| Part | Kapitel | Wörter | Beats |
+| Kapitel-Datei | Sub-7PS-Beat |
+|---|---|
+| 4-7-01-51.md | Hook (Kollateral-Nachsatz Beat B) |
+| 4-7-02-52.md | Plot Turn 1 (freiwilliger Notizbuch-Zugriff) |
+| 4-7-03-53.md | Pinch 1, teilweise ("We go.") |
+| 4-7-04-54.md | Midpoint (Essens-Payoff #1 + Stop-Marker #2) |
+| 4-7-05-55.md | Pinch 2 (Siedlung, Solo-Rückkehr, letzte Wei-Erinnerung) |
+| 4-7-06-56.md | Plot Turn 2 ("The answer is inside me. So I have to go in.") |
+| 4-7-07-57.md | Resolution (Krater erreicht, "Inward.") |
+
+**Gesamt: 7 Kapitel (nicht 8 wie geplant). Kein "Wir gehen/Wohin/Rein"-Schlussdialog — das Buch endet auf das Einzelwort "Inward."**
+
+## Kapitelumfang Buch 4 — Ist-Zustand (57 Kapitel gesamt)
+
+> Siehe `4-Midpoint-Outline.md` für die vollständige, bucheinheitliche Einordnung dieser Abweichungen (Leitwort-System, Xu Rans Doppel-Einführung, Serien-Midpoint-Verschiebung, Namenskonflikt „Mei", Regelverstoß „the system").
+
+| Part | Kapitel (Ist) | Anzahl (Ist / geplant) | Kernbeats (Ist) |
 |------|---------|--------|-------|
-| 1 (Hook) | 1-01 bis 1-08 | ~10k | Isolation, abgeklemmt, Spirit-Beast, Hütte, DIE FRAGE |
-| 2 (PT1) | 2-01 bis 2-10 | ~15k | Xu Ran, Wei-Erzählung, Sekte, 4 Trigger, Aufbruch |
-| 3 (P1) | 3-01 bis 3-09 | ~12k | Wanderschaft, retroaktiver Pfad, Doppel-Scharmützel, Qi autonom |
-| 4 (M) ★ | 4-01 bis 4-09 | ~15k | Klippensprung, DER SHIFT, „Was BIN ich?" |
-| 5 (P2) | 5-01 bis 5-10 | ~12k | Suche, Erinnerungslücken, Kopfschmerzen, LETZTES Scharmützel |
-| 6 (PT2) | 6-01 bis 6-10 | ~15k | Gift, Schockwelle, Monolog-Spaltung, Doppel-Erkenntnis |
-| 7 (R) | 7-01 bis 7-08 | ~10k | Notizbuch, Payoffs, „Wir gehen." — „Rein." |
-| **TOTAL** | **~60-75** | **~75-95k** | |
+| 1 (Hook) | 4-1-01-01 bis 4-1-07-07 | 7 / 8 | Isolation, abgeklemmt, Xu Rans folgenloser Erstkontakt, Spirit-Beast, Hütte, DIE FRAGE, unbeantwortetes Kontaktbedürfnis |
+| 2 (PT1) | 4-2-01-08 bis 4-2-10-17 | 10 / 10 | Xu Rans Wiederbegegnung, Wei-Erzählung, Sekten-Kampf, 4 Trigger, Aufbruch |
+| 3 (P1) | 4-3-01-18 bis 4-3-08-25 | 8 / 9 | Wanderschaft, retroaktiver Pfad + Steinmännchen, Doppel-Scharmützel, Fluss-Impuls, autonomes Qi (3→7m) |
+| 4 (M) ★ | 4-4-01-26 bis 4-4-07-32 | 7 / 9 | Klippensprung, 🔴 SERIEN-MIDPOINT bereits in Kapitel 2, „What am I?" |
+| 5 (P2) | 4-5-01-33 bis 4-5-10-42 | 10 / 10 | Lu-Sen-Easter-Egg, Suche, Erinnerungslücken, Kopfschmerzen, LETZTES Scharmützel, "Why" ohne Kopfschmerz |
+| 6 (PT2) | 4-6-01-43 bis 4-6-08-50 | 8 / 10 | Gift (heimlich entwendet), Schockwelle, "Not yet."-Monolog-Spaltung, Doppel-Erkenntnis |
+| 7 (R) | 4-7-01-51 bis 4-7-07-57 | 7 / 8 | Notizbuch, Payoffs, Schluss auf "Inward." (kein "Wir gehen/Wohin/Rein") |
+| **TOTAL** | | **57 / 64** | |

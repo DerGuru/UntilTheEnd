@@ -41,6 +41,36 @@ Die Hauptreihe ist Yuns Geschichte — von oben gesehen, vom ältesten Wesen der
 
 ---
 
+## NPC-Interludes (kein benannter POV)
+
+### Konzept
+Zwischen den Parts: kurze, kursive Fragmente (300-500 Wörter) aus der Perspektive von NPCs, die Yun und Xu Ran für Minuten sehen. Kein Kapitel-Nummer, kein Name im Header — nur ein Blickwinkel. Der Leser erkennt die Protagonisten, die NPCs nicht.
+
+**Ton:** Bodenständig. Konkretes Detail. Keine Introspektion — nur Beobachtung und Alltagslogik.
+
+**Funktion:** Zeigt, wie die Welt auf Yun reagiert. Kontrastiert Xu Rans Nähe mit der Distanz von Fremden. Baut die Welt als lebendigen Ort, nicht als Kulisse.
+
+### Verteilung (7 Interludes, 1 pro Buch)
+
+| Buch | NPC | Szene | Was der NPC sieht |
+|------|-----|-------|-------------------|
+| **B1** | Weis Mutter | Steht am Feldrand. Sieht die Fremde am Waldrand. | Eine Frau, die zu still steht. Zu lange. Die Krähen meiden sie. Die Mutter sagt nichts — aber holt Wei zum Abendessen, obwohl er noch nicht fertig ist. |
+| **B2** | Pig Nose (Wirt) | „Pig Nose"-Herberge. Ein junger Mann bezahlt mit einem Fragment. | Ein Ding, das zu warm ist für Metall. Der Junge dahinter isst Reis und starrt die Frau an, die nie bestellt. „Wer BEZAHLT mit so etwas? Was hat er verloren, dass er Stücke davon hergibt?" |
+| **B3** | Fang Liang (Rekrutierer) | Schwert-Stand auf dem Markt. Ein Junge mit zu hellem Qi. | „Dein Talent ist hier verschwendet." Aber hinter dem Jungen: eine Frau, die den Markt durchquert, ohne dass jemand sie ansieht. Fang Liang sieht sie. Sein Kern ZUCKT. Er sagt nichts. Rekrutiert den Jungen. *Nicht trotz der Frau — wegen ihr. Wer SO nah an SOLCHER Macht lebt und noch ganz ist, hat Substanz.* |
+| **B4** | Teehausbesitzer | Teehaus, Kap. 24. Ein Mann bestellt. Die Frau sitzt draußen. | Gras wird gelb. „Und für die Dame?" — „Frag nicht." Bauern reden über die Frau, die Bäume tötet. Die Frau draußen korrigiert sie. Der Alte: „Deine Frau isst nicht viel." *In dreißig Jahren Teehaus hat er viel gesehen. Das hier nicht.* |
+| **B5** | Händler auf dem Weg | Kreuzung. Ein Mann mit Notizbuch kauft Tinte. | „Bist du Gelehrter?" — „Nein." Aber die Hände: tintenfleckig. Die Augen: zu alt für das Gesicht. Und hinterm Hügel: eine Frau, die in den Himmel starrt, als suche sie dort etwas. Der Händler verkauft Tinte, Papier, und eine Feder. Vergisst die Frau am selben Abend. |
+| **B6** | Bäuerin am Fluss | Wäsche waschen. Zwei Fremde und ein Fuchs am Ufer. | Die Frau wäscht eine Robe. Nicht ihre — eine zu große, die nach jemand anderem riecht. Der Mann sitzt daneben und schreibt. Der Fuchs liegt zwischen ihnen. „Die sehen nicht aus wie Mann und Frau." — „Sehen nicht aus wie irgendwas." *Am nächsten Tag ist die Stelle am Ufer, wo die Frau saß, trocken. Obwohl es geregnet hat.* |
+| **B7** | Das Kind am Fluss | Ein Fluss. Ein Mann mit einem Buch. | „Was liest du?" — „Eine Geschichte." — „Wovon?" — „Von einer Frau, die so lange gelebt hat, dass sie vergessen hat, wie man stirbt." — „Und dann?" — „Dann hat sie es gelernt." — „Seltsame Geschichte." — „Ja." — „Erzähl sie mir." *Der Mann klappt das Buch auf. Beginnt.* |
+
+### Regeln
+- Maximal **500 Wörter** pro Interlude
+- **Kein Name im Header** — nur Kursiv-Block zwischen Parts
+- NPCs erfahren NIE wer Yun ist
+- Jedes Interlude enthält EIN konkretes Detail, das der Leser aus TWoW/UTE wiedererkennt
+- B7-Interlude ist das LETZTE Textstück der Serie (nach Xu Rans Resolution)
+
+---
+
 ## POV-Verteilung
 
 | Buch | Wei | Xu Ran | Pencil | Hermit | Modus |
@@ -220,7 +250,7 @@ blind-ehrgeizig → gebrochen → suchend → schwankend → verstehend → Chro
 - **B4:** Die Suche als EIGENER Prozess — nicht nur Plot-Mechanik.
 - **B5-6:** Was er sieht, das Yun nicht sieht — seine Perspektive als WERT.
 - **B5-6: Die Notizbuch-Krise.** Das analytische Notizbuch (Anomalie-Nummern, Kategorien, Systeme) war sein Schutzschild. Ab B5 Part 4 zögert die Feder. Der Spiegel-Schock in B6 — Pencils Methodik ist IDENTISCH — bricht das System. Ein zweites, geheimes Notizbuch entsteht: nachts geschrieben, während Yun schläft. Keine Nummern. Rohtext. Beobachtung als Zuneigung. Das erste Notizbuch verstummt. Das zweite wird zur Chronik.
-- **B5-7: Kern-Heilung + Gedächtnis-Überschreibung.** Yuns Proximity heilt den gebrochenen Kern — aber überschreibt Xu Rans Erinnerungen. Der Prozess beginnt unsichtbar (B5 Part 4-5: 2-3 Einträge, die er nicht erinnert), wird zum Muster (B6 Part 1-2: systematische Lücken), zum bewussten Wissen (B6 Part 3: Meridian-Skip-Test = Beweis), zur bewussten Entscheidung (B6 Part 3-4: Schweigen, weil Yun ihn sonst wegschickt), zur täglichen Routine (B6 Part 4 – B7: morgens Notizbuch lesen, sich selbst rekonstruieren, die Rolle spielen). Das zweite Notizbuch, das als Zuneigung begann, wird zur Überlebensakte. Die Wahl „Feder statt Kern" (B7 Epilog) ist nicht Edelmut — Kultivation könnte die Überschreibung reaktivieren. Der geheilte Kern ist Geschenk UND Bombe.
+- **B5-7: Kern-Heilung + Gedächtnis-Überschreibung.** Yuns Proximity heilt den gebrochenen Kern — aber überschreibt Xu Rans Erinnerungen. Der Prozess beginnt unsichtbar (B5 Part 4-5: 2-3 Einträge, die er nicht erinnert), wird zum Muster (B6 Part 1-2: systematische Lücken), zum bewussten Wissen (B6 Part 3: Meridian-Skip-Test = Beweis), zur bewussten Entscheidung (B6 Part 3-4: Schweigen, weil Yun ihn sonst wegschickt), zur täglichen Routine (B6 Part 4: morgens Notizbuch lesen, sich selbst rekonstruieren, die Rolle spielen). **WENDEPUNKT: Nach Yuns Selbsterkenntnis („I am it", B6 Midpoint) STOPPT die Überschreibung. Auch wenn Yun weiterhin unbewusst Realität verändert — Xu Rans Erinnerungen werden nicht mehr gelöscht. Ihr Kern hat aufgehört, ihn als Bedrohung/Fremdkörper zu behandeln. Die Erkenntnis hat etwas in der Mechanik verändert, nicht nur im Bewusstsein.** Ab B7 kann Xu Ran frei erinnern — aber die LÜCKEN aus B5-6 bleiben. Was gelöscht wurde, ist weg. Das zweite Notizbuch, das als Zuneigung begann und zur Überlebensakte wurde, wird in B7 zur Chronik. Die Wahl „Feder statt Kern" (B7 Epilog) ist nicht Edelmut — Kultivation könnte die Überschreibung REAKTIVIEREN. Der geheilte Kern ist Geschenk UND Bombe.
 - **B7:** Die Chronik als sein Dao — nicht Aufstieg, sondern Verstehen. Das zweite Notizbuch, erwachsen geworden.
 
 ### Standalone-Fähigkeit (Investigation-Thread)

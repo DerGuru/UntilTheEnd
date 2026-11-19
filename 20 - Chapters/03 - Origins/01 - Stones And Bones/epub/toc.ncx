@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Until the End Origins: Stones and Bones</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel><text>Stones and Bones - 01</text></navLabel>
+      <content src="Text/1-01-01.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel><text>Stones and Bones - 02</text></navLabel>
+      <content src="Text/1-02-02.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel><text>Stones and Bones - 03</text></navLabel>
+      <content src="Text/1-03-03.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel><text>Stones and Bones - 04</text></navLabel>
+      <content src="Text/1-04-04.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel><text>Stones and Bones - 05</text></navLabel>
+      <content src="Text/1-05-05.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel><text>Stones and Bones - 06</text></navLabel>
+      <content src="Text/1-06-06.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel><text>Stones and Bones - 07</text></navLabel>
+      <content src="Text/2-01-07.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel><text>Stones and Bones - 08</text></navLabel>
+      <content src="Text/2-02-08.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel><text>Stones and Bones - 09</text></navLabel>
+      <content src="Text/2-03-09.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel><text>Stones and Bones - 10</text></navLabel>
+      <content src="Text/3-01-10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel><text>Stones and Bones - 11</text></navLabel>
+      <content src="Text/3-02-11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel><text>Stones and Bones - 12</text></navLabel>
+      <content src="Text/3-03-12.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel><text>Stones and Bones - 13</text></navLabel>
+      <content src="Text/3-04-13.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel><text>Stones and Bones - 14</text></navLabel>
+      <content src="Text/4-01-14.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel><text>Stones and Bones - 15</text></navLabel>
+      <content src="Text/4-02-15.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel><text>Stones and Bones - 16</text></navLabel>
+      <content src="Text/4-03-16.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel><text>Stones and Bones - 17</text></navLabel>
+      <content src="Text/4-04-17.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel><text>Stones and Bones - 18</text></navLabel>
+      <content src="Text/4-05-18.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel><text>Stones and Bones - 19</text></navLabel>
+      <content src="Text/4-06-19.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel><text>Stones and Bones - 20</text></navLabel>
+      <content src="Text/4-07-20.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel><text>Stones and Bones - 21</text></navLabel>
+      <content src="Text/4-08-21.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel><text>Stones and Bones - 22</text></navLabel>
+      <content src="Text/4-09-22.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel><text>Stones and Bones - 23</text></navLabel>
+      <content src="Text/4-10-23.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel><text>Stones and Bones - 24</text></navLabel>
+      <content src="Text/4-11-24.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel><text>Stones and Bones - 25</text></navLabel>
+      <content src="Text/4-12-25.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel><text>Stones and Bones - 26</text></navLabel>
+      <content src="Text/4-13-26.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel><text>Stones and Bones - 27</text></navLabel>
+      <content src="Text/5-01-27.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel><text>Stones and Bones - 28</text></navLabel>
+      <content src="Text/5-02-28.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel><text>Stones and Bones - 29</text></navLabel>
+      <content src="Text/6-01-29.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel><text>Stones and Bones - 30</text></navLabel>
+      <content src="Text/7-01-30.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel><text>Stones and Bones - 31</text></navLabel>
+      <content src="Text/7-02-31.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel><text>Stones and Bones - 32</text></navLabel>
+      <content src="Text/7-03-32.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

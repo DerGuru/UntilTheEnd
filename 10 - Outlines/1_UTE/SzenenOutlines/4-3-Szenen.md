@@ -1,214 +1,168 @@
 # Buch 4 — Part 3: PINCH 1 (7PS Gesamt: Midpoint | 7PS Buch: Pinch 1 | 7PS Part: eigene Struktur)
 
-**Part-Absicht:** „Yun verändert die Realität, ohne es zu wollen. Etwas in ihr IST anders."
+> **STATUS: Ist-Abgleich.** 8 Kapitel (4-3-01-18.md bis 4-3-08-25.md), nicht 9 wie geplant. Die geplante Resolution ("3-09") wurde in 4-3-08-25.md integriert.
 
-**Wortziel:** ~12k Wörter, ~8-12 Kapitel
+**Part-Absicht:** „Yun verändert die Realität, ohne es zu wollen. Etwas in ihr IST anders." — hält im Text.
 
-**Kern-Glitch:** Retroaktiver Pfad — Weg/Pfad erscheint, als wäre er immer dagewesen. Einzige Kernform. Alles andere = nur Atmosphäre.
-**Trigger-Regel:** Der Pfad erscheint NUR wenn Yun frustriert denkt „hier sollte ein Weg sein" / „das sollte anders sein." Kein anderer Auslöser. An IHRE Frustration gekoppelt.
+**Kern-Glitch:** Retroaktiver Pfad — hält, kommt aber bereits in 4-3-02-19.md (Plot Turn 1), nicht erst im Pinch-1-Slot. Trigger-Regel bestätigt: koppelt an Yuns Frustration ("Here should be a path.").
 
-**Scharmützel Part 3:** Zwei Spirit-Beasts + Banditen gleichzeitig. Innerer Schritt = SCHMERZ ZULASSEN. Ikonisches Bild: Ärmel reißt, Blut, Sekundenverzögerung bevor es heilt — als würde sie den Schmerz einatmen.
+**Erzähl-Stilbruch:** Die direkte "you"-Anrede an Xu Ran zieht sich durch alle acht Kapitel und ist stellenweise die dominante Erzählform (z.B. "You were wet.", "Behind me, at ten paces, you followed.").
 
-**Running Gag Variation:**
-- Kochen: Sie versucht es. Scheitert. Sagt nichts. Er sagt nichts. Beide wissen es.
-- ⚠ Optional: 1 kurzer zusätzlicher Beat für Running-Gag-Payoff (Mikro-Szene)
+**Scharmützel Part 3:** Doppel-Scharmützel (zwei Spirit-Beasts + vier Banditen, 4-3-04-21.md). Innerer Schritt = SCHMERZ ZULASSEN. Tatsächliches Bild: Sie lässt einen Banditen ihren linken Oberarm treffen, hält die Wunde ~1 Sekunde offen, bevor sie heilt — "The pain was the first thing in weeks that was completely, undeniably, unambiguously real." Das geplante "Gähnen" kommt im Text nicht vor.
 
-**Meta-Budget Part 3:** Max 2 Meta-Signale, pro Szene max 1.
-- Reality-Glitch (retroaktiver Pfad) — überlesbar
-- Selbst-Ertappen (Impuls, Realität formen zu WOLLEN) — überlesbar
+**Running Gag Variation:** Kochversuch in 4-3-05-22.md — sie verbrennt den Reis, ruiniert Gemüse/Ingwer; Xu Ran kocht schweigend Ersatz. Hält wie geplant.
+
+**Leitwörter:** „Rein." / „Weiter." / „Nicht jetzt." / „Genug." kommen in diesen acht Kapiteln NICHT als Leitwort-Beats vor — das Leitwort-System setzt erst später ein (siehe 4-Midpoint-Outline.md).
 
 ---
 
-## Szene 4-3-01-01 (Midpoint | Pinch 1 | Hook)
+## Kapitel 4-3-01-18.md — Hook
 
-### Absicht
-Wanderschaft 2.0 etablieren — ohne Wärme. Der Tonwechsel zu B1/B2: diesmal ist es kein Abenteuer, sondern Funktionieren.
+### Tatsächlicher Inhalt
+Yun und Xu Ran wandern tagelang durch verregnete Ausläufer ohne klares Ziel. Xu Ran wird völlig durchnässt und flucht leise, dass der Regen Yun nicht berührt (ihr Qi hält unbewusst Wasser ab). Er gibt grob die Richtung vor, beobachtet sie, zählt ihre Worte (bis zu 33 an einem Tag). Abends schreibt er im Notizbuch; Yun beschreibt ihren Zustand als graues Funktionieren statt Leben.
 
-### Key Beat
-Wanderschaft 2.0. Yun und Xu Ran unterwegs. Kein Ziel. Keine Wärme. Er redet. Sie nicht. Er beobachtet.
+### Zitate
+- "You were wet."
+- "Hm?"
 
 ### Ton
-Grau. Rhythmisch. Schritte. Regen. Stille zwischen den Worten.
-
-### Outline
-- **Unterwegs.** Kein Ziel. Yun geht, Xu Ran folgt. Zehn Schritte Abstand.
-- **SoL-Farbe:** Regen. Er wird nass. Sie nicht — ihr Qi hält das Wasser ab, unbewusst. Er flucht leise. Sie: „Hm."
-- **Wanderalltag:** Pfade. Wälder. Hügel. Yun navigiert nicht — sie geht den Weg, der da ist. Show-Indikator #3 noch aktiv, aber subtiler: Xu Ran gibt die grobe Richtung vor. Sie folgt.
-- **Dialogmuster:** Er redet in ganzen Sätzen. Sie in Fragmenten. „Wohin?" — Stille. „Dann links." — Sie geht links.
-- **Atmosphäre:** Kein B1/B2-Feeling. Kein Abenteuer. Kein Entdecken. Funktionieren. Zwei Menschen, die nebeneinander gehen, ohne miteinander zu gehen.
-- **Event:Reflexion-Ratio:** Viel extern — Wetter, Weg, Xu Rans Fluchen. Wenig intern.
+Grau, rhythmisch — kein B1/B2-Abenteuer-Gefühl, reines Funktionieren.
 
 ### Sonstiges/Wichtiges
-- ⚠ Regen-Detail: Yuns Qi hält Wasser ab = zeigt ihre unbewusste Macht
-- Wanderschaft-Rhythmus als Pacing-Tool
+- Ausgebaut gegenüber Outline: Wortzählung und "graues Funktionieren" als neue, konkrete Bilder für Yuns Zustand.
+- Regen-Detail wie geplant: Yuns Qi hält Wasser unbewusst ab.
 
 ---
 
-## Szene 4-3-02-01 bis 4-3-03-01 (Midpoint | Pinch 1 | Plot Turn 1)
+## Kapitel 4-3-02-19.md — Plot Turn 1
 
-### Absicht
-DER Kernglitch: Retroaktiver Pfad. Yun verändert die Realität, ohne es zu wollen. Etwas Fundamentales wird sichtbar.
+### Tatsächlicher Inhalt
+Dichter werdender Wald, eine undurchdringliche Dornenwand. Yuns Frustration ("Here should be a path.") löst DEN Kernglitch aus: Kurz darauf existiert dort ein alter, verwitterter Pfad mit jahrelanger Laubschicht, als wäre er immer dagewesen. Yun erkennt, dass er davor nicht da war, beschreibt die Veränderung als retroaktiv. Xu Ran folgt in zehn Schritt Abstand, bemerkt den Widerspruch, fragt erneut, was sie sei.
 
-### Key Beat
-Yun denkt an einen Weg, der hier sein SOLLTE. Plötzlich: er IST da. Retroaktiv. Als hätte die Realität sich still angepasst. Sie erstarrt.
+### Zitate
+- "Here should be a path."
+- "The path had been made true backward."
+- "Behind me, at ten paces, you followed."
 
 ### Ton
-Unheimlich-leise. Kein Knall — ein Flüstern. Die Realität hat sich verändert, und niemand hat es bemerkt.
-
-### Outline
-**Kapitel 3-02: Der Pfad**
-- **Frustration:** Yun und Xu Ran stehen vor dichtem Gestrüpp. Kein Weg. Yun denkt — nicht bewusst, mehr ein Impuls: „Hier sollte ein Weg sein."
-- **Plötzlich:** Er IST da. Ein Pfad. Tretspuren. Als hätte er immer existiert.
-- **Yun erstarrt.** Einen Moment. Schüttelt den Kopf. Geht weiter.
-- **Retroaktiv:** Der Pfad sieht alt aus. Trittspuren, verwittert. Gras wächst am Rand. Als wäre er seit Jahren da.
-
-**Kapitel 3-03: Xu Rans Reaktion**
-- **Xu Ran:** „Dieser Weg war gestern nicht hier." Unsicher. Aber er hat seine Karte studiert.
-- **Yun:** „Dann hast du nicht hingesehen." Sie LÜGT. Und weiß es.
-- **Xu Ran schreibt ins Notizbuch.** Sofort. Yun sieht es. Sagt nichts.
-- **Trigger-Regel bestätigen:** Der Pfad erschien, weil sie FRUSTRIERT dachte „hier sollte ein Weg sein." Nicht aus Wunsch — aus Ärger.
+Unheimlich-leise — kein Knall, ein Flüstern.
 
 ### Sonstiges/Wichtiges
-- ⚠ Glitch-Regel: Es gibt genau EINE Kernform (retroaktiver Pfad). Alles andere = Atmosphäre. Nie ein zweiter Glitch-Typ.
-- ⚠ Meta-Budget: Überlesbar — könnte Orientierungsfehler sein
+- DER Kernglitch kommt hier, bereits im Plot-Turn-1-Slot — nicht erst in Pinch 1 wie geplant (siehe Part-Header).
+- Xu Ran fragt erneut "What are you?"; Yun verweist darauf, dass sich ihre Antwort nicht geändert habe — neu gegenüber Outline.
 
 ---
 
-## Szene 4-3-04-01 (Midpoint | Pinch 1 | Pinch 1)
+## Kapitel 4-3-03-20.md — Pinch 1
 
-### Absicht
-Xu Ran testet bewusst — der Glitch ist an YUNS Frustration gekoppelt, nicht an Wünsche. Das nicht-wegdiskutierbare Beweisdetail als EINMALIGER Moment.
+### Tatsächlicher Inhalt
+Am nächsten Morgen sagt Xu Ran, der Pfad sei gestern nicht da gewesen; Yun lügt bewusst: "Then you weren't looking." Xu Ran testet, ob sich der Effekt reproduzieren lässt: "There should be a bridge here" — nichts passiert. Yun ist über den Test und das nötige Durchwaten eines kalten Bachs frustriert; kurz darauf erscheint ein zweiter Pfad durchs Unterholz, darauf ein moosiges Steinmännchen als unübersehbarer Beweis. Xu Ran dokumentiert es schriftlich.
 
-### Key Beat
-Xu Ran: „Dieser Weg war gestern nicht hier." — Yun: „Dann hast du nicht hingesehen." Sie LÜGT. Und der Beweis liegt auf dem neuen Pfad.
+### Zitate
+- "Then you weren't looking," I said.
+- "There should be a bridge here," you said.
+- "The path had not existed ten minutes ago."
 
 ### Ton
-Spannung unter der Oberfläche. Xu Ran WEISS etwas. Yun WEISS, dass er weiß.
-
-### Outline
-- **Xu Rans Test:** Er sagt absichtlich: „Hier sollte eine Brücke sein." Nichts passiert. Er zuckt die Schultern.
-- **Yun ist GENERVT.** Frustriert, dass er es probiert hat. Geht weiter.
-- **Binnen Minuten:** Ein Trampelpfad durch dichtes Gestrüpp, der vorher nicht da war. Ein neuer retroaktiver Pfad.
-- **BEWEISDETAIL (einmalig):** Auf dem „neuen" Pfad liegt ein Steinmännchen — drei flache Steine, moosig, als stünde es seit Jahren. Das kann man nicht übersehen.
-- **Xu Ran starrt es an.** Schreibt ins Notizbuch. Sein Gesicht: blass. Er versteht nicht WAS — aber er versteht, dass es REAL ist.
-- **Beweis-Logik:** Es ist an IHRE Frustration gekoppelt, nicht an Wünsche. Und „retroaktiv" bedeutet: die Realität tut so, als wäre es IMMER da gewesen.
-- **⚠ EINMALIGER Moment:** Danach werden die Pfad-Glitches wieder subtiler. Sonst entmystifiziert sich der Effekt.
-- **Yuns Reaktion:** Sie sieht das Steinmännchen. Schweigt. Geht weiter. Keine Analyse. Nur: etwas in ihrem Blick verändert sich. Für eine Sekunde.
+Spannung unter der Oberfläche — Xu Ran weiß etwas, Yun weiß, dass er weiß.
 
 ### Sonstiges/Wichtiges
-- ⚠ Dieses Detail = einmalig, nie wieder so konkret
-- ⚠ Xu Rans Notizbuch ab hier: aktives Recherche-Tool
-- ⚠ Meta-Budget: Selbst-Ertappen — überlesbar (könnte Wunschdenken sein)
+- Bestätigt die Trigger-Regel exakt wie geplant: Der Effekt reagiert auf Yuns Frustration, nicht auf Xu Rans bewussten Wunsch.
+- Steinmännchen-Beweisdetail wie geplant als einmaliger, nicht wegdiskutierbarer Moment umgesetzt.
+- Dieser Beat (inkl. "Brücken-Test" + Steinmännchen) lag im Outline für Kapitel "3-04" — kommt real ein Kapitel früher.
 
 ---
 
-## Szene 4-3-05-01 bis 4-3-06-01 (Midpoint | Pinch 1 | Midpoint)
+## Kapitel 4-3-04-21.md + 4-3-05-22.md — Midpoint
 
-### Absicht
-Scharmützel #3: Doppel-Scharmützel. Innerer Schritt = SCHMERZ ZULASSEN. Sie lässt bewusst einen Treffer zu. Die Recklessness-Spirale wird sichtbar.
+### Tatsächlicher Inhalt
+**3-04:** Bei Tagesanbruch greifen zwei Spirit-Beasts (katzenartig + bovin) und vier Banditen an. Yun schaltet die Bestien mühelos aus, lässt dann aber absichtlich einen Banditen ihren linken Oberarm treffen. Sie hält die Wunde ~1 Sekunde offen, erlebt Schmerz und Blut bewusst, bevor sie heilt. Xu Ran erkennt, dass sie den Treffer zugelassen hat.
+**3-05:** Der Blutgeschmack löst eine Erinnerung an eine blinde Kriegerin vor ~2000 Jahren aus, deren Schwertstreich sie überraschend verwundete (die Frau starb später im Krieg). Zurück im Lager fragt Xu Ran, wie oft Yun absichtlich Treffer zugelassen habe, benennt ihre Spirale; sie widerspricht nicht. Abends verbrennt Yun beim Kochversuch den Reis und ruiniert Gemüse/Ingwer; Xu Ran kocht schweigend eine Ersatzmahlzeit.
 
-### Key Beat
-Zwei Spirit-Beasts + Banditen gleichzeitig. Yun gähnt. Aber: lässt einen Treffer zu. Bewusst. Blut — IHR Blut. Heilt in Sekunden. Xu Ran sieht es.
+### Zitate
+- "You stood at the clearing's edge."
+- "The pain was the first thing in weeks that was completely, undeniably, unambiguously real."
+- "She was blind."
+- "The rice burned."
 
 ### Ton
-Beiläufig, dann schockierend. Der Kontrast zwischen Gähnen und Blut.
-
-### Outline
-**Kapitel 3-05: Doppel-Scharmützel**
-- **Situation:** Zwei Spirit-Beasts und eine Gruppe Banditen. Gleichzeitig. Zufall oder angezogen von ihrer Aura.
-- **Yun gähnt.** Buchstäblich. Die Spirit-Beasts sind unter ihrem Level. Die Banditen sind Insekten.
-- **Der Kampf:** Beiläufig. Effizient. Langweilig — für sie.
-- **ABER:** Sie lässt einen Treffer zu. Bewusst. Ein Prankenhieb reißt ihren Ärmel auf. Blut — IHR Blut.
-- **Ikonisches Bild:** Ärmel reißt. Blut. Sie reagiert NICHT SOFORT — Sekundenverzögerung. Als würde sie den Schmerz einatmen. Dann erst heilt es.
-- **Innerer Schritt = SCHMERZ ZULASSEN:** Sie lässt einen Treffer durch. Absichtlich. Schmerz als einziger Durchbruch durch die Taubheit.
-
-**Kapitel 3-06: Nachhall + Erinnerung**
-- **Xu Ran sieht es.** Blass. „Du hast das ABSICHTLICH—" — „Sei still."
-- **Sinnesreiz → Erinnerung:** Der Metallgeschmack von Blut im Mund. So hatte es auch geschmeckt, damals —
-- **ERINNERUNG:** Ein Krieger, der sie im Kampf verletzte. Vor 2000 Jahren. „Der einzige Schwertstreich, der mich je überraschte. Er war blind. BLIND. Und traf." — Schmerz als Verbindung. 10-14 Sätze.
-- **Xu Rans Verständnis:** Er beobachtet die Spirale. Erkennt: Das ist Selbstzerstörung ohne Tod.
-- **Running Gag Variation (optional hier):** Sie versucht zu kochen. Scheitert. Sagt nichts. Er sagt nichts. Beide wissen es.
+Beiläufig, dann schockierend — der Kontrast zwischen Mühelosigkeit (Bestien) und bewusst zugelassenem Schmerz.
 
 ### Sonstiges/Wichtiges
-- ⚠ Scharmützel #3: Innerer Schritt „Schmerz zulassen" danach nie wieder „neu"
-- ⚠ Recklessness-Spirale nimmt Fahrt auf → führt letztlich zum Klippensprung (Midpoint)
-- ⚠ Produktionsregel: Kein Landschaftsschaden bei diesem Kampf (sie ist beiläufig, nicht explosiv)
+- Das geplante "Gähnen" kommt nicht vor; dafür das stärkere Bild "pain... completely, undeniably, unambiguously real."
+- Running Gag Kochen-Variation (Scheitern) ist hier sauber gesetzt, inkl. Xu Rans stiller Reparatur.
+- Xu Ran benennt die Spirale explizit als solche — stärker ausformuliert als im Outline vorgesehen.
 
 ---
 
-## Szene 4-3-07-01 (Midpoint | Pinch 1 | Pinch 2)
+## Kapitel 4-3-06-23.md — Pinch 2
 
-### Absicht
-Yun ertappt sich beim Impuls, die Realität formen zu WOLLEN. Das ist neu. Das ist beängstigend.
+### Tatsächlicher Inhalt
+In einer schlaflosen Nacht bemerkt Yun, dass ein nahegelegener Fluss geografisch falsch verläuft (ost-westlich statt entlang des erwarteten Tals). Ein vor-sprachlicher Impuls will den Fluss verschieben; Qi sammelt sich in ihren Fingern. Sie fängt sich, lässt den Impuls vergehen — beunruhigend ist, dass der Wunsch, Realität zu formen, sich RICHTIG und VERTRAUT anfühlte. Am Morgen bemerkt Xu Ran, dass sie verändert wirkt; Yun lenkt ab, indem sie seine kleiner werdende Handschrift kommentiert.
 
-### Key Beat
-Nachts. Yun erwacht (sie schlief nicht, aber es FÜHLT sich so an): Sie hat sich dabei ertappt, die Realität formen zu WOLLEN. Der Impuls kam von allein.
+### Zitate
+- "The river was in the wrong place."
+- "I caught myself."
+- "The impulse to reshape reality had felt correct."
 
 ### Ton
-Intim. Unheimlich. Ein Moment zwischen Yun und sich selbst.
-
-### Outline
-- **Nachts.** Xu Ran schläft. Yun liegt da. Augen offen. (Show-Indikator #2)
-- **Ein Moment:** Sie denkt an einen Flusslauf, den sie heute am falschen Ort sah. Und dann: der Impuls. Nicht ein Gedanke — ein IMPULS. Die Realität zu formen. Den Fluss zu VERSCHIEBEN. Es juckt in ihren Fingerspitzen.
-- **Sie ertappt sich.** Und erschrickt. Nicht weil sie es getan hat — weil sie es WOLLTE. Der Impuls kam von allein. Ungeplant. Wie ein Muskelreflex.
-- **Reaktion:** Sie ballt die Fäuste. Atmet. Der Impuls verebbt. Aber er war DA. Das ist neu. Das ist beängstigend.
-- **Kein Dialog.** Kein Xu-Ran-Moment. Nur Yun und das, was in ihr sitzt.
-- **Und es fühlte sich RICHTIG an.** Das ist das Schlimmste.
+Intim, unheimlich — ein Moment zwischen Yun und sich selbst.
 
 ### Sonstiges/Wichtiges
-- ⚠ Meta-Budget: Überlesbar — könnte Wunschdenken sein
-- Seed für Midpoint (Klippensprung) und PT2 (Gift-Experiment)
+- Erweitert gegenüber Outline: verstummende Frösche, die falsche Flussrichtung als konkretes geografisches Detail, und das explizite Gefühl der VERTRAUTHEIT (nicht nur "es fühlte sich richtig an", sondern ein Wiedererkennen).
 
 ---
 
-## Szene 4-3-08-01 (Midpoint | Pinch 1 | Plot Turn 2)
+## Kapitel 4-3-07-24.md — Plot Turn 2
 
-### Absicht
-SoL-Atempause: Normalität, die keiner von beiden verdient hat. Xu Rans Notizbuch wird sichtbar.
+### Tatsächlicher Inhalt
+Rast in einem kleinen Teehaus an einer Wegkreuzung. Yun bleibt draußen auf einem Stein; die Umgebung vergilbt. Xu Ran bestellt drinnen Tee, Nüsse, Brot; der Wirt fragt nach "der Dame". Gäste erzählen, Yun habe einen Wald durch Berührung zerstört — sie korrigiert die Legende: Sie habe ihn nur durchquert. Ein alter Mann hält sie für Xu Rans Frau; Xu Ran will widersprechen, Yun sagt "Keep moving", beide lassen den Kommentar stehen.
 
-### Key Beat
-Eine Teestube. Abseits. Xu Ran bestellt. Yun sitzt steif. Der Wirt fragt, ob „die Dame etwas möchte." Xu Ran: „Fragen Sie nicht." Xu Ran hat ein Notizbuch. Yun sieht es. Sagt nichts.
+### Zitate
+- "You entered first."
+- "And for the lady?" he said to you.
+- "Keep moving," I said.
 
 ### Ton
-Lebhaft-still. Die Welt draußen ist normal. Drinnen: zwei Menschen, die nicht hineinpassen.
-
-### Outline
-- **Teestube:** Am Straßenrand. Klein. Bäuerlich. Normalität.
-- **Xu Ran bestellt.** Tee. Nüsse. Brot. Er weiß, was er will. Yun sitzt steif am Tisch.
-- **Der Wirt:** „Und für die Dame?" — Xu Ran: „Fragen Sie nicht." Der Wirt nickt. Geht.
-- **Show-Indikator #1:** Essen steht vor ihr. Sie rührt es nicht an. Nicht Verweigerung — Nicht-Registrierung.
-- **Xu Rans Notizbuch:** Er legt es auf den Tisch. Schreibt. Yun sieht es. Zum ersten Mal bewusst. Sie liest nicht — aber sie REGISTRIERT es. Ein neues Detail in ihrem Sichtfeld.
-- **Atmosphäre:** Gespräche anderer Gäste. Ein Kind lacht. Ein Hund liegt am Eingang. LEBEN. Das sie nicht berührt.
-- **Event:Reflexion-Ratio:** Rein extern. Physische Parallelhandlung ohne innere Analyse.
-- **SoL-Farbe:** Ein alter Fischer hält sie für ein Paar. Yun: „..." Xu Ran: „Wir sind—" Yun: „Geh weiter."
+Lebhaft-still — die Welt draußen ist normal, die beiden passen nicht hinein.
 
 ### Sonstiges/Wichtiges
-- Notizbuch-Bewusstsein etablieren (zahlt sich in Part 5/7 aus)
-- ⚠ Normalität als Kontrast — nicht als Heilung
+- Neu gegenüber Outline: eine zusätzliche Verfallszone ums Teehaus, das Wald-Gerücht UND Yuns aktive Korrektur der eigenen Legende (nicht nur passives Dulden).
+- Notizbuch-Bewusstsein wie geplant etabliert.
 
 ---
 
-## Szene 4-3-09-01 (Midpoint | Pinch 1 | Resolution)
+## Kapitel 4-3-08-25.md — Resolution
 
-### Absicht
-Part-Ende: Yuns Qi pulsiert autonom. Etwas in ihr hat sein eigenes Programm. Das Summen folgt.
+### Tatsächlicher Inhalt
+Nach dem Lagerfeuer meditiert Xu Ran, schläft mit einer Hand auf seinem Notizbuch. Yun nimmt ein stärkeres Summen in ihrer Brust wahr; ihr Qi pulsiert autonom und weitet den Einfluss von drei auf sieben Meter aus (weiter entferntes Gras zittert). Sie kehrt ins Lager zurück. Am Morgen bemerkt Xu Ran den größeren gelben Grasfleck, fragt nach dem Puls — Yun erinnert sich nur ans Aufstehen und die Dunkelheit. Xu Ran notiert, was sie ihm sagt, nicht, was sie verschweigt.
 
-### Key Beat
-Nachts. Xu Ran schläft. Um Yun: leises Summen. Ihr Qi pulsiert — nicht SIE steuert es, es steuert sich SELBST. Das Summen folgt.
+### Zitate
+- "Your meditation tonight was audible again."
+- "My qi pulsed."
+- "You wrote what I gave you. You did not write what I withheld."
 
 ### Ton
-Unheimlich. Körperlich. Das Echo-Motiv wird physisch.
-
-### Outline
-- **Nachts.** Lager. Xu Ran schläft. Yun sitzt.
-- **Das Summen:** Leise. Nicht hörbar — spürbar. Wie eine Vibration im Brustkorb. Ihr Qi pulsiert.
-- **Nicht SIE steuert es.** Es steuert sich SELBST. Autonom. Wie ein Herzschlag, den man nicht anhalten kann.
-- **Sie steht auf.** Geht drei Schritte vom Lager weg. Das Summen folgt.
-- **Sie geht weiter.** Es hört nicht auf.
-- **Echo-Motiv:** Das Summen wie eine zweite Atmung. Der Buchtitel „Echoes" wird körperlich.
-- **Letztes Bild des Parts:** Sie steht im Dunkeln. Drei Schritte vom schlafenden Xu Ran entfernt. Das Summen in ihr. Um sie herum: Stille. In ihr: etwas, das atmet.
+Unheimlich, körperlich — das Echo-Motiv wird physisch und messbar.
 
 ### Sonstiges/Wichtiges
-- Setup für Midpoint: Etwas in ihr funktioniert autonom
-- Echo-Motiv = thematischer Kern des Buchs
-- ⚠ Kein Meta-Moment hier — das Summen ist physisch, nicht Meta
+- Die für Kapitel "3-09" geplante Resolution ist vollständig hier integriert — eine eigene Datei existiert nicht.
+- Stärker als geplant: Die Qi-Ausdehnung ist MESSBAR (3m auf 7m), nicht nur ein Gefühl/Summen, das ihr folgt.
+- Erste explizite "Was bin ich?"-Frage für Xu Ran sichtbar (laut Subagenten-Befund), nicht nur implizit.
+
+---
+
+## Kapitelübersicht Part 3 (Ist-Zustand)
+
+| Kapitel-Datei | Sub-7PS-Beat |
+|---|---|
+| 4-3-01-18.md | Hook |
+| 4-3-02-19.md | Plot Turn 1 (Kernglitch: Pfad) |
+| 4-3-03-20.md | Pinch 1 (Beweisdetail: Steinmännchen) |
+| 4-3-04-21.md | Midpoint (Doppel-Scharmützel) |
+| 4-3-05-22.md | Midpoint-Nachhall (Erinnerung + Kochversuch) |
+| 4-3-06-23.md | Pinch 2 (Fluss-Impuls) |
+| 4-3-07-24.md | Plot Turn 2 (Teehaus) |
+| 4-3-08-25.md | Resolution (autonomes Qi, 3→7m) |
+
+**Gesamt: 8 Kapitel (nicht 9 wie geplant).**

@@ -1,0 +1,419 @@
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"[]>
+<ncx xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="https://www.royalroad.com/fiction/152927" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Until the End - Book 1 - Embers</text>
+  </docTitle>
+  <docAuthor>
+    <text>Andreas Jakof</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="cover.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Embers - 01</text>
+      </navLabel>
+      <content src="Chapter3053459.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Embers - 02</text>
+      </navLabel>
+      <content src="Chapter3056679.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Embers - 03</text>
+      </navLabel>
+      <content src="Chapter3056681.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Embers - 04</text>
+      </navLabel>
+      <content src="Chapter3056683.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Embers - 05</text>
+      </navLabel>
+      <content src="Chapter3056685.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Embers - 06</text>
+      </navLabel>
+      <content src="Chapter3056687.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Embers - 07</text>
+      </navLabel>
+      <content src="Chapter3056688.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Embers - 08</text>
+      </navLabel>
+      <content src="Chapter3056689.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Embers - 09</text>
+      </navLabel>
+      <content src="Chapter3056694.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Embers - 10</text>
+      </navLabel>
+      <content src="Chapter3056697.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Embers - 11</text>
+      </navLabel>
+      <content src="Chapter3056701.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Embers - 12</text>
+      </navLabel>
+      <content src="Chapter3059707.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Embers - 13</text>
+      </navLabel>
+      <content src="Chapter3060186.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Embers - 14</text>
+      </navLabel>
+      <content src="Chapter3060514.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Embers - 15</text>
+      </navLabel>
+      <content src="Chapter3060950.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Embers - 16</text>
+      </navLabel>
+      <content src="Chapter3060969.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Embers - 17</text>
+      </navLabel>
+      <content src="Chapter3061035.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Embers - 18</text>
+      </navLabel>
+      <content src="Chapter3061049.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Embers - 19</text>
+      </navLabel>
+      <content src="Chapter3061057.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Embers - 20</text>
+      </navLabel>
+      <content src="Chapter3061101.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Embers - 21</text>
+      </navLabel>
+      <content src="Chapter3061222.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Embers - 22</text>
+      </navLabel>
+      <content src="Chapter3061238.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Embers - 23</text>
+      </navLabel>
+      <content src="Chapter3061313.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Embers - 24</text>
+      </navLabel>
+      <content src="Chapter3061342.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Embers - 25</text>
+      </navLabel>
+      <content src="Chapter3061371.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Embers - 26</text>
+      </navLabel>
+      <content src="Chapter3061402.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Embers - 27</text>
+      </navLabel>
+      <content src="Chapter3061429.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Embers - 28</text>
+      </navLabel>
+      <content src="Chapter3061491.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Embers - 29</text>
+      </navLabel>
+      <content src="Chapter3061515.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Embers - 30</text>
+      </navLabel>
+      <content src="Chapter3061534.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Embers - 31</text>
+      </navLabel>
+      <content src="Chapter3061551.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Embers - 32</text>
+      </navLabel>
+      <content src="Chapter3061620.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Embers - 33</text>
+      </navLabel>
+      <content src="Chapter3062581.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Embers - 34</text>
+      </navLabel>
+      <content src="Chapter3062637.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Embers - 35</text>
+      </navLabel>
+      <content src="Chapter3062687.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Embers - 36</text>
+      </navLabel>
+      <content src="Chapter3062802.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Embers - 37</text>
+      </navLabel>
+      <content src="Chapter3062826.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Embers - 38</text>
+      </navLabel>
+      <content src="Chapter3063718.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Embers - 39</text>
+      </navLabel>
+      <content src="Chapter3065958.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Embers - 40</text>
+      </navLabel>
+      <content src="Chapter3066003.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Embers - 41</text>
+      </navLabel>
+      <content src="Chapter3066017.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Embers - 42</text>
+      </navLabel>
+      <content src="Chapter3066040.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Embers - 43</text>
+      </navLabel>
+      <content src="Chapter3067226.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Embers - 44</text>
+      </navLabel>
+      <content src="Chapter3067272.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Embers - 45</text>
+      </navLabel>
+      <content src="Chapter3067854.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Embers - 46</text>
+      </navLabel>
+      <content src="Chapter3067908.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Embers - 47</text>
+      </navLabel>
+      <content src="Chapter3067959.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Embers - 48</text>
+      </navLabel>
+      <content src="Chapter3068038.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Embers - 49</text>
+      </navLabel>
+      <content src="Chapter3068055.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Embers - 50</text>
+      </navLabel>
+      <content src="Chapter3068291.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Embers - 51</text>
+      </navLabel>
+      <content src="Chapter3068329.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Embers - 52</text>
+      </navLabel>
+      <content src="Chapter3068466.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Embers - 53</text>
+      </navLabel>
+      <content src="Chapter3068597.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Embers - 54</text>
+      </navLabel>
+      <content src="Chapter3068713.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Embers - 55</text>
+      </navLabel>
+      <content src="Chapter3068775.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Embers - 56</text>
+      </navLabel>
+      <content src="Chapter3068798.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Embers - 57</text>
+      </navLabel>
+      <content src="Chapter3068853.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Embers - 58</text>
+      </navLabel>
+      <content src="Chapter3068936.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Embers - 59</text>
+      </navLabel>
+      <content src="Chapter3069270.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Embers - 60</text>
+      </navLabel>
+      <content src="Chapter3069349.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Embers - 61</text>
+      </navLabel>
+      <content src="Chapter3069430.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Embers - 62</text>
+      </navLabel>
+      <content src="Chapter3069530.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Embers - 63</text>
+      </navLabel>
+      <content src="Chapter3069552.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Embers - 64</text>
+      </navLabel>
+      <content src="Chapter3069621.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Embers - 65</text>
+      </navLabel>
+      <content src="Chapter3069636.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Embers - 66</text>
+      </navLabel>
+      <content src="Chapter3069665.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

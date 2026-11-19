@@ -129,7 +129,7 @@ Buch 7:  Ohnmacht ——→ Verinnerlichung ——→ FRIEDEN
 - [x] Wie konfrontiert Yun das, was sie am Leben hält? → Sie konfrontiert SICH SELBST.
 - [x] Wie genau stirbt Wei? → **Kombination: Heroisches Opfer + Enabling-Konsequenz.** Sein durch Yun beschleunigtes Wachstum machte ihn stark genug, sich zu opfern — und das hat ihn getötet.
 - [x] Serientitel vs. Einzeltitel? → Embers / Roots / Silence / Echoes / Fractures / Mirrors / Clouds
-- [x] Xu Ran als wiederkehrender Companion? → B2 (Ende) bis B7 Part 1-4. Fluid/Komplex mit Akzeptanz-Arc. Abschied in B7 Mitte: Er schreibt alles auf (Chronist), Yun lässt ihn bewusst los.
+- [x] Xu Ran als wiederkehrender Companion? → B2 (Ende) bis B7 Part 1-4. Fluid/Komplex mit Akzeptanz-Arc. Abschied in B7 Mitte: Er schreibt alles auf (Chronist), Yun lässt ihn bewusst los. **⚠ Ist-Abgleich B4 (nach Fertigstellung):** Nicht lückenlos durchgängig — B4 Part 1 zeigt Yun wieder komplett ALLEIN (Xu Ran hat nach B3 offenbar den Kontakt verloren/sie ist ihm entglitten); er hat nur einen kurzen, folgenlosen Erstkontakt am Ende von Kapitel 1, bevor er sie in Part 2 nach „drei Monaten Suche" endgültig wiederfindet und ab dann durchgehend bleibt. Details in `4-Midpoint-Outline.md`.
 - [x] Neue Hauptfiguren nach Weis Tod? (B4+) → **Nur Xu Ran.** Keine neuen festen Bezugspersonen. Isolation ist der Punkt. B7: umgeben von Menschen, aber nur 1-2 echte Bindungen. Trotz allem einsam.
 - [x] Erzählrahmen → Yun erzählt Xu Ran alles (B7 Part 1-4). Nach seinem Abschied: **Wechsel des POV zu enger 3. Person Präsens.** Zeigt, was danach noch passiert, bis sie sich zum Sterben hinlegt.
 - [x] Warping-Grenzen → Tod ist final (sie glaubt es zutiefst). Eine Kopie wäre nicht die Person. Kein Wiederbeleben möglich.

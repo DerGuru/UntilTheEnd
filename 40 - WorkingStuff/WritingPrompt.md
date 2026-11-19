@@ -14,7 +14,7 @@ Kontext / Quellen (liegen unter /00 - General/ und /10 - Outlines/):
 - 1-Hook-Outline.md ... 7-Resolution-Outline.md
 - Szenen-Outlines je Buch/Part: {{BUCH_NR}}-{{PART_NR}}-Szenen.md (z.B. "4-1-Szenen.md") liegen in "/10 - Outlines/SzenenOutlines"
 
-- Output-Ordner: die fertigen Kapitel kommen jeweils in "/20 - Chapters/[BuchNr] - [BuchName]" z.B. "20 - Chapters/1 - Kindle".
+- Output-Ordner: die fertigen Kapitel kommen jeweils in "/20 - Chapters/[BuchNr] - [BuchName]" z.B. "20 - Chapters/1 - Embers".
 Optional:
 - Startpunkt: {{START}}  (Default: "Book1")
 - Endpunkt: {{END}}      (Default: "Book7")

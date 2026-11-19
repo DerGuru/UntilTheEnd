@@ -1,199 +1,172 @@
 # Buch 4 — Part 1: HOOK (7PS Gesamt: Midpoint | 7PS Buch: Hook | 7PS Part: eigene Struktur)
 
-**Part-Absicht:** „Yun ist nicht gebrochen wie in B1 — sie ist ABGEKLEMMT. Das ist schlimmer."
+> **⚠ STATUS: Ist-Abgleich.** Diese Datei beschreibt den TATSÄCHLICH geschriebenen Stand (57 Kapitel in Buch 4, davon 7 in Part 1: `4-1-01-01.md` bis `4-1-07-07.md`). Ursprünglich waren 8 Kapitel geplant; die geplante Resolution (Kap. „1-08") wurde in `4-1-07-07.md` integriert — eine eigene Datei dafür existiert nicht.
 
-**Wortziel:** ~10k Wörter, ~7-10 Kapitel
+**Part-Absicht:** „Yun ist nicht gebrochen wie in B1 — sie ist ABGEKLEMMT. Das ist schlimmer." — **hält im Text.**
+
+**Tatsächlicher Umfang:** 7 Kapitel, nicht 8.
 
 **Buchtitel:** Until The End: Echoes
 
-**Kern-Definition:** „Abgeklemmt" — nicht „taub". Emotionen funktionieren; Wille/Bedürfnis nicht (kein Hunger, kein Schlaf, kein Sinn). „Taub" darf NUR Xu Ran sagen (falsche Diagnose). Yun denkt: abgeklemmt, leer, weg.
+**Kern-Definition:** „Abgeklemmt" — nicht „taub". Emotionen funktionieren; Wille/Bedürfnis nicht (kein Hunger, kein Schlaf, kein Sinn). **Im Text sauber umgesetzt:** „Taub" kommt aus Yuns Perspektive nicht vor; stattdessen „disconnected", „the two facts did not interact", „Want was disconnected. Need was older."
 
-**3 Show-Indikatoren (Checklist für jede Szene prüfen):**
-1. Hunger — vergisst zu essen (nicht verweigern, VERGESSEN)
-2. Schlaf — liegt mit offenen Augen da, vergisst Augen zu schließen
-3. Richtung — geht, wohin man ihr sagt, ohne Widerspruch, mechanisch
+**3 Show-Indikatoren (wie tatsächlich umgesetzt):**
+1. Hunger — eine reife Beere bleibt unberührt (1-01, 1-02): nicht Verweigerung, sondern Nicht-Registrierung.
+2. Schlaf — Augen bleiben offen, weil Schließen eine Handlung wäre, die den fehlenden Impuls braucht (1-01, 1-07).
+3. Richtung — sie folgt einem VORHANDENEN Tierpfad (1-02), nicht einer fremden Anweisung. In Part 1 gibt ihr niemand eine Richtung vor — Xu Ran als Richtungsgeber kommt erst in Part 2/3.
 
-**Scharmützel Part 1:** Spirit-Beast (Wald). Innerer Schritt = ABGEKLEMMT (Baseline). Ikonisches Bild: Sie wischt Blut von den Fingern wie Dreck. Sieht nicht hin.
+**⚠ NEU gegenüber Outline — Xu Rans Doppel-Einführung:** Geplant war Xu Rans erster Auftritt erst in Part 2. Tatsächlich hat er einen kurzen, FOLGENLOSEN Erstkontakt bereits am Ende von `4-1-01-01.md` — noch bevor Yun überhaupt aufsteht. Er schätzt ihren „kill-radius" (~3m), fragt, ob sie freiwillig oder gezwungen stillsitzt; sie antwortet nur „Yes" (mehrdeutig). Diese Szene kippt als einzige in Part 1 in direkte „you"-Anrede — die Erzählung bricht auf: *„Xu Ran, he — / This is absurd. I am talking to you."* Dies legt auf der allerersten Seite des Buchs den retrospektiven Erzähl-Rahmen offen (Yun erzählt Xu Ran ihre Geschichte direkt). Der Erstkontakt bleibt folgenlos: Xu Ran taucht in `4-1-02-02.md` bis `4-1-07-07.md` NICHT wieder auf. Er „erscheint erneut" erst zu Beginn von Part 2 (`4-2-01-08.md`: „You appeared again on the fourth day after the clearing"). Die Szene etabliert außerdem eine VOR Buch 4 liegende Bekanntschaft (ein Gasthaus, Xu Rans beschädigter Kern, „months of shared proximity").
 
-**Running Gag Status:** Noch kein Setup (erst Part 2).
+**Scharmützel Part 1:** Spirit-Beast (Wald, Kap. `4-1-03-03.md`). Innerer Schritt = ABGEKLEMMT (Baseline) — hält. **Abweichung beim Bild:** Sie tötet reflexhaft durch Kollaps des gegnerischen Qi-Kanals, betrachtet danach BEWUSST das Blut auf ihrer Hand („I looked at my hand") und wischt es am Oberschenkel ab. Das geplante Bild „wischt Blut ab, OHNE hinzusehen" + der „wie Holz hacken"-Vergleich kommen im Text nicht vor.
 
----
-
-## Szene 4-1-01-01 (Midpoint | Hook | Hook)
-
-### Absicht
-Den Zustand „abgeklemmt" körperlich etablieren. Zeitgefühl null. Der Leser soll spüren: das ist schlimmer als Trauer.
-
-### Key Beat
-Yun sitzt auf einer freigelegten Wurzel einer alten Eiche. Rücken gegen den Stamm. Hände auf den Knien. Augen offen, leer. Um sie herum: ein perfekter Kreis aus Tod — totes Laub, braunes Gras, kein lebendes Insekt im Umkreis von drei Metern. Am Rand des Kreises: eine Ameisenstraße, die abrupt endet — sie biegen ab, als wäre da eine Wand. Die Aura.
-
-### Ton
-Absolut still. Kalt. Kein innerer Monolog über Schmerz — nur Zustandsbeschreibung. Detailliert, sensorisch, entmenschlicht.
-
-### Outline
-- **Öffnung:** Wald. Stille. Kein Wind. Keine Insekten. Dann: Yun. Auf der Wurzel.
-- Zeitsprung nach B3: Wochen? Monate? Sie hat jedes Zeitgefühl verloren. Kein Hinweis darauf, wie lange sie hier sitzt.
-- **Sensorische Details:** Braunes Gras. Totes Laub in einem perfekten Radius. Die Ameisenstraße, die abbiegt. Ein Vogel fliegt über sie hinweg — landet nicht. Selbst die Luft scheint um sie herum dünner.
-- **Show-Indikator #3 (Richtung):** Ihr Blick bewegt sich nicht. Fixiert auf einen Punkt im Nichts. Kein Gedanke, der ihn lenkt.
-- **KEIN innerer Monolog über Trauer.** Nur Körper + Umgebung. Der Leser muss den Schluss selbst ziehen.
-- **Parallele zu B1-Hook:** Sie streift. Allein. Müde. Aber ANDERS als damals. In B1: emotional taub. Hier: abgeklemmt — die Sinne arbeiten, der Wille nicht.
-- **Letzter Satz der Szene:** Etwas Kleines — ein Geräusch, ein Geruch, ein Lichteinfall. Sie reagiert nicht.
-
-### Sonstiges/Wichtiges
-- ⚠ „Taub" NIEMALS aus Yuns Perspektive verwenden
-- Ameisenstraße = visueller Marker der Aura (wiederkehrend nutzbar)
-- Atmosphäre: Echoes-Motiv → Stille, die nachallt
+**Running Gag Status:** Noch kein Setup — korrekt, wie geplant (erst Part 2).
 
 ---
 
-## Szene 4-1-02-01 (Midpoint | Hook | Plot Turn 1)
+## Kapitel `4-1-01-01.md` — Hook
 
-### Absicht
-Zeigen, dass der Körper sich bewegt, bevor der Wille es tut. Der Unterschied zwischen „leben" und „funktionieren".
+### Tatsächlicher Inhalt
+Yun sitzt auf einer freigelegten Wurzel einer alten Eiche in einem ca. drei Meter weiten Kreis aus totem Gras; eine Ameisenstraße biegt an der Kreisgrenze ab, ein Vogel landet nicht. Zeit hat keine brauchbaren Marker mehr. Eine reife Beere bleibt unberührt — nicht Verweigerung, sondern Nicht-Interaktion. Gegen Ende erscheint Xu Ran am Rand des Kreises: abgetragene weiße Roben, zu großer Pack, offenes Notizbuch. Er schätzt den "kill-radius" auf ca. drei Meter und fragt, ob sie freiwillig oder gezwungenermaßen stillsitzt. Sie antwortet nur "Yes" — mehrdeutig. Die Erzählung bricht hier zum ersten Mal in direkte Anrede: "Xu Ran, he - / This is absurd. I am talking to you." Xu Ran erinnert an eine frühere Begegnung in einem Gasthaus. Schluss: "You told me later you almost turned around. That you stood at the edge and considered leaving. You should have."
 
-### Key Beat
-Yun steht auf. Nicht weil sie will — ihr Körper bewegt sich. Geht. Ziellos. Die grausamste Dreierkombination: isst nicht, schläft nicht, kann nicht sterben.
+### Zitate
+- "The kill-radius is approximately three meters."
+- "Observable phenomena," you said.
+- "Xu Ran, he - / This is absurd. I am talking to you."
 
 ### Ton
-Mechanisch. Trocken. Rhythmus der Schritte als einziges Strukturelement.
-
-### Outline
-- **Sie steht auf.** Keine Entscheidung. Der Körper bewegt sich wie ein Uhrwerk, das jemand vergessen hat abzustellen.
-- **Wanderschaft ohne Ziel:** Pfade, die sie nimmt, weil sie da sind. Keine Richtungswahl. Links oder rechts — egal. (Show-Indikator #3 bereits ohne Xu Ran: sie folgt dem Weg, weil er existiert.)
-- **Show-Indikator #1 (Hunger):** Eine Beere am Wegesrand. Reif. Ihre Hand greift nicht danach. Nicht Verzicht — Nicht-Registrierung.
-- **Show-Indikator #2 (Schlaf):** Nacht fällt. Sie geht weiter. Legt sich nicht hin. Stehenbleiben wäre eine Entscheidung gewesen.
-- **1 Ausnahme-Moment:** Ein kleiner Vogel kommt zu nah. Landet auf einem Ast direkt neben ihr. Eine Sekunde. Zuckt, dreht ab, fliegt. 2 Sätze — nicht mehr. Macht die Aura lebendig statt monoton.
-- **Die Welt um sie:** Pflanzen, Tiere meiden ihre Nähe. Stille folgt ihr wie ein Schatten.
+Absolut still, entmenschlicht — bis zum Bruch in die direkte Anrede, der den retrospektiven Erzähl-Rahmen des ganzen Buchs (Yun erzählt Xu Ran ihre Geschichte) bereits auf der ersten Seite offenlegt.
 
 ### Sonstiges/Wichtiges
-- Ausnahme-Vogel kann auch in 1-03 platziert werden, falls hier zu früh
-- Event:Reflexion-Ratio: rein extern hier, keine innere Reflexion nötig
+- Taub wird korrekt vermieden; stattdessen "disconnected" / "the two facts did not interact".
+- Dies ist Xu Rans ERSTER (folgenloser) Auftritt in Buch 4 — nicht Part 2. Er verschwindet danach bis Part 2 wieder.
+- Der direkte-Anrede-Bruch ist ein wiederkehrendes Strukturelement des ganzen Buchs: Sobald Xu Ran dauerhaft anwesend ist (ab Part 2), erzählt Yun weite Strecken durchgehend in "you"-Anrede statt "he". Hier ist der erste, folgenschwerste Einsatz.
+- Ameisenstraße = visueller Marker der Aura (wiederkehrend genutzt, u.a. in 4-1-06-06.md).
 
 ---
 
-## Szene 4-1-03-01 (Midpoint | Hook | Pinch 1)
+## Kapitel `4-1-02-02.md` — Plot Turn 1
 
-### Absicht
-Baseline-Scharmützel: zeigen, dass Kampf für Yun wie Holz hacken ist. TAUBHEIT als innerer Schritt. Kein Adrenalin, kein Reflex, kein Stolz.
+### Tatsächlicher Inhalt
+Yuns Körper steht ohne Entscheidung auf und folgt einem VORHANDENEN Tierpfad (Xu Ran ist nicht anwesend — der Erstkontakt aus 1-01 bleibt folgenlos). Der tote Kreis bewegt sich mit ihr; Gras und Baumrinde sterben in ihrer Nähe und erholen sich, sobald sie weiterzieht ("Where I walked, the world subtracted"). Eine Beere bleibt unberührt. Sie geht durch die Nacht, weil Anhalten eine Entscheidung wäre. Ein kleiner Vogel landet neben ihr, schaudert, flieht — der einzige Ausnahme-Moment des Kapitels.
 
-### Key Beat
-Spirit-Beast. Groß. Qi-gesättigt, territorial. Es greift an. Yun zerlegt es. Mechanisch. Ohne hinzusehen. Wie Holz hacken. Danach: blutige Hände, leere Augen. Nichts.
+### Zitat
+- "Where I walked, the world subtracted."
 
 ### Ton
-Beiläufig bis zur Verstörung. Der Kampf wird beschrieben wie eine Alltagshandlung. Kein Episches.
-
-### Outline
-- **Das Spirit-Beast:** Ein großes Tier — Qi-gesättigt, territorial. Es betritt ihren „Todeskreis" und greift an, weil es sein Revier verteidigt.
-- **Der Kampf:** Keine Kampfchoreografie. 2-3 Bewegungen. Yun zerlegt es, wie man einen Ast bricht. Mechanisch. Ohne Blickkontakt.
-- **Ikonisches Bild:** Sie wischt Blut von den Fingern wie Dreck. Sieht nicht hin. Das Blut trocknet braun auf ihren Knöcheln.
-- **Innerer Schritt = ABGEKLEMMT:** Kein Adrenalin. Kein Reflex. Kein Stolz. Das Tier lag da, und sie hätte genauso gut einen Stein umgedreht haben können.
-- **Danach:** Sie geht weiter. Das Spirit-Beast liegt hinter ihr. Kein Blick zurück. Kein Gedanke daran.
-- **Nachhall:** 1 Satz, der Leere bestätigt. Kein „cool" wirken lassen.
+Mechanisch, trocken — Schritt-Rhythmus als einziges Strukturelement.
 
 ### Sonstiges/Wichtiges
-- ⚠ Scharmützel-Regel: Dieser innere Schritt (Abgeklemmt) wird danach nie wieder „neu" sein
-- ⚠ Produktionsregel: Kein übertriebener Schaden. Beiläufig = keine Landschaftsveränderung
+- Xu Ran NICHT anwesend (einziger Part-1-Auftritt bleibt 4-1-01-01.md).
+- Show-Indikatoren #1 (Hunger) und #3 (Richtung/vorhandener Pfad statt fremder Anweisung) hier verankert.
 
 ---
 
-## Szene 4-1-04-01 bis 4-1-05-01 (Midpoint | Hook | Midpoint)
+## Kapitel `4-1-03-03.md` — Pinch 1
 
-### Absicht
-Die verlassene Hütte als Spiegel: Wei hätte hier gelebt. Die Erinnerung schneidet — WEIL sie es will.
+### Tatsächlicher Inhalt
+Ein großes, Qi-gesättigtes Spirit-Beast greift an. Yuns Körper reagiert reflexhaft: Sie lenkt den Angriff ab und lässt den Qi-Kanal des Tiers kollabieren. Danach betrachtet sie BEWUSST das Blut auf ihrer Hand und wischt es am Oberschenkel ab, als wäre es Schmutz nach der Gartenarbeit. Sie geht weiter; der Wald nimmt den Kadaver auf.
 
-### Key Beat
-Eine verlassene Hütte. Yun setzt sich hinein. Wei hätte die Tür repariert. Wei hätte Feuer gemacht. **Trigger-Erinnerung:** „Lügnerin."
+### Zitate
+- "I wiped it on my thigh."
+- "The beast was there, now it was dead."
 
 ### Ton
-Schmerzhaft-still. Die einzige Szene des Parts, in der EMOTION durchbricht — kurz, schneidend, sofort wieder weg.
-
-### Outline
-- **Die Hütte:** Verlassen. Türscharniere gebrochen. Staub auf dem Boden. Eine Feuerstelle, kalt seit Monaten. Wände aus Holz, das fault.
-- **Wei-Projektion (kein Flashback):** „Wei hätte die Tür repariert." „Wei hätte Feuer gemacht." Gedanken, die kommen wie Reflexe. Kein sentimentales Ausformulieren — kurze Feststellungen.
-- **Sinnesreiz → Erinnerung (Andock-Regel):** Der Geruch von feuchtem Holz. So hatte es auch gerochen, damals —
-- **ERINNERUNG:** Wei. „Er hat mich einmal gefragt, ob ich Angst habe. Ich habe gelogen. ‚Nein', sagte ich. Er hat gelacht und gesagt: ‚Lügnerin.' Er hatte Recht."
-- **Zweite Erinnerungsschicht:** Ein früheres Monster, das sie tötete. „Es war das letzte seiner Art. Ich wusste es. Tötete es trotzdem. Aus Langeweile." — Gewalt als Betäubung. Spiegel zur aktuellen Taubheit.
-- **Erinnerungslänge:** 8-12 Sätze gesamt für beide Ebenen.
-- **Sie WILL, dass es schneidet.** Die Erinnerung an Wei ist das Einzige, was die Taubheit durchbricht. Aber der Schmerz verebbt zu schnell. Sie bleibt sitzen. Wartet auf mehr. Es kommt nichts.
-- **Nacht in der Hütte.** Augen offen. Decke anstarren. Show-Indikator #2.
+Beiläufig bis zur Verstörung — aber NICHT über das geplante Bild „wischt Blut ab, ohne hinzusehen"/„wie Holz hacken". Sie sieht explizit hin ("I looked at my hand").
 
 ### Sonstiges/Wichtiges
-- 2 Kapitel für diesen Beat (4-04 + 4-05), weil Erinnerung + Hütten-Atmosphäre Raum brauchen
-- ⚠ Keine Sentimentalität. Feststellungen statt Gefühlsausbrüche.
-- Hütte als Echo von B1 (wo Wei die Hütte fand/reparierte)
+- Abweichung vom Outline-Bild: Sie schaut auf ihre Hand, statt wegzusehen. Kein „Holz hacken"-Vergleich im Text.
+- Scharmützel-Regel weiterhin gültig: Innerer Schritt „Abgeklemmt" wird hier etabliert und danach nie wieder „neu".
 
 ---
 
-## Szene 4-1-06-01 (Midpoint | Hook | Pinch 2)
+## Kapitel `4-1-04-04.md` — Midpoint
 
-### Absicht
-DIE FRAGE kristallisiert sich — nicht als Gedanke, sondern als körperlicher Schmerz. Das treibende Rätsel des Buchs wird gesetzt.
+### Tatsächlicher Inhalt
+Yun findet eine verlassene Hütte (kaputte Tür, kalte Feuerstelle, Staub) und setzt sich hinein. Wei-Projektion: er hätte die Tür repariert, Feuer gemacht. Der Geruch von feuchtem Holz löst eine Erinnerung aus — ein Gespräch am Felsüberhang, in dem Wei fragt "Are you afraid of me?" und sie lügt: "I'm not." Yun wartet darauf, dass die Erinnerung schneidet — das Gefühl kommt nicht an ("It didn't cut"). Zweite Erinnerungsschicht: ein längst ausgestorbenes Wesen, das sie einst aus Langeweile tötete. Nachts liegt sie mit offenen Augen in der Hütte.
 
-### Key Beat
-Die Frage kommt. Nicht als Gedanke — als Schmerz: Was auch immer sie beschützt — WARUM hat es Wei nicht gerettet? Es rettet SIE immer. WARUM NICHT IHN?
+### Zitate
+- "Are you afraid of me?"
+- "I'm not."
+- "It didn't cut."
 
 ### Ton
-Roh. Ungefiltert. Der einzige Moment im Part, der nah an Wut kommt — aber es ist keine Wut, es ist Unverständnis, das sich anfühlt wie Wut.
-
-### Outline
-- **Trigger:** Etwas Konkretes — vielleicht das Verdorren um sie herum, das SIE nicht tötet. Oder: ein Tier, das sie angreift und sofort stirbt. Beobachtung: Alles stirbt. Nur SIE nicht.
-- **Die Frage formt sich:** Nicht intellektuell. Körperlich. Wie ein Schlag in den Magen. Was auch immer sie beschützt — WARUM hat es Wei nicht gerettet? Es rettet SIE. Jedes Mal. Warum nicht IHN?
-- **Reaktion:** Ihr Qi zuckt. Pflanzen in der Umgebung verdorren stärker. Ein Impuls — unkontrolliert.
-- **Kein Versuch einer Antwort.** Die Frage steht. Offen. Schneidend. Sie schluckt sie runter. Geht weiter.
-- **Kontrast:** Die Frage ist das Lebendigste in ihr seit Wochen. Das erschreckt sie — fast.
+Schmerzhaft-still — aber gedämpfter als geplant: Die Erinnerung SOLL schneiden und tut es ausdrücklich NICHT. Das ist die eigentliche Pointe des Kapitels, kein kurzer scharfer Schnitt.
 
 ### Sonstiges/Wichtiges
-- Diese Frage ist der Motor für das gesamte Buch 4
-- Kein Meta-Moment hier — rein emotionaler Beat
+- Wichtigste Abweichung: Das geplante „Lügnerin."-Callback (Wei lacht, nennt sie Lügnerin) kommt NICHT vor. Die Lüge ("I'm not.") bleibt unkommentiert/unaufgelöst stehen.
+- Beide Erinnerungsebenen (Wei + ausgestorbenes Wesen) sind in EINEM Kapitel gebündelt. Es gibt kein separates Kapitel „1-05" für diesen Beat — die tatsächliche Datei 4-1-05-05.md ist bereits Pinch 2 (siehe unten).
+- Keine Sentimentalität: Feststellungen statt Gefühlsausbrüche — hier sogar verstärkt, weil das erhoffte Gefühl ausdrücklich ausbleibt.
 
 ---
 
-## Szene 4-1-07-01 (Midpoint | Hook | Plot Turn 2)
+## Kapitel `4-1-05-05.md` — Pinch 2
 
-### Absicht
-Yuns Präsenz als Gift zeigen. Sie ist nicht nur allein — sie ist UNMÖGLICH zu begleiten.
+### Tatsächlicher Inhalt
+Tage später stirbt ein Käfer in Yuns Nähe. Sie verbindet das mit dem Verwelken von Gras und Blättern um sie herum. DIE FRAGE kristallisiert sich körperlich: Was auch immer sie schützt — warum hat es Wei nicht gerettet? Ein unwillkürlicher Qi-Ausstoß weitet ihren tödlichen Radius kurz von drei auf fünf Schritt aus; Pflanzen am neuen Rand welken zusätzlich. Sie findet keine Antwort und geht weiter.
 
-### Key Beat
-Tiere fliehen. Pflanzen verdorren. Ihre Präsenz ist Gift. Sie ist nicht nur allein — sie ist unmöglich zu begleiten.
+### Zitate
+- "What protects me?"
+- "Why didn't it protect him?"
+- "WHY NOT HIM?"
 
 ### Ton
-Kalt. Bildlich. Die Umwelt als Spiegel ihres Zustands.
-
-### Outline
-- **Akkumulation:** Szene zeigt die SUMME. Nicht ein einzelner Moment — eine Montage von Momenten, in denen die Welt vor ihr zurückweicht.
-- Tiere, die die Richtung wechseln. Gras, das bräunt, wo sie steht. Bäume, deren Blätter sich zusammenrollen.
-- **Ein spezifischer Moment:** Sie tritt an einen Bach. Das Wasser fließt. Sie kniet nieder. Das Wasser — fließt WEITER. Aber die Pflanzen am Ufer verwelken, wo ihre Knie den Boden berühren.
-- **Erkenntnis (leise):** Sie ist nicht nur allein. Sie ist eine Wüste, die atmet. Wer ihr nahe kommt, verdorrt.
-- **Keine Dramatisierung.** Keine Träne. Keine Wut. Feststellung. Mehr nicht.
-- **Echo zu B3:** Wei war ihr nahe. Wei ist gestorben. War das DESHALB?
+Roh, ungefiltert — hält wie geplant. Kommt ein Kapitel früher als vorgesehen (geplant für „1-06", real in 4-1-05-05.md).
 
 ### Sonstiges/Wichtiges
-- Setup für spätere Xu-Ran-Dynamik: Er BLEIBT trotzdem
-- Echo zu Wei: die Frage „hat ihre Nähe ihn getötet?" wird nie beantwortet
+- Neu gegenüber Outline: der sterbende Käfer als konkreter Auslöser, plus die kurzzeitige, messbare Radius-Ausweitung (3→5 Schritt) als sichtbare Konsequenz des Qi-Ausbruchs.
+- Diese Frage bleibt der Motor für das gesamte Buch 4 — inhaltlich unverändert gültig, nur um ein Kapitel vorgezogen.
 
 ---
 
-## Szene 4-1-08-01 (Midpoint | Hook | Resolution)
+## Kapitel `4-1-06-06.md` — Plot Turn 2
 
-### Absicht
-Part-Ende: Yun sucht IRGENDWAS. Der Hunger nach Reiz als einziger Motor. Setup für Part 2.
+### Tatsächlicher Inhalt
+Yun erreicht einen Bach und trinkt mechanisch; das Gras, wo sie kniet, stirbt. Ein Vogel verstummt, eine Ameisenkolonie weicht aus, eine Spinne fällt in ihren Radius und stirbt. Sie bezeichnet sich selbst als wandelnde Wüste ("I was the desert") und fragt sich KONKRET, ob ihre dauernde Nähe zu Wei dessen bereits beschädigten Kern mit zum Zusammenbruch gebracht haben könnte ("Did I kill him?"). Sie kann die Vermutung weder prüfen noch widerlegen und geht weiter.
 
-### Key Beat
-Nachts. Allein. Ein zweites Spirit-Beast knurrt am Rand der Lichtung. Sie steht auf. Geht darauf zu. Nicht aus Angst — aus Hunger nach IRGENDWAS.
+### Zitate
+- "I was the desert."
+- "Did I kill him?"
+- "The bank where I'd knelt was dead."
 
 ### Ton
-Dunkel. Leise Bedrohung — aber nicht für sie. Für das Tier.
-
-### Outline
-- **Nacht.** Lichtung. Sterne (kein Mond — Dunkelheit betonen).
-- Yun sitzt. Augen offen. Show-Indikator #2: Sie hat nicht geschlafen. Nicht vergessen — es gibt nichts zu vergessen. Es gibt nichts.
-- **Das Spirit-Beast:** Am Rand der Lichtung. Groß genug, um Qi zu haben. Es knurrt. Territorial. Es hat ihre Aura gespürt — und ist trotzdem hier. Entweder zu dumm oder zu hungrig.
-- **Sie steht auf.** Geht darauf zu. Langsam. Nicht defensiv. Nicht aggressiv. Wie jemand, der zur Tür geht, weil jemand geklopft hat.
-- **Hunger nach IRGENDWAS:** Der Kampf ist nicht der Punkt. Das FÜHLEN ist der Punkt. Das Spirit-Beast ist ein Reiz. Etwas, das lauter ist als die Stille.
-- **Kein Kampf on-page.** Szene endet, bevor es beginnt. Oder: ein einziger Schlag, und dann wieder Stille. Der Leser soll den Kreislauf fühlen.
-- **Letztes Bild des Parts:** Stille danach. Blut. Sterne. Und irgendwo: das Summen. Leise. Wie eine zweite Atmung. (Echo-Motiv: „Echoes")
+Kalt, bildlich — mit einer zusätzlichen, konkreteren Schuldfrage als geplant.
 
 ### Sonstiges/Wichtiges
-- Cliff nach Part 2: Xu Ran wird SIE finden — in genau diesem Zustand
-- Die Aura-der-Leere funktioniert auch nachts → visuell: kein Insektenlärm, kein Nachtgetier
-- ⚠ Kein Meta-Moment in Part 1 — Budget für spätere Parts aufsparen
+- Neu/verschärft gegenüber Outline: Statt der allgemeinen Frage „hat ihre Nähe ihn getötet?" (die laut Outline „nie beantwortet" werden sollte) formuliert Yun hier konkret den Verdacht, ihre Nähe könnte Weis instabilen Kern mit zum Versagen gebracht haben. Bleibt unbeantwortet — funktioniert wie geplant, nur expliziter.
+- Dieser Beat lag im Outline für Kapitel „1-07" — kommt real ein Kapitel früher, in 4-1-06-06.md.
+
+---
+
+## Kapitel `4-1-07-07.md` — Resolution
+
+### Tatsächlicher Inhalt
+Nachts in einer Lichtung bemerkt Yun erstmals ein tiefes Summen in ihrer Brust (Qi, das ohne ihren Willen zirkuliert — "the sound of being alive against my will"). Ein zweites, kleineres Spirit-Beast erscheint am Rand ihres toten Kreises, testet die Grenze vorsichtig, bleibt auf der sicheren Seite. Yun geht aus NEED (nicht WANT — "want" ist abgeklemmt, "need" ist älter) auf das Tier zu: Sie braucht etwas, das auf sie reagiert und in ihrer Nähe lebendig bleibt. Das Tier weicht zurück, hält sechs Schritt Abstand, zieht sich nach etwa einer Minute endgültig in den Wald zurück. Kein Angriff, kein Kampf. Das Bedürfnis bleibt unerfüllt. Nach einer Nacht mit offenen Augen geht sie am Morgen in den lebendigen Teil des Waldes hinein.
+
+### Zitate
+- "I needed something to respond to me."
+- "The need remained. Unanswered."
+- "I walked into the part that was still alive."
+
+### Ton
+Dunkel, leise — aber das geplante „kein Kampf on-page" wird hier zur vollständigen Abwesenheit von Gewalt: Das Tier greift gar nicht erst an, es zieht sich zurück.
+
+### Sonstiges/Wichtiges
+- Deutliche Abweichung vom Outline: Geplant war ein Kampf (oder zumindest ein einziger Schlag) gegen das zweite Spirit-Beast als „Hunger nach Reiz"-Ventil. Tatsächlich verweigert die Szene genau das — das Tier entzieht sich, Yuns Bedürfnis nach Kontakt bleibt explizit unbeantwortet. Stärkere, traurigere Pointe als geplant: nicht einmal die Betäubung durch Kampf funktioniert hier noch.
+- Die für Kapitel „1-08" geplante Resolution ist vollständig hier integriert — eine eigene Datei dafür existiert nicht.
+- Letztes Bild: "I walked into the part that was still alive" — funktional identisch zum geplanten Cliff vor Part 2 (Xu Ran wird sie in genau diesem Zustand wiederfinden), nur ohne das geplante Kampf-Setpiece.
+
+---
+
+## Kapitelübersicht Part 1 (Ist-Zustand)
+
+| Kapitel-Datei | Sub-7PS-Beat | Xu Ran anwesend? |
+|---|---|---|
+| 4-1-01-01.md | Hook | Ja (einmaliger Erstkontakt, Kapitelende) |
+| 4-1-02-02.md | Plot Turn 1 | Nein |
+| 4-1-03-03.md | Pinch 1 | Nein |
+| 4-1-04-04.md | Midpoint | Nein |
+| 4-1-05-05.md | Pinch 2 | Nein |
+| 4-1-06-06.md | Plot Turn 2 | Nein |
+| 4-1-07-07.md | Resolution | Nein |
+
+**Gesamt: 7 Kapitel (nicht 8 wie ursprünglich geplant). Xu Ran erscheint genau einmal, folgenlos, am Ende von Kapitel 1.**

@@ -1,4 +1,8 @@
 timestamp_utc2,total_views,followers,published_chapters,source,notes
+2026-02-14T14:25,0,,,manual,Launch / Veröffentlichung auf RR (aus RR-Views.md)
+2026-02-24T00:00,,,,,Ad-Kampagne gestartet; Stand 27.04: ~50% geliefert, ~260k Impressions, 728 Clicks (0.28% CTR), 18 Follower (2.5%), 33 Read Later (4.5%); läuft noch
+2026-02-26T15:00,10000,,,manual,10k Views (aus RR-Views.md); Ad-Kampagne seit 24.02
+2026-03-04T11:20,17447,,,manual,17.4k Views (aus RR-Views.md)
 2026-04-16T07:57,,,314,html_d8,Daten in $d8 / HTML-File verfügbar
 2026-04-16T21:29,77421,,314,html_d9,Berechnet: 77762-341
 2026-04-16T23:20,77762,,314,html_d10,Erste vollständige Auswertung
@@ -10,3 +14,84 @@ timestamp_utc2,total_views,followers,published_chapters,source,notes
 2026-04-17T22:12,82747,109,315,manual,261 avg; 1 ch published
 2026-04-17T23:18,82828,109,315,manual,+81 in 66min ~74/h
 2026-04-18T01:45,83218,111,315,manual,263 avg; +390 in 2h27m ~159/h
+2026-04-19T21:39,90088,118,315,manual,284 avg; 29 fav; Rating 4.3; +6870 in ~44h ~156/h
+2026-04-19T22:56,90296,121,316,manual,284 avg; 29 fav; 15 ratings; Rank 11957; Trending #6; 1 ch published
+2026-04-19T23:31,90475,122,316,manual,+179 in 35min ~307/h
+2026-04-20T10:25,93252,,316,manual,+2777 in ~11h ~253/h; Sonntag
+2026-04-20T21:54,94840,126,316,manual,298 avg; 29 fav; 15 ratings; 4.3 rating; +1588 in ~11.5h ~138/h
+2026-04-21T00:25,95179,127,322,html,294 avg; 29 fav; Trending #4; +339 in ~2.5h ~136/h; Mirrors now 21ch
+2026-04-21T00:31,95213,,322,manual,+34 in 6min ~340/h
+2026-04-21T00:47,95244,,322,manual,+31 in 16min ~116/h
+2026-04-21T09:42,97165,127,322,html,300 avg; 29 fav; 16 ratings; 4.34 rating; Rank 11279; +1921 in ~9h ~213/h
+2026-04-21T12:07,97377,,322,manual,301 avg; +212 in ~2.4h ~88/h
+2026-04-21T14:51,97589,,322,manual,+212 in ~2.7h ~79/h
+2026-04-21T15:40,97653,126,322,manual,+64 in 49min ~78/h; -1 follower
+2026-04-21T17:19,98610,,322,manual,+957 in ~1.6h ~598/h; Trending #3→#6
+2026-04-21T20:00,99149,128,322,manual,+539 in ~2.7h ~200/h; Trending #2!
+2026-04-21T22:10,99562,131,322,manual,+413 in ~2.2h ~188/h; 30 fav
+2026-04-21T22:42,99820,,322,manual,+258 in 32min ~484/h
+2026-04-21T23:07,100016,131,322,manual,*** 100K VIEWS *** +196 in 25min ~470/h
+2026-04-21T23:59,100318,,322,manual,+302 in 52min ~349/h; Tagesende
+2026-04-22T09:22,103233,136,322,html,+2915 in ~9.4h ~310/h; 30 fav; 4.34 rating; Rank 10658; NICHT auf Trending (morgens)
+2026-04-22T15:07,103950,137,322,html,+717 in ~5.7h ~126/h; 30 fav; 18 ratings; 4.42 rating; Rank 10094; 314 avg; Trending #2
+2026-04-22T16:49,104485,137,322,manual,+535 in ~1.7h ~315/h; Trending #6
+2026-04-22T17:06,104522,,,manual,+37 in 17min ~131/h; Trending #2; RS Drama #20; RS Psychological #8; Trending Drama #1; Trending Psychological #1; Trending Adventure #2
+2026-04-22T22:51,105910,137,322,html,+1388 in ~5.75h ~241/h; 30 fav; 18 ratings; 4.42 rating; 314 avg
+2026-04-23T10:17,109819,141,337,html,+3909 in ~11.4h ~343/h; 31 fav; 19 ratings; 4.21 rating; 326 avg; Rank 11565; Trending #3; SPITE 0.5 on E08 (ticket open)
+2026-04-23T16:01,110655,141,337,manual,+836 in ~5.7h ~147/h; 31 fav; 325 avg; Rank 11567; Trending Drama #1; Trending Psychological #1; Main Trending #6 (16:08)
+2026-04-23T18:40,110888,142,337,manual,+233 in ~2.65h ~88/h; 31 fav; 19 ratings; 4.34 rating; 326 avg; Rank 10574; Main Trending #2; Trending Drama #39; Trending Psychological #20; spite rating removed?
+2026-04-23T20:02,110994,142,337,html,+106 in ~1.4h ~77/h; 31 fav; 324 avg; Rank 10574; Main Trending #6; Trending Drama #40; Trending Psychological #20
+2026-04-23T20:30,111024,,,,Main Trending #2
+2026-04-24T09:47,114498,145,343,html,+3474 in ~13.3h ~261/h; 31 fav; 19 ratings; 4.34 rating; 334 avg; Main Trending #2; Trending Adventure #2; Trending Drama #1; Trending Psychological #1
+2026-04-24T23:31,115969,145,347,html,+1471 in ~13.75h ~107/h; 31 fav; 19 ratings; 4.34 rating; 334 avg; Rank 10582; Main Trending #2
+2026-04-25T13:00,118763,146,347,html,+2794 in ~13.5h ~207/h; 32 fav; 21 ratings; 4.24 rating; 342 avg; Rank 10963; Main Trending #2; Trending Drama #37; Trending Psychological #18
+2026-04-26T00:16,120460,149,353,html,+1697 in ~11.25h ~151/h; 35 fav; 21 ratings; 4.24 rating; 341 avg; Rank 10968; Main Trending #2
+2026-04-26T09:55,124164,150,353,html,+3704 in ~9.65h ~384/h; 35 fav; 21 ratings; 4.24 rating; 352 avg; Rank 10971; Main Trending #2; Retention: ~1641 E01, ~750 after ch10, ~225 at Fractures, ~160 at Mirrors, ~60 caught up (Clouds)
+2026-04-27T08:57,126628,152,353,html,+2464 in ~23h ~107/h; 37 fav; 21 ratings; 4.24 rating; 359 avg; Rank 10974; Main Trending #8 → #2; RS Psychological #8; RS Drama #22
+2026-04-28T09:35,130459,155,353,html,+3831 in ~24.6h ~156/h; 37 fav; 22 ratings; 4.25 rating; 366 avg; Rank 10586; Main Trending #7
+2026-04-29T00:05,132802,156,360,html,+2343 in ~14.5h ~162/h; 37 fav; 23 ratings; 4.20 rating; 369 avg; Main Trending #2; Clouds 08 published
+2026-04-30T09:30,137492,160,360,html,+4690 in ~33.4h ~140/h; 38 fav; 25 ratings; 4.08 rating; 377 avg; Main Trending #3; Spite E02 scheint legit
+2026-05-01T19:30,141398,161,370,html,+3906 in ~34h ~115/h; 38 fav; 25 ratings; 4.08 rating; 382 avg; Feiertag (Tag der Arbeit); Main #8 (kurz weg, dann zurück); Trending Drama #1; Adventure #3; Fantasy #2; Psychological #1
+2026-05-02T01:00,142046,161,370,manual,+648 in ~5.5h ~118/h; 38 fav; 25 ratings; 4.08 rating; 384 avg; Main #4; Drama #1; Adventure #3; Fantasy #2; Psychological #1 (01:27 update - Genre-Listen zurück)
+2026-05-03T09:05,146550,162,370,html,+4504 in ~32h ~141/h; 39 fav; 26 ratings; 3.94 rating; 396 avg; Rank 12796; Main #10; Adventure #3; Fantasy #2; Drama #1; Psychological #1; Spite-Review (zu langsam + AI); Views steigen trotz keinem neuen Kapitel seit Do
+2026-05-03T17:15,,,370,manual,Main #4; Adventure #3; Drama #1; Fantasy #2; Psychological #1; Sonntag Nachmittag - zurück in Top 5
+2026-05-03T13:00,,,370,manual,Kurz nicht auf Main Trending (wie Fr abends); Genre-Listen vermutlich weiter
+2026-05-04T09:48,150435,166,370,manual,+3885 in ~24.7h ~157/h; 39 fav; 27 ratings (5 reviews + 22 ratings); 3.81 rating; 399 avg; Main #10; Drama #38; Psychological #17; Spite-Review entfernt aber durch 2x 0.5-Spite-Ratings ersetzt (Embers 01+02); 4 neue Follower
+2026-05-04T23:20,151605,166,380,manual,+1170 in ~13.5h ~87/h (Montag Abend); 40 fav; 24 ratings; 4.23 rating; 399 avg; Rank 10344; Main #5; Adventure #4; Drama #1; Fantasy #3; Psychological #1; Spite-Ratings entfernt (27->24, 3.81->4.23); Embers-01 Views 1980; Published bis Clouds-28
+2026-05-05T10:50,152964,167,380,html,+1359 in ~11.5h ~118/h; 41 fav; 25 ratings; 4.26 rating; 403 avg; Rank 9885 (erstmals unter 10k!); Main #4; Adventure #7; Drama #2; Psychological #18; neues 5* Rating; +1 Follow; +1 Fav
+2026-05-05T12:42,153263,,,manual,+299 in ~1.9h ~157/h; Main #3; Adventure #7; Drama #2; Psychological #18; Dienstag Mittag - Rate zieht an
+2026-05-06T00:46,155419,170,380,manual,+2156 in ~12h ~180/h; 42 fav; 25 ratings; 4.26 rating; 405 avg; Rank 9888; Main #9; Adventure #2; Fantasy #1; Drama #1; Psychological #1; +3 Follow; +1 Fav; starker Dienstag
+2026-05-06T09:45,156230,172,380,html,+811 in ~9h ~90/h (Nacht); 41 fav; 25 ratings; 4.26 rating; 407 avg; Rank 9889; Main #3; Adventure #2; Fantasy #1; Drama #1; Psychological #1; +2 Follow; Mittwoch morgens Top 3; Dienstag gesamt ~3742 Views (~156/h)
+2026-05-06T12:40,,,380,manual,Main #3; Adventure #2; Fantasy #1; Drama #1; Psychological #1; stabil Mittag
+2026-05-06T16:35,,,380,manual,Main #3; Adventure #2; Fantasy #1; Drama #1; Psychological #1; stabil Nachmittag
+2026-05-07T00:30,157134,174,380,manual,+904 seit gestern 09:45 (~58/h Nacht); 41 fav; 25 ratings; 4.26 rating; 407 avg; Rank 9892; Main #9; Drama #41; Psychological #18; Adventure -; Fantasy -; +2 Follow; Nacht-Dip
+2026-05-07T16:23,158649,177,396,manual,+1515 seit 00:30 (~95/h Tag); 41 fav; 26 ratings; 4.12 rating; 403 avg; Rank 10975; Main #9; Adventure #8; Drama #2; Psychological #18; Fantasy -; +3 Follow; Mass-Publish 16:00-16:45 (Clouds 35-50, 16 Kapitel); Rating-Bitte als Pre-Chapter Note
+2026-05-07T16:45,,,396,manual,Main #2; Adventure #8; Drama #39; Psychological #18; Fantasy -; RS Psychological #14; RS Drama #28; Post-Mass-Publish Boost
+2026-05-07T22:48,160050,180,396,manual,+1401 seit 16:23 (~219/h!); 41 fav; 26 ratings; 4.12 rating; 393 avg; Rank 10978; Main #7 (flippt 2-9); Adventure #2; Drama #1; Fantasy #1; Psychological #1; +3 Follow; Mass-Publish-Effekt; letzter Eintrag vor City Trip
+2026-05-11T20:32,169316,187,396,manual,+9266 seit 07.05. 22:48 (~99/h über City Trip); 41 fav; 30 ratings (inkl 1 Review); 4.22 rating; 416 avg; Rank 9582; Main (gerade nicht aber WE stabil #3); Adventure #2; Drama #1; Fantasy #1; Psychological #1; +7 Follow; +4 Ratings (Rating-Bitte wirkt); Rating 4.12->4.22; Rank 10978->9582
+2026-05-12T10:25,170907,189,396,html,+1591 seit gestern 20:32 (~115/h Nacht); 41 fav; 30 ratings; 4.22 rating; 420 avg; Rank 9533; Main #3; Drama #46; Psychological #19; Adventure -; Fantasy -; +2 Follow; Dienstag morgens stabil #3
+2026-05-12T16:09,,,396,manual,Main #2; Adventure -; Drama #38; Psychological #18; Fantasy -; Dienstag Nachmittag
+2026-05-12T17:00,,,396,manual,*** MAIN TRENDING #1 *** Erster Platz erreicht!
+2026-05-12T19:05,173202,189,421,manual,+2295 views seit 10:25 (~165/h); 42 fav; 30 ratings; 4.22 rating; 411 avg; Rank 9531; *** #1 MAIN + #1 Adventure + #1 Drama + #1 Fantasy + #1 Psychological *** FÜNFMAL PLATZ 1
+2026-05-13T09:10,175592,191,421,html,+2390 seit gestern 19:05 (~171/h Nacht); 42 fav; 31 ratings; 4.21 rating; 417 avg; Rank 9456; Main #1; Drama #38; Psychological #17
+2026-05-13T11:02,176014,,421,manual,+422 seit 09:10 (~220/h)
+2026-05-13T23:24,178291,193,421,manual,Main #5 Adventure #1 Drama #1 Fantasy #1 Psychological #1; Fav 43; Ratings 31; AVG 4.21; Rank 9465; Views AVG 423
+2026-05-14T09:45,179553,195,421,manual,+1262 seit 23:24 (~122/h Nacht); Fav 43; Ratings 31; AVG 4.21; Rank 9571; Views AVG 426; Main #6 um 09:45 → #1 um 10:27; 4175 Pageviews am 13.05 (Analytics)
+2026-05-14T23:48,181736,199,421,manual,+2183 seit 09:45 (~156/h Tag); Fav 43; Ratings 31; AVG 4.21; Rank 9472; Views AVG 432; Main 1-6 (dicke Fische published); Adventure #1; Drama #1; Fantasy #1; Psychological #1
+2026-05-15T01:45,182122,197,422,manual,+386 seit 23:48 (~197/h); Fav 43; Ratings 31; AVG 4.21; Rank 9472; Views AVG 432; Follow -2 (197); Main #7; Adventure #1; Drama #1; Fantasy #1; Psychological #1
+2026-05-15T10:20,183069,199,422,manual,+947 seit 01:45 (~111/h Nacht); Fav 43; Ratings 31; AVG 4.21; Rank 9474; Views AVG 434; Main #1; Adventure #5; Drama #41; Fantasy -; Psychological #15; Genre-Rankings auffällig niedrig trotz Main #1
+2026-05-16T21:00,188137,209,422,html,+5068 seit 15.05 10:20 (~146/h über ~34,7h); Fav 44; Ratings 32; AVG 4.11 (Spite-Rating, Ticket); Rank 10268; Views AVG 446; Follow +10 (209); Main #8; Adventure #6; Drama #42; Fantasy -; Psychological -
+2026-05-17T13:20,189376,209,422,manual,+1239 seit 16.05 21:00 (~76/h Sonntag); Fav 44; Ratings 31; AVG 4.08; Rank 10628; Views AVG 449; Follow 209 (stabil); Main #4; Adventure #4; Drama #1; Fantasy #4; Psychological #1
+2026-05-18T00:10,190397,208,422,manual,+1021 seit 17.05 13:20 (~94/h); Fav 44; Ratings 31; AVG 4.08; Rank 10635; Views AVG 451; Follow -1 (208); Main -; Adventure #5; Drama #1; Fantasy #4; Psychological #1
+2026-05-18T10:00,192790,211,422,manual,+2393 seit 00:10 (~243/h!); Fav 45; Ratings 31; AVG 4.08; Rank 10634; Views AVG 457; Follow +3 (211); Main #15; Adventure -; Drama -; Fantasy -; Psychological #19
+2026-05-19T01:45,194318,214,422,manual,+1528 seit 18.05 10:00 (~97/h); Fav 45; Ratings 31; AVG 4.08; Rank 10643; Views AVG 460; Follow +3 (214); Main #9; Adventure #15; Drama -; Fantasy -; Psychological #20
+2026-05-19T09:45,194981,215,422,manual,+663 seit 01:45 (~83/h Nacht); Fav 45; Ratings 32; AVG 4.11; Rank 10286; Views AVG 462; Follow +1 (215); Main #8; Adventure -; Drama -; Fantasy -; Psychological #20; Neues Rating positiv!
+2026-05-19T22:00,196107,215,422,manual,+1126 seit 09:45 (~92/h Tag); Fav 46; Ratings 33; AVG 4.12; Rank 10045; Views AVG 464; Follow 215 (stabil); Origins SAB released 14:00-17:00 (33 Kap); Origins: 1154 Views 2 Follower nach 6h; 84% Retention
+2026-05-19T22:00,,,,,SAB: Views 1196; AVG 32; Follow 2; Fav 0; Ratings 0; Rank 70394; 8h nach Release; 37 Kapitel published
+2026-05-20T09:00,197077,216,422,manual,+970 seit 19.05 22:00 (~88/h Nacht); Fav 46; Ratings 33; AVG 4.12; Rank 10052; Views AVG 466; Follow +1 (216); 200k in Reichweite (~2923 verbleibend)
+2026-05-20T09:00,,,,,SAB: Views 1310; AVG 35; Follow 2; Fav 0; Ratings 0; Rank 70415; +114 Views über Nacht
+2026-05-21T12:14,199424,216,422,manual,+2347 seit 20.05 09:00 (~86/h über ~27h); Fav 47; Ratings 33; AVG 4.12; Rank 10057; Views AVG 471; Follow 216 (stabil); Main #9; 200k: noch 576!
+2026-05-21T12:14,,,,,SAB: Views 1542; AVG 42; Follow 2; Fav 0; Ratings 0; Rank 70452; +232 seit 20.05 (~9/h)
+2026-05-25T12:00,205503,220,422,manual,+6079 seit 21.05 (~1520/Tag über 4 Tage); Fav 46; Ratings 33; AVG 4.12; Rank 10067; Views AVG 486; Follow 220 (+4); 200k erreicht!; Trending: Main raus seit 24.05, nur noch Psych ~#20; Fav -1 (47→46)
+2026-06-18T15:38,220197,214,422,html,+14694 seit 25.05 (~640/Tag über ~24 Tage); Fav 49; Ratings 33; AVG 4.12; Views AVG 521; Follow 214 (-6, Unfollow-Hygiene); Alle Trendings raus; Referrer 7d: Trending taucht noch auf
+2026-06-30T10:00,227396,220,422,html,+7199 seit 18.06 (~600/Tag über ~12 Tage); Fav 51; Ratings 33; AVG 4.12; Views AVG 538; Follow 220 (+6); Views/d steigen wieder seit Mitte Mai; Trending raus
